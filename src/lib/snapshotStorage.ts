@@ -107,14 +107,21 @@ async function deleteJsonFiles(pathnames: string[]) {
 
 async function readBlobJson<T>(pathname: string): Promise<T | undefined> {
   try {
-    const { get } = await loadBlobSdk();
-    const result = await get(pathname, { access: "public", useCache: false });
+    const { list } = await loadBlobSdk();
+    const { blobs } = await list({ limit: 1, prefix: pathname });
+    const blob = blobs.find((candidate) => candidate.pathname === pathname);
 
-    if (!result || result.statusCode !== 200 || !result.stream) {
+    if (!blob) {
       return undefined;
     }
 
-    const text = await new Response(result.stream).text();
+    const response = await fetch(blob.url, { cache: "no-store" });
+
+    if (!response.ok) {
+      return undefined;
+    }
+
+    const text = await response.text();
 
     return JSON.parse(text) as T;
   } catch (error) {
