@@ -6,6 +6,7 @@ import {
   snapshotIndexPath,
   snapshotPathForDate,
   snapshotRetentionDays,
+  snapshotSchemaVersion,
 } from "./snapshotConfig";
 
 type BlobSdk = typeof import("@vercel/blob");
@@ -33,8 +34,21 @@ export async function writeDailyIssueSnapshot(
   snapshot: DailyIssueSnapshot,
 ): Promise<SnapshotIndex> {
   const retentionDays = snapshot.retentionDays;
-  const previousIndex = await readSnapshotIndex();
   const entry = toSnapshotIndexEntry(snapshot);
+  await writeJson(entry.path, snapshot);
+
+  if (shouldUseBlobStorage()) {
+    const nextIndex = await buildBlobSnapshotIndex(entry, retentionDays, snapshot.generatedAt);
+    const retainedPaths = new Set(nextIndex.entries.map((candidate) => candidate.path));
+    const obsoletePaths = await listBlobSnapshotPaths((pathname) => !retainedPaths.has(pathname));
+
+    await writeJson(snapshotIndexPath, nextIndex);
+    await deleteJsonFiles(obsoletePaths);
+
+    return nextIndex;
+  }
+
+  const previousIndex = await readSnapshotIndex();
   const entries = [entry, ...previousIndex.entries.filter((candidate) => candidate.issueDate !== snapshot.issueDate)]
     .sort(compareIndexEntries)
     .slice(0, retentionDays);
@@ -49,7 +63,6 @@ export async function writeDailyIssueSnapshot(
     entries,
   };
 
-  await writeJson(entry.path, snapshot);
   await writeJson(snapshotIndexPath, nextIndex);
   await deleteJsonFiles(obsoletePaths);
 
@@ -131,6 +144,60 @@ async function readBlobJson<T>(pathname: string): Promise<T | undefined> {
 
     throw error;
   }
+}
+
+async function buildBlobSnapshotIndex(
+  currentEntry: ReturnType<typeof toSnapshotIndexEntry>,
+  retentionDays: number,
+  updatedAt: string,
+): Promise<SnapshotIndex> {
+  const { list } = await loadBlobSdk();
+  const { blobs } = await list({ limit: 1000, prefix: "archive/" });
+  const snapshotBlobs = blobs
+    .filter((blob) => /^\d{4}-\d{2}-\d{2}\.json$/.test(blob.pathname.replace("archive/", "")))
+    .sort((left, right) => right.pathname.localeCompare(left.pathname))
+    .slice(0, retentionDays);
+  const entries = (
+    await Promise.all(
+      snapshotBlobs.map(async (blob) => {
+        if (blob.pathname === currentEntry.path) {
+          return currentEntry;
+        }
+
+        const snapshot = await readBlobUrlJson<DailyIssueSnapshot>(blob.url);
+        return snapshot ? toSnapshotIndexEntry(snapshot) : undefined;
+      }),
+    )
+  )
+    .filter((entry): entry is ReturnType<typeof toSnapshotIndexEntry> => Boolean(entry))
+    .sort(compareIndexEntries);
+
+  return {
+    schemaVersion: snapshotSchemaVersion,
+    updatedAt,
+    retentionDays,
+    entries,
+  };
+}
+
+async function listBlobSnapshotPaths(predicate: (pathname: string) => boolean) {
+  const { list } = await loadBlobSdk();
+  const { blobs } = await list({ limit: 1000, prefix: "archive/" });
+
+  return blobs
+    .map((blob) => blob.pathname)
+    .filter((pathname) => /^\d{4}-\d{2}-\d{2}\.json$/.test(pathname.replace("archive/", "")))
+    .filter(predicate);
+}
+
+async function readBlobUrlJson<T>(url: string): Promise<T | undefined> {
+  const response = await fetch(url, { cache: "no-store" });
+
+  if (!response.ok) {
+    return undefined;
+  }
+
+  return JSON.parse(await response.text()) as T;
 }
 
 async function readLocalJson<T>(pathname: string): Promise<T | undefined> {
