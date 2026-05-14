@@ -1,0 +1,848 @@
+import type { Article, TopicCluster } from "@/types";
+
+// Mock excerpts and evidence snippets are intentionally short: this MVP models comparison,
+// not reproduction of full newspaper articles.
+export const articles: Article[] = [
+  {
+    id: "pd-performance-01",
+    source: "people_daily",
+    issueDate: "2024-03-18",
+    pageNumber: 5,
+    pageName: "理论",
+    columnName: "人民论坛",
+    title: "树立和践行正确政绩观",
+    author: "本报评论员",
+    url: "https://example.org/mock/people-daily/pd-performance-01",
+    excerpt:
+      "把群众满意作为检验工作成效的重要尺度，在中国式现代化进程中创造经得起历史检验的实绩。",
+    keywords: ["正确政绩观", "干部治理", "民生", "群众满意", "中国式现代化"],
+    entities: [
+      { text: "正确政绩观", type: "policy", confidence: 0.96 },
+      { text: "群众", type: "other", confidence: 0.89 },
+      { text: "中国式现代化", type: "slogan", confidence: 0.93 },
+    ],
+    narrativeProfile: {
+      coreFrame: "干部治理と民生成果を結びつける統治倫理",
+      mainActors: ["党员干部", "地方党委", "基层组织"],
+      beneficiaries: ["人民群众", "基层社会"],
+      problemTerms: ["形式主义", "短期行为", "脱离群众"],
+      solutionTerms: ["为民造福", "调查研究", "久久为功"],
+      authoritySources: ["党中央", "习近平总书记重要论述"],
+      actionVerbs: ["树立", "践行", "检验", "推动"],
+      tone: "規範的・行政改革志向",
+    },
+  },
+  {
+    id: "pd-performance-02",
+    source: "people_daily",
+    issueDate: "2024-03-21",
+    pageNumber: 9,
+    pageName: "观点",
+    columnName: "思想纵横",
+    title: "以人民满意检验发展实绩",
+    url: "https://example.org/mock/people-daily/pd-performance-02",
+    excerpt:
+      "发展成绩不能只看数字增长，更要看民生改善、公共服务和群众获得感是否同步提升。",
+    keywords: ["人民满意", "民生改善", "公共服务", "干部考核"],
+    entities: [
+      { text: "人民满意", type: "slogan", confidence: 0.91 },
+      { text: "干部考核", type: "policy", confidence: 0.82 },
+    ],
+    narrativeProfile: {
+      coreFrame: "発展実績を住民満足と公共サービスで測る枠組み",
+      mainActors: ["干部", "政府部门", "基层干部"],
+      beneficiaries: ["群众", "城乡居民"],
+      problemTerms: ["唯指标论", "形象工程", "政绩冲动"],
+      solutionTerms: ["完善考核", "服务民生", "问题导向"],
+      authoritySources: ["党纪要求", "中央部署"],
+      actionVerbs: ["检验", "改进", "服务", "落实"],
+      tone: "穏健な政策評価",
+    },
+  },
+  {
+    id: "pla-performance-01",
+    source: "pla_daily",
+    issueDate: "2024-03-22",
+    pageNumber: 3,
+    pageName: "要闻",
+    columnName: "强军论坛",
+    title: "用正确政绩观校准战斗力标准",
+    url: "https://example.org/mock/pla-daily/pla-performance-01",
+    excerpt:
+      "评价工作实绩，根本要看能否服务备战打仗、能否转化为部队实实在在的战斗力。",
+    keywords: ["正确政绩观", "备战打仗", "战斗力", "政治建军", "作风"],
+    entities: [
+      { text: "备战打仗", type: "slogan", confidence: 0.94 },
+      { text: "战斗力", type: "policy", confidence: 0.9 },
+      { text: "部队", type: "military_unit", confidence: 0.84 },
+    ],
+    narrativeProfile: {
+      coreFrame: "政績観を戦闘力基準へ接続する軍事化された評価枠",
+      mainActors: ["党委机关", "指挥员", "部队官兵"],
+      beneficiaries: ["作战部队", "战斗力生成链路"],
+      problemTerms: ["和平积弊", "虚功偏差", "不严不实"],
+      solutionTerms: ["聚焦打赢", "实案化训练", "从严纠治"],
+      authoritySources: ["中央军委", "习主席强军思想"],
+      actionVerbs: ["校准", "服务", "转化", "锤炼"],
+      tone: "規律化・戦闘準備志向",
+    },
+  },
+  {
+    id: "pla-performance-02",
+    source: "pla_daily",
+    issueDate: "2024-03-27",
+    pageNumber: 6,
+    pageName: "基层传真",
+    title: "纠治形式主义锤炼过硬作风",
+    url: "https://example.org/mock/pla-daily/pla-performance-02",
+    excerpt:
+      "基层评功评绩向训练场、任务场延伸，推动干部把心思精力用在谋战研战上。",
+    keywords: ["形式主义", "作风", "训练场", "谋战研战"],
+    entities: [
+      { text: "训练场", type: "place", confidence: 0.76 },
+      { text: "谋战研战", type: "slogan", confidence: 0.88 },
+    ],
+    narrativeProfile: {
+      coreFrame: "作風整備を訓練場の実効性に結びつける基層部隊事例",
+      mainActors: ["基层干部", "连队党支部", "官兵"],
+      beneficiaries: ["训练一线", "任务部队"],
+      problemTerms: ["表态多落实少", "训练空转", "材料留痕"],
+      solutionTerms: ["现场考评", "任务牵引", "战斗力导向"],
+      authoritySources: ["军委机关通知", "部队党委"],
+      actionVerbs: ["纠治", "延伸", "锤炼", "聚力"],
+      tone: "現場改善・作戦化",
+    },
+  },
+  {
+    id: "pd-new-quality-01",
+    source: "people_daily",
+    issueDate: "2024-04-08",
+    pageNumber: 1,
+    pageName: "要闻",
+    title: "加快发展新质生产力",
+    url: "https://example.org/mock/people-daily/pd-new-quality-01",
+    excerpt:
+      "以科技创新推动产业创新，加快培育战略性新兴产业和未来产业，塑造发展新动能。",
+    keywords: ["新质生产力", "科技创新", "产业升级", "经济增长", "未来产业"],
+    entities: [
+      { text: "新质生产力", type: "policy", confidence: 0.98 },
+      { text: "战略性新兴产业", type: "policy", confidence: 0.87 },
+    ],
+    narrativeProfile: {
+      coreFrame: "科学技術と産業高度化による成長モデルの刷新",
+      mainActors: ["科技企业", "地方政府", "科研机构"],
+      beneficiaries: ["现代化产业体系", "市场主体", "劳动者"],
+      problemTerms: ["传统增长动能减弱", "关键技术瓶颈", "产业链短板"],
+      solutionTerms: ["科技创新", "制度供给", "产业升级"],
+      authoritySources: ["中央经济工作会议", "习近平总书记重要讲话"],
+      actionVerbs: ["培育", "推动", "塑造", "提升"],
+      tone: "発展戦略・経済政策",
+    },
+  },
+  {
+    id: "pd-new-quality-02",
+    source: "people_daily",
+    issueDate: "2024-04-10",
+    pageNumber: 7,
+    pageName: "经济",
+    columnName: "高质量发展调研行",
+    title: "以创新链带动产业链升级",
+    url: "https://example.org/mock/people-daily/pd-new-quality-02",
+    excerpt:
+      "从实验室到生产线，创新资源加速汇聚，推动先进制造业集群形成更强竞争力。",
+    keywords: ["创新链", "产业链", "先进制造", "高质量发展"],
+    entities: [
+      { text: "先进制造业集群", type: "policy", confidence: 0.8 },
+      { text: "高质量发展", type: "slogan", confidence: 0.9 },
+    ],
+    narrativeProfile: {
+      coreFrame: "研究開発から産業化までを接続する政策実装",
+      mainActors: ["企业", "科研团队", "开发区"],
+      beneficiaries: ["产业集群", "区域经济"],
+      problemTerms: ["成果转化慢", "供需衔接不足"],
+      solutionTerms: ["产学研协同", "链式布局", "数字化改造"],
+      authoritySources: ["国家发展规划", "地方政策方案"],
+      actionVerbs: ["带动", "汇聚", "转化", "升级"],
+      tone: "実務的・成長促進",
+    },
+  },
+  {
+    id: "pla-new-quality-01",
+    source: "pla_daily",
+    issueDate: "2024-04-11",
+    pageNumber: 2,
+    pageName: "要闻",
+    columnName: "强军观察",
+    title: "加快生成新质战斗力",
+    url: "https://example.org/mock/pla-daily/pla-new-quality-01",
+    excerpt:
+      "新技术新装备只有进入体系、融入训练、经受实战化检验，才能转化为新质战斗力。",
+    keywords: ["新质战斗力", "装备体系", "实战化训练", "科技强军"],
+    entities: [
+      { text: "新质战斗力", type: "policy", confidence: 0.97 },
+      { text: "科技强军", type: "slogan", confidence: 0.9 },
+    ],
+    narrativeProfile: {
+      coreFrame: "技術革新を装備体系と実戦化訓練へ変換する軍事実装",
+      mainActors: ["作战部队", "科研院所", "装备部门"],
+      beneficiaries: ["联合作战体系", "一线官兵"],
+      problemTerms: ["体系融入不足", "训练检验不够", "技术孤岛"],
+      solutionTerms: ["体系集成", "实战化训练", "装备迭代"],
+      authoritySources: ["中央军委决策部署", "新时代强军目标"],
+      actionVerbs: ["生成", "融入", "检验", "转化"],
+      tone: "技術軍事化・作戦能力志向",
+    },
+  },
+  {
+    id: "pla-new-quality-02",
+    source: "pla_daily",
+    issueDate: "2024-04-15",
+    pageNumber: 5,
+    pageName: "军事科技",
+    title: "让智能装备在训练场释放效能",
+    url: "https://example.org/mock/pla-daily/pla-new-quality-02",
+    excerpt:
+      "某部围绕无人平台协同、数据链支撑和快速保障组织专攻精练，缩短新装备成战周期。",
+    keywords: ["智能装备", "无人平台", "数据链", "成战周期"],
+    entities: [
+      { text: "某部", type: "military_unit", confidence: 0.71 },
+      { text: "无人平台", type: "other", confidence: 0.84 },
+      { text: "数据链", type: "other", confidence: 0.86 },
+    ],
+    narrativeProfile: {
+      coreFrame: "新装備を訓練課題に落とし込む部隊運用",
+      mainActors: ["某部", "技术骨干", "训练分队"],
+      beneficiaries: ["新装备作战单元", "指挥链路"],
+      problemTerms: ["成战周期长", "协同规则不熟", "保障链条滞后"],
+      solutionTerms: ["专攻精练", "数据支撑", "模块化保障"],
+      authoritySources: ["旅党委", "训练大纲"],
+      actionVerbs: ["释放", "组织", "缩短", "协同"],
+      tone: "部隊実験・運用改善",
+    },
+  },
+  {
+    id: "pd-anti-corruption-01",
+    source: "people_daily",
+    issueDate: "2024-05-06",
+    pageNumber: 4,
+    pageName: "要闻",
+    columnName: "党纪学习教育",
+    title: "以严明纪律推进全面从严治党",
+    url: "https://example.org/mock/people-daily/pd-anti-corruption-01",
+    excerpt:
+      "把纪律建设摆在更加突出位置，强化干部监督，使人民群众感受到正风反腐的实际成效。",
+    keywords: ["反腐败", "党纪", "法治", "干部监督", "人民信赖"],
+    entities: [
+      { text: "全面从严治党", type: "policy", confidence: 0.96 },
+      { text: "党纪学习教育", type: "policy", confidence: 0.9 },
+    ],
+    narrativeProfile: {
+      coreFrame: "党紀と法治を通じた幹部監督と信頼回復",
+      mainActors: ["纪检监察机关", "党员干部", "基层党组织"],
+      beneficiaries: ["人民群众", "政治生态"],
+      problemTerms: ["腐败问题", "纪律松弛", "权力任性"],
+      solutionTerms: ["纪律教育", "法治监督", "制度约束"],
+      authoritySources: ["党章党规", "党中央部署"],
+      actionVerbs: ["推进", "强化", "约束", "监督"],
+      tone: "制度化・信頼回復",
+    },
+  },
+  {
+    id: "pd-anti-corruption-02",
+    source: "people_daily",
+    issueDate: "2024-05-09",
+    pageNumber: 10,
+    pageName: "党建",
+    title: "让权力在阳光下运行",
+    url: "https://example.org/mock/people-daily/pd-anti-corruption-02",
+    excerpt:
+      "完善基层监督机制，推动党员干部依法用权、廉洁用权，让群众身边的不正之风得到整治。",
+    keywords: ["基层监督", "依法用权", "廉洁用权", "群众身边腐败"],
+    entities: [
+      { text: "基层监督机制", type: "policy", confidence: 0.84 },
+      { text: "群众身边腐败", type: "other", confidence: 0.82 },
+    ],
+    narrativeProfile: {
+      coreFrame: "権力監督を住民利益保護に接続する統治改善",
+      mainActors: ["基层纪检组织", "党员干部", "群众"],
+      beneficiaries: ["群众", "基层治理"],
+      problemTerms: ["微腐败", "权力暗箱", "监督盲区"],
+      solutionTerms: ["公开透明", "群众监督", "依法履职"],
+      authoritySources: ["纪法规定", "巡视整改要求"],
+      actionVerbs: ["完善", "推动", "整治", "运行"],
+      tone: "法治・住民保護",
+    },
+  },
+  {
+    id: "pla-anti-corruption-01",
+    source: "pla_daily",
+    issueDate: "2024-05-12",
+    pageNumber: 1,
+    pageName: "要闻",
+    title: "深入推进军队政治整训",
+    url: "https://example.org/mock/pla-daily/pla-anti-corruption-01",
+    excerpt:
+      "保持人民军队性质宗旨本色，坚决清除影响党对军队绝对领导的风险隐患。",
+    keywords: ["政治整训", "军队纯洁性", "党的绝对领导", "反腐败"],
+    entities: [
+      { text: "政治整训", type: "policy", confidence: 0.95 },
+      { text: "党的绝对领导", type: "slogan", confidence: 0.96 },
+      { text: "人民军队", type: "military_unit", confidence: 0.82 },
+    ],
+    narrativeProfile: {
+      coreFrame: "腐敗対策を軍の純潔性と党の絶対指導の維持へ収束",
+      mainActors: ["军队党委", "纪检监察机构", "高级干部"],
+      beneficiaries: ["人民军队", "指挥体系"],
+      problemTerms: ["政治隐患", "利益输送", "圈子文化"],
+      solutionTerms: ["政治整训", "组织清理", "从严执纪"],
+      authoritySources: ["中央军委", "习主席重要指示"],
+      actionVerbs: ["推进", "清除", "保持", "整肃"],
+      tone: "高圧的・組織純化",
+    },
+  },
+  {
+    id: "pla-anti-corruption-02",
+    source: "pla_daily",
+    issueDate: "2024-05-16",
+    pageNumber: 4,
+    pageName: "评论",
+    columnName: "军报评论",
+    title: "把严的基调贯穿政治建军全过程",
+    url: "https://example.org/mock/pla-daily/pla-anti-corruption-02",
+    excerpt:
+      "政治建军必须把纪律规矩挺在前面，确保枪杆子永远听党指挥。",
+    keywords: ["政治建军", "纪律规矩", "听党指挥", "军队反腐"],
+    entities: [
+      { text: "政治建军", type: "policy", confidence: 0.94 },
+      { text: "听党指挥", type: "slogan", confidence: 0.95 },
+    ],
+    narrativeProfile: {
+      coreFrame: "政治建軍の全過程を規律と服従で貫く主張",
+      mainActors: ["各级党委", "领导干部", "官兵"],
+      beneficiaries: ["军队政治生态", "作战指挥权威"],
+      problemTerms: ["纪律失守", "政治偏差", "组织涣散"],
+      solutionTerms: ["严肃党内政治生活", "纪律审查", "思想整顿"],
+      authoritySources: ["军委主席负责制", "党对军队绝对领导"],
+      actionVerbs: ["贯穿", "确保", "整顿", "执行"],
+      tone: "規律・忠誠強調",
+    },
+  },
+  {
+    id: "pd-taiwan-01",
+    source: "people_daily",
+    issueDate: "2024-05-23",
+    pageNumber: 3,
+    pageName: "要闻",
+    title: "坚定维护国家主权和领土完整",
+    url: "https://example.org/mock/people-daily/pd-taiwan-01",
+    excerpt:
+      "台湾问题纯属中国内政，任何外部干涉都阻挡不了祖国统一的历史大势。",
+    keywords: ["台湾", "国家主权", "统一", "外交", "国际秩序"],
+    entities: [
+      { text: "台湾问题", type: "policy", confidence: 0.96 },
+      { text: "国家主权", type: "policy", confidence: 0.93 },
+      { text: "祖国统一", type: "slogan", confidence: 0.92 },
+    ],
+    narrativeProfile: {
+      coreFrame: "台湾問題を主権・統一・国際秩序の外交政治問題として提示",
+      mainActors: ["中国政府", "国际社会", "台湾同胞"],
+      beneficiaries: ["中华民族", "两岸同胞"],
+      problemTerms: ["外部干涉", "分裂行径", "霸权逻辑"],
+      solutionTerms: ["坚持一个中国原则", "反对干涉", "和平统一前景"],
+      authoritySources: ["国际法", "一个中国原则", "中央政府立场"],
+      actionVerbs: ["维护", "反对", "推进", "阐明"],
+      tone: "外交的・正統性主張",
+    },
+  },
+  {
+    id: "pd-taiwan-02",
+    source: "people_daily",
+    issueDate: "2024-05-24",
+    pageNumber: 6,
+    pageName: "国际",
+    title: "国际社会恪守一个中国原则",
+    url: "https://example.org/mock/people-daily/pd-taiwan-02",
+    excerpt:
+      "多国人士表示，一个中国原则是国际关系基本准则，反对任何纵容分裂的做法。",
+    keywords: ["一个中国原则", "国际关系", "外交支持", "反分裂"],
+    entities: [
+      { text: "一个中国原则", type: "policy", confidence: 0.97 },
+      { text: "国际社会", type: "org", confidence: 0.8 },
+    ],
+    narrativeProfile: {
+      coreFrame: "国際支持を通じて主権立場の正当性を補強",
+      mainActors: ["多国人士", "外交部门", "国际组织"],
+      beneficiaries: ["国际秩序", "中国统一进程"],
+      problemTerms: ["错误信号", "外部势力", "分裂活动"],
+      solutionTerms: ["恪守原则", "外交表态", "国际协调"],
+      authoritySources: ["联合国大会第2758号决议", "国际关系准则"],
+      actionVerbs: ["恪守", "反对", "支持", "强调"],
+      tone: "国際法・外交支援",
+    },
+  },
+  {
+    id: "pla-taiwan-01",
+    source: "pla_daily",
+    issueDate: "2024-05-24",
+    pageNumber: 1,
+    pageName: "要闻",
+    title: "东部战区组织联合演训",
+    url: "https://example.org/mock/pla-daily/pla-taiwan-01",
+    excerpt:
+      "战区部队位台岛周边开展联合演训，检验联合夺权、联合打击和要域控制能力。",
+    keywords: ["台湾", "战区行动", "实战化训练", "任务部队", "即应"],
+    entities: [
+      { text: "东部战区", type: "military_unit", confidence: 0.97 },
+      { text: "台岛周边", type: "place", confidence: 0.89 },
+      { text: "联合演训", type: "policy", confidence: 0.9 },
+    ],
+    narrativeProfile: {
+      coreFrame: "台湾関連言説を戦区行動と即応能力の実演へ変換",
+      mainActors: ["东部战区", "海空兵力", "任务部队"],
+      beneficiaries: ["国家主权安全", "战区联合作战体系"],
+      problemTerms: ["分裂挑衅", "外部干涉", "安全威胁"],
+      solutionTerms: ["联合演训", "要域控制", "常态警巡"],
+      authoritySources: ["战区命令", "军委部署"],
+      actionVerbs: ["组织", "检验", "打击", "控制"],
+      tone: "即応・威慑",
+    },
+  },
+  {
+    id: "pla-taiwan-02",
+    source: "pla_daily",
+    issueDate: "2024-05-25",
+    pageNumber: 3,
+    pageName: "军事新闻",
+    title: "任务部队保持全时待战状态",
+    url: "https://example.org/mock/pla-daily/pla-taiwan-02",
+    excerpt:
+      "各兵种力量按预案展开，持续锤炼快速出动、联合封控和精确打击能力。",
+    keywords: ["任务部队", "全时待战", "联合封控", "精确打击"],
+    entities: [
+      { text: "任务部队", type: "military_unit", confidence: 0.87 },
+      { text: "联合封控", type: "policy", confidence: 0.78 },
+    ],
+    narrativeProfile: {
+      coreFrame: "政治声明を継続的な作戦準備と部隊能力へ具体化",
+      mainActors: ["任务部队", "指挥所", "各兵种力量"],
+      beneficiaries: ["战区安全态势", "指挥控制体系"],
+      problemTerms: ["突发情况", "分裂活动", "外部搅局"],
+      solutionTerms: ["全时待战", "按案行动", "联合封控"],
+      authoritySources: ["作战预案", "战区指挥体系"],
+      actionVerbs: ["保持", "展开", "锤炼", "处置"],
+      tone: "作戦準備・抑止",
+    },
+  },
+  {
+    id: "pd-disaster-01",
+    source: "people_daily",
+    issueDate: "2024-07-02",
+    pageNumber: 2,
+    pageName: "要闻",
+    title: "全力保障受灾群众基本生活",
+    url: "https://example.org/mock/people-daily/pd-disaster-01",
+    excerpt:
+      "各地各部门坚持人民至上、生命至上，抓紧转移安置群众，恢复交通通信和生活秩序。",
+    keywords: ["灾害救援", "人民至上", "民生支援", "社会稳定"],
+    entities: [
+      { text: "人民至上", type: "slogan", confidence: 0.95 },
+      { text: "受灾群众", type: "other", confidence: 0.88 },
+    ],
+    narrativeProfile: {
+      coreFrame: "災害対応を民生保障と社会秩序回復として描く",
+      mainActors: ["地方政府", "应急管理部门", "基层干部"],
+      beneficiaries: ["受灾群众", "社区居民"],
+      problemTerms: ["洪涝灾害", "生活困难", "交通中断"],
+      solutionTerms: ["转移安置", "物资保障", "恢复秩序"],
+      authoritySources: ["党中央部署", "应急响应机制"],
+      actionVerbs: ["保障", "转移", "恢复", "统筹"],
+      tone: "民生保護・行政調整",
+    },
+  },
+  {
+    id: "pd-disaster-02",
+    source: "people_daily",
+    issueDate: "2024-07-04",
+    pageNumber: 8,
+    pageName: "社会",
+    title: "守护群众安置点里的日常",
+    url: "https://example.org/mock/people-daily/pd-disaster-02",
+    excerpt:
+      "医疗巡诊、心理疏导和物资发放同步展开，安置点里的基本生活逐步稳定。",
+    keywords: ["安置点", "医疗巡诊", "物资发放", "社会稳定"],
+    entities: [
+      { text: "安置点", type: "place", confidence: 0.78 },
+      { text: "医疗巡诊", type: "other", confidence: 0.76 },
+    ],
+    narrativeProfile: {
+      coreFrame: "被災者の日常生活回復に焦点を置く社会面報道",
+      mainActors: ["志愿者", "社区干部", "医务人员"],
+      beneficiaries: ["受灾群众", "老人儿童"],
+      problemTerms: ["临时安置", "就医不便", "生活物资不足"],
+      solutionTerms: ["巡诊服务", "心理疏导", "物资配送"],
+      authoritySources: ["地方应急指挥部", "民政部门"],
+      actionVerbs: ["守护", "发放", "巡诊", "稳定"],
+      tone: "ケア・生活再建",
+    },
+  },
+  {
+    id: "pla-disaster-01",
+    source: "pla_daily",
+    issueDate: "2024-07-03",
+    pageNumber: 2,
+    pageName: "要闻",
+    title: "人民子弟兵奋战抢险救援一线",
+    url: "https://example.org/mock/pla-daily/pla-disaster-01",
+    excerpt:
+      "任务部队闻令而动，连续奋战转移群众、加固堤坝、抢通道路，展现快速反应能力。",
+    keywords: ["灾害救援", "人民子弟兵", "任务遂行", "军民关系", "即应能力"],
+    entities: [
+      { text: "人民子弟兵", type: "slogan", confidence: 0.94 },
+      { text: "任务部队", type: "military_unit", confidence: 0.9 },
+    ],
+    narrativeProfile: {
+      coreFrame: "災害救援を任務遂行と軍民関係の実証として描く",
+      mainActors: ["任务部队", "党员突击队", "民兵力量"],
+      beneficiaries: ["受灾群众", "军民关系"],
+      problemTerms: ["险情", "堤坝压力", "道路阻断"],
+      solutionTerms: ["闻令而动", "连续作业", "军地协同"],
+      authoritySources: ["上级命令", "军地联动机制"],
+      actionVerbs: ["奋战", "转移", "加固", "抢通"],
+      tone: "任務遂行・献身",
+    },
+  },
+  {
+    id: "pla-disaster-02",
+    source: "pla_daily",
+    issueDate: "2024-07-05",
+    pageNumber: 6,
+    pageName: "基层传真",
+    title: "在抢险一线检验部队作风纪律",
+    url: "https://example.org/mock/pla-daily/pla-disaster-02",
+    excerpt:
+      "官兵严格执行群众纪律和安全规程，在复杂环境中保持队形、通信和保障秩序。",
+    keywords: ["抢险一线", "部队纪律", "群众纪律", "保障秩序"],
+    entities: [
+      { text: "官兵", type: "military_unit", confidence: 0.76 },
+      { text: "群众纪律", type: "policy", confidence: 0.8 },
+    ],
+    narrativeProfile: {
+      coreFrame: "救援現場を部隊規律と保障秩序の検証空間にする",
+      mainActors: ["官兵", "指挥员", "保障分队"],
+      beneficiaries: ["任务分队", "受灾群众"],
+      problemTerms: ["复杂环境", "通信受限", "连续作业疲劳"],
+      solutionTerms: ["纪律执行", "安全规程", "后装保障"],
+      authoritySources: ["部队条令", "现场指挥组"],
+      actionVerbs: ["检验", "执行", "保持", "保障"],
+      tone: "規律・現場統制",
+    },
+  },
+];
+
+export const topicClusters: TopicCluster[] = [
+  {
+    id: "correct-performance-view",
+    topicLabel: "正确政绩观",
+    dateRange: { start: "2024-03-18", end: "2024-03-27" },
+    matchType: "policy_to_military",
+    confidence: 0.86,
+    summary:
+      "人民日報は幹部治理と民生成果の基準として扱い、解放軍報は戦闘力生成と作風整備の評価基準へ軍事化している。",
+    peopleArticleIds: ["pd-performance-01", "pd-performance-02"],
+    plaArticleIds: ["pla-performance-01", "pla-performance-02"],
+    commonGround: [
+      "形式主義や短期成果主義への批判",
+      "上級方針を現場の実績評価へ落とす必要性",
+      "干部の作風を成果測定の中心に置く点",
+    ],
+    delta: {
+      frameShift:
+        "人民日報では住民満足と中国式現代化の統治倫理。解放軍報では備戦打仗と戦闘力基準へ変換される。",
+      actorShift:
+        "主役は地方干部・政府部門から党委機関、指揮員、基層部隊へ移る。",
+      goalShift:
+        "民生改善と公共サービス評価から、任務遂行力と戦闘力生成へ重点が移動する。",
+      threatShift:
+        "人民日報の問題は脱群众・形象工程。解放軍報では和平积弊や训练空转が問題化される。",
+      solutionShift:
+        "調査研究・考核改善から、训练场での现场考评、实案化训练、从严纠治へ狭められる。",
+      authorityShift:
+        "党中央の統治方針から、中央军委・习主席强军思想・部队党委の命令系統が前面に出る。",
+      lexicalContrast: {
+        peopleDailyTerms: ["群众满意", "民生改善", "中国式现代化", "公共服务"],
+        plaDailyTerms: ["备战打仗", "战斗力", "谋战研战", "训练场"],
+      },
+      silenceMap: {
+        peopleOnly: ["公共サービス", "住民の获得感", "地方治理"],
+        plaOnly: ["战斗力标准", "和平积弊", "任务场", "政治建军"],
+      },
+    },
+    evidence: [
+      {
+        source: "people_daily",
+        articleId: "pd-performance-01",
+        claimType: "frame_shift",
+        text: "把群众满意作为检验工作成效的重要尺度",
+        supports: "人民日報側の評価軸が民生と群众満足に置かれている。",
+      },
+      {
+        source: "pla_daily",
+        articleId: "pla-performance-01",
+        claimType: "goal_shift",
+        text: "根本要看能否服务备战打仗",
+        supports: "同じ政績観が戦闘準備の尺度に置き換えられている。",
+      },
+      {
+        source: "pla_daily",
+        articleId: "pla-performance-02",
+        claimType: "solution_shift",
+        text: "向训练场、任务场延伸",
+        supports: "抽象的な治理語彙が訓練現場へ operationalize されている。",
+      },
+    ],
+  },
+  {
+    id: "new-quality-forces",
+    topicLabel: "新质生产力 / 新质战斗力",
+    dateRange: { start: "2024-04-08", end: "2024-04-15" },
+    matchType: "same_slogan_different_case",
+    confidence: 0.82,
+    summary:
+      "人民日報の新质生产力は産業高度化の成長語彙だが、解放軍報では新质战斗力として装備体系と実戦化訓練に接続される。",
+    peopleArticleIds: ["pd-new-quality-01", "pd-new-quality-02"],
+    plaArticleIds: ["pla-new-quality-01", "pla-new-quality-02"],
+    commonGround: [
+      "科技创新を核心ドライバーとして扱う",
+      "既存体系への統合を重視する",
+      "新しい能力が実効性を持つまでの変換過程に関心がある",
+    ],
+    delta: {
+      frameShift:
+        "経済成長と産業链升级の話法が、体系作戦能力と装備運用の話法に置き換わる。",
+      actorShift:
+        "企業・科研機関・地方政府から、作戦部隊・装備部門・訓練分隊へ主役が変わる。",
+      goalShift:
+        "高品質発展と競争力向上から、新装備の成戦周期短縮と聯合作戦体系への統合へ移る。",
+      threatShift:
+        "技術瓶頸や産業短板から、技術孤島・体系融入不足・訓練検証不足へ問題が再定義される。",
+      solutionShift:
+        "産学研連携と制度供給から、体系集成、实战化训练、装備迭代へ移る。",
+      authorityShift:
+        "中央経済政策から、中央军委決策部署、強軍目標、旅党委の訓練指導へ接続される。",
+      lexicalContrast: {
+        peopleDailyTerms: ["新质生产力", "产业升级", "未来产业", "创新链"],
+        plaDailyTerms: ["新质战斗力", "装备体系", "实战化训练", "成战周期"],
+      },
+      silenceMap: {
+        peopleOnly: ["市場主体", "区域経済", "未来産業"],
+        plaOnly: ["无人平台", "数据链", "联合作战体系", "训练检验"],
+      },
+    },
+    evidence: [
+      {
+        source: "people_daily",
+        articleId: "pd-new-quality-01",
+        claimType: "frame_shift",
+        text: "以科技创新推动产业创新",
+        supports: "人民日報側では科技创新が産業政策に接続されている。",
+      },
+      {
+        source: "pla_daily",
+        articleId: "pla-new-quality-01",
+        claimType: "solution_shift",
+        text: "进入体系、融入训练、经受实战化检验",
+        supports: "PLA側では技術の価値が訓練と体系統合で測られる。",
+      },
+      {
+        source: "pla_daily",
+        articleId: "pla-new-quality-02",
+        claimType: "goal_shift",
+        text: "缩短新装备成战周期",
+        supports: "政策語彙が部隊運用上の時間短縮目標へ変換されている。",
+      },
+    ],
+  },
+  {
+    id: "anti-corruption-political-rectification",
+    topicLabel: "反腐败 / 政治整训",
+    dateRange: { start: "2024-05-06", end: "2024-05-16" },
+    matchType: "policy_to_military",
+    confidence: 0.79,
+    summary:
+      "人民日報は党紀・法治・群众信頼の制度治理として語り、解放軍報は軍の純潔性と党の絶対指導を守る政治整訓へ収束させる。",
+    peopleArticleIds: ["pd-anti-corruption-01", "pd-anti-corruption-02"],
+    plaArticleIds: ["pla-anti-corruption-01", "pla-anti-corruption-02"],
+    commonGround: [
+      "腐敗と規律違反を組織リスクとして捉える",
+      "制度と教育の両方を必要とする",
+      "上級方針への忠実な実装を重視する",
+    ],
+    delta: {
+      frameShift:
+        "法治と干部監督の汎行政的枠組みが、軍隊政治整訓と組織純化の枠組みに変わる。",
+      actorShift:
+        "紀検監察機関と基層干部から、軍隊党委、軍内紀検、高級干部へ移る。",
+      goalShift:
+        "人民信頼の回復から、枪杆子永远听党指挥と指揮体系の政治安全へ中心が変わる。",
+      threatShift:
+        "人民日報の権力濫用・群众身辺腐敗は、PLA側では政治隠患・圈子文化・組織涣散となる。",
+      solutionShift:
+        "公開透明・法治監督から、政治整訓、組織清理、纪律审查へ強度が上がる。",
+      authorityShift:
+        "党章党规・党中央部署から、军委主席负责制と党对军队绝对领导へ権威源が狭まる。",
+      lexicalContrast: {
+        peopleDailyTerms: ["党纪", "法治监督", "人民信赖", "基层监督"],
+        plaDailyTerms: ["政治整训", "军队纯洁性", "听党指挥", "政治建军"],
+      },
+      silenceMap: {
+        peopleOnly: ["群众监督", "公开透明", "依法用权"],
+        plaOnly: ["枪杆子", "军委主席负责制", "政治隐患", "组织清理"],
+      },
+    },
+    evidence: [
+      {
+        source: "people_daily",
+        articleId: "pd-anti-corruption-01",
+        claimType: "goal_shift",
+        text: "使人民群众感受到正风反腐的实际成效",
+        supports: "反腐の受益者が人民群众として描かれる。",
+      },
+      {
+        source: "pla_daily",
+        articleId: "pla-anti-corruption-01",
+        claimType: "threat_shift",
+        text: "清除影响党对军队绝对领导的风险隐患",
+        supports: "軍内では腐敗が党の軍事指導へのリスクとして再定義される。",
+      },
+      {
+        source: "pla_daily",
+        articleId: "pla-anti-corruption-02",
+        claimType: "authority_shift",
+        text: "确保枪杆子永远听党指挥",
+        supports: "権威源が军委主席负责制と党指揮に集中する。",
+      },
+    ],
+  },
+  {
+    id: "taiwan-sovereignty-security",
+    topicLabel: "台湾 / 主权安全",
+    dateRange: { start: "2024-05-23", end: "2024-05-25" },
+    matchType: "same_event",
+    confidence: 0.88,
+    summary:
+      "人民日報は主権・統一・国際秩序の正当性を語り、解放軍報は戦区行動、任務部隊、即応能力で同じ問題を軍事作戦化する。",
+    peopleArticleIds: ["pd-taiwan-01", "pd-taiwan-02"],
+    plaArticleIds: ["pla-taiwan-01", "pla-taiwan-02"],
+    commonGround: [
+      "台湾問題を国家主権と安全に結びつける",
+      "外部干渉と分裂行為を主要問題とみなす",
+      "一つの中国原則を前提にする",
+    ],
+    delta: {
+      frameShift:
+        "外交・国際法・統一の政治正当性から、台島周辺での聯合演訓と要域控制へ移る。",
+      actorShift:
+        "中国政府、国際社会、台湾同胞から、东部战区、海空兵力、任务部队へ主役が移動する。",
+      goalShift:
+        "国際秩序上の正当性確保から、快速出動、聯合封控、精确打击能力の検証へ変わる。",
+      threatShift:
+        "外部干渉と分裂行径が、作戦上の突発状況や安全威脅として具体化される。",
+      solutionShift:
+        "外交表明と一つの中国原則の確認から、演訓、警巡、全時待戦へ移る。",
+      authorityShift:
+        "国際法・UN決議・中央政府立場から、戦区命令・军委部署・作戦预案へ変わる。",
+      lexicalContrast: {
+        peopleDailyTerms: ["国家主权", "祖国统一", "国际秩序", "一个中国原则"],
+        plaDailyTerms: ["战区行动", "联合演训", "全时待战", "精确打击"],
+      },
+      silenceMap: {
+        peopleOnly: ["国際社会の支持", "外交表態", "和平统一前景"],
+        plaOnly: ["东部战区", "联合封控", "要域控制", "任务部队"],
+      },
+    },
+    evidence: [
+      {
+        source: "people_daily",
+        articleId: "pd-taiwan-01",
+        claimType: "authority_shift",
+        text: "台湾问题纯属中国内政",
+        supports: "人民日報側は主権と外交正当性を中心に置く。",
+      },
+      {
+        source: "pla_daily",
+        articleId: "pla-taiwan-01",
+        claimType: "frame_shift",
+        text: "检验联合夺权、联合打击和要域控制能力",
+        supports: "PLA側では同じ政治問題が作戦能力の検証へ移される。",
+      },
+      {
+        source: "pla_daily",
+        articleId: "pla-taiwan-02",
+        claimType: "solution_shift",
+        text: "保持全时待战状态",
+        supports: "外交語彙ではなく即応態勢が強調される。",
+      },
+    ],
+  },
+  {
+    id: "disaster-relief-people-soldiers",
+    topicLabel: "灾害救援 / 人民子弟兵",
+    dateRange: { start: "2024-07-02", end: "2024-07-05" },
+    matchType: "same_event",
+    confidence: 0.84,
+    summary:
+      "人民日報は人民至上と生活再建を中心にし、解放軍報は人民子弟兵の任務遂行、軍民関係、部隊規律の実証として描く。",
+    peopleArticleIds: ["pd-disaster-01", "pd-disaster-02"],
+    plaArticleIds: ["pla-disaster-01", "pla-disaster-02"],
+    commonGround: [
+      "被災者の安全確保を優先する",
+      "複数機関の協同を必要とする緊急対応として描く",
+      "現場での迅速な行動を肯定的に評価する",
+    ],
+    delta: {
+      frameShift:
+        "民生支援・社会安定の行政対応から、部隊の闻令而动と任務遂行能力の可視化へ変わる。",
+      actorShift:
+        "地方政府、社区干部、医務人员から、任务部队、党员突击队、官兵へ主役が移る。",
+      goalShift:
+        "生活秩序と安置点の日常回復から、抢险任务の達成、即応能力、部隊規律の検証へ移る。",
+      threatShift:
+        "生活困難や交通中断が、险情、堤坝压力、通信制約、連続作業疲労として再記述される。",
+      solutionShift:
+        "物資保障・巡診・心理疏導から、连续作业、军地协同、安全规程、后装保障へ重点が移る。",
+      authorityShift:
+        "党中央部署・地方応急指揮から、上級命令、部隊条令、現場指揮组へ変わる。",
+      lexicalContrast: {
+        peopleDailyTerms: ["人民至上", "民生支援", "安置点", "生活秩序"],
+        plaDailyTerms: ["人民子弟兵", "闻令而动", "任务部队", "部队纪律"],
+      },
+      silenceMap: {
+        peopleOnly: ["心理疏导", "医疗巡诊", "公共サービス"],
+        plaOnly: ["后装保障", "群众纪律", "队形通信", "党员突击队"],
+      },
+    },
+    evidence: [
+      {
+        source: "people_daily",
+        articleId: "pd-disaster-01",
+        claimType: "frame_shift",
+        text: "抓紧转移安置群众，恢复交通通信和生活秩序",
+        supports: "人民日報は生活再建と行政調整を中心にする。",
+      },
+      {
+        source: "pla_daily",
+        articleId: "pla-disaster-01",
+        claimType: "actor_shift",
+        text: "任务部队闻令而动",
+        supports: "PLA側では任務発令と部隊行動が主語になる。",
+      },
+      {
+        source: "pla_daily",
+        articleId: "pla-disaster-02",
+        claimType: "goal_shift",
+        text: "检验部队作风纪律",
+        supports: "救援現場が部隊規律の評価空間として扱われる。",
+      },
+    ],
+  },
+];
