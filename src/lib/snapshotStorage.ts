@@ -106,16 +106,24 @@ async function deleteJsonFiles(pathnames: string[]) {
 }
 
 async function readBlobJson<T>(pathname: string): Promise<T | undefined> {
-  const { get } = await loadBlobSdk();
-  const result = await get(pathname, { access: "public", useCache: false });
+  try {
+    const { get } = await loadBlobSdk();
+    const result = await get(pathname, { access: "public", useCache: false });
 
-  if (!result || result.statusCode !== 200 || !result.stream) {
-    return undefined;
+    if (!result || result.statusCode !== 200 || !result.stream) {
+      return undefined;
+    }
+
+    const text = await new Response(result.stream).text();
+
+    return JSON.parse(text) as T;
+  } catch (error) {
+    if (isMissingBlobRead(error)) {
+      return undefined;
+    }
+
+    throw error;
   }
-
-  const text = await new Response(result.stream).text();
-
-  return JSON.parse(text) as T;
 }
 
 async function readLocalJson<T>(pathname: string): Promise<T | undefined> {
@@ -145,4 +153,16 @@ function localPath(pathname: string) {
 
 function compareIndexEntries(left: { issueDate: string }, right: { issueDate: string }) {
   return right.issueDate.localeCompare(left.issueDate);
+}
+
+function isMissingBlobRead(error: unknown) {
+  if (!(error instanceof Error)) {
+    return false;
+  }
+
+  return (
+    error.message.includes("400 Bad Request") ||
+    error.message.includes("404 Not Found") ||
+    error.name === "BlobNotFoundError"
+  );
 }
