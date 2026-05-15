@@ -65,19 +65,21 @@ export default async function Home({ searchParams }: HomeProps) {
             <form action="/" className="grid gap-4">
               <div className="grid gap-4 sm:grid-cols-3">
                 <Field label="Issue date" htmlFor="date">
-                  <input
+                  <select
                     id="date"
                     name="date"
-                    type="date"
-                    list="cached-issue-dates"
                     defaultValue={issueDate}
                     className="h-11 w-full rounded-sm border border-stone-300 bg-white px-3 text-sm font-semibold text-stone-900 outline-none transition focus:border-stone-700 dark:border-stone-700 dark:bg-stone-900 dark:text-stone-100 dark:focus:border-teal-400"
-                  />
-                  <datalist id="cached-issue-dates">
+                  >
+                    {snapshotIndex.entries.some((entry) => entry.issueDate === issueDate) ? null : (
+                      <option value={issueDate}>{formatIssueDate(issueDate)} / snapshotなし</option>
+                    )}
                     {snapshotIndex.entries.map((entry) => (
-                      <option key={entry.issueDate} value={entry.issueDate} />
+                      <option key={entry.issueDate} value={entry.issueDate}>
+                        {formatIssueDate(entry.issueDate)} / P {entry.peopleArticles} / 81cn {entry.plaArticles}
+                      </option>
                     ))}
-                  </datalist>
+                  </select>
                 </Field>
                 <Field label="Filter" htmlFor="view">
                   <select
@@ -314,14 +316,19 @@ function SnapshotArchiveNotice({
   selectedIssueDate: string;
   snapshotExists: boolean;
 }) {
-  const retainedDates = entries.map((entry) => entry.issueDate);
+  const retainedDates = entries.map((entry) => entry.issueDate).sort();
+  const oldestDate = retainedDates[0];
+  const newestDate = retainedDates[retainedDates.length - 1];
+  const retainedDateLabel =
+    oldestDate && newestDate
+      ? `${retainedDates.length}日分 (${formatIssueDate(oldestDate)}〜${formatIssueDate(newestDate)})`
+      : "まだありません";
 
   return (
     <section className="mt-4 rounded-md border border-stone-200 bg-white px-4 py-3 text-xs leading-5 text-stone-600 shadow-sm dark:border-stone-800 dark:bg-stone-950 dark:text-stone-300">
       <div className="flex flex-wrap items-center justify-between gap-3">
         <p>
-          保存済み日付:{" "}
-          {retainedDates.length > 0 ? retainedDates.join(" / ") : "まだありません"}
+          保存済み: {retainedDateLabel}
         </p>
         <p>
           retention {snapshotRetentionDays()}日 / LLM更新{" "}
@@ -343,4 +350,8 @@ function formatTimestamp(value: string) {
     timeStyle: "short",
     timeZone: "Asia/Tokyo",
   }).format(new Date(value));
+}
+
+function formatIssueDate(value: string) {
+  return value.replaceAll("-", ".");
 }

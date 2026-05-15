@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { type ChangeEvent, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import {
   forceCenter,
   forceCollide,
@@ -131,6 +131,18 @@ export function IssueGraphView({
   const dateNavigation = useMemo(
     () => buildDateNavigation(availableDates, selectedDate ?? issueDate),
     [availableDates, issueDate, selectedDate],
+  );
+  const handleDateSelectChange = useCallback(
+    (event: ChangeEvent<HTMLSelectElement>) => {
+      const nextDate = event.currentTarget.value;
+
+      if (!nextDate || nextDate === dateNavigation.activeDate) {
+        return;
+      }
+
+      window.location.assign(dateHref(nextDate, viewFilter, sortMode));
+    },
+    [dateNavigation.activeDate, sortMode, viewFilter],
   );
 
   const drawGraph = useCallback(() => {
@@ -404,26 +416,47 @@ export function IssueGraphView({
         </div>
 
         {expanded && dateNavigation.dates.length > 0 ? (
-          <nav className="mt-3 flex flex-wrap items-center gap-2" aria-label="Issue graph dates">
-            <DateNavLink label="前" date={dateNavigation.previousDate} viewFilter={viewFilter} sortMode={sortMode} />
-            <DateNavLink label="次" date={dateNavigation.nextDate} viewFilter={viewFilter} sortMode={sortMode} />
-            <DateNavLink label="最新" date={dateNavigation.latestDate} viewFilter={viewFilter} sortMode={sortMode} strong />
-            <div className="flex flex-wrap gap-1.5">
-              {dateNavigation.chipDates.map((date) => (
-                <Link
-                  key={date}
-                  href={dateHref(date, viewFilter, sortMode)}
-                  aria-current={date === dateNavigation.activeDate ? "date" : undefined}
-                  className={cn(
-                    "rounded-sm border px-2 py-1 text-[11px] font-semibold outline-none transition focus-visible:ring-2 focus-visible:ring-teal-400 focus-visible:ring-offset-1 focus-visible:ring-offset-white dark:focus-visible:ring-teal-300 dark:focus-visible:ring-offset-stone-900",
-                    date === dateNavigation.activeDate
-                      ? "border-teal-500 bg-teal-50 text-teal-900 shadow-[inset_0_0_0_1px_rgba(20,184,166,0.18)] dark:border-teal-500 dark:bg-teal-950/45 dark:text-teal-100"
-                      : "border-stone-200 bg-white text-stone-600 hover:border-stone-400 dark:border-stone-700 dark:bg-stone-950 dark:text-stone-300 dark:hover:border-stone-500",
-                  )}
-                >
-                  {formatIssueDate(date)}
-                </Link>
-              ))}
+          <nav className="mt-3 grid gap-2 lg:grid-cols-[auto_minmax(230px,320px)_minmax(0,1fr)] lg:items-end" aria-label="Issue graph dates">
+            <div className="flex flex-wrap items-center gap-1.5">
+              <DateNavLink label="前" date={dateNavigation.previousDate} viewFilter={viewFilter} sortMode={sortMode} />
+              <DateNavLink label="次" date={dateNavigation.nextDate} viewFilter={viewFilter} sortMode={sortMode} />
+              <DateNavLink label="最新" date={dateNavigation.latestDate} viewFilter={viewFilter} sortMode={sortMode} strong />
+            </div>
+            <label className="grid gap-1 text-[10px] font-semibold uppercase tracking-wide text-stone-500 dark:text-stone-400">
+              Saved issue date
+              <select
+                defaultValue={dateNavigation.activeDate}
+                onChange={handleDateSelectChange}
+                className="h-8 w-full rounded-sm border border-stone-300 bg-white px-2 text-xs font-semibold text-stone-900 outline-none transition focus:border-teal-500 focus:ring-2 focus:ring-teal-400/30 dark:border-stone-700 dark:bg-stone-950 dark:text-stone-100 dark:focus:border-teal-400"
+              >
+                {dateNavigation.optionDates.map((date) => (
+                  <option key={date} value={date}>
+                    {formatIssueDate(date)}
+                  </option>
+                ))}
+              </select>
+            </label>
+            <div className="min-w-0 overflow-x-auto pb-0.5">
+              <div className="flex w-max items-center gap-1.5">
+                <span className="pr-1 text-[10px] font-semibold uppercase tracking-wide text-stone-400 dark:text-stone-500">
+                  Nearby
+                </span>
+                {dateNavigation.nearbyDates.map((date) => (
+                  <Link
+                    key={date}
+                    href={dateHref(date, viewFilter, sortMode)}
+                    aria-current={date === dateNavigation.activeDate ? "date" : undefined}
+                    className={cn(
+                      "rounded-sm border px-2 py-1 text-[11px] font-semibold outline-none transition focus-visible:ring-2 focus-visible:ring-teal-400 focus-visible:ring-offset-1 focus-visible:ring-offset-white dark:focus-visible:ring-teal-300 dark:focus-visible:ring-offset-stone-900",
+                      date === dateNavigation.activeDate
+                        ? "border-teal-500 bg-teal-50 text-teal-900 shadow-[inset_0_0_0_1px_rgba(20,184,166,0.18)] dark:border-teal-500 dark:bg-teal-950/45 dark:text-teal-100"
+                        : "border-stone-200 bg-white text-stone-600 hover:border-stone-400 dark:border-stone-700 dark:bg-stone-950 dark:text-stone-300 dark:hover:border-stone-500",
+                    )}
+                  >
+                    {formatIssueDate(date)}
+                  </Link>
+                ))}
+              </div>
             </div>
           </nav>
         ) : null}
@@ -601,16 +634,18 @@ function GraphAnalytics({
   const selectedMetric =
     chartMetrics.find((metric) => metric.issueDate === selectedDate) ??
     chartMetrics[chartMetrics.length - 1];
+  const chartSelectedDate = selectedMetric?.issueDate;
+  const dateTickIndices = buildDateTickIndices(chartMetrics, chartSelectedDate);
   const maxValue = niceChartMax(
     Math.max(1, ...chartMetrics.flatMap((metric) => [metric.nodes, metric.links])),
   );
   const chart = {
     width: 920,
-    height: 300,
+    height: 308,
     left: 52,
     right: 32,
     top: 20,
-    bottom: 52,
+    bottom: 62,
   };
   const plotWidth = chart.width - chart.left - chart.right;
   const plotHeight = chart.height - chart.top - chart.bottom;
@@ -691,13 +726,14 @@ function GraphAnalytics({
 
             {chartMetrics.map((metric, index) => {
               const x = xFor(index);
-              const isSelected = metric.issueDate === selectedDate;
+              const isSelected = metric.issueDate === chartSelectedDate;
               const peopleHeight = heightFor(metric.peopleNodes);
               const plaHeight = heightFor(metric.plaNodes);
               const totalHeight = heightFor(metric.nodes);
               const barX = x - barWidth / 2;
               const peopleY = baselineY - peopleHeight;
               const plaY = baselineY - peopleHeight - plaHeight;
+              const showDateLabel = dateTickIndices.has(index);
 
               return (
                 <g key={metric.issueDate}>
@@ -744,17 +780,28 @@ function GraphAnalytics({
                       strokeWidth="1.5"
                     />
                   ) : null}
-                  <text
-                    x={x}
-                    y={chart.height - 22}
-                    textAnchor="middle"
+                  <line
+                    x1={x}
+                    x2={x}
+                    y1={baselineY + 5}
+                    y2={showDateLabel ? baselineY + 12 : baselineY + 8}
                     className={cn(
-                      "fill-stone-500 text-[10px] font-semibold dark:fill-stone-400",
-                      isSelected && "fill-teal-800 dark:fill-teal-200",
+                      isSelected ? "stroke-teal-700 dark:stroke-teal-300" : "stroke-stone-300 dark:stroke-stone-700",
                     )}
-                  >
-                    {metric.issueDate.slice(5).replace("-", "/")}
-                  </text>
+                  />
+                  {showDateLabel ? (
+                    <text
+                      x={x}
+                      y={chart.height - 24}
+                      textAnchor="middle"
+                      className={cn(
+                        "fill-stone-500 text-[10px] font-semibold dark:fill-stone-400",
+                        isSelected && "fill-teal-800 dark:fill-teal-200",
+                      )}
+                    >
+                      {formatShortDate(metric.issueDate)}
+                    </text>
+                  ) : null}
                 </g>
               );
             })}
@@ -770,7 +817,7 @@ function GraphAnalytics({
               />
             ) : null}
             {chartMetrics.map((metric, index) => {
-              const isSelected = metric.issueDate === selectedDate;
+              const isSelected = metric.issueDate === chartSelectedDate;
               return (
                 <circle
                   key={`${metric.issueDate}-edge-point`}
@@ -1082,20 +1129,62 @@ function buildDateNavigation(availableDates: readonly string[], activeDate?: str
   const resolvedActiveDate = activeDate ?? dates[dates.length - 1];
   const activeIndex = resolvedActiveDate ? dates.indexOf(resolvedActiveDate) : -1;
   const latestDate = dates[dates.length - 1];
-  const baseChipDates = dates.slice(Math.max(0, dates.length - 14)).reverse();
-  const chipDates =
-    resolvedActiveDate && dates.includes(resolvedActiveDate) && !baseChipDates.includes(resolvedActiveDate)
-      ? [...baseChipDates, resolvedActiveDate]
-      : baseChipDates;
+  const windowRadius = 4;
+  const nearbyDates =
+    activeIndex >= 0
+      ? dates.slice(Math.max(0, activeIndex - windowRadius), Math.min(dates.length, activeIndex + windowRadius + 1))
+      : dates.slice(Math.max(0, dates.length - windowRadius * 2 - 1));
 
   return {
     dates,
+    optionDates: [...dates].reverse(),
     activeDate: resolvedActiveDate,
     previousDate: activeIndex > 0 ? dates[activeIndex - 1] : undefined,
     nextDate: activeIndex >= 0 && activeIndex < dates.length - 1 ? dates[activeIndex + 1] : undefined,
     latestDate,
-    chipDates,
+    nearbyDates,
   };
+}
+
+function buildDateTickIndices(
+  metrics: readonly IssueGraphDateMetric[],
+  selectedDate?: string,
+) {
+  const selectedIndex = metrics.findIndex((metric) => metric.issueDate === selectedDate);
+  const count = metrics.length;
+  const step = count <= 14 ? 1 : count <= 24 ? 2 : 3;
+  const indices = new Set<number>();
+
+  for (let index = 0; index < count; index += 1) {
+    const isFirst = index === 0;
+    const isLast = index === count - 1;
+    const isSelected = index === selectedIndex;
+    const isMonthBoundary =
+      index > 0 && metrics[index]?.issueDate.slice(0, 7) !== metrics[index - 1]?.issueDate.slice(0, 7);
+    const isSteppedTick = index % step === 0;
+
+    if (isFirst || isLast || isSelected || isMonthBoundary || isSteppedTick) {
+      indices.add(index);
+    }
+  }
+
+  if (selectedIndex >= 0 && count > 18) {
+    const minimumGap = count > 24 ? 2 : 1;
+
+    for (const index of [...indices]) {
+      const protectedTick =
+        index === 0 ||
+        index === count - 1 ||
+        index === selectedIndex ||
+        (index > 0 && metrics[index]?.issueDate.slice(0, 7) !== metrics[index - 1]?.issueDate.slice(0, 7));
+
+      if (!protectedTick && Math.abs(index - selectedIndex) <= minimumGap) {
+        indices.delete(index);
+      }
+    }
+  }
+
+  return indices;
 }
 
 function dateHref(date: string, viewFilter: string, sortMode: string) {
@@ -1318,6 +1407,10 @@ function seededUnit(seed: string) {
 
 function formatIssueDate(date: string) {
   return date.replaceAll("-", ".");
+}
+
+function formatShortDate(date: string) {
+  return date.slice(5).replace("-", "/");
 }
 
 function formatPercent(value: number | undefined) {
