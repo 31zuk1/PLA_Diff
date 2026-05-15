@@ -601,22 +601,27 @@ function GraphAnalytics({
   const selectedMetric =
     chartMetrics.find((metric) => metric.issueDate === selectedDate) ??
     chartMetrics[chartMetrics.length - 1];
-  const maxValue = Math.max(1, ...chartMetrics.flatMap((metric) => [metric.nodes, metric.links]));
+  const maxValue = niceChartMax(
+    Math.max(1, ...chartMetrics.flatMap((metric) => [metric.nodes, metric.links])),
+  );
   const chart = {
-    width: 720,
-    height: 260,
-    left: 44,
-    right: 24,
+    width: 920,
+    height: 300,
+    left: 52,
+    right: 32,
     top: 20,
-    bottom: 42,
+    bottom: 52,
   };
   const plotWidth = chart.width - chart.left - chart.right;
   const plotHeight = chart.height - chart.top - chart.bottom;
+  const baselineY = chart.top + plotHeight;
+  const bandWidth = plotWidth / Math.max(1, chartMetrics.length);
   const xFor = (index: number) =>
-    chart.left + (chartMetrics.length <= 1 ? plotWidth / 2 : (index / (chartMetrics.length - 1)) * plotWidth);
+    chart.left + bandWidth * index + bandWidth / 2;
   const yFor = (value: number) =>
-    chart.top + plotHeight - (value / maxValue) * plotHeight;
-  const barWidth = Math.min(28, Math.max(12, plotWidth / Math.max(1, chartMetrics.length) * 0.45));
+    baselineY - (value / maxValue) * plotHeight;
+  const heightFor = (value: number) => baselineY - yFor(value);
+  const barWidth = Math.min(34, Math.max(14, bandWidth * 0.5));
   const linePath = chartMetrics
     .map((metric, index) => `${index === 0 ? "M" : "L"} ${xFor(index)} ${yFor(metric.links)}`)
     .join(" ");
@@ -635,6 +640,8 @@ function GraphAnalytics({
             <AnalyticsStat label="selected" value={selectedMetric?.issueDate ?? "-"} />
             <AnalyticsStat label="nodes" value={`${selectedMetric?.nodes ?? 0}`} />
             <AnalyticsStat label="edges" value={`${selectedMetric?.links ?? 0}`} />
+            <AnalyticsStat label="People's" value={`${selectedMetric?.peopleNodes ?? 0}`} />
+            <AnalyticsStat label="81cn" value={`${selectedMetric?.plaNodes ?? 0}`} />
             <AnalyticsStat label="matched nodes" value={`${selectedMetric?.matchedNodes ?? 0}`} />
           </dl>
         </div>
@@ -646,64 +653,100 @@ function GraphAnalytics({
             aria-label="日付ごとのノード数を棒、エッジ数を折線で表示"
             className="h-[260px] w-full overflow-visible"
           >
-            <line
-              x1={chart.left}
-              x2={chart.width - chart.right}
-              y1={chart.top + plotHeight}
-              y2={chart.top + plotHeight}
-              className="stroke-stone-300 dark:stroke-stone-700"
-            />
+            {[0, 0.5, 1].map((tick) => {
+              const y = yFor(maxValue * tick);
+
+              return (
+                <g key={tick}>
+                  <line
+                    x1={chart.left}
+                    x2={chart.width - chart.right}
+                    y1={y}
+                    y2={y}
+                    className={cn(
+                      tick === 0
+                        ? "stroke-stone-300 dark:stroke-stone-700"
+                        : "stroke-stone-200 dark:stroke-stone-800",
+                    )}
+                    strokeDasharray={tick === 0 ? undefined : "4 6"}
+                  />
+                  <text
+                    x={chart.left - 12}
+                    y={y + 4}
+                    textAnchor="end"
+                    className="fill-stone-400 text-[11px] font-semibold dark:fill-stone-500"
+                  >
+                    {Math.round(maxValue * tick)}
+                  </text>
+                </g>
+              );
+            })}
             <line
               x1={chart.left}
               x2={chart.left}
               y1={chart.top}
-              y2={chart.top + plotHeight}
+              y2={baselineY}
               className="stroke-stone-200 dark:stroke-stone-800"
             />
-            {[0.5, 1].map((tick) => (
-              <g key={tick}>
-                <line
-                  x1={chart.left}
-                  x2={chart.width - chart.right}
-                  y1={yFor(maxValue * tick)}
-                  y2={yFor(maxValue * tick)}
-                  className="stroke-stone-200 dark:stroke-stone-800"
-                  strokeDasharray="4 6"
-                />
-                <text
-                  x={chart.left - 10}
-                  y={yFor(maxValue * tick) + 4}
-                  textAnchor="end"
-                  className="fill-stone-400 text-[11px] font-semibold dark:fill-stone-500"
-                >
-                  {Math.round(maxValue * tick)}
-                </text>
-              </g>
-            ))}
 
             {chartMetrics.map((metric, index) => {
               const x = xFor(index);
-              const y = yFor(metric.nodes);
-              const height = chart.top + plotHeight - y;
               const isSelected = metric.issueDate === selectedDate;
+              const peopleHeight = heightFor(metric.peopleNodes);
+              const plaHeight = heightFor(metric.plaNodes);
+              const totalHeight = heightFor(metric.nodes);
+              const barX = x - barWidth / 2;
+              const peopleY = baselineY - peopleHeight;
+              const plaY = baselineY - peopleHeight - plaHeight;
 
               return (
                 <g key={metric.issueDate}>
                   <rect
-                    x={x - barWidth / 2}
-                    y={y}
+                    x={barX}
+                    y={baselineY - totalHeight}
                     width={barWidth}
-                    height={height}
-                    rx="3"
+                    height={Math.max(1, totalHeight)}
+                    rx="4"
+                    className="fill-stone-100 dark:fill-stone-800"
+                  />
+                  <rect
+                    x={barX}
+                    y={peopleY}
+                    width={barWidth}
+                    height={Math.max(0, peopleHeight)}
                     className={cn(
                       isSelected
-                        ? "fill-teal-400 dark:fill-teal-300"
-                        : "fill-teal-200 dark:fill-teal-900",
+                        ? "fill-rose-500 dark:fill-rose-300"
+                        : "fill-rose-300 dark:fill-rose-800",
                     )}
                   />
+                  <rect
+                    x={barX}
+                    y={plaY}
+                    width={barWidth}
+                    height={Math.max(0, plaHeight)}
+                    rx="4"
+                    className={cn(
+                      isSelected
+                        ? "fill-teal-500 dark:fill-teal-300"
+                        : "fill-teal-300 dark:fill-teal-800",
+                    )}
+                  />
+                  {isSelected ? (
+                    <rect
+                      x={barX - 2}
+                      y={baselineY - totalHeight - 2}
+                      width={barWidth + 4}
+                      height={Math.max(1, totalHeight) + 4}
+                      rx="6"
+                      fill="none"
+                      className="stroke-stone-700 dark:stroke-stone-200"
+                      strokeWidth="1.5"
+                    />
+                  ) : null}
                   <text
                     x={x}
-                    y={chart.height - 18}
+                    y={chart.height - 22}
                     textAnchor="middle"
                     className={cn(
                       "fill-stone-500 text-[10px] font-semibold dark:fill-stone-400",
@@ -723,7 +766,7 @@ function GraphAnalytics({
                 strokeLinecap="round"
                 strokeLinejoin="round"
                 strokeWidth="3"
-                className="stroke-rose-500 dark:stroke-rose-300"
+                className="stroke-stone-800 dark:stroke-stone-100"
               />
             ) : null}
             {chartMetrics.map((metric, index) => {
@@ -735,21 +778,26 @@ function GraphAnalytics({
                   cy={yFor(metric.links)}
                   r={isSelected ? 5 : 3.5}
                   className={cn(
-                    isSelected ? "fill-rose-600 dark:fill-rose-200" : "fill-white dark:fill-stone-950",
-                    "stroke-rose-500 dark:stroke-rose-300",
+                    isSelected ? "fill-stone-900 dark:fill-stone-100" : "fill-white dark:fill-stone-950",
+                    "stroke-stone-800 dark:stroke-stone-100",
                   )}
                   strokeWidth="2"
                 />
               );
             })}
+            <title>People&apos;s / 81cn stacked node bars with edge-count line</title>
           </svg>
           <div className="mt-2 flex flex-wrap gap-3 text-[11px] font-semibold text-stone-500 dark:text-stone-400">
             <span className="inline-flex items-center gap-1.5">
-              <span className="h-2.5 w-2.5 rounded-sm bg-teal-300 dark:bg-teal-400" />
-              nodes
+              <span className="h-2.5 w-2.5 rounded-sm bg-rose-400 dark:bg-rose-300" />
+              People&apos;s nodes
             </span>
             <span className="inline-flex items-center gap-1.5">
-              <span className="h-0.5 w-5 bg-rose-500 dark:bg-rose-300" />
+              <span className="h-2.5 w-2.5 rounded-sm bg-teal-400 dark:bg-teal-300" />
+              81cn nodes
+            </span>
+            <span className="inline-flex items-center gap-1.5">
+              <span className="h-0.5 w-5 bg-stone-800 dark:bg-stone-100" />
               edges
             </span>
           </div>
@@ -1231,6 +1279,23 @@ function normalizeMetric(value: number | undefined) {
   }
 
   return clamp(value, 0.08, 1);
+}
+
+function niceChartMax(value: number) {
+  if (value <= 10) {
+    return 10;
+  }
+
+  if (value <= 25) {
+    return Math.ceil(value / 5) * 5;
+  }
+
+  if (value <= 120) {
+    return Math.ceil(value / 10) * 10;
+  }
+
+  const magnitude = 10 ** Math.floor(Math.log10(value));
+  return Math.ceil(value / magnitude) * magnitude;
 }
 
 function clamp(value: number, min: number, max: number) {
