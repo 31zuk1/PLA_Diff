@@ -65,6 +65,8 @@ type SimNode = Omit<IssueGraphNode, "degree" | "matchState" | "source"> &
     degree: number;
     matchState: IssueGraphNodeMatchState;
     radius: number;
+    targetX: number;
+    targetY: number;
   };
 
 type SimLink = SimulationLinkDatum<SimNode> & {
@@ -152,6 +154,10 @@ export function IssueGraphView({
       return;
     }
 
+    for (const node of nodes) {
+      keepNodeInCanvas(node, canvasSize);
+    }
+
     paintLinks(context, links, isDarkMode);
     paintNodes(context, nodes, hoveredNodeRef.current?.id, isDarkMode);
   }, [canvasSize, isDarkMode]);
@@ -236,13 +242,13 @@ export function IssueGraphView({
         "link",
         forceLink<SimNode, SimLink>(simulationGraph.links)
           .id((node) => node.id)
-          .distance((link) => 170 - link.confidence * 60 - link.weight * 30)
-          .strength((link) => 0.12 + link.confidence * 0.32),
+          .distance((link) => Math.max(96, 168 - link.confidence * 48 - link.weight * 22))
+          .strength((link) => 0.03 + link.confidence * 0.08),
       )
-      .force("charge", forceManyBody<SimNode>().strength((node) => (node.matchState === "matched" ? -120 : -75)))
-      .force("collision", forceCollide<SimNode>().radius((node) => node.radius + 8).iterations(2))
-      .force("x", forceX<SimNode>((node) => (node.source === "people_daily" ? canvasSize.width * 0.36 : canvasSize.width * 0.64)).strength(0.08))
-      .force("y", forceY<SimNode>(canvasSize.height * 0.52).strength(0.045))
+      .force("charge", forceManyBody<SimNode>().strength((node) => (node.matchState === "matched" ? -138 : -88)))
+      .force("collision", forceCollide<SimNode>().radius((node) => node.radius + 12).iterations(2))
+      .force("x", forceX<SimNode>((node) => node.targetX).strength((node) => (node.matchState === "matched" ? 0.24 : 0.16)))
+      .force("y", forceY<SimNode>((node) => node.targetY).strength((node) => (node.matchState === "matched" ? 0.24 : 0.16)))
       .force("center", forceCenter(canvasSize.width / 2, canvasSize.height / 2))
       .alpha(0.9)
       .alphaDecay(0.035)
@@ -397,9 +403,9 @@ export function IssueGraphView({
                   href={dateHref(date, viewFilter, sortMode)}
                   aria-current={date === dateNavigation.activeDate ? "date" : undefined}
                   className={cn(
-                    "rounded-sm border px-2 py-1 text-[11px] font-semibold transition",
+                    "rounded-sm border px-2 py-1 text-[11px] font-semibold outline-none transition focus-visible:ring-2 focus-visible:ring-teal-400 focus-visible:ring-offset-1 focus-visible:ring-offset-white dark:focus-visible:ring-teal-300 dark:focus-visible:ring-offset-stone-900",
                     date === dateNavigation.activeDate
-                      ? "border-stone-900 bg-stone-900 text-white dark:border-teal-300 dark:bg-teal-300 dark:text-stone-950"
+                      ? "border-teal-500 bg-teal-50 text-teal-900 shadow-[inset_0_0_0_1px_rgba(20,184,166,0.18)] dark:border-teal-500 dark:bg-teal-950/45 dark:text-teal-100"
                       : "border-stone-200 bg-white text-stone-600 hover:border-stone-400 dark:border-stone-700 dark:bg-stone-950 dark:text-stone-300 dark:hover:border-stone-500",
                   )}
                 >
@@ -492,9 +498,9 @@ function DateNavLink({
     <Link
       href={dateHref(date, viewFilter, sortMode)}
       className={cn(
-        "rounded-sm border px-2 py-1 text-[11px] font-semibold transition",
+        "rounded-sm border px-2 py-1 text-[11px] font-semibold outline-none transition focus-visible:ring-2 focus-visible:ring-teal-400 focus-visible:ring-offset-1 focus-visible:ring-offset-white dark:focus-visible:ring-teal-300 dark:focus-visible:ring-offset-stone-900",
         strong
-          ? "border-stone-900 bg-stone-900 text-white hover:bg-stone-700 dark:border-teal-400 dark:bg-teal-400 dark:text-stone-950 dark:hover:bg-teal-300"
+          ? "border-teal-200 bg-teal-50 text-teal-800 hover:border-teal-400 hover:bg-teal-100 dark:border-teal-800/70 dark:bg-teal-950/40 dark:text-teal-200 dark:hover:border-teal-500"
           : "border-stone-200 bg-white text-stone-600 hover:border-stone-400 dark:border-stone-700 dark:bg-stone-950 dark:text-stone-300 dark:hover:border-stone-500",
       )}
     >
@@ -612,14 +618,18 @@ function buildSimulationGraph(graph: IssueGraphData | null | undefined, canvasSi
   const rawLinks = graph?.links ?? [];
   const degreeById = buildDegreeMap(rawNodes, rawLinks);
   const nodeIds = new Set(rawNodes.map((node) => node.id));
+  const ringIndexById = buildRingIndex(rawNodes);
   const nodes: SimNode[] = rawNodes.map((node, index) => {
     const source = canonicalSource(node.source);
     const computedDegree = degreeById.get(node.id) ?? 0;
     const degree = Math.max(computedDegree, node.degree ?? 0);
     const matchState = inferMatchState(node, computedDegree);
     const radius = nodeRadius(matchState, degree);
-    const columnX = source === "people_daily" ? canvasSize.width * 0.34 : canvasSize.width * 0.66;
-    const rowOffset = ((index % 9) - 4) * 18;
+    const ringPoint = graphRingPoint(
+      ringIndexById.get(node.id) ?? index,
+      rawNodes.length,
+      canvasSize,
+    );
 
     return {
       ...node,
@@ -627,8 +637,10 @@ function buildSimulationGraph(graph: IssueGraphData | null | undefined, canvasSi
       degree,
       matchState,
       radius,
-      x: columnX + seededJitter(node.id, 26),
-      y: canvasSize.height * 0.52 + rowOffset + seededJitter(`${node.id}:y`, 34),
+      targetX: ringPoint.x,
+      targetY: ringPoint.y,
+      x: ringPoint.x + seededJitter(node.id, 14),
+      y: ringPoint.y + seededJitter(`${node.id}:y`, 14),
     };
   });
   const links: SimLink[] = rawLinks
@@ -643,6 +655,28 @@ function buildSimulationGraph(graph: IssueGraphData | null | undefined, canvasSi
     }));
 
   return { nodes, links };
+}
+
+function buildRingIndex(nodes: readonly IssueGraphNode[]) {
+  return new Map(
+    [...nodes]
+      .sort((left, right) => seededUnit(left.id) - seededUnit(right.id))
+      .map((node, index) => [node.id, index]),
+  );
+}
+
+function graphRingPoint(index: number, total: number, canvasSize: CanvasSize) {
+  const safeTotal = Math.max(1, total);
+  const angle = ((index + 0.5) / safeTotal) * Math.PI * 2 - Math.PI / 2;
+  const horizontalPadding = canvasSize.width < 720 ? 56 : 84;
+  const verticalPadding = canvasSize.height < 460 ? 54 : 74;
+  const radiusX = Math.max(92, canvasSize.width / 2 - horizontalPadding);
+  const radiusY = Math.max(92, canvasSize.height / 2 - verticalPadding);
+
+  return {
+    x: canvasSize.width / 2 + Math.cos(angle) * radiusX,
+    y: canvasSize.height / 2 + Math.sin(angle) * radiusY,
+  };
 }
 
 function buildDegreeMap(nodes: readonly IssueGraphNode[], links: readonly IssueGraphLink[]) {
@@ -752,39 +786,10 @@ function findNodeAtPoint(nodes: readonly SimNode[], point: CanvasPoint) {
 
 function paintBackground(context: CanvasRenderingContext2D, canvasSize: CanvasSize, isDarkMode: boolean) {
   const palette = graphPalette(isDarkMode);
-  const halfWidth = canvasSize.width / 2;
 
   context.clearRect(0, 0, canvasSize.width, canvasSize.height);
   context.fillStyle = palette.canvas;
   context.fillRect(0, 0, canvasSize.width, canvasSize.height);
-  context.fillStyle = palette.peopleBand;
-  context.fillRect(0, 0, halfWidth, canvasSize.height);
-  context.fillStyle = palette.plaBand;
-  context.fillRect(halfWidth, 0, halfWidth, canvasSize.height);
-
-  context.fillStyle = palette.dot;
-
-  for (let x = 16; x < canvasSize.width; x += 28) {
-    for (let y = 16; y < canvasSize.height; y += 28) {
-      context.fillRect(x, y, 1, 1);
-    }
-  }
-
-  context.strokeStyle = palette.centerLine;
-  context.lineWidth = 1;
-  context.beginPath();
-  context.moveTo(halfWidth, 0);
-  context.lineTo(halfWidth, canvasSize.height);
-  context.stroke();
-
-  context.font = "600 11px Inter, ui-sans-serif, system-ui, sans-serif";
-  context.textBaseline = "top";
-  context.fillStyle = palette.peopleLabel;
-  context.fillText("People", 16, 14);
-  context.fillStyle = palette.plaLabel;
-  context.textAlign = "right";
-  context.fillText("81cn", canvasSize.width - 16, 14);
-  context.textAlign = "left";
 }
 
 function paintEmptyGraph(context: CanvasRenderingContext2D, canvasSize: CanvasSize, isDarkMode: boolean) {
@@ -870,6 +875,16 @@ function paintNodes(context: CanvasRenderingContext2D, nodes: readonly SimNode[]
   }
 }
 
+function keepNodeInCanvas(node: SimNode, canvasSize: CanvasSize) {
+  if (typeof node.x !== "number" || typeof node.y !== "number") {
+    return;
+  }
+
+  const padding = node.radius + 10;
+  node.x = clamp(node.x, padding, canvasSize.width - padding);
+  node.y = clamp(node.y, padding, canvasSize.height - padding);
+}
+
 function linkEndpointNode(endpoint: string | number | SimNode | undefined) {
   return typeof endpoint === "object" && endpoint !== null ? endpoint : null;
 }
@@ -878,12 +893,6 @@ function graphPalette(isDarkMode: boolean) {
   if (isDarkMode) {
     return {
       canvas: "#0f1417",
-      peopleBand: "rgba(244, 63, 94, 0.045)",
-      plaBand: "rgba(45, 212, 191, 0.045)",
-      dot: "rgba(231, 236, 235, 0.13)",
-      centerLine: "rgba(231, 236, 235, 0.12)",
-      peopleLabel: "rgba(253, 164, 175, 0.78)",
-      plaLabel: "rgba(94, 234, 212, 0.78)",
       people: "#fb7185",
       pla: "#2dd4bf",
       link: "#d6d3d1",
@@ -895,12 +904,6 @@ function graphPalette(isDarkMode: boolean) {
 
   return {
     canvas: "#fbfaf8",
-    peopleBand: "rgba(225, 29, 72, 0.05)",
-    plaBand: "rgba(15, 118, 110, 0.05)",
-    dot: "rgba(68, 64, 60, 0.16)",
-    centerLine: "rgba(68, 64, 60, 0.14)",
-    peopleLabel: "rgba(190, 18, 60, 0.72)",
-    plaLabel: "rgba(15, 118, 110, 0.72)",
     people: "#be123c",
     pla: "#0f766e",
     link: "#57534e",
@@ -927,13 +930,17 @@ function clamp(value: number, min: number, max: number) {
 }
 
 function seededJitter(seed: string, span: number) {
+  return (seededUnit(seed) * 2 - 1) * span;
+}
+
+function seededUnit(seed: string) {
   let hash = 0;
 
   for (let index = 0; index < seed.length; index += 1) {
     hash = (hash * 31 + seed.charCodeAt(index)) % 9973;
   }
 
-  return ((hash / 9973) * 2 - 1) * span;
+  return hash / 9973;
 }
 
 function formatIssueDate(date: string) {
