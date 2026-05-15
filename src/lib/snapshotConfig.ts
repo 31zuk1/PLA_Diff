@@ -1,7 +1,7 @@
 export const snapshotSchemaVersion = 1;
 export const snapshotArchivePrefix = "archive";
 export const snapshotIndexPath = `${snapshotArchivePrefix}/index.json`;
-export const defaultSnapshotRetentionDays = 14;
+export const defaultSnapshotRetentionDays = 31;
 export const frontPageNumbers = [1, 2, 3, 4] as const;
 
 export function normalizeIssueDate(value: string | undefined | null) {

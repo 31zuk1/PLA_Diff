@@ -21,7 +21,7 @@ The current PoC focuses on:
 - a collapsible per-date article graph that treats same-day articles as nodes and expands `MACHED` groups into lightweight review links
 - page/PDF/image source links for audit
 - short excerpts only, with outbound article links
-- daily cached snapshots, capped to a short rolling archive
+- daily cached snapshots, capped to a one-month rolling archive
 
 The UI intentionally avoids reproducing full article bodies. Fetched full text is used only server-side during the scheduled snapshot job for extraction and lightweight matching; the browser receives saved short excerpts and metadata. Public page views do not trigger scraping or OpenAI calls.
 
@@ -134,5 +134,5 @@ Recommended Vercel environment variables:
 - `OPENAI_API_KEY`: optional, used only by the snapshot job
 - `OPENAI_MODEL`: optional, defaults to `gpt-4o-mini`
 - `ENABLE_LLM_JUDGE`: optional; set `false` to force local heuristics
-- `SNAPSHOT_RETENTION_DAYS`: optional; defaults to `14`
+- `SNAPSHOT_RETENTION_DAYS`: optional; defaults to `31`
 - `PLA_DIFF_STORAGE=file`: optional local/debug override to avoid Blob even when a token is present
