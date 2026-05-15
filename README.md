@@ -18,6 +18,7 @@ The current PoC focuses on:
 - N-to-M `MACHED` topic groups built from accepted article-pair components
 - three public comparison labels: `MACHED`, `People's only`, and `81cn only`
 - filtering by label and relevance/page-order sorting
+- a collapsible per-date article graph that treats same-day articles as nodes and expands `MACHED` groups into lightweight review links
 - page/PDF/image source links for audit
 - short excerpts only, with outbound article links
 - daily cached snapshots, capped to a short rolling archive
@@ -49,6 +50,7 @@ The live PoC uses:
 - `src/lib/scrapers/plaDaily.ts` for 解放軍報 `index.json`
 - `src/lib/matching.ts` for lightweight candidate scoring and concrete event/policy anchor extraction
 - `src/lib/llmMatching.ts` for high-precision anchor candidate adjudication and N-to-M group construction
+- `src/lib/issueGraph.ts` to derive display-safe graph nodes and MACHED group review links from saved snapshots
 - `src/lib/issueComparison.ts` to strip server-only analysis text before rendering
 - `src/lib/dailySnapshot.ts` to build one display-safe daily snapshot
 - `src/lib/snapshotStorage.ts` to read/write the rolling snapshot archive

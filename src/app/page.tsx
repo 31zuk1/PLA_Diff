@@ -1,7 +1,9 @@
 import { IssueComparisonBoard } from "@/components/IssueComparisonBoard";
+import { IssueGraphView } from "@/components/IssueGraphView";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { canUseLlmJudge } from "@/lib/llmMatching";
 import type { SnapshotCounts, SnapshotIndexEntry } from "@/lib/dailySnapshot";
+import { buildIssueGraph } from "@/lib/issueGraph";
 import {
   issueDateInChinaTime,
   normalizeIssueDate,
@@ -35,6 +37,8 @@ export default async function Home({ searchParams }: HomeProps) {
   const allDisplayGroups = snapshot?.matchGroups ?? [];
   const displayGroups = sortGroups(filterGroups(allDisplayGroups, viewFilter), sortMode);
   const counts = snapshot?.counts ?? emptyCounts();
+  const issueGraph = snapshot ? buildIssueGraph(snapshot) : undefined;
+  const availableGraphDates = snapshotIndex.entries.map((entry) => entry.issueDate);
 
   return (
     <main className="min-h-screen px-4 py-6 transition-colors dark:bg-stone-950 sm:px-6 lg:px-8">
@@ -135,6 +139,20 @@ export default async function Home({ searchParams }: HomeProps) {
           selectedIssueDate={issueDate}
           snapshotExists={Boolean(snapshot)}
         />
+
+        {issueGraph ? (
+          <div className="mt-4" id="graph">
+            <IssueGraphView
+              graph={issueGraph}
+              issueDate={issueDate}
+              selectedDate={issueDate}
+              availableDates={availableGraphDates}
+              viewFilter={viewFilter}
+              sortMode={sortMode}
+              title="Article graph"
+            />
+          </div>
+        ) : null}
 
         <div className="mt-4">
           <IssueComparisonBoard
