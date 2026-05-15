@@ -45,11 +45,22 @@ export interface IssueGraphData {
   links: readonly IssueGraphLink[];
 }
 
+export interface IssueGraphDateMetric {
+  issueDate: string;
+  nodes: number;
+  links: number;
+  peopleNodes: number;
+  plaNodes: number;
+  matchedNodes: number;
+  isolatedNodes: number;
+}
+
 export interface IssueGraphViewProps {
   graph?: IssueGraphData | null;
   issueDate?: string;
   selectedDate?: string;
   availableDates?: readonly string[];
+  dateMetrics?: readonly IssueGraphDateMetric[];
   viewFilter?: string;
   sortMode?: string;
   initiallyExpanded?: boolean;
@@ -89,14 +100,15 @@ type HoverState = {
   y: number;
 };
 
-const compactCanvasHeight = 420;
-const roomyCanvasHeight = 560;
+const compactCanvasHeight = 620;
+const roomyCanvasHeight = 780;
 
 export function IssueGraphView({
   graph,
   issueDate,
   selectedDate,
   availableDates = [],
+  dateMetrics = [],
   viewFilter = "all",
   sortMode = "relevance",
   initiallyExpanded = false,
@@ -203,7 +215,7 @@ export function IssueGraphView({
       const rect = shell.getBoundingClientRect();
       const nextWidth = Math.max(320, Math.floor(rect.width));
       const fallbackHeight = nextWidth < 720 ? compactCanvasHeight : roomyCanvasHeight;
-      const nextHeight = Math.max(360, Math.floor(rect.height || fallbackHeight));
+      const nextHeight = Math.max(560, Math.floor(rect.height || fallbackHeight));
 
       setCanvasSize((current) =>
         current.width === nextWidth && current.height === nextHeight
@@ -418,24 +430,30 @@ export function IssueGraphView({
       </header>
 
       {expanded ? (
-        <div
-          ref={canvasShellRef}
-          className="relative h-[420px] min-h-[360px] w-full bg-stone-50 dark:bg-stone-950 md:h-[560px]"
-        >
-          <canvas
-            ref={canvasRef}
-            role="img"
-            aria-label={`${title}: ${summary.nodes} nodes and ${summary.links} weighted links`}
-            className="block h-full w-full touch-none cursor-crosshair"
-            onPointerDown={handlePointerDown}
-            onPointerLeave={clearHover}
-            onPointerMove={handlePointerMove}
-            onPointerUp={handlePointerUp}
-          />
+        <div className="border-t border-stone-200 bg-stone-50/80 dark:border-stone-800 dark:bg-stone-950">
+          <div
+            ref={canvasShellRef}
+            className="relative h-[620px] min-h-[560px] w-full bg-stone-50 dark:bg-stone-950 md:h-[760px] xl:h-[820px]"
+          >
+            <canvas
+              ref={canvasRef}
+              role="img"
+              aria-label={`${title}: ${summary.nodes} nodes and ${summary.links} weighted links`}
+              className="block h-full w-full touch-none cursor-crosshair"
+              onPointerDown={handlePointerDown}
+              onPointerLeave={clearHover}
+              onPointerMove={handlePointerMove}
+              onPointerUp={handlePointerUp}
+            />
 
-          {summary.nodes === 0 ? <EmptyState /> : null}
-          {hoveredNode ? <NodeTooltip hover={hoveredNode} /> : null}
-          <GraphLegend />
+            {summary.nodes === 0 ? <EmptyState /> : null}
+            {hoveredNode ? <NodeTooltip hover={hoveredNode} /> : null}
+            <GraphLegend />
+          </div>
+          <GraphAnalytics
+            metrics={dateMetrics.length > 0 ? dateMetrics : [metricFromSummary(issueDate, summary)]}
+            selectedDate={selectedDate ?? issueDate}
+          />
         </div>
       ) : (
         <div className="flex flex-wrap items-center gap-x-4 gap-y-1 border-t border-stone-200 px-4 py-2 text-xs font-semibold text-stone-500 dark:border-stone-800 dark:text-stone-400">
@@ -572,6 +590,184 @@ function GraphLegend() {
   );
 }
 
+function GraphAnalytics({
+  metrics,
+  selectedDate,
+}: {
+  metrics: readonly IssueGraphDateMetric[];
+  selectedDate?: string;
+}) {
+  const chartMetrics = [...metrics].sort((left, right) => left.issueDate.localeCompare(right.issueDate));
+  const selectedMetric =
+    chartMetrics.find((metric) => metric.issueDate === selectedDate) ??
+    chartMetrics[chartMetrics.length - 1];
+  const maxValue = Math.max(1, ...chartMetrics.flatMap((metric) => [metric.nodes, metric.links]));
+  const chart = {
+    width: 720,
+    height: 260,
+    left: 44,
+    right: 24,
+    top: 20,
+    bottom: 42,
+  };
+  const plotWidth = chart.width - chart.left - chart.right;
+  const plotHeight = chart.height - chart.top - chart.bottom;
+  const xFor = (index: number) =>
+    chart.left + (chartMetrics.length <= 1 ? plotWidth / 2 : (index / (chartMetrics.length - 1)) * plotWidth);
+  const yFor = (value: number) =>
+    chart.top + plotHeight - (value / maxValue) * plotHeight;
+  const barWidth = Math.min(28, Math.max(12, plotWidth / Math.max(1, chartMetrics.length) * 0.45));
+  const linePath = chartMetrics
+    .map((metric, index) => `${index === 0 ? "M" : "L"} ${xFor(index)} ${yFor(metric.links)}`)
+    .join(" ");
+
+  return (
+    <section className="border-t border-stone-200 bg-white p-4 dark:border-stone-800 dark:bg-stone-950">
+      <div className="grid gap-4 xl:grid-cols-[280px_minmax(0,1fr)]">
+        <div>
+          <p className="text-[11px] font-semibold uppercase tracking-wide text-stone-500 dark:text-stone-400">
+            Graph analytics
+          </p>
+          <h3 className="mt-1 text-base font-semibold text-stone-950 dark:text-stone-50">
+            日付別のノード数 / エッジ数
+          </h3>
+          <dl className="mt-4 grid grid-cols-2 gap-2 text-xs">
+            <AnalyticsStat label="selected" value={selectedMetric?.issueDate ?? "-"} />
+            <AnalyticsStat label="nodes" value={`${selectedMetric?.nodes ?? 0}`} />
+            <AnalyticsStat label="edges" value={`${selectedMetric?.links ?? 0}`} />
+            <AnalyticsStat label="matched nodes" value={`${selectedMetric?.matchedNodes ?? 0}`} />
+          </dl>
+        </div>
+
+        <div className="min-w-0 rounded-md border border-stone-200 bg-stone-50/70 p-3 dark:border-stone-800 dark:bg-stone-900/40">
+          <svg
+            viewBox={`0 0 ${chart.width} ${chart.height}`}
+            role="img"
+            aria-label="日付ごとのノード数を棒、エッジ数を折線で表示"
+            className="h-[260px] w-full overflow-visible"
+          >
+            <line
+              x1={chart.left}
+              x2={chart.width - chart.right}
+              y1={chart.top + plotHeight}
+              y2={chart.top + plotHeight}
+              className="stroke-stone-300 dark:stroke-stone-700"
+            />
+            <line
+              x1={chart.left}
+              x2={chart.left}
+              y1={chart.top}
+              y2={chart.top + plotHeight}
+              className="stroke-stone-200 dark:stroke-stone-800"
+            />
+            {[0.5, 1].map((tick) => (
+              <g key={tick}>
+                <line
+                  x1={chart.left}
+                  x2={chart.width - chart.right}
+                  y1={yFor(maxValue * tick)}
+                  y2={yFor(maxValue * tick)}
+                  className="stroke-stone-200 dark:stroke-stone-800"
+                  strokeDasharray="4 6"
+                />
+                <text
+                  x={chart.left - 10}
+                  y={yFor(maxValue * tick) + 4}
+                  textAnchor="end"
+                  className="fill-stone-400 text-[11px] font-semibold dark:fill-stone-500"
+                >
+                  {Math.round(maxValue * tick)}
+                </text>
+              </g>
+            ))}
+
+            {chartMetrics.map((metric, index) => {
+              const x = xFor(index);
+              const y = yFor(metric.nodes);
+              const height = chart.top + plotHeight - y;
+              const isSelected = metric.issueDate === selectedDate;
+
+              return (
+                <g key={metric.issueDate}>
+                  <rect
+                    x={x - barWidth / 2}
+                    y={y}
+                    width={barWidth}
+                    height={height}
+                    rx="3"
+                    className={cn(
+                      isSelected
+                        ? "fill-teal-400 dark:fill-teal-300"
+                        : "fill-teal-200 dark:fill-teal-900",
+                    )}
+                  />
+                  <text
+                    x={x}
+                    y={chart.height - 18}
+                    textAnchor="middle"
+                    className={cn(
+                      "fill-stone-500 text-[10px] font-semibold dark:fill-stone-400",
+                      isSelected && "fill-teal-800 dark:fill-teal-200",
+                    )}
+                  >
+                    {metric.issueDate.slice(5).replace("-", "/")}
+                  </text>
+                </g>
+              );
+            })}
+
+            {linePath ? (
+              <path
+                d={linePath}
+                fill="none"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="3"
+                className="stroke-rose-500 dark:stroke-rose-300"
+              />
+            ) : null}
+            {chartMetrics.map((metric, index) => {
+              const isSelected = metric.issueDate === selectedDate;
+              return (
+                <circle
+                  key={`${metric.issueDate}-edge-point`}
+                  cx={xFor(index)}
+                  cy={yFor(metric.links)}
+                  r={isSelected ? 5 : 3.5}
+                  className={cn(
+                    isSelected ? "fill-rose-600 dark:fill-rose-200" : "fill-white dark:fill-stone-950",
+                    "stroke-rose-500 dark:stroke-rose-300",
+                  )}
+                  strokeWidth="2"
+                />
+              );
+            })}
+          </svg>
+          <div className="mt-2 flex flex-wrap gap-3 text-[11px] font-semibold text-stone-500 dark:text-stone-400">
+            <span className="inline-flex items-center gap-1.5">
+              <span className="h-2.5 w-2.5 rounded-sm bg-teal-300 dark:bg-teal-400" />
+              nodes
+            </span>
+            <span className="inline-flex items-center gap-1.5">
+              <span className="h-0.5 w-5 bg-rose-500 dark:bg-rose-300" />
+              edges
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function AnalyticsStat({ label, value }: { label: string; value: string }) {
+  return (
+    <div className="rounded-sm border border-stone-200 bg-stone-50 px-2.5 py-2 dark:border-stone-800 dark:bg-stone-900/70">
+      <dt className="font-semibold uppercase tracking-wide text-stone-400 dark:text-stone-500">{label}</dt>
+      <dd className="mt-1 truncate text-sm font-semibold text-stone-950 dark:text-stone-50">{value}</dd>
+    </div>
+  );
+}
+
 function GraphScopePill({ label }: { label: string }) {
   return (
     <span className="rounded-sm border border-stone-200 bg-white px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-stone-500 dark:border-stone-700 dark:bg-stone-950 dark:text-stone-400">
@@ -613,12 +809,27 @@ function summarizeGraph(graph?: IssueGraphData | null) {
   };
 }
 
+function metricFromSummary(
+  issueDate: string | undefined,
+  summary: ReturnType<typeof summarizeGraph>,
+): IssueGraphDateMetric {
+  return {
+    issueDate: issueDate ?? "unknown-date",
+    nodes: summary.nodes,
+    links: summary.links,
+    peopleNodes: summary.peopleNodes,
+    plaNodes: summary.plaNodes,
+    matchedNodes: summary.matchedNodes,
+    isolatedNodes: summary.isolatedNodes,
+  };
+}
+
 function buildSimulationGraph(graph: IssueGraphData | null | undefined, canvasSize: CanvasSize) {
   const rawNodes = graph?.nodes ?? [];
   const rawLinks = graph?.links ?? [];
   const degreeById = buildDegreeMap(rawNodes, rawLinks);
   const nodeIds = new Set(rawNodes.map((node) => node.id));
-  const ringIndexById = buildRingIndex(rawNodes);
+  const ringIndexById = buildRingIndex(rawNodes, rawLinks);
   const nodes: SimNode[] = rawNodes.map((node, index) => {
     const source = canonicalSource(node.source);
     const computedDegree = degreeById.get(node.id) ?? 0;
@@ -657,26 +868,123 @@ function buildSimulationGraph(graph: IssueGraphData | null | undefined, canvasSi
   return { nodes, links };
 }
 
-function buildRingIndex(nodes: readonly IssueGraphNode[]) {
+function buildRingIndex(nodes: readonly IssueGraphNode[], links: readonly IssueGraphLink[]) {
+  const nodeIds = new Set(nodes.map((node) => node.id));
+  const adjacency = new Map<string, Set<string>>();
+
+  for (const node of nodes) {
+    adjacency.set(node.id, new Set());
+  }
+
+  for (const link of links) {
+    if (!nodeIds.has(link.source) || !nodeIds.has(link.target)) {
+      continue;
+    }
+
+    adjacency.get(link.source)?.add(link.target);
+    adjacency.get(link.target)?.add(link.source);
+  }
+
+  const visited = new Set<string>();
+  const nodeById = new Map(nodes.map((node) => [node.id, node]));
+  const components: IssueGraphNode[][] = [];
+
+  for (const node of [...nodes].sort((left, right) => nodeDegree(right, adjacency) - nodeDegree(left, adjacency))) {
+    if (visited.has(node.id)) {
+      continue;
+    }
+
+    const queue = [node.id];
+    const component: IssueGraphNode[] = [];
+    visited.add(node.id);
+
+    while (queue.length > 0) {
+      const nodeId = queue.shift();
+      const current = nodeId ? nodeById.get(nodeId) : undefined;
+
+      if (!current) {
+        continue;
+      }
+
+      component.push(current);
+
+      for (const neighborId of adjacency.get(current.id) ?? []) {
+        if (visited.has(neighborId)) {
+          continue;
+        }
+
+        visited.add(neighborId);
+        queue.push(neighborId);
+      }
+    }
+
+    components.push(sortRingComponent(component, adjacency));
+  }
+
+  const orderedNodes = components
+    .sort((left, right) => componentRank(left, adjacency) - componentRank(right, adjacency))
+    .flat();
+
   return new Map(
-    [...nodes]
-      .sort((left, right) => seededUnit(left.id) - seededUnit(right.id))
-      .map((node, index) => [node.id, index]),
+    orderedNodes.map((node, index) => [node.id, index]),
   );
 }
 
 function graphRingPoint(index: number, total: number, canvasSize: CanvasSize) {
   const safeTotal = Math.max(1, total);
   const angle = ((index + 0.5) / safeTotal) * Math.PI * 2 - Math.PI / 2;
-  const horizontalPadding = canvasSize.width < 720 ? 56 : 84;
-  const verticalPadding = canvasSize.height < 460 ? 54 : 74;
-  const radiusX = Math.max(92, canvasSize.width / 2 - horizontalPadding);
-  const radiusY = Math.max(92, canvasSize.height / 2 - verticalPadding);
+  const padding = canvasSize.width < 720 ? 54 : 82;
+  const radius = Math.max(120, Math.min(canvasSize.width, canvasSize.height) / 2 - padding);
 
   return {
-    x: canvasSize.width / 2 + Math.cos(angle) * radiusX,
-    y: canvasSize.height / 2 + Math.sin(angle) * radiusY,
+    x: canvasSize.width / 2 + Math.cos(angle) * radius,
+    y: canvasSize.height / 2 + Math.sin(angle) * radius,
   };
+}
+
+function sortRingComponent(
+  component: readonly IssueGraphNode[],
+  adjacency: Map<string, Set<string>>,
+) {
+  const sorted = [...component].sort(
+    (left, right) =>
+      nodeDegree(right, adjacency) - nodeDegree(left, adjacency) ||
+      seededUnit(left.id) - seededUnit(right.id),
+  );
+  const people = sorted.filter((node) => canonicalSource(node.source) === "people_daily");
+  const pla = sorted.filter((node) => canonicalSource(node.source) === "pla_daily");
+  const ordered: IssueGraphNode[] = [];
+  const maxLength = Math.max(people.length, pla.length);
+
+  for (let index = 0; index < maxLength; index += 1) {
+    const first = people.length >= pla.length ? people[index] : pla[index];
+    const second = people.length >= pla.length ? pla[index] : people[index];
+
+    if (first) {
+      ordered.push(first);
+    }
+
+    if (second) {
+      ordered.push(second);
+    }
+  }
+
+  return ordered;
+}
+
+function componentRank(
+  component: readonly IssueGraphNode[],
+  adjacency: Map<string, Set<string>>,
+) {
+  const connected = component.some((node) => nodeDegree(node, adjacency) > 0) ? 0 : 1;
+  const sizeRank = -component.length / 1000;
+  const seedRank = seededUnit(component[0]?.id ?? "");
+
+  return connected + sizeRank + seedRank / 100;
+}
+
+function nodeDegree(node: IssueGraphNode, adjacency: Map<string, Set<string>>) {
+  return adjacency.get(node.id)?.size ?? 0;
 }
 
 function buildDegreeMap(nodes: readonly IssueGraphNode[], links: readonly IssueGraphLink[]) {

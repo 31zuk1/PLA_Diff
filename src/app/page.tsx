@@ -1,8 +1,8 @@
 import { IssueComparisonBoard } from "@/components/IssueComparisonBoard";
-import { IssueGraphView } from "@/components/IssueGraphView";
+import { IssueGraphView, type IssueGraphDateMetric } from "@/components/IssueGraphView";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { canUseLlmJudge } from "@/lib/llmMatching";
-import type { SnapshotCounts, SnapshotIndexEntry } from "@/lib/dailySnapshot";
+import type { DailyIssueSnapshot, SnapshotCounts, SnapshotIndexEntry } from "@/lib/dailySnapshot";
 import { buildIssueGraph } from "@/lib/issueGraph";
 import {
   issueDateInChinaTime,
@@ -39,6 +39,11 @@ export default async function Home({ searchParams }: HomeProps) {
   const counts = snapshot?.counts ?? emptyCounts();
   const issueGraph = snapshot ? buildIssueGraph(snapshot) : undefined;
   const availableGraphDates = snapshotIndex.entries.map((entry) => entry.issueDate);
+  const graphDateMetrics = await buildGraphDateMetrics(
+    snapshotIndex.entries,
+    issueDate,
+    snapshot,
+  );
 
   return (
     <main className="min-h-screen px-4 py-6 transition-colors dark:bg-stone-950 sm:px-6 lg:px-8">
@@ -147,6 +152,7 @@ export default async function Home({ searchParams }: HomeProps) {
               issueDate={issueDate}
               selectedDate={issueDate}
               availableDates={availableGraphDates}
+              dateMetrics={graphDateMetrics}
               viewFilter={viewFilter}
               sortMode={sortMode}
               title="Article graph"
@@ -246,6 +252,45 @@ function groupSourceRank(group: ArticleMatchGroup) {
   }
 
   return group.matchType === "people_only" ? 1 : 2;
+}
+
+async function buildGraphDateMetrics(
+  entries: SnapshotIndexEntry[],
+  selectedIssueDate: string,
+  selectedSnapshot?: DailyIssueSnapshot | null,
+): Promise<IssueGraphDateMetric[]> {
+  return Promise.all(
+    entries.map(async (entry) => {
+      const archivedSnapshot =
+        entry.issueDate === selectedIssueDate
+          ? selectedSnapshot
+          : await readDailyIssueSnapshot(entry.issueDate);
+
+      if (!archivedSnapshot) {
+        return {
+          issueDate: entry.issueDate,
+          nodes: entry.peopleArticles + entry.plaArticles,
+          links: entry.matchedGroups,
+          peopleNodes: entry.peopleArticles,
+          plaNodes: entry.plaArticles,
+          matchedNodes: entry.matchedPeopleArticles + entry.matchedPlaArticles,
+          isolatedNodes: entry.peopleOnlyArticles + entry.plaOnlyArticles,
+        };
+      }
+
+      const graph = buildIssueGraph(archivedSnapshot);
+
+      return {
+        issueDate: entry.issueDate,
+        nodes: graph.counts.nodes,
+        links: graph.counts.links,
+        peopleNodes: graph.counts.peopleNodes,
+        plaNodes: graph.counts.plaNodes,
+        matchedNodes: graph.counts.matchedNodes,
+        isolatedNodes: graph.counts.isolatedNodes,
+      };
+    }),
+  );
 }
 
 function emptyCounts(): SnapshotCounts {
