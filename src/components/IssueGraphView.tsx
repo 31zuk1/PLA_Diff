@@ -100,8 +100,8 @@ type HoverState = {
   y: number;
 };
 
-const compactCanvasHeight = 620;
-const roomyCanvasHeight = 780;
+const compactCanvasHeight = 460;
+const roomyCanvasHeight = 560;
 
 export function IssueGraphView({
   graph,
@@ -215,7 +215,7 @@ export function IssueGraphView({
       const rect = shell.getBoundingClientRect();
       const nextWidth = Math.max(320, Math.floor(rect.width));
       const fallbackHeight = nextWidth < 720 ? compactCanvasHeight : roomyCanvasHeight;
-      const nextHeight = Math.max(560, Math.floor(rect.height || fallbackHeight));
+      const nextHeight = Math.max(420, Math.floor(rect.height || fallbackHeight));
 
       setCanvasSize((current) =>
         current.width === nextWidth && current.height === nextHeight
@@ -254,13 +254,13 @@ export function IssueGraphView({
         "link",
         forceLink<SimNode, SimLink>(simulationGraph.links)
           .id((node) => node.id)
-          .distance((link) => Math.max(96, 168 - link.confidence * 48 - link.weight * 22))
-          .strength((link) => 0.03 + link.confidence * 0.08),
+          .distance((link) => Math.max(72, 124 - link.confidence * 34 - link.weight * 14))
+          .strength((link) => 0.045 + link.confidence * 0.1),
       )
-      .force("charge", forceManyBody<SimNode>().strength((node) => (node.matchState === "matched" ? -138 : -88)))
-      .force("collision", forceCollide<SimNode>().radius((node) => node.radius + 12).iterations(2))
-      .force("x", forceX<SimNode>((node) => node.targetX).strength((node) => (node.matchState === "matched" ? 0.24 : 0.16)))
-      .force("y", forceY<SimNode>((node) => node.targetY).strength((node) => (node.matchState === "matched" ? 0.24 : 0.16)))
+      .force("charge", forceManyBody<SimNode>().strength((node) => (node.matchState === "matched" ? -78 : -46)))
+      .force("collision", forceCollide<SimNode>().radius((node) => node.radius + 8).iterations(2))
+      .force("x", forceX<SimNode>((node) => node.targetX).strength((node) => (node.matchState === "matched" ? 0.18 : 0.12)))
+      .force("y", forceY<SimNode>((node) => node.targetY).strength((node) => (node.matchState === "matched" ? 0.18 : 0.12)))
       .force("center", forceCenter(canvasSize.width / 2, canvasSize.height / 2))
       .alpha(0.9)
       .alphaDecay(0.035)
@@ -433,7 +433,7 @@ export function IssueGraphView({
         <div className="border-t border-stone-200 bg-stone-50/80 dark:border-stone-800 dark:bg-stone-950">
           <div
             ref={canvasShellRef}
-            className="relative h-[620px] min-h-[560px] w-full bg-stone-50 dark:bg-stone-950 md:h-[760px] xl:h-[820px]"
+            className="relative h-[460px] min-h-[420px] w-full bg-stone-50 dark:bg-stone-950 md:h-[540px] xl:h-[580px]"
           >
             <canvas
               ref={canvasRef}
@@ -981,8 +981,8 @@ function buildRingIndex(nodes: readonly IssueGraphNode[], links: readonly IssueG
 function graphRingPoint(index: number, total: number, canvasSize: CanvasSize) {
   const safeTotal = Math.max(1, total);
   const angle = ((index + 0.5) / safeTotal) * Math.PI * 2 - Math.PI / 2;
-  const padding = canvasSize.width < 720 ? 54 : 82;
-  const radius = Math.max(120, Math.min(canvasSize.width, canvasSize.height) / 2 - padding);
+  const radiusRatio = canvasSize.width < 720 ? 0.2 : 0.22;
+  const radius = Math.max(76, Math.min(canvasSize.width, canvasSize.height) * radiusRatio);
 
   return {
     x: canvasSize.width / 2 + Math.cos(angle) * radius,
