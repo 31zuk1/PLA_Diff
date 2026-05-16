@@ -1,0 +1,2370 @@
+{
+  "schemaVersion": 1,
+  "issueDate": "2026-05-16",
+  "generatedAt": "2026-05-16T09:10:14.028Z",
+  "retentionDays": 31,
+  "frontPages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "judge": {
+    "enabled": true,
+    "model": "gpt-4.1-nano"
+  },
+  "peopleIssue": {
+    "id": "people_daily:2026-05-16",
+    "source": "people_daily",
+    "issueDate": "2026-05-16",
+    "pages": [
+      {
+        "id": "people_daily:2026-05-16:p01",
+        "source": "people_daily",
+        "issueDate": "2026-05-16",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30157119",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平同美国总统特朗普在中南海小范围会晤",
+            "excerpt": "新华社北京5月15日电 （记者杨依军、孙奕）5月15日上午，国家主席习近平在中南海同美国总统特朗普举行小范围会晤。 春末夏初的中南海，绿荫渐浓、草木葱茏。特朗普抵达时，习近平热情迎接。两国元首边走边谈，不时驻足观赏园中苍劲挺拔的古树和各色月季。 习近平指出，特朗普总统此访是一次历史性、标志性的访问，我们共同确定了中美建设性战略稳定关系的新定位，就保持经贸关…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157119.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:08.485Z"
+            }
+          },
+          {
+            "id": "people_daily:30157121",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "构建“中美建设性战略稳定关系”是最重要政治共识",
+            "subtitle": "——中美元首会晤是一次历史性会晤，达成丰富成果",
+            "excerpt": "新华社北京5月15日电 应国家主席习近平邀请，美国总统特朗普于5月13日至15日对中国进行国事访问。中共中央政治局委员、外交部长王毅15日向媒体介绍中美元首会晤情况和共识。 一、中美两国各界和国际社会高度关注美国总统特朗普此次访华，对两国元首会晤有何评价？ 王毅：此访期间，习近平主席同特朗普总统就事关中美关系以及世界和平发展的重大问题持续进行坦诚、深入、建…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157121.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:08.520Z"
+            }
+          },
+          {
+            "id": "people_daily:30157122",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "“让2026年成为中美关系继往开来的历史性、标志性年份”",
+            "author": "本报记者 杜尚泽 胡泽曦",
+            "excerpt": "时间：5月14日上午 日程：中美元首会谈 人民大会堂前，中美元首拾阶而上。暖风扑面，他们亲切交谈着，人们目光追随着他们的身影，望见他们驻足、转身，面向刚刚举行了隆重欢迎仪式的东门外广场。 举目远眺。天安门、故宫、国家博物馆、人民英雄纪念碑，还有此刻悬挂着中美两国国旗的长安街，文明中国的古老沧桑、现代中国的万千气象，让人感慨良多。 他们并肩步入人民大会堂，在…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157122.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:08.515Z"
+            }
+          },
+          {
+            "id": "people_daily:30157120",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "做强做优做大实体经济",
+            "excerpt": "新华社北京5月15日电 5月16日出版的第10期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《做强做优做大实体经济》。这是习近平总书记2016年12月至2025年12月期间有关重要论述的节录。 文章强调，实体经济是一国经济的立身之本，是财富创造的根本源泉，是国家强盛的重要支柱。不论经济发展到什么时候，实体经济都是我国经济发展、我…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157120.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:08.392Z"
+            }
+          },
+          {
+            "id": "people_daily:30157123",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "李强主持召开国务院常务会议",
+            "subtitle": "听取贯彻落实中央城市工作会议部署和实施城市更新进展情况汇报，审议通过《城市更新“十五五”规划》《加快农业农村现代化“十五五”规划》，研究人口发展有关工作，研究基础教育改革发展有关工作",
+            "excerpt": "新华社北京5月15日电 国务院总理李强5月15日主持召开国务院常务会议，听取贯彻落实中央城市工作会议部署和实施城市更新进展情况汇报，审议通过《城市更新“十五五”规划》《加快农业农村现代化“十五五”规划》，研究人口发展有关工作，研究基础教育改革发展有关工作。 会议指出，中央城市工作会议以来，各地区各部门深入贯彻党中央决策部署，采取一系列推进城市高质量发展的举…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157123.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:08.480Z"
+            }
+          },
+          {
+            "id": "people_daily:30157124",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "人大要围绕中心依法履职 为实施好“十五五”规划作贡献",
+            "excerpt": "新华社贵阳5月15日电 中共中央政治局常委、全国人大常委会委员长赵乐际5月13日至15日在贵州调研。他强调，要坚持以习近平新时代中国特色社会主义思想为指导，紧紧围绕党和国家中心任务，立足人大职能职责，依法有序推进各项工作，为实施好“十五五”规划、推进中国式现代化建设作贡献。 赵乐际先后来到黔南州、贵阳市，深入人大代表联络室、企业、乡村和农户家中，同人大代表…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157124.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:08.475Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/16/d067c981-0d05-47a4-93ec-ba028a5244f7.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/16/cfd47cde-7d0b-4101-8a81-863e4be1c8e2.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:10:08.521Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-16:p02",
+        "source": "people_daily",
+        "issueDate": "2026-05-16",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30157125",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "走出一条新时代大国正确相处之道",
+            "excerpt": "应国家主席习近平邀请，美国总统特朗普于5月13日至15日对中国进行国事访问。此访期间，习近平主席同特朗普总统就事关中美关系以及世界和平发展的重大问题持续进行坦诚、深入、建设性、战略性沟通，积极探索两个大国的正确相处之道，并就此达成一系列共识。接受本报记者采访的多国人士表示，此次两国元首会晤具有战略意义和深远影响，为中美关系稳定、健康、可持续发展指明方向，为…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157125.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:08.854Z"
+            }
+          },
+          {
+            "id": "people_daily:30157126",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "相向而行，共同开启中美关系新篇章（钟声）",
+            "excerpt": "面对历史之问、世界之问、人民之问，两国元首立足时代潮流、把握共同利益，就构建“中美建设性战略稳定关系”达成共识，正是于复杂变局中领航掌舵的关键之举，致力于共同书写时代答卷 5月14日上午，习近平主席在北京人民大会堂同来华进行国事访问的美国总统特朗普举行会谈。两国元首就构建“中美建设性战略稳定关系”新定位达成共识，为未来3年乃至更长时间的中美关系提供了战略指…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157126.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:08.850Z"
+            }
+          },
+          {
+            "id": "people_daily:30157127",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "习近平主席特别代表、国务院副总理张国清将赴阿塞拜疆出席第十三届世界城市论坛领导人峰会",
+            "excerpt": "本报北京5月15日电 （记者李欣怡）外交部发言人5月15日宣布：国家主席习近平特别代表、中共中央政治局委员、国务院副总理张国清将于5月17日至…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157127.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:08.851Z"
+            }
+          },
+          {
+            "id": "people_daily:30157128",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "构建“中美建设性战略稳定关系”是最重要政治共识",
+            "subtitle": "——中美元首会晤是一次历史性会晤，达成丰富成果",
+            "excerpt": "新华社北京5月15日电 应国家主席习近平邀请，美国总统特朗普于5月13日至15日对中国进行国事访问。中共中央政治局委员、外交部长王毅15日向媒体介绍中美元首会晤情况和共识。 一、中美两国各界和国际社会高度关注美国总统特朗普此次访华，对两国元首会晤有何评价？ 王毅：此访期间，习近平主席同特朗普总统就事关中美关系以及世界和平发展的重大问题持续进行坦诚、深入、建…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157128.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:08.901Z"
+            }
+          },
+          {
+            "id": "people_daily:30157129",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "外交部发言人就美国总统特朗普访华情况答记者问",
+            "excerpt": "新华社北京5月15日电 外交部发言人15日就美国总统特朗普访华情况答记者问。 有记者问：5月14日，习近平主席为正在访华的美国总统特朗普举行系列国事活动，国内外高度关注。中方能否进一步介绍相关情况？ 发言人表示，应习近平主席邀请，美国总统特朗普正在对中国进行国事访问。这是中美两国元首继去年10月釜山之后再次面对面会晤，也是美国总统时隔9年再次访华。5月14…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157129.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:08.851Z"
+            }
+          },
+          {
+            "id": "people_daily:30157130",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "外交部发言人就伊朗局势答记者问",
+            "excerpt": "新华社北京5月15日电 外交部发言人15日就伊朗局势答记者问。 有记者问：据报道，特朗普总统访华期间，中美两国元首就中东局势等重大国际和地区问题交换了意见。请问双方是否谈及伊朗局势？中方对当前伊朗局势有何看法？ 发言人表示，中方在伊朗局势上的立场十分明确。这场战事已对包括伊朗在内的地区各国人民造成严重损失，外溢影响还在持续扩大，严重冲击世界经济发展、产供链…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157130.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:08.852Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/16/6054f533-6a55-4e05-b1fa-d0fd40cf1d5a.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/16/1b01128b-d5df-4bd0-9273-be500b8b4d6a.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:10:08.901Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-16:p03",
+        "source": "people_daily",
+        "issueDate": "2026-05-16",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30157131",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "深学笃行习近平总书记关于树立和践行正确政绩观的重要论述",
+            "excerpt": "本报北京5月15日电 （记者何昭宇）中央党校（国家行政学院）15日举行2026年春季学期第二批进修班开学典礼，中央党校（国家行政学院）校长（院长）陈希出席并讲话，强调要以习近平新时代中国特色社会主义思想为指导，深学笃行习近平总书记关于树立和践行正确政绩观的重要论述，锐意进取、埋头苦干，创造经得起实践、人民、历史检验的实绩，奋力开创中国式现代化建设新局面。…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157131.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.065Z"
+            }
+          },
+          {
+            "id": "people_daily:30157132",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "安徽以创新激活发展动能（开局起步“十五五”·专题新闻发布）",
+            "author": "本报记者 张志锋 罗阳奇",
+            "excerpt": "5月15日，开局起步“十五五”安徽专场新闻发布会在合肥举行。安徽省委副书记、省长王清宪表示，深入贯彻习近平总书记对安徽工作的重要指示要求，安徽要在打造具有重要影响力的科技创新策源地、新兴产业聚集地、改革开放新高地、经济社会发展全面绿色转型区上持续发力，奋力谱写中国式现代化安徽篇章。 进一步擦亮科技创新名片 创新是安徽推动高质量发展的关键变量。过去5年，安徽…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157132.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.195Z"
+            }
+          },
+          {
+            "id": "people_daily:30157133",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "人工智能相关产品拉动外贸增长（经济新方位）",
+            "subtitle": "前4月集成电路出口额增长78.3%、工业机器人出口额增长30%",
+            "author": "本报记者 欧阳洁",
+            "excerpt": "4月份，中国外贸延续一季度增长态势，表现依然强劲。海关总署发布的数据显示：今年前4个月，我国货物贸易进出口总值16.23万亿元，同比增长14.9%，累计增速与一季度基本持平。4月当月进出口4.38万亿元，同比增长14.2%。其中，出口同比增长9.8%，较3月大幅加快10.5个百分点；进口1.9万亿元，增长20.6%。 市场普遍认为，当前，外部需求回暖，4月…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157133.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.194Z"
+            }
+          },
+          {
+            "id": "people_daily:30157134",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "破除妨碍统一市场和公平竞争卡点堵点",
+            "excerpt": "本报北京5月15日电 （记者林丽鹂）市场监管总局近日印发方案：今年5月至12月，开展破除妨碍统一市场和公平竞争卡点堵点专项行动。 专项行动紧盯妨碍企业公平准入与自主经营、限制商品要素自由流动、资质认定内外有别、不当实施信用评价设置招投标隐性壁垒4类堵点，进一步加大执法、审查、抽查力度，依法从严纠治不当干预市场竞争问题。 到年底，依法查办一批重大案件，推动废…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157134.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.203Z"
+            }
+          },
+          {
+            "id": "people_daily:30157135",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "教会机器人全自动焊接深海装备（海洋经济高质量发展一线见闻）",
+            "author": "本报记者 靳 博 张艺开",
+            "excerpt": "手腕僵硬，小臂紧绷，摆动滞涩……这是在国际顶尖焊接大赛摘金的全国技术能手？看着眼前磕磕绊绊的施焊动作，记者不由疑惑。 “我在学习机器人的动作。”刘海林是海洋石油工程股份有限公司天津智能制造基地国家级技能大师工作室领衔人，“想做好智能焊接机器人的‘老师’，得先做好它们的‘徒弟’。” 为什么这么说？ 刘海林所在的制造基地位于天津滨海新区，靠近渤海油田，就近生产…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157135.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.197Z"
+            }
+          },
+          {
+            "id": "people_daily:30157136",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "云南德钦县城避险搬迁首批安置房交房",
+            "excerpt": "本报昆明5月15日电 （记者杨文明）近日，云南省迪庆藏族自治州德钦县城避险搬迁首批安置房在叶枝镇交房。182栋安置房集中交付，414户群众领到新房钥匙，开启新生活。 德钦老县城升平镇海拔3400米，地质灾害隐患突出，3076户群众生命财产安全受到威胁。为消除风险，迪庆州启动县城整体避险搬迁。 此次交付的安置房总建筑面积约9…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157136.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.192Z"
+            }
+          },
+          {
+            "id": "people_daily:30157137",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "普惠小微贷款余额同比增长10.5%",
+            "excerpt": "本报北京5月15日电 （记者吴秋余）中国人民银行发布的数据显示：前4月，我国社会融资规模增量累计为15.45万亿元。截至4月末，社会融资规模存量为456.89万亿元，同比增长7.8%，广义货币（M 2 ）余额353.04万亿元，同比增长8.6%。M 2 和社会融资规模增速均保持在合理水平，为经济持续向好向优创造适宜的货币金融环境。 前4月，贷款规模保持合理…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157137.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.370Z"
+            }
+          },
+          {
+            "id": "people_daily:30157138",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "一季度职工基本医疗保险缴费收入增5.3%",
+            "subtitle": "基本医保参保人数稳定在13亿以上",
+            "excerpt": "本报北京5月15日电 （记者王观）记者从国家税务总局获悉：今年一季度，我国职工基本医疗保险缴费收入实现5981亿元，同比增长5.3%。2026年属期的城乡居民基本医疗保险集中参保缴费工作基本结束，缴费收入实现3504亿元。 税务数据显示，今年一季度，缴纳基本医疗保险费的职工人数为2.6亿人，同比增长1.8%；加上城乡居民医保参保人员、退休人员等，我国基本医…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157138.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.371Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/16/ef7ebf5d-250d-4f10-b8a6-34970b36371c.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/16/053e01de-c0e3-478c-b5ad-962f1551eaef.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:10:09.371Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-16:p04",
+        "source": "people_daily",
+        "issueDate": "2026-05-16",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30157139",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "中央宣传部、全国妇联联合发布二〇二六年“最美家庭”",
+            "excerpt": "新华社北京5月15日电 为深入学习贯彻习近平总书记关于注重家庭家教家风建设的重要论述，大力弘扬社会主义家庭文明新风尚，中央宣传部、全国妇联向全社会发布2026年“最美家庭”。 刘闯、庞卫涛、赵娟娟、申芸、张国利、张耘、韩光莹、石慧、何鸿英、隋亚平等10户家庭光荣入选。他们有的潜心钻研，在航天强国、大国工程建设一线拼搏奉献；有的携手扎根乡村，用汗水和智慧团结…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157139.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.624Z"
+            }
+          },
+          {
+            "id": "people_daily:30157140",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "厚植家国情 奋进“十五五”",
+            "subtitle": "——走近2026年“最美家庭”",
+            "author": "本报记者 杨 昊",
+            "excerpt": "家是最小国，国是千万家，家庭的命运同国家和民族的前途命运紧密相连。 中央宣传部、全国妇联联合发布了10户2026年“最美家庭”的先进事迹。这些家庭弘扬家庭美德、传承优良家风，把实现个人梦、家庭梦融入国家梦、民族梦之中，在奋斗中收获幸福，在追梦中成就精彩。 实干立家：坚守岗位彰显家国情怀 以实干践行初心使命，以担当彰显家国情怀。 中国航天科技集团研究员刘闯，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157140.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.755Z"
+            }
+          },
+          {
+            "id": "people_daily:30157141",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "谌贻琴出席亚太经合组织妇女与经济论坛开幕式并致辞",
+            "excerpt": "本报上海5月15日电 （记者曹玲娟）亚太经合组织（APEC）妇女与经济论坛15日在上海举行。国务委员、全国妇联主席谌贻琴出席开幕式并致辞。 谌贻琴表示，习近平主席高度重视妇女事业发展，去年10月，亲自出席全球妇女峰会并发表主旨讲话，在国际妇女运动史上树立起新的里程碑。亚太经合组织一直把促进性别平等作为各项合作优先领域，设立妇女与经济论坛十余年来，为推动亚太…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157141.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.611Z"
+            }
+          },
+          {
+            "id": "people_daily:30157145",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "以奋斗超越自我 让梦想绽放光彩（权威发布）",
+            "author": "本报记者 易舒冉",
+            "excerpt": "残疾人是推进中国式现代化的重要力量，也是需要格外关心、格外关注的特殊困难群体。5月15日，在第三十六个全国助残日到来之际，国务院新闻办举行“新征程上的奋斗者”中外记者见面会，邀请5位残障人士代表围绕“以自强精神为推进中国式现代化贡献力量”和大家交流。 贵州省黔东南苗族侗族自治州黎平县彦婷手工刺绣坊负责人陆永江是一位肢体残疾人，她走遍黎平县25个乡镇，把老一…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157145.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.718Z"
+            }
+          },
+          {
+            "id": "people_daily:30157142",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "做强做优做大实体经济",
+            "excerpt": "新华社北京5月15日电 5月16日出版的第10期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《做强做优做大实体经济》。这是习近平总书记2016年12月至2025年12月期间有关重要论述的节录。 文章强调，实体经济是一国经济的立身之本，是财富创造的根本源泉，是国家强盛的重要支柱。不论经济发展到什么时候，实体经济都是我国经济发展、我…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157142.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.717Z"
+            }
+          },
+          {
+            "id": "people_daily:30157143",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "李强主持召开国务院常务会议",
+            "subtitle": "听取贯彻落实中央城市工作会议部署和实施城市更新进展情况汇报，审议通过《城市更新“十五五”规划》《加快农业农村现代化“十五五”规划》，研究人口发展有关工作，研究基础教育改革发展有关工作",
+            "excerpt": "新华社北京5月15日电 国务院总理李强5月15日主持召开国务院常务会议，听取贯彻落实中央城市工作会议部署和实施城市更新进展情况汇报，审议通过《城市更新“十五五”规划》《加快农业农村现代化“十五五”规划》，研究人口发展有关工作，研究基础教育改革发展有关工作。 会议指出，中央城市工作会议以来，各地区各部门深入贯彻党中央决策部署，采取一系列推进城市高质量发展的举…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157143.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.746Z"
+            }
+          },
+          {
+            "id": "people_daily:30157144",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "人大要围绕中心依法履职 为实施好“十五五”规划作贡献",
+            "excerpt": "新华社贵阳5月15日电 中共中央政治局常委、全国人大常委会委员长赵乐际5月13日至15日在贵州调研。他强调，要坚持以习近平新时代中国特色社会主义思想为指导，紧紧围绕党和国家中心任务，立足人大职能职责，依法有序推进各项工作，为实施好“十五五”规划、推进中国式现代化建设作贡献。 赵乐际先后来到黔南州、贵阳市，深入人大代表联络室、企业、乡村和农户家中，同人大代表…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157144.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.620Z"
+            }
+          },
+          {
+            "id": "people_daily:30157146",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "首届中国新文创市集在北京开幕",
+            "excerpt": "本报北京5月15日电 （记者施芳）5月15日，首届中国新文创市集暨潮玩游园会在北京朝阳公园启幕，打造文博文创、国潮潮玩、非遗项目、数字科技发展等一站式体验，搭建起全国文创产业交流协同平台。活动由文化和旅游部、商务部、北京市人…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157146.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.619Z"
+            }
+          },
+          {
+            "id": "people_daily:30157147",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "29个智能气象站启动业务试运行",
+            "excerpt": "本报北京5月15日电 （记者李红梅）记者从中国气象局获悉：北京密云等29个智能气象站已于近日启动业务试运行，标志着我国地面气象观测将逐步向智能化转型，为气象精准预报、灾害防御、气候研究提供更精密高效的基础数据支撑。 智能气象站依托物联网、大数据、人工智能、边缘计算等新技术，对传统观测站点进行系统性升级，构建集数据采集、智能处理、实时传输、业务应用于一体的现…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157147.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.721Z"
+            }
+          },
+          {
+            "id": "people_daily:30157149",
+            "source": "people_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "广告",
+            "excerpt": "",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157149.html",
+            "extraction": {
+              "status": "empty",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:10:09.719Z",
+              "message": "一部記事は本文抽出不可。タイトル・版面・参照ボタンのみ表示しています。"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/16/6eca8f8b-4ffa-4fd4-be5d-4426e60f5ea8.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/16/881faa92-ce8f-49bf-b1e8-9b6e6e4aef3c.jpg.2",
+        "extraction": {
+          "status": "partial",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:10:09.755Z",
+          "message": "一部記事は本文抽出不可。タイトル・版面・参照ボタンのみ表示しています。"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "partial",
+      "method": "people-daily-html-v1",
+      "extractedAt": "2026-05-16T09:10:09.755Z",
+      "message": "一部記事は本文抽出不可。タイトル・版面・参照ボタンのみ表示しています。"
+    }
+  },
+  "plaIssue": {
+    "id": "pla_daily:2026-05-16",
+    "source": "pla_daily",
+    "issueDate": "2026-05-16",
+    "pages": [
+      {
+        "id": "pla_daily:2026-05-16:p01",
+        "source": "pla_daily",
+        "issueDate": "2026-05-16",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-16-1-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平同美国总统特朗普在中南海小范围会晤",
+            "excerpt": "新华社北京5月15日电（记者杨依军、孙奕）5月15日上午，国家主席习近平在中南海同美国总统特朗普举行小范围会晤。 春末夏初的中南海，绿荫渐浓、草木葱茏。特朗普抵达时，习近平热情迎接。两国元首边走边谈，不时驻足观赏园中苍劲挺拔的古树和各色月季。 习近平指出，特朗普总统此访是一次历史性、标志性的访问，我们共同确定了中美建设性战略稳定关系的新定位，就保持经贸关系…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.022Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-1-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "做强做优做大实体经济",
+            "excerpt": "新华社北京5月15日电 5月16日出版的第10期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《做强做优做大实体经济》。这是习近平总书记2016年12月至2025年12月期间有关重要论述的节录。 文章强调，实体经济是一国经济的立身之本，是财富创造的根本源泉，是国家强盛的重要支柱。不论经济发展到什么时候，实体经济都是我国经济发展、我…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.022Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-1-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "构建“中美建设性战略稳定关系”是最重要政治共识",
+            "subtitle": "——中美元首会晤是一次历史性会晤，达成丰富成果",
+            "excerpt": "新华社北京5月15日电 应国家主席习近平邀请，美国总统特朗普于5月13日至15日对中国进行国事访问。中共中央政治局委员、外交部长王毅15日向媒体介绍中美元首会晤情况和共识。 一、中美两国各界和国际社会高度关注美国总统特朗普此次访华，对两国元首会晤有何评价？ 王毅：此访期间，习近平主席同特朗普总统就事关中美关系以及世界和平发展的重大问题持续进行坦诚、深入、建…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.022Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-1-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "中美关系新定位为两国相向而行指引方向",
+            "excerpt": "5月14日上午，习近平主席在北京人民大会堂同来华进行国事访问的美国总统特朗普举行会谈。两国元首赞同将构建“中美建设性战略稳定关系”作为中美关系新定位。 今年是中国“十五五”开局之年，14亿多中国人民正在以高质量发展全面推进中国式现代化；今年也是美国独立250周年，3亿多美国人民正在推动美国发展迈向新的征程。在关键节点，习近平主席高屋建瓴、审时度势地为中美关…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.022Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-1-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "我国成功发射泰景三号05A星等5颗卫星",
+            "excerpt": "本报酒泉5月15日电 王晨宇、记者李伟欣报道：5月15日12时33分，我国在东风商业航天创新试验区使用力箭一号遥十三运载火箭，成功将泰景三号05A/05B星、天仪50星、天雁27星、吉林一号高分…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.022Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-1-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "干事当有“过山劲”",
+            "excerpt": "习主席曾专门告诫青年干部：“如果是上级派你到某个地方去工作，要你干上三年五年，这时候，看的就不是你的‘三把火’，而是你的‘过山劲’了。”所谓“过山劲”，就是咬定目标的韧劲、迎难而上的拼劲、驰而不息的恒劲。 在树立和践行正确政绩观学习教育中，某部教育引导党员干部干事创业要拿出“过山劲”，爬坡不歇脚、过坎不止步，保持奋斗姿态。部队建设有自身规律，抓战备谋打赢、…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.022Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-1-6",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.022Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260516/9a9a1f85996e549cf1950d423df0ee26.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260516/c630870f35d203791271797dd7dd65e5.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:10:09.022Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-16:p02",
+        "source": "pla_daily",
+        "issueDate": "2026-05-16",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-16-2-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "构建“中美建设性战略稳定关系”是最重要政治共识",
+            "subtitle": "——中美元首会晤是一次历史性会晤，达成丰富成果",
+            "excerpt": "新华社北京5月15日电 应国家主席习近平邀请，美国总统特朗普于5月13日至15日对中国进行国事访问。中共中央政治局委员、外交部长王毅15日向媒体介绍中美元首会晤情况和共识。 一、中美两国各界和国际社会高度关注美国总统特朗普此次访华，对两国元首会晤有何评价？ 王毅：此访期间，习近平主席同特朗普总统就事关中美关系以及世界和平发展的重大问题持续进行坦诚、深入、建…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=02&articleid=2026-05-16-2-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-2-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "积极探索两个大国的正确相处之道",
+            "subtitle": "——中美元首会晤引发国际社会高度关注",
+            "excerpt": "一次跨越太平洋的握手，一次举世瞩目的历史性会晤。应国家主席习近平邀请，美国总统特朗普于5月13日至15日对中国进行国事访问，两国元首就事关两国和世界的重大问题深入交换意见，达成一系列新共识。 国际社会高度评价此次会晤，认为会晤将成为中美关系具有里程碑意义的新起点，两国元首共同确定中美建设性战略稳定关系的新定位，将为中美合作开辟更大空间。多国人士期待，在元首…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=02&articleid=2026-05-16-2-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-2-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "《习近平经济思想研究文集》西班牙文版出版座谈会在智利举办",
+            "excerpt": "新华社圣地亚哥5月14日电（记者朱雨博、周佳谊）《习近平经济思想研究文集》西班牙文版出版座谈会14日在智利首都圣地亚哥举办。与会专家学者围绕习近平经济思想的实践伟力、中国发展理念、中智交流合作等展开深入研讨交流。 与会人士表示，习近平经济思想不仅对中国经济发展具有指导意义，也为世界各国特别是发展中国家探索适合本国国情的发展道路提供了智慧和启迪。《习近平经济…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=02&articleid=2026-05-16-2-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-2-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中国第12批援埃塞俄比亚军医专家组出征",
+            "excerpt": "本报讯 黄琪奥、记者朱柏妍报道：5月16日凌晨，中国第12批援埃塞俄比亚军医专家组出征，前往埃塞首都亚的斯亚贝巴执行为期1年的医疗援助任务。 此次出征的专家组共13名军队医疗专家，由陆军军医大学第一附属医院牵头抽组。专家涵盖骨科、感染病科、眼科、呼吸内科、泌尿外科、普通外科、中医科等多个专业领域，均具备深厚的理论功底和丰富的临床实践经验。 执行任务期间，专…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=02&articleid=2026-05-16-2-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-2-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "外交部发言人就伊朗局势答记者问",
+            "excerpt": "新华社北京5月15日电 外交部发言人15日就伊朗局势答记者问。 有记者问：据报道，特朗普总统访华期间，中美两国元首就中东局势等重大国际和地区问题交换了意见。请问双方是否谈及伊朗局势？中方对当前伊朗局势有何看法？ 发言人表示，中方在伊朗局势上的立场十分明确。这场战事已对包括伊朗在内的地区各国人民造成严重损失，外溢影响还在持续扩大，严重冲击世界经济发展、产供链…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=02&articleid=2026-05-16-2-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-2-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "巴基斯坦外交部表示始终坚定奉行一个中国原则",
+            "excerpt": "据新华社伊斯兰堡5月15日电（记者杨恺）巴基斯坦外交部发言人塔希尔·安德拉比14日说，巴基斯坦始终坚定奉行一个中国原则，并在联合国、世界卫生大会等多边机制上坚持这一原则。 安德拉比当天在例行记者会上表示，巴基斯坦在台湾问题上的立场是一贯的，世界上只有一个中国，台湾是中国领土不可分割的一部分。巴方坚定支持中国在维护国家统一方面所作的努力，以及中方在不同多边机…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=02&articleid=2026-05-16-2-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260516/352f2e533f9093623d5ae5f6a9e79f6a.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260516/78204b1489274fd79fc388c1ad6a5960.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:10:09.023Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-16:p03",
+        "source": "pla_daily",
+        "issueDate": "2026-05-16",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-16-3-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "做强做优做大实体经济",
+            "excerpt": "新华社北京5月15日电 5月16日出版的第10期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《做强做优做大实体经济》。这是习近平总书记2016年12月至2025年12月期间有关重要论述的节录。 文章强调，实体经济是一国经济的立身之本，是财富创造的根本源泉，是国家强盛的重要支柱。不论经济发展到什么时候，实体经济都是我国经济发展、我…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-3-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "聚天下英才  创复兴伟业",
+            "subtitle": "——人才强国建设为中国式现代化提供有力支撑",
+            "excerpt": "“我们比历史上任何时期都更接近实现中华民族伟大复兴的宏伟目标，我们也比历史上任何时期都更加渴求人才。”习近平总书记的重要论述，标定新时代人才工作的时代方位和使命价值。 “十五五”规划纲要明确提出“统筹教育强国、科技强国、人才强国建设”，围绕全方位培养、引进、用好人才作出全面部署，就深化人才发展体制机制改革作出系统安排。 国以才立，业以才兴。进入基本实现社会…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-3-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "深学笃行习近平总书记关于树立和践行正确政绩观的重要论述",
+            "excerpt": "新华社北京5月15日电 中央党校（国家行政学院）15日举行2026年春季学期第二批进修班开学典礼，中央党校（国家行政学院）校长（院长）陈希出席并讲话，强调要以习近平新时代中国特色社会主义思想为指导，深学笃行习近平总书记关于树立和践行正确政绩观的重要论述，锐意进取、埋头苦干，创造经得起实践、人民、历史检验的实绩，奋力开创中国式现代化建设新局面。 陈希指出，习…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-3-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中央宣传部、全国妇联联合发布2026年“最美家庭”",
+            "excerpt": "新华社北京5月15日电 为深入学习贯彻习近平总书记关于注重家庭家教家风建设的重要论述，大力弘扬社会主义家庭文明新风尚，中央宣传部、全国妇联向全社会发布2026年“最美家庭”。 刘闯、庞卫涛、赵娟娟、申芸、张国利、张耘、韩光莹、石慧、何鸿英、隋亚平等10户家庭光荣入选。他们有的潜心钻研，在航天强国、大国工程建设一线拼搏奉献；有的携手扎根乡村，用汗水和智慧团结…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-3-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "五部门发布警惕“招转培”“培训贷”等风险提示",
+            "excerpt": "据新华社北京5月15日电（记者张晓洁）人力资源社会保障部、中央网信办、教育部、公安部、金融监管总局5月15日联合发布警惕“招转培”“培训贷”等风险提示，提醒广大求职者提高风险防范意识，谨防上当受骗。 近来，一些不法分子以招聘为名进行引流，变相推销培训课程，诱导求职者支付高额费用，甚至申请贷款参加培训，严重侵害求职者合法权益，扰乱人力资源市场正常秩序。相关骗…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-3-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "两部门就今年首轮大范围持续性降雨部署工作",
+            "excerpt": "据新华社北京5月15日电（记者黄韬铭）记者从应急管理部获悉，5月15日至19日，我国迎来今年首轮大范围持续性降雨过程。国家防总办公室、应急管理部组织有关部门和省份会商研判强降雨发展趋势，部署南北方重点地区防汛工作。国家防总维持对广东、贵州的防汛四级应急响应。 会商指出，此轮降雨覆盖南北方多地，持续时间长、局地强度大，还伴有雷暴大风、短时强降水等强对流天气。…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-3-6",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“每一代人都有自己的新长征”",
+            "excerpt": "近日，“传承长征精神 赓续红色血脉”——港澳青年重走长征路江西行活动在赣州举行。来自香港、澳门和内地的近200名青年走进江西赣州，在红军长征胜利90周年之际，沿着中央红军的长征出发路线，探访革命旧址、调研科技企业、体验红色文化，用脚步丈量这片红色土地。 活动期间，港澳青年足迹遍布章贡、于都、瑞金三地。走进科研院所与智能制造车间，见证老区科创活力；踏访长征出…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-3-7",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "短讯",
+            "excerpt": "■李强15日主持召开国务院常务会议，听取贯彻落实中央城市工作会议部署和实施城市更新进展情况汇报，审议通过《城市更新“十五五”规划》《加快农业农村现代化“十五五”规划》，研究人口发展有关工作，研究基础教育改革发展有关工作 ■赵乐际13日至…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-7",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-3-8",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-8",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-3-9",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-9",
+            "extraction": {
+              "status": "empty",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z",
+              "message": "Article content text was empty"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260516/b7c65dfd1e25437b2999bacb83caafb1.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260516/a413decbd2de7f807a26d3c178df9a46.jpg",
+        "extraction": {
+          "status": "partial",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:10:09.023Z",
+          "message": "Article content text was empty"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-16:p04",
+        "source": "pla_daily",
+        "issueDate": "2026-05-16",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-16-4-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "从“真心热线”到“真心播客”",
+            "subtitle": "——陆军某旅心理服务团队的故事",
+            "excerpt": "暮春傍晚，明月初升。陆军某旅“真心姐姐”工作室录音棚里，该旅心理骨干薛云丽莎俯身调好麦克风，温柔而笃定的声音缓缓漾开：“这里是‘真心播客’，我是你们的‘真心姐姐’丽莎……” 从满载卡片书籍的流动推车，到随时接听、服务解难的“真心热线”；从强军网上的专属频道，到官兵常用的工作微信，再到云端传音的“真心播客”……该旅心理服务团队从一辆小推车起步，紧跟时代步伐、…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=04&articleid=2026-05-16-4-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.023Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-4-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "多比谁的贡献大境界高",
+            "excerpt": "习主席参观谷文昌纪念馆时指出，各级领导干部要向谷文昌同志学习，树牢正确政绩观，为官一任、造福一方，真抓实干、久久为功，把丰碑立在人民群众心中。学习谷文昌同志，不仅要高山仰止，还要见贤思齐，像他那样做人、为政。 人与人之间难免会互相比较，党员干部也不例外。多与他人比廉洁、比业绩、比操守，自觉查找差距和不足，才能见贤思齐、镜鉴自省，完善自我、革新自我。如果把关…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=04&articleid=2026-05-16-4-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.024Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-4-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "让授课触动灵魂更有意义",
+            "excerpt": "近日，在武警湖南总队某支队组织的按纲建队考评中，吴指导员所在中队因思想政治教育实效突出获得高分。回想不久前被上级批评教育质量不佳的经历，吴指导员坦言：“教育效果好不好，不能光看收获了多少掌声，只有真正触动灵魂的授课才有意义。” 年初，该支队政治工作处黄副主任到该中队蹲点调研，听了吴指导员讲授的一堂政治教育课。台上，吴指导员妙语连珠，各种网络梗、流行语信手拈…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=04&articleid=2026-05-16-4-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.024Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-4-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "昔日单打独斗  今朝联合制胜",
+            "excerpt": "海面风高浪急，水下暗流涌动。 近日，一场红蓝对抗训练在某海域拉开战幕。其中，由多艘水面舰艇和战机构成的反潜力量扮演红方，来自海军某潜艇支队的一艘潜艇作为蓝方主力。红方指挥员姚彦君和蓝方艇长彭忠并不算陌生。不久前，二人刚刚各自率领兵力进行了一场“拼杀”。 那次过招，蓝方潜艇刚刚抵达目标海域，便侦测到舰船噪声。彭忠据此判断潜艇已进入红方搜索范围，果断下令：“调…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=04&articleid=2026-05-16-4-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.024Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-4-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=04&articleid=2026-05-16-4-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.024Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-16-4-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=04&articleid=2026-05-16-4-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:10:09.024Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260516/920e0977a6121ca8c72f6dc0ecc29c6b.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260516/9f83bc75948dec190933f37f0c945c01.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:10:09.024Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "partial",
+      "method": "pla-daily-index-json-v1",
+      "extractedAt": "2026-05-16T09:10:09.025Z",
+      "message": "Article content text was empty"
+    }
+  },
+  "matchGroups": [
+    {
+      "id": "matched:people_daily:30157120+people_daily:30157142:pla_daily:2026-05-16-1-1+pla_daily:2026-05-16-3-0",
+      "issueDate": "2026-05-16",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157120",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "做强做优做大实体经济",
+          "excerpt": "新华社北京5月15日电 5月16日出版的第10期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《做强做优做大实体经济》。这是习近平总书记2016年12月至2025年12月期间有关重要论述的节录。 文章强调，实体经济是一国经济的立身之本，是财富创造的根本源泉，是国家强盛的重要支柱。不论经济发展到什么时候，实体经济都是我国经济发展、我…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157120.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:08.392Z"
+          }
+        },
+        {
+          "id": "people_daily:30157142",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "做强做优做大实体经济",
+          "excerpt": "新华社北京5月15日电 5月16日出版的第10期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《做强做优做大实体经济》。这是习近平总书记2016年12月至2025年12月期间有关重要论述的节录。 文章强调，实体经济是一国经济的立身之本，是财富创造的根本源泉，是国家强盛的重要支柱。不论经济发展到什么时候，实体经济都是我国经济发展、我…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157142.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.717Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-16-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "做强做优做大实体经济",
+          "excerpt": "新华社北京5月15日电 5月16日出版的第10期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《做强做优做大实体经济》。这是习近平总书记2016年12月至2025年12月期间有关重要论述的节录。 文章强调，实体经济是一国经济的立身之本，是财富创造的根本源泉，是国家强盛的重要支柱。不论经济发展到什么时候，实体经济都是我国经济发展、我…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.022Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-3-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "做强做优做大实体经济",
+          "excerpt": "新华社北京5月15日电 5月16日出版的第10期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《做强做优做大实体经济》。这是习近平总书记2016年12月至2025年12月期间有关重要论述的节录。 文章强调，实体经济是一国经济的立身之本，是财富创造的根本源泉，是国家强盛的重要支柱。不论经济发展到什么时候，实体经济都是我国经济发展、我…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 做强做优做大实体经济、必须把因地制宜发展新质生产力摆在更加、要把制造业高质量发展放到更加突出的位、为中国式现代化构筑强大物质技术基础。ナラティブ・アンカートピック束: 做强做优做大实体经济、必须把因地制宜发展新质生产力摆在更加、要把制造业高质量发展放到更加突出的位、为中国式现代化构筑强大物质技术基础 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "做强做优做大实体经济",
+          "必须把因地制宜发展新质生产力摆在更加",
+          "要把制造业高质量发展放到更加突出的位",
+          "为中国式现代化构筑强大物质技术基础",
+          "推动战略性新兴产业融合集群发展",
+          "中央军委主席习近平的重要文章",
+          "构建优质高效的服务业新体系",
+          "建设高效顺畅的流通体系"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 92% / lexical 100% / narrative 86%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 86%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・アンカートピック束: 做强做优做大实体经济、必须把因地制宜发展新质生产力摆在更加、要把制造业高质量发展放到更加突出的位、为中国式现代化构筑强大物质技术基础",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30157131:pla_daily:2026-05-16-3-2",
+      "issueDate": "2026-05-16",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157131",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "深学笃行习近平总书记关于树立和践行正确政绩观的重要论述",
+          "excerpt": "本报北京5月15日电 （记者何昭宇）中央党校（国家行政学院）15日举行2026年春季学期第二批进修班开学典礼，中央党校（国家行政学院）校长（院长）陈希出席并讲话，强调要以习近平新时代中国特色社会主义思想为指导，深学笃行习近平总书记关于树立和践行正确政绩观的重要论述，锐意进取、埋头苦干，创造经得起实践、人民、历史检验的实绩，奋力开创中国式现代化建设新局面。…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157131.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.065Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-16-3-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "深学笃行习近平总书记关于树立和践行正确政绩观的重要论述",
+          "excerpt": "新华社北京5月15日电 中央党校（国家行政学院）15日举行2026年春季学期第二批进修班开学典礼，中央党校（国家行政学院）校长（院长）陈希出席并讲话，强调要以习近平新时代中国特色社会主义思想为指导，深学笃行习近平总书记关于树立和践行正确政绩观的重要论述，锐意进取、埋头苦干，创造经得起实践、人民、历史检验的实绩，奋力开创中国式现代化建设新局面。 陈希指出，习…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 深学笃行习近平总书记关于树立和践行正确政绩观的重要论述、树立和践行正确政绩观、正确政绩观议题、顺利推进中国式现代化建设贡献力量。ナラティブ・完全タイトル一致: 深学笃行习近平总书记关于树立和践行正确政绩观的重要论述、树立和践行正确政绩观、正确政绩观议题、顺利推进中国式现代化建设贡献力量 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "深学笃行习近平总书记关于树立和践行正确政绩观的重要论述",
+          "树立和践行正确政绩观",
+          "正确政绩观议题",
+          "顺利推进中国式现代化建设贡献力量",
+          "奋力开创中国式现代化建设新局面",
+          "系统完备的科学体系",
+          "习近平总书记关于树立和践行正确政绩观",
+          "扎实开展树立和践行正确政绩观学习教育"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 97% / narrative 76%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 97% / ナラティブ類似 76%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 深学笃行习近平总书记关于树立和践行正确政绩观的重要论述、树立和践行正确政绩观、正确政绩观议题、顺利推进中国式现代化建设贡献力量",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30157126+people_daily:30157119+people_daily:30157121+people_daily:30157128+people_daily:30157130+people_daily:30157122+people_daily:30157125+people_daily:30157129:pla_daily:2026-05-16-1-3+pla_daily:2026-05-16-1-0+pla_daily:2026-05-16-1-2+pla_daily:2026-05-16-2-0+pla_daily:2026-05-16-2-4+pla_daily:2026-05-16-2-1",
+      "issueDate": "2026-05-16",
+      "matchType": "matched",
+      "confidence": 1,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157119",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "excerpt": "新华社北京5月15日电 （记者杨依军、孙奕）5月15日上午，国家主席习近平在中南海同美国总统特朗普举行小范围会晤。 春末夏初的中南海，绿荫渐浓、草木葱茏。特朗普抵达时，习近平热情迎接。两国元首边走边谈，不时驻足观赏园中苍劲挺拔的古树和各色月季。 习近平指出，特朗普总统此访是一次历史性、标志性的访问，我们共同确定了中美建设性战略稳定关系的新定位，就保持经贸关…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157119.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:08.485Z"
+          }
+        },
+        {
+          "id": "people_daily:30157121",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "构建“中美建设性战略稳定关系”是最重要政治共识",
+          "subtitle": "——中美元首会晤是一次历史性会晤，达成丰富成果",
+          "excerpt": "新华社北京5月15日电 应国家主席习近平邀请，美国总统特朗普于5月13日至15日对中国进行国事访问。中共中央政治局委员、外交部长王毅15日向媒体介绍中美元首会晤情况和共识。 一、中美两国各界和国际社会高度关注美国总统特朗普此次访华，对两国元首会晤有何评价？ 王毅：此访期间，习近平主席同特朗普总统就事关中美关系以及世界和平发展的重大问题持续进行坦诚、深入、建…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157121.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:08.520Z"
+          }
+        },
+        {
+          "id": "people_daily:30157122",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "“让2026年成为中美关系继往开来的历史性、标志性年份”",
+          "author": "本报记者 杜尚泽 胡泽曦",
+          "excerpt": "时间：5月14日上午 日程：中美元首会谈 人民大会堂前，中美元首拾阶而上。暖风扑面，他们亲切交谈着，人们目光追随着他们的身影，望见他们驻足、转身，面向刚刚举行了隆重欢迎仪式的东门外广场。 举目远眺。天安门、故宫、国家博物馆、人民英雄纪念碑，还有此刻悬挂着中美两国国旗的长安街，文明中国的古老沧桑、现代中国的万千气象，让人感慨良多。 他们并肩步入人民大会堂，在…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157122.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:08.515Z"
+          }
+        },
+        {
+          "id": "people_daily:30157125",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "走出一条新时代大国正确相处之道",
+          "excerpt": "应国家主席习近平邀请，美国总统特朗普于5月13日至15日对中国进行国事访问。此访期间，习近平主席同特朗普总统就事关中美关系以及世界和平发展的重大问题持续进行坦诚、深入、建设性、战略性沟通，积极探索两个大国的正确相处之道，并就此达成一系列共识。接受本报记者采访的多国人士表示，此次两国元首会晤具有战略意义和深远影响，为中美关系稳定、健康、可持续发展指明方向，为…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157125.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:08.854Z"
+          }
+        },
+        {
+          "id": "people_daily:30157126",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "相向而行，共同开启中美关系新篇章（钟声）",
+          "excerpt": "面对历史之问、世界之问、人民之问，两国元首立足时代潮流、把握共同利益，就构建“中美建设性战略稳定关系”达成共识，正是于复杂变局中领航掌舵的关键之举，致力于共同书写时代答卷 5月14日上午，习近平主席在北京人民大会堂同来华进行国事访问的美国总统特朗普举行会谈。两国元首就构建“中美建设性战略稳定关系”新定位达成共识，为未来3年乃至更长时间的中美关系提供了战略指…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157126.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:08.850Z"
+          }
+        },
+        {
+          "id": "people_daily:30157128",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "构建“中美建设性战略稳定关系”是最重要政治共识",
+          "subtitle": "——中美元首会晤是一次历史性会晤，达成丰富成果",
+          "excerpt": "新华社北京5月15日电 应国家主席习近平邀请，美国总统特朗普于5月13日至15日对中国进行国事访问。中共中央政治局委员、外交部长王毅15日向媒体介绍中美元首会晤情况和共识。 一、中美两国各界和国际社会高度关注美国总统特朗普此次访华，对两国元首会晤有何评价？ 王毅：此访期间，习近平主席同特朗普总统就事关中美关系以及世界和平发展的重大问题持续进行坦诚、深入、建…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157128.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:08.901Z"
+          }
+        },
+        {
+          "id": "people_daily:30157129",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "外交部发言人就美国总统特朗普访华情况答记者问",
+          "excerpt": "新华社北京5月15日电 外交部发言人15日就美国总统特朗普访华情况答记者问。 有记者问：5月14日，习近平主席为正在访华的美国总统特朗普举行系列国事活动，国内外高度关注。中方能否进一步介绍相关情况？ 发言人表示，应习近平主席邀请，美国总统特朗普正在对中国进行国事访问。这是中美两国元首继去年10月釜山之后再次面对面会晤，也是美国总统时隔9年再次访华。5月14…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157129.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:08.851Z"
+          }
+        },
+        {
+          "id": "people_daily:30157130",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "外交部发言人就伊朗局势答记者问",
+          "excerpt": "新华社北京5月15日电 外交部发言人15日就伊朗局势答记者问。 有记者问：据报道，特朗普总统访华期间，中美两国元首就中东局势等重大国际和地区问题交换了意见。请问双方是否谈及伊朗局势？中方对当前伊朗局势有何看法？ 发言人表示，中方在伊朗局势上的立场十分明确。这场战事已对包括伊朗在内的地区各国人民造成严重损失，外溢影响还在持续扩大，严重冲击世界经济发展、产供链…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157130.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:08.852Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-16-1-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "excerpt": "新华社北京5月15日电（记者杨依军、孙奕）5月15日上午，国家主席习近平在中南海同美国总统特朗普举行小范围会晤。 春末夏初的中南海，绿荫渐浓、草木葱茏。特朗普抵达时，习近平热情迎接。两国元首边走边谈，不时驻足观赏园中苍劲挺拔的古树和各色月季。 习近平指出，特朗普总统此访是一次历史性、标志性的访问，我们共同确定了中美建设性战略稳定关系的新定位，就保持经贸关系…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.022Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-1-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "构建“中美建设性战略稳定关系”是最重要政治共识",
+          "subtitle": "——中美元首会晤是一次历史性会晤，达成丰富成果",
+          "excerpt": "新华社北京5月15日电 应国家主席习近平邀请，美国总统特朗普于5月13日至15日对中国进行国事访问。中共中央政治局委员、外交部长王毅15日向媒体介绍中美元首会晤情况和共识。 一、中美两国各界和国际社会高度关注美国总统特朗普此次访华，对两国元首会晤有何评价？ 王毅：此访期间，习近平主席同特朗普总统就事关中美关系以及世界和平发展的重大问题持续进行坦诚、深入、建…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.022Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-1-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "中美关系新定位为两国相向而行指引方向",
+          "excerpt": "5月14日上午，习近平主席在北京人民大会堂同来华进行国事访问的美国总统特朗普举行会谈。两国元首赞同将构建“中美建设性战略稳定关系”作为中美关系新定位。 今年是中国“十五五”开局之年，14亿多中国人民正在以高质量发展全面推进中国式现代化；今年也是美国独立250周年，3亿多美国人民正在推动美国发展迈向新的征程。在关键节点，习近平主席高屋建瓴、审时度势地为中美关…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.022Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-2-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "构建“中美建设性战略稳定关系”是最重要政治共识",
+          "subtitle": "——中美元首会晤是一次历史性会晤，达成丰富成果",
+          "excerpt": "新华社北京5月15日电 应国家主席习近平邀请，美国总统特朗普于5月13日至15日对中国进行国事访问。中共中央政治局委员、外交部长王毅15日向媒体介绍中美元首会晤情况和共识。 一、中美两国各界和国际社会高度关注美国总统特朗普此次访华，对两国元首会晤有何评价？ 王毅：此访期间，习近平主席同特朗普总统就事关中美关系以及世界和平发展的重大问题持续进行坦诚、深入、建…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=02&articleid=2026-05-16-2-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "积极探索两个大国的正确相处之道",
+          "subtitle": "——中美元首会晤引发国际社会高度关注",
+          "excerpt": "一次跨越太平洋的握手，一次举世瞩目的历史性会晤。应国家主席习近平邀请，美国总统特朗普于5月13日至15日对中国进行国事访问，两国元首就事关两国和世界的重大问题深入交换意见，达成一系列新共识。 国际社会高度评价此次会晤，认为会晤将成为中美关系具有里程碑意义的新起点，两国元首共同确定中美建设性战略稳定关系的新定位，将为中美合作开辟更大空间。多国人士期待，在元首…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=02&articleid=2026-05-16-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-2-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "外交部发言人就伊朗局势答记者问",
+          "excerpt": "新华社北京5月15日电 外交部发言人15日就伊朗局势答记者问。 有记者问：据报道，特朗普总统访华期间，中美两国元首就中东局势等重大国际和地区问题交换了意见。请问双方是否谈及伊朗局势？中方对当前伊朗局势有何看法？ 发言人表示，中方在伊朗局势上的立场十分明确。这场战事已对包括伊朗在内的地区各国人民造成严重损失，外溢影响还在持续扩大，严重冲击世界经济发展、产供链…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=02&articleid=2026-05-16-2-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 100%）。共有語: 中美关系新、特朗普国事访问、习近平主席在北京人民大会堂同来华进行国事访问、正确相处之道。ナラティブ・アンカートピック束: 中美关系新、特朗普国事访问、习近平主席在北京人民大会堂同来华进行国事访问、正确相处之道 / ナラティブ・共有固有名/政策語: 中美建设性战略稳定关系、建设性战略稳定",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "建设性战略稳定关系",
+          "不能搞双重标准",
+          "了战略指引",
+          "了战略指",
+          "社会制度",
+          "互惠的精神相向而行",
+          "中美经贸磋商",
+          "这是客观现实"
+        ],
+        "plaDailyTerms": [
+          "14亿多中国人民正在以高质量发展全面",
+          "人们期待中美在元首外交战略引领下相向",
+          "通过构建建设性战略稳定关系",
+          "习近平主席始终以战略定力",
+          "就能为战略稳定添砖加瓦",
+          "中美建设性战略稳定",
+          "推进中国式现代化",
+          "两军沟通渠道"
+        ],
+        "sharedTerms": [
+          "中美关系新",
+          "特朗普国事访问",
+          "习近平主席在北京人民大会堂同来华进行国事访问",
+          "正确相处之道",
+          "中美关系",
+          "中美关系议题",
+          "中美建设性战略稳定关系",
+          "建设性战略稳定",
+          "习近平同美国总统特朗普在中南海小范围会晤",
+          "我们共同确定了中美建设性战略稳定关系",
+          "记者杨依军",
+          "不时驻足观赏园中苍劲挺拔的古树和各色"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 100% / lexical 100% / narrative 85%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 85%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・アンカートピック束: 中美关系新、特朗普国事访问、习近平主席在北京人民大会堂同来华进行国事访问、正确相处之道",
+        "ナラティブ・共有固有名/政策語: 中美建设性战略稳定关系、建设性战略稳定"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30157124+people_daily:30157144:pla_daily:2026-05-16-3-7",
+      "issueDate": "2026-05-16",
+      "matchType": "matched",
+      "confidence": 0.84,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157124",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "人大要围绕中心依法履职 为实施好“十五五”规划作贡献",
+          "excerpt": "新华社贵阳5月15日电 中共中央政治局常委、全国人大常委会委员长赵乐际5月13日至15日在贵州调研。他强调，要坚持以习近平新时代中国特色社会主义思想为指导，紧紧围绕党和国家中心任务，立足人大职能职责，依法有序推进各项工作，为实施好“十五五”规划、推进中国式现代化建设作贡献。 赵乐际先后来到黔南州、贵阳市，深入人大代表联络室、企业、乡村和农户家中，同人大代表…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157124.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:08.475Z"
+          }
+        },
+        {
+          "id": "people_daily:30157144",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "人大要围绕中心依法履职 为实施好“十五五”规划作贡献",
+          "excerpt": "新华社贵阳5月15日电 中共中央政治局常委、全国人大常委会委员长赵乐际5月13日至15日在贵州调研。他强调，要坚持以习近平新时代中国特色社会主义思想为指导，紧紧围绕党和国家中心任务，立足人大职能职责，依法有序推进各项工作，为实施好“十五五”规划、推进中国式现代化建设作贡献。 赵乐际先后来到黔南州、贵阳市，深入人大代表联络室、企业、乡村和农户家中，同人大代表…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157144.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.620Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-16-3-7",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "短讯",
+          "excerpt": "■李强15日主持召开国务院常务会议，听取贯彻落实中央城市工作会议部署和实施城市更新进展情况汇报，审议通过《城市更新“十五五”规划》《加快农业农村现代化“十五五”规划》，研究人口发展有关工作，研究基础教育改革发展有关工作 ■赵乐际13日至…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-7",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 84%）。共有語: 人大要围绕中心依法。ナラティブ・アンカートピック束: 人大要围绕中心依法 / メタデータ・日付・版面",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "服务保障高质量发展实行正确监督有效监督依法",
+          "发挥人民代表大会制度实现全过程人民民",
+          "以高质量立法服务保障高质量发展",
+          "实现全过程人民民主的重要制度",
+          "推进中国式现代化建设作贡献",
+          "要认真贯彻落实党中央部署",
+          "因地制宜发展新质生产力",
+          "绿色低碳等方面法律制度"
+        ],
+        "plaDailyTerms": [
+          "听取贯彻落实中央城市工作会议部署和实",
+          "研究基础教育改革发展有关工作",
+          "加快农业农村现代化",
+          "李强15日主持召开国务院常务会议",
+          "听取贯彻落实中央城市工作会议"
+        ],
+        "sharedTerms": [
+          "人大要围绕中心依法"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 84% / lexical 2% / narrative 8%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 2% / ナラティブ類似 8%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・アンカートピック束: 人大要围绕中心依法",
+        "メタデータ・日付・版面"
+      ]
+    },
+    {
+      "id": "people_only:1:要闻",
+      "issueDate": "2026-05-16",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157123",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "李强主持召开国务院常务会议",
+          "subtitle": "听取贯彻落实中央城市工作会议部署和实施城市更新进展情况汇报，审议通过《城市更新“十五五”规划》《加快农业农村现代化“十五五”规划》，研究人口发展有关工作，研究基础教育改革发展有关工作",
+          "excerpt": "新华社北京5月15日电 国务院总理李强5月15日主持召开国务院常务会议，听取贯彻落实中央城市工作会议部署和实施城市更新进展情况汇报，审议通过《城市更新“十五五”规划》《加快农业农村现代化“十五五”规划》，研究人口发展有关工作，研究基础教育改革发展有关工作。 会议指出，中央城市工作会议以来，各地区各部门深入贯彻党中央决策部署，采取一系列推进城市高质量发展的举…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157123.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:08.480Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:2:要闻",
+      "issueDate": "2026-05-16",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157127",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "习近平主席特别代表、国务院副总理张国清将赴阿塞拜疆出席第十三届世界城市论坛领导人峰会",
+          "excerpt": "本报北京5月15日电 （记者李欣怡）外交部发言人5月15日宣布：国家主席习近平特别代表、中共中央政治局委员、国务院副总理张国清将于5月17日至…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157127.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:08.851Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:3:要闻",
+      "issueDate": "2026-05-16",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157132",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "安徽以创新激活发展动能（开局起步“十五五”·专题新闻发布）",
+          "author": "本报记者 张志锋 罗阳奇",
+          "excerpt": "5月15日，开局起步“十五五”安徽专场新闻发布会在合肥举行。安徽省委副书记、省长王清宪表示，深入贯彻习近平总书记对安徽工作的重要指示要求，安徽要在打造具有重要影响力的科技创新策源地、新兴产业聚集地、改革开放新高地、经济社会发展全面绿色转型区上持续发力，奋力谱写中国式现代化安徽篇章。 进一步擦亮科技创新名片 创新是安徽推动高质量发展的关键变量。过去5年，安徽…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157132.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.195Z"
+          }
+        },
+        {
+          "id": "people_daily:30157133",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "人工智能相关产品拉动外贸增长（经济新方位）",
+          "subtitle": "前4月集成电路出口额增长78.3%、工业机器人出口额增长30%",
+          "author": "本报记者 欧阳洁",
+          "excerpt": "4月份，中国外贸延续一季度增长态势，表现依然强劲。海关总署发布的数据显示：今年前4个月，我国货物贸易进出口总值16.23万亿元，同比增长14.9%，累计增速与一季度基本持平。4月当月进出口4.38万亿元，同比增长14.2%。其中，出口同比增长9.8%，较3月大幅加快10.5个百分点；进口1.9万亿元，增长20.6%。 市场普遍认为，当前，外部需求回暖，4月…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157133.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.194Z"
+          }
+        },
+        {
+          "id": "people_daily:30157134",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "破除妨碍统一市场和公平竞争卡点堵点",
+          "excerpt": "本报北京5月15日电 （记者林丽鹂）市场监管总局近日印发方案：今年5月至12月，开展破除妨碍统一市场和公平竞争卡点堵点专项行动。 专项行动紧盯妨碍企业公平准入与自主经营、限制商品要素自由流动、资质认定内外有别、不当实施信用评价设置招投标隐性壁垒4类堵点，进一步加大执法、审查、抽查力度，依法从严纠治不当干预市场竞争问题。 到年底，依法查办一批重大案件，推动废…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157134.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.203Z"
+          }
+        },
+        {
+          "id": "people_daily:30157135",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "教会机器人全自动焊接深海装备（海洋经济高质量发展一线见闻）",
+          "author": "本报记者 靳 博 张艺开",
+          "excerpt": "手腕僵硬，小臂紧绷，摆动滞涩……这是在国际顶尖焊接大赛摘金的全国技术能手？看着眼前磕磕绊绊的施焊动作，记者不由疑惑。 “我在学习机器人的动作。”刘海林是海洋石油工程股份有限公司天津智能制造基地国家级技能大师工作室领衔人，“想做好智能焊接机器人的‘老师’，得先做好它们的‘徒弟’。” 为什么这么说？ 刘海林所在的制造基地位于天津滨海新区，靠近渤海油田，就近生产…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157135.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.197Z"
+          }
+        },
+        {
+          "id": "people_daily:30157136",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "云南德钦县城避险搬迁首批安置房交房",
+          "excerpt": "本报昆明5月15日电 （记者杨文明）近日，云南省迪庆藏族自治州德钦县城避险搬迁首批安置房在叶枝镇交房。182栋安置房集中交付，414户群众领到新房钥匙，开启新生活。 德钦老县城升平镇海拔3400米，地质灾害隐患突出，3076户群众生命财产安全受到威胁。为消除风险，迪庆州启动县城整体避险搬迁。 此次交付的安置房总建筑面积约9…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157136.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.192Z"
+          }
+        },
+        {
+          "id": "people_daily:30157137",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "普惠小微贷款余额同比增长10.5%",
+          "excerpt": "本报北京5月15日电 （记者吴秋余）中国人民银行发布的数据显示：前4月，我国社会融资规模增量累计为15.45万亿元。截至4月末，社会融资规模存量为456.89万亿元，同比增长7.8%，广义货币（M 2 ）余额353.04万亿元，同比增长8.6%。M 2 和社会融资规模增速均保持在合理水平，为经济持续向好向优创造适宜的货币金融环境。 前4月，贷款规模保持合理…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157137.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.370Z"
+          }
+        },
+        {
+          "id": "people_daily:30157138",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "一季度职工基本医疗保险缴费收入增5.3%",
+          "subtitle": "基本医保参保人数稳定在13亿以上",
+          "excerpt": "本报北京5月15日电 （记者王观）记者从国家税务总局获悉：今年一季度，我国职工基本医疗保险缴费收入实现5981亿元，同比增长5.3%。2026年属期的城乡居民基本医疗保险集中参保缴费工作基本结束，缴费收入实现3504亿元。 税务数据显示，今年一季度，缴纳基本医疗保险费的职工人数为2.6亿人，同比增长1.8%；加上城乡居民医保参保人员、退休人员等，我国基本医…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157138.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.371Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:4:要闻",
+      "issueDate": "2026-05-16",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157139",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "中央宣传部、全国妇联联合发布二〇二六年“最美家庭”",
+          "excerpt": "新华社北京5月15日电 为深入学习贯彻习近平总书记关于注重家庭家教家风建设的重要论述，大力弘扬社会主义家庭文明新风尚，中央宣传部、全国妇联向全社会发布2026年“最美家庭”。 刘闯、庞卫涛、赵娟娟、申芸、张国利、张耘、韩光莹、石慧、何鸿英、隋亚平等10户家庭光荣入选。他们有的潜心钻研，在航天强国、大国工程建设一线拼搏奉献；有的携手扎根乡村，用汗水和智慧团结…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157139.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.624Z"
+          }
+        },
+        {
+          "id": "people_daily:30157140",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "厚植家国情 奋进“十五五”",
+          "subtitle": "——走近2026年“最美家庭”",
+          "author": "本报记者 杨 昊",
+          "excerpt": "家是最小国，国是千万家，家庭的命运同国家和民族的前途命运紧密相连。 中央宣传部、全国妇联联合发布了10户2026年“最美家庭”的先进事迹。这些家庭弘扬家庭美德、传承优良家风，把实现个人梦、家庭梦融入国家梦、民族梦之中，在奋斗中收获幸福，在追梦中成就精彩。 实干立家：坚守岗位彰显家国情怀 以实干践行初心使命，以担当彰显家国情怀。 中国航天科技集团研究员刘闯，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157140.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.755Z"
+          }
+        },
+        {
+          "id": "people_daily:30157141",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "谌贻琴出席亚太经合组织妇女与经济论坛开幕式并致辞",
+          "excerpt": "本报上海5月15日电 （记者曹玲娟）亚太经合组织（APEC）妇女与经济论坛15日在上海举行。国务委员、全国妇联主席谌贻琴出席开幕式并致辞。 谌贻琴表示，习近平主席高度重视妇女事业发展，去年10月，亲自出席全球妇女峰会并发表主旨讲话，在国际妇女运动史上树立起新的里程碑。亚太经合组织一直把促进性别平等作为各项合作优先领域，设立妇女与经济论坛十余年来，为推动亚太…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157141.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.611Z"
+          }
+        },
+        {
+          "id": "people_daily:30157145",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "以奋斗超越自我 让梦想绽放光彩（权威发布）",
+          "author": "本报记者 易舒冉",
+          "excerpt": "残疾人是推进中国式现代化的重要力量，也是需要格外关心、格外关注的特殊困难群体。5月15日，在第三十六个全国助残日到来之际，国务院新闻办举行“新征程上的奋斗者”中外记者见面会，邀请5位残障人士代表围绕“以自强精神为推进中国式现代化贡献力量”和大家交流。 贵州省黔东南苗族侗族自治州黎平县彦婷手工刺绣坊负责人陆永江是一位肢体残疾人，她走遍黎平县25个乡镇，把老一…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157145.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.718Z"
+          }
+        },
+        {
+          "id": "people_daily:30157143",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "李强主持召开国务院常务会议",
+          "subtitle": "听取贯彻落实中央城市工作会议部署和实施城市更新进展情况汇报，审议通过《城市更新“十五五”规划》《加快农业农村现代化“十五五”规划》，研究人口发展有关工作，研究基础教育改革发展有关工作",
+          "excerpt": "新华社北京5月15日电 国务院总理李强5月15日主持召开国务院常务会议，听取贯彻落实中央城市工作会议部署和实施城市更新进展情况汇报，审议通过《城市更新“十五五”规划》《加快农业农村现代化“十五五”规划》，研究人口发展有关工作，研究基础教育改革发展有关工作。 会议指出，中央城市工作会议以来，各地区各部门深入贯彻党中央决策部署，采取一系列推进城市高质量发展的举…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157143.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.746Z"
+          }
+        },
+        {
+          "id": "people_daily:30157146",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "首届中国新文创市集在北京开幕",
+          "excerpt": "本报北京5月15日电 （记者施芳）5月15日，首届中国新文创市集暨潮玩游园会在北京朝阳公园启幕，打造文博文创、国潮潮玩、非遗项目、数字科技发展等一站式体验，搭建起全国文创产业交流协同平台。活动由文化和旅游部、商务部、北京市人…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157146.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.619Z"
+          }
+        },
+        {
+          "id": "people_daily:30157147",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "29个智能气象站启动业务试运行",
+          "excerpt": "本报北京5月15日电 （记者李红梅）记者从中国气象局获悉：北京密云等29个智能气象站已于近日启动业务试运行，标志着我国地面气象观测将逐步向智能化转型，为气象精准预报、灾害防御、气候研究提供更精密高效的基础数据支撑。 智能气象站依托物联网、大数据、人工智能、边缘计算等新技术，对传统观测站点进行系统性升级，构建集数据采集、智能处理、实时传输、业务应用于一体的现…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157147.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.721Z"
+          }
+        },
+        {
+          "id": "people_daily:30157149",
+          "source": "people_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "广告",
+          "excerpt": "",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/16/content_30157149.html",
+          "extraction": {
+            "status": "empty",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:10:09.719Z",
+            "message": "一部記事は本文抽出不可。タイトル・版面・参照ボタンのみ表示しています。"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 8本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:1:要闻",
+      "issueDate": "2026-05-16",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-16-1-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "我国成功发射泰景三号05A星等5颗卫星",
+          "excerpt": "本报酒泉5月15日电 王晨宇、记者李伟欣报道：5月15日12时33分，我国在东风商业航天创新试验区使用力箭一号遥十三运载火箭，成功将泰景三号05A/05B星、天仪50星、天雁27星、吉林一号高分…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.022Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-1-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "干事当有“过山劲”",
+          "excerpt": "习主席曾专门告诫青年干部：“如果是上级派你到某个地方去工作，要你干上三年五年，这时候，看的就不是你的‘三把火’，而是你的‘过山劲’了。”所谓“过山劲”，就是咬定目标的韧劲、迎难而上的拼劲、驰而不息的恒劲。 在树立和践行正确政绩观学习教育中，某部教育引导党员干部干事创业要拿出“过山劲”，爬坡不歇脚、过坎不止步，保持奋斗姿态。部队建设有自身规律，抓战备谋打赢、…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.022Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-1-6",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=01&articleid=2026-05-16-1-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.022Z"
+          }
+        }
+      ],
+      "reason": "81cn only 3本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:2:要闻",
+      "issueDate": "2026-05-16",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-16-2-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "《习近平经济思想研究文集》西班牙文版出版座谈会在智利举办",
+          "excerpt": "新华社圣地亚哥5月14日电（记者朱雨博、周佳谊）《习近平经济思想研究文集》西班牙文版出版座谈会14日在智利首都圣地亚哥举办。与会专家学者围绕习近平经济思想的实践伟力、中国发展理念、中智交流合作等展开深入研讨交流。 与会人士表示，习近平经济思想不仅对中国经济发展具有指导意义，也为世界各国特别是发展中国家探索适合本国国情的发展道路提供了智慧和启迪。《习近平经济…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=02&articleid=2026-05-16-2-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-2-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中国第12批援埃塞俄比亚军医专家组出征",
+          "excerpt": "本报讯 黄琪奥、记者朱柏妍报道：5月16日凌晨，中国第12批援埃塞俄比亚军医专家组出征，前往埃塞首都亚的斯亚贝巴执行为期1年的医疗援助任务。 此次出征的专家组共13名军队医疗专家，由陆军军医大学第一附属医院牵头抽组。专家涵盖骨科、感染病科、眼科、呼吸内科、泌尿外科、普通外科、中医科等多个专业领域，均具备深厚的理论功底和丰富的临床实践经验。 执行任务期间，专…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=02&articleid=2026-05-16-2-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-2-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "巴基斯坦外交部表示始终坚定奉行一个中国原则",
+          "excerpt": "据新华社伊斯兰堡5月15日电（记者杨恺）巴基斯坦外交部发言人塔希尔·安德拉比14日说，巴基斯坦始终坚定奉行一个中国原则，并在联合国、世界卫生大会等多边机制上坚持这一原则。 安德拉比当天在例行记者会上表示，巴基斯坦在台湾问题上的立场是一贯的，世界上只有一个中国，台湾是中国领土不可分割的一部分。巴方坚定支持中国在维护国家统一方面所作的努力，以及中方在不同多边机…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=02&articleid=2026-05-16-2-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        }
+      ],
+      "reason": "81cn only 3本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:3:要闻",
+      "issueDate": "2026-05-16",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-16-3-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "聚天下英才  创复兴伟业",
+          "subtitle": "——人才强国建设为中国式现代化提供有力支撑",
+          "excerpt": "“我们比历史上任何时期都更接近实现中华民族伟大复兴的宏伟目标，我们也比历史上任何时期都更加渴求人才。”习近平总书记的重要论述，标定新时代人才工作的时代方位和使命价值。 “十五五”规划纲要明确提出“统筹教育强国、科技强国、人才强国建设”，围绕全方位培养、引进、用好人才作出全面部署，就深化人才发展体制机制改革作出系统安排。 国以才立，业以才兴。进入基本实现社会…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-3-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中央宣传部、全国妇联联合发布2026年“最美家庭”",
+          "excerpt": "新华社北京5月15日电 为深入学习贯彻习近平总书记关于注重家庭家教家风建设的重要论述，大力弘扬社会主义家庭文明新风尚，中央宣传部、全国妇联向全社会发布2026年“最美家庭”。 刘闯、庞卫涛、赵娟娟、申芸、张国利、张耘、韩光莹、石慧、何鸿英、隋亚平等10户家庭光荣入选。他们有的潜心钻研，在航天强国、大国工程建设一线拼搏奉献；有的携手扎根乡村，用汗水和智慧团结…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-3-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "五部门发布警惕“招转培”“培训贷”等风险提示",
+          "excerpt": "据新华社北京5月15日电（记者张晓洁）人力资源社会保障部、中央网信办、教育部、公安部、金融监管总局5月15日联合发布警惕“招转培”“培训贷”等风险提示，提醒广大求职者提高风险防范意识，谨防上当受骗。 近来，一些不法分子以招聘为名进行引流，变相推销培训课程，诱导求职者支付高额费用，甚至申请贷款参加培训，严重侵害求职者合法权益，扰乱人力资源市场正常秩序。相关骗…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-3-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "两部门就今年首轮大范围持续性降雨部署工作",
+          "excerpt": "据新华社北京5月15日电（记者黄韬铭）记者从应急管理部获悉，5月15日至19日，我国迎来今年首轮大范围持续性降雨过程。国家防总办公室、应急管理部组织有关部门和省份会商研判强降雨发展趋势，部署南北方重点地区防汛工作。国家防总维持对广东、贵州的防汛四级应急响应。 会商指出，此轮降雨覆盖南北方多地，持续时间长、局地强度大，还伴有雷暴大风、短时强降水等强对流天气。…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-3-6",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“每一代人都有自己的新长征”",
+          "excerpt": "近日，“传承长征精神 赓续红色血脉”——港澳青年重走长征路江西行活动在赣州举行。来自香港、澳门和内地的近200名青年走进江西赣州，在红军长征胜利90周年之际，沿着中央红军的长征出发路线，探访革命旧址、调研科技企业、体验红色文化，用脚步丈量这片红色土地。 活动期间，港澳青年足迹遍布章贡、于都、瑞金三地。走进科研院所与智能制造车间，见证老区科创活力；踏访长征出…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-3-8",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-8",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-3-9",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=03&articleid=2026-05-16-3-9",
+          "extraction": {
+            "status": "empty",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z",
+            "message": "Article content text was empty"
+          }
+        }
+      ],
+      "reason": "81cn only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:4:要闻",
+      "issueDate": "2026-05-16",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-16-4-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "从“真心热线”到“真心播客”",
+          "subtitle": "——陆军某旅心理服务团队的故事",
+          "excerpt": "暮春傍晚，明月初升。陆军某旅“真心姐姐”工作室录音棚里，该旅心理骨干薛云丽莎俯身调好麦克风，温柔而笃定的声音缓缓漾开：“这里是‘真心播客’，我是你们的‘真心姐姐’丽莎……” 从满载卡片书籍的流动推车，到随时接听、服务解难的“真心热线”；从强军网上的专属频道，到官兵常用的工作微信，再到云端传音的“真心播客”……该旅心理服务团队从一辆小推车起步，紧跟时代步伐、…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=04&articleid=2026-05-16-4-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.023Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-4-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "多比谁的贡献大境界高",
+          "excerpt": "习主席参观谷文昌纪念馆时指出，各级领导干部要向谷文昌同志学习，树牢正确政绩观，为官一任、造福一方，真抓实干、久久为功，把丰碑立在人民群众心中。学习谷文昌同志，不仅要高山仰止，还要见贤思齐，像他那样做人、为政。 人与人之间难免会互相比较，党员干部也不例外。多与他人比廉洁、比业绩、比操守，自觉查找差距和不足，才能见贤思齐、镜鉴自省，完善自我、革新自我。如果把关…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=04&articleid=2026-05-16-4-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.024Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-4-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "让授课触动灵魂更有意义",
+          "excerpt": "近日，在武警湖南总队某支队组织的按纲建队考评中，吴指导员所在中队因思想政治教育实效突出获得高分。回想不久前被上级批评教育质量不佳的经历，吴指导员坦言：“教育效果好不好，不能光看收获了多少掌声，只有真正触动灵魂的授课才有意义。” 年初，该支队政治工作处黄副主任到该中队蹲点调研，听了吴指导员讲授的一堂政治教育课。台上，吴指导员妙语连珠，各种网络梗、流行语信手拈…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=04&articleid=2026-05-16-4-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.024Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-4-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "昔日单打独斗  今朝联合制胜",
+          "excerpt": "海面风高浪急，水下暗流涌动。 近日，一场红蓝对抗训练在某海域拉开战幕。其中，由多艘水面舰艇和战机构成的反潜力量扮演红方，来自海军某潜艇支队的一艘潜艇作为蓝方主力。红方指挥员姚彦君和蓝方艇长彭忠并不算陌生。不久前，二人刚刚各自率领兵力进行了一场“拼杀”。 那次过招，蓝方潜艇刚刚抵达目标海域，便侦测到舰船噪声。彭忠据此判断潜艇已进入红方搜索范围，果断下令：“调…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=04&articleid=2026-05-16-4-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.024Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-4-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=04&articleid=2026-05-16-4-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.024Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-16-4-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-16&paperNumber=04&articleid=2026-05-16-4-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:10:09.024Z"
+          }
+        }
+      ],
+      "reason": "81cn only 6本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    }
+  ],
+  "counts": {
+    "peopleArticles": 30,
+    "plaArticles": 29,
+    "matchedGroups": 4,
+    "matchedPeopleArticles": 13,
+    "matchedPlaArticles": 10,
+    "peopleOnlyArticles": 17,
+    "plaOnlyArticles": 19
+  }
+}

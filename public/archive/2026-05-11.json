@@ -1,0 +1,2334 @@
+{
+  "schemaVersion": 1,
+  "issueDate": "2026-05-11",
+  "generatedAt": "2026-05-16T09:08:58.282Z",
+  "retentionDays": 31,
+  "frontPages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "judge": {
+    "enabled": true,
+    "model": "gpt-4.1-nano"
+  },
+  "peopleIssue": {
+    "id": "people_daily:2026-05-11",
+    "source": "people_daily",
+    "issueDate": "2026-05-11",
+    "pages": [
+      {
+        "id": "people_daily:2026-05-11:p01",
+        "source": "people_daily",
+        "issueDate": "2026-05-11",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30155998",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "福建推进民营经济高质量发展（“十五五”开好局起好步）",
+            "author": "本报记者 廖文根 付 文 刘晓宇",
+            "excerpt": "5月8日，福耀集团福清阳下生产基地下线一款全景天幕玻璃。这款集智能调光、镀膜隔热、玻璃天线三项功能于一体的新产品，既能集纳广播、高精度定位等8种天线，又能自动调节亮度、隔绝紫外线，让信号更强、功能更多、能耗更低。 “在关键工艺和设备等核心领域，福耀已实现全自主研发、自主可控，成功解决了行业14项‘卡脖子’技术难题。”福耀集团总裁叶舒说，“过去10年，福耀研…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30155998.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:43.699Z"
+            }
+          },
+          {
+            "id": "people_daily:30155999",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "因地制宜走出发展新路（总书记的关切·落地的回响）",
+            "author": "本报记者 戴林峰 徐驭尧",
+            "excerpt": "“要因地制宜发展高原特色优势产业，特别是特色农牧业和清洁能源产业，持续发展资源加工业，积极发展现代服务业，促进文旅产业融合。” ——2025年8月20日，习近平总书记在听取西藏自治区党委和政府工作汇报时指出 雪域高原，“风”“光”无限。 4650米，全球最高海拔的塔式光热电站——西藏安多土硕100兆瓦光热项目迎来新进展，全部15927面定日镜不久前安装完成…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30155999.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:43.813Z"
+            }
+          },
+          {
+            "id": "people_daily:30156000",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "我国加快建设分级诊疗体系",
+            "author": "本报记者 白剑峰",
+            "excerpt": "5月7日，79岁的邱先生接到了家庭医生团队健康管理师黄丽鸥的随访电话。今年3月，福建省厦门市思明区鼓浪屿街道社区卫生服务中心家庭医生团队根据邱先生的胸部CT检查结果发现，他的冠状动脉钙化程度较高，存在较高心血管病风险，于是立即建议他前往专科医院做进一步检查。次日，邱先生通过社区转诊绿色通道，来到厦门大学附属心血管病医院就诊。检查结果证实，冠状动脉存在重度狭…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156000.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:43.697Z"
+            }
+          },
+          {
+            "id": "people_daily:30156001",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "沂蒙老区“出海记”（老区新事）",
+            "author": "本报记者 侯琳良 李 蕊",
+            "excerpt": "一辆挂着“鲁Q”牌照的货车，能开到多远？ 3年前，答案是覆盖全国所有县级以上城市。如今，答案是亚欧大陆腹地，且范围仍在延展。 不靠海、不沿边的山东临沂，靠什么实现“突围”？ 2024年5月，习近平总书记在山东考察时强调：“要积极构建国际物流大通道”“努力成为畅通国内国际双循环的重要节点”。 破题突围，始于打通国际物流大通道的系列变革。 山东临满欧国际物流有…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156001.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:43.812Z"
+            }
+          },
+          {
+            "id": "people_daily:30156002",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "2025年度全国秋粮收购超3.38亿吨",
+            "excerpt": "本报北京5月10日电 （记者欧阳洁）国家粮食和物资储备局发布数据显示：2025年度秋粮旺季收购于今年4月底结束，全国各类粮食经营主体累计收购秋粮超3.38亿吨，为近年来较高水平，总体呈现进度快、购销活、价格涨等特点。 旺季收购期间，国家粮食和物资储备局强化统筹组织，细化政策措施，相机灵活开展收储调控，多措并举推动产销衔接和农企对接，积极引导各类主体入市，着…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156002.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:43.690Z"
+            }
+          },
+          {
+            "id": "people_daily:30156003",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "修复草原 防风固沙",
+            "excerpt": "从黄河“几字弯”到科尔沁沙地，从浑善达克沙地深处到巴丹吉林沙漠边缘，内蒙古各地正加快推进“三北”工程标志性项目。 “十四五”时期，内蒙古累计完成“三北”工程生态建设任务1.23亿亩，其中防沙治沙6688万亩，规模居全国首位。经过持续治理，内蒙古森林覆盖率达到21.98%，较2021年提升1.19个百分点；草原综合植被盖度达到45…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156003.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:43.581Z"
+            }
+          },
+          {
+            "id": "people_daily:30156004",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "4792.24万户经营主体获信用修复",
+            "excerpt": "本报北京5月10日电 （记者林丽鹂）市场监管总局大力推进高效办成信用修复“一件事”，据统计：截至今年3月底，累计为4792.24万户经营主体修复信用。 信用修复为失信企业提供了重塑自身信用的机会，帮其卸下“失信包袱”、重新参与市场竞争、恢复和增加市场交易机会。 随着一系列制度举措的出台，更多经营主体享受到信用修复政策红利。去年3月，市场监管信用修复全国统一…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156004.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:43.698Z"
+            }
+          },
+          {
+            "id": "people_daily:30156005",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "导读",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156005.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:43.695Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/11/963c46b5-835e-401a-b335-e7ef6211c2b7.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/11/1ea81fa5-e3d9-4099-a165-d146680e86dd.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:08:43.813Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-11:p02",
+        "source": "people_daily",
+        "issueDate": "2026-05-11",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30156006",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "数据“动”起来，服务业“跑”起来（经济新方位·服务业扩能提质）",
+            "author": "本报记者 王昊男",
+            "excerpt": "挖了近70年“土疙瘩”的公司，却搞起了数据交易和人工智能。这一转变就发生在北京朝阳区。 泛黄的图纸、手写的报告、老旧的储存硬盘……走进位于朝阳区的北京城建勘测设计研究院有限责任公司，成排的档案柜被塞得满满当当。 “以前只能干瞪眼，守着一座‘金山’就是用不起来。”总工程师高涛介绍，这些档案来自包括北京在内的50多个城市、数百条地铁线路，“有超过1200万延米…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156006.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.286Z"
+            }
+          },
+          {
+            "id": "people_daily:30156007",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "全链条服务，好苗出好虾（海洋经济高质量发展一线见闻）",
+            "author": "本报记者 王云娜 宋 飞",
+            "excerpt": "“这是我们正在培育的‘快大’新品系，虾长得更快、更壮，现在已进入中试环节。”在广东湛江市东海岛国家863计划项目海水养殖种子工程南方基地，指着车间里的虾苗，运营方恒兴集团水产种苗与养殖研究所所长陈奕彬说。 来到基地，记者才发现，超市里、餐桌上常见的南美白对虾，很多就源自这里，听说不少养虾人宁肯空塘，也要等这里的虾苗。真有这么神奇？记者来到湛江雷州市养殖户宋…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156007.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.297Z"
+            }
+          },
+          {
+            "id": "people_daily:30156008",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "井下5G好用 无人矿车畅行（新场景新动能）",
+            "author": "本报记者 曾亦辰",
+            "excerpt": "手柄右移，实现放矿作业；鼠标一点，完成整列调度。甘肃金川集团股份有限公司龙首矿运输工区，电机车沿井下轨道平稳行驶。装矿、转弯、减速、停车，整套作业行云流水，驾驶室里却空无一人。 千米之外，井上的一间智能集控室里，机车运输情况实时显示在屏幕上。通过有轨运输无人驾驶井下自动调度系统，曾经的电机车司机、如今的操作员梅松波正在监控道岔状态信息：机车接近时，屏幕上对…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156008.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.287Z"
+            }
+          },
+          {
+            "id": "people_daily:30156009",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "2026年职业教育活动周启动",
+            "excerpt": "本报珠海5月10日电 （记者吴丹）2026年职业教育活动周10日启动。职业教育活动周由教育部等9部门联合举办，今年的主题为“一技在手，一生无忧”，将持续至5月16日。 据悉，今年活动周设立“七天主题活动日”，分别是：职教改革研讨日、技能成才宣讲日、产教融合示范日、发展成效展示日、职业技能体验日、职教志愿服务日以及地方特色活动日，推动活动周期间天天有活动、精…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156009.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.319Z"
+            }
+          },
+          {
+            "id": "people_daily:30156010",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156010.html",
+            "extraction": {
+              "status": "empty",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.288Z",
+              "message": "一部記事は本文抽出不可。タイトル・版面・参照ボタンのみ表示しています。"
+            }
+          },
+          {
+            "id": "people_daily:30156011",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "一季度互联网业务收入同比增10.6%",
+            "excerpt": "本报北京5月10日电 （记者刘温馨）工业和信息化部数据显示：今年一季度，我国规模以上互联网和相关服务企业完成互联网业务收入5027亿元，同比增长10.6%。 一季度，利润总额增速加快，规模以上互联网企业实现利润总额558.4亿元，同比增长60.5…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156011.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.289Z"
+            }
+          },
+          {
+            "id": "people_daily:30156012",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "17家行业协会商会发布国内贸易交易指引",
+            "subtitle": "为企业提供可操作易落地行为规范",
+            "excerpt": "据新华社电 （记者何晓）中国物流与采购联合会、中国商业联合会、中国纺织工业联合会、中国轻工业联合会、中国网络社会组织联合会等17家全国性行业协会商会近日在北京发布《国内贸易交易指引（试行）》。 指引共设7章38条，立足行业发展实际、聚焦堵点卡点问题、贯穿交易全流程，对订立交易合同、货物交付验收、账期及支付、争议解决、规范商业行为等各环节进行了明确和规定，为…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156012.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.292Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/11/a63c3ea1-4661-410f-a877-40ac0c802363.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/11/9d2a6086-f4d9-47de-a195-8be207f71f75.jpg.2",
+        "extraction": {
+          "status": "partial",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:08:44.319Z",
+          "message": "一部記事は本文抽出不可。タイトル・版面・参照ボタンのみ表示しています。"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-11:p03",
+        "source": "people_daily",
+        "issueDate": "2026-05-11",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30156013",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中企助力纳米比亚增强发展动能（新时代中非合作）",
+            "author": "本报记者 戴楷然",
+            "excerpt": "一条公路便利了民众出行，一座储能电站为清洁能源转型注入动力，一片海域孕育着可持续发展的蓝色希望……在纳米比亚，从首都温得和克新机场公路的顺利通车，到奥姆布鲁储能项目的稳步推进，再到鲸湾港生蚝养殖产业的蓬勃发展，中国企业将发展理念、先进技术与本地需求结合，助力纳米比亚提升基础设施水平、优化能源结构、培育新兴产业。这些项目为当地带来实实在在的发展红利，书写着互…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156013.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.754Z"
+            }
+          },
+          {
+            "id": "people_daily:30156014",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "日本“新型军国主义”严重威胁地区和平稳定（国际论坛）",
+            "author": "丁 铎",
+            "excerpt": "日本任何试图挑战战后秩序、破坏地区稳定的军事冒险，终将遭到地区各国的共同反对，注定以失败收场 日前，日本政府就推进启动“安保三文件”修订工作召开首次专家会议。日本首相高市早苗在会议上妄言，修订“安保三文件”工作是左右国家命运的重要工作，要推进应对“新型作战方式”以及为长期战争做好准备，推进海上安保能力、网络安全和经济安全保障。 近来，日本“新型军国主义”妄…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156014.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.745Z"
+            }
+          },
+          {
+            "id": "people_daily:30156015",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "商务部新闻发言人就中美经贸磋商有关问题答记者问",
+            "excerpt": "新华社北京5月10日电 （记者谢希瑶）商务部新闻发言人10日就中美经贸磋商有关问题答记者问时表示，经中美双方商定，中共中央政治局委员、国务院副总理何立峰将于5月12日至13日率团赴韩国与美方举行经贸磋商。…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156015.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.753Z"
+            }
+          },
+          {
+            "id": "people_daily:30156016",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "塔吉克斯坦总统拉赫蒙今起对我国进行国事访问",
+            "excerpt": "应国家主席习近平邀请，塔吉克斯坦总统埃莫马利·拉赫蒙将于5月11日至14日对中国进行国事访问。 埃莫马利·拉赫蒙于1952年10月5日出生于塔吉克斯坦丹加拉区农民家庭。1969年毕业于加里宁纳巴德（现为萨尔班德）第40职业技术中学。1971年至1974年在太平洋舰队服役。1982年毕业于塔吉克斯坦国立大学经济系。 自1974年起在丹加拉区列宁国营农场工作，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156016.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.749Z"
+            }
+          },
+          {
+            "id": "people_daily:30156017",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“为意中文化交流增添新注脚”",
+            "subtitle": "——走进第六十一届威尼斯国际艺术双年展中国馆",
+            "author": "本报记者 谢亚宏",
+            "excerpt": "孟夏的风拂过意大利水城威尼斯，碧波在阳光下轻荡粼光。 5月8日，第六十一届威尼斯国际艺术双年展中国馆展览在此开幕。来自中国的艺术作品，在这里与世界艺术潮流相遇，绽放出传统与当代交融、艺术与科技共生的独特光华。 中国馆展览由中国文化和旅游部主办，中国美术学院策展。中国馆策展人、中国美术学院院长余旭红介绍，中国馆的主题“梦溪”取意于北宋沈括所著《梦溪笔谈》，呼…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156017.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.752Z"
+            }
+          },
+          {
+            "id": "people_daily:30156018",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "习近平主席特使、全国人大常委会副委员长洛桑江村出席吉布提总统就职典礼",
+            "excerpt": "新华社亚的斯亚贝巴5月9日电 （记者刘方强）吉布提市消息：当地时间9日，应吉布提总统盖莱邀请，习近平主席特使、全国人大常委会副委员长洛桑江村在吉布提出席盖莱总统就职典礼。同日，盖莱在人民宫会见洛桑江村。 洛桑江村向盖莱转达了习近平主席的热烈祝贺和良好祝愿，表示近年来在习近平主席和盖莱总统的战略引领下，中吉全面战略伙伴关系持续深化。中方愿同吉方一道，落实好两…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156018.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.751Z"
+            }
+          },
+          {
+            "id": "people_daily:30156019",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "2026年中美民间匹克球联谊赛举行",
+            "excerpt": "本报赣州5月10日电 （记者周欢）5月9日，2026年中美民间匹克球联谊赛在江西赣州上犹县举行。活动是落实中美“5年5万”倡议的具体实践，旨在为中美民间交往搭建新桥梁、注入青春活力。 联谊赛共设专业观摩赛、初级友谊赛、中级友谊赛三大组别。美国在华机构和企业代表、犹他理工大学匹克球队、俄勒冈友好匹克球代表团以及中国球员参赛，大家同台组队、混合竞技，相互切磋球…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156019.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.747Z"
+            }
+          },
+          {
+            "id": "people_daily:30156020",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中国援喀麦隆医疗队开展义诊活动",
+            "excerpt": "据新华社雅温得5月10日电 （记者王泽）中国（山西）第二十五批援喀麦隆医疗队日前赴喀麦隆中部大区阿约斯，开展为期两天的“百队千村行”主题义诊活动。 中国医疗队队长刘胜滨表示，此次活动旨在践行行医初心、传递中非友好。医疗队将持续以精湛医术解民忧，以暖心服务传温情，努力缓解当地民众就医难题，通过医疗帮扶深化中喀两…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156020.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:44.748Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/11/956554c3-15a9-408a-9ac0-9137a38192fb.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/11/9a735b34-f388-493e-8642-7ced35fd73d8.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:08:44.754Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-11:p04",
+        "source": "people_daily",
+        "issueDate": "2026-05-11",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30156021",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "给城市做个“精密体检”（深阅读）",
+            "author": "本报记者 尹晓宇",
+            "excerpt": "“十五五”规划纲要提出：“高质量推进城市更新，开展城市体检，加快建设完整社区，健全城市更新实施机制”。 城市体检作为精准发现问题、实施城市更新的重要基础性工作，是提升城市治理能力和水平、建设现代化人民城市的创新举措。江苏落实国家要求，构建包含规划评估、综合体检、专项体检、日常巡检在内的体检体系，全面开展城市体检评估，建立发现问题、解决问题、评估效果、巩固提…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156021.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:45.388Z"
+            }
+          },
+          {
+            "id": "people_daily:30156022",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "实干奋进，青春无悔的姿态（人民论坛）",
+            "author": "常 晋",
+            "excerpt": "前段时间，收到一封大学生读者来信，写满年轻人常有的迷茫。他想有所作为，心里憋着一股劲，却不知该往何处使；前路漫漫，虽读了万卷书，仍担心走不好脚下路。谁的青春不曾有过彷徨？这样的困惑与求索，感同身受。 怎么破？答案，或可从近来一段网络流行语中找寻——“像建设新中国一样建设自己，像一个个五年规划一样规划自己”。初听是一句抒情感慨，细品也是一章奋进序曲。绽放青春…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156022.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:45.391Z"
+            }
+          },
+          {
+            "id": "people_daily:30156023",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "“全球深渊探索计划”太平洋穿越科考航次完成",
+            "excerpt": "据新华社海口5月10日电 （记者赵颖全、陈凯姿）10日，“探索一号”科考船搭载“奋斗者”号载人潜水器抵达广东广州，标志着我国牵头组织的“全球深渊探索计划”太平洋穿越科考航次顺利完成。航次期间，首次中国—智利阿塔卡马海沟联合深潜任务也成功开展。 据介绍，该航次于2025年12月6日从海南三亚起航，历时156天，总航程超4万公里。来自中国、智利、德国、丹麦、加…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156023.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:45.392Z"
+            }
+          },
+          {
+            "id": "people_daily:30156024",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "5月8日，2026年全国“四季村晚”（四川广安市前锋区）夏季示范展示活动在前锋区仁和寨举办，吸引许多游客前来观看。活动以“锦绣天府·乡约仁和”为主题，节目涵盖双竹连响、特色歌舞、川剧绝活、武术…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156024.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:45.395Z"
+            }
+          },
+          {
+            "id": "people_daily:30156025",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "7名奥运健儿获中国青年五四奖章",
+            "excerpt": "本报北京5月10日电 （记者杨昊）为表彰我国青年运动员在第二十五届冬季奥林匹克运动会和第十四届冬季残疾人奥林匹克运动会上的突出贡献，共青团中央、全国青联决定，授予苏翊鸣、王心迪、党鹤松、王涛、余爽、刘子旭、纪立家等7名青年运动员中国青年五四奖章。王跃、宁忠岩等运动员获授其他省部级奖项，不再重复授予。 共青团中央、全国青联号召全国广大青少年向我国体育健儿学习…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156025.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:45.393Z"
+            }
+          },
+          {
+            "id": "people_daily:30156026",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "新一轮较强降水影响江南华南等地",
+            "excerpt": "本报北京5月10日电 （记者蒋雪鸿）中央气象台预计，11日至14日，云南、江南、华南及湖北南部等地将自西向东迎来中到大雨天气，部分地区有暴雨，并伴有短时强降水等强对流天气。 10日18时，中央气象台发布强对流天气蓝色预警。预计10日20时至11日20时，山西东南部、河北南部、山东西部和南部、河南北部、江苏北部等地部分地…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156026.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:45.390Z"
+            }
+          },
+          {
+            "id": "people_daily:30156027",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "从“办事窗口”到“邻里客厅”（奋进“十五五”·一线见闻）",
+            "author": "本报记者 王欣悦",
+            "excerpt": "创新社区集成服务模式。 ——摘自“十五五”规划纲要 下午4点多，重庆市奉节县永安街道江陵社区服务综合体二楼的手工教室里坐满了人。社区居民李治桃手指翻飞，毛线在她手中渐渐变成一枝美丽的向日葵，“年初的时候这里开设了免费编织培训班，我就想试试看，没想到成了一项副业。” 手工教室位于综合体的“渝好空间”，1700平方米的空间里，有“好娃托管”“好姐家政”与“好邻…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156027.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:45.390Z"
+            }
+          },
+          {
+            "id": "people_daily:30156028",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "让社区服务走好“最后一公里”（编辑手记）",
+            "author": "余 璇",
+            "excerpt": "作为城市治理、服务群众的“最后一公里”，社区如何更好满足群众需求？从“渝好空间”的实践中，我们看见了一份将以人为本理念与基层治理实践相结合的温暖答卷。 看见“人”的需求，方能让好服务更精准。居民有休闲、娱乐、社交等需求，社区便开辟活动区域；家长有带娃难题，社区便推出托管服务。这些针对性强的举措，让居民生活更便利、幸福更真切。 凝聚“众”的力量，方能让好服务…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156028.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:45.394Z"
+            }
+          },
+          {
+            "id": "people_daily:30156029",
+            "source": "people_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "我国加快建设分级诊疗体系",
+            "author": "本报记者 白剑峰",
+            "excerpt": "5月7日，79岁的邱先生接到了家庭医生团队健康管理师黄丽鸥的随访电话。今年3月，福建省厦门市思明区鼓浪屿街道社区卫生服务中心家庭医生团队根据邱先生的胸部CT检查结果发现，他的冠状动脉钙化程度较高，存在较高心血管病风险，于是立即建议他前往专科医院做进一步检查。次日，邱先生通过社区转诊绿色通道，来到厦门大学附属心血管病医院就诊。检查结果证实，冠状动脉存在重度狭…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156029.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:08:45.547Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/11/c636389c-093e-4318-bcec-9883e7ec0074.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/11/4dfa62c1-4b28-41ad-8b18-db0a4785d554.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:08:45.548Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "partial",
+      "method": "people-daily-html-v1",
+      "extractedAt": "2026-05-16T09:08:45.548Z",
+      "message": "一部記事は本文抽出不可。タイトル・版面・参照ボタンのみ表示しています。"
+    }
+  },
+  "plaIssue": {
+    "id": "pla_daily:2026-05-11",
+    "source": "pla_daily",
+    "issueDate": "2026-05-11",
+    "pages": [
+      {
+        "id": "pla_daily:2026-05-11:p01",
+        "source": "pla_daily",
+        "issueDate": "2026-05-11",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-11-1-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "我军高学历高素质士兵走上重要战位",
+            "subtitle": "越来越多年轻“兵教头”“兵专家”“兵参谋”竞相涌现",
+            "excerpt": "编者按 基层的基础在士兵，士兵的中坚在军士。习主席高度重视军士队伍建设，多次强调军士队伍的重要性。全军各部队深入贯彻落实新时代人才强军战略，聚力推动高学历高素质军士队伍能力素质迭代升级、全面转型，实现人的能力素质同强军实践协调发展。近年来，大批高学历高素质青年携笔从戎、投身军营，凭借扎实系统的专业积淀、开阔活跃的创新思维和矢志强军的使命担当，逐步成长为助推…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=01&articleid=2026-05-11-1-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-1-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "理清“旧账”  不欠“新账”",
+            "excerpt": "前段时间，西部战区陆军某旅宣传科张干事收到一份盖有法院印章的民事判决书，心中一块石头终于落了地。这次判决，给困扰该旅多年的一个历史遗留问题画上句号。这得益于旅两届党委班子扭住问题接续发力、抓工作到底到位的作风。 历史遗留问题往往时间跨度长、涉及人员广，部分原始档案资料不够完整，加之经办人员岗位调整变动，推进过程中常常面临难点堵点，容易出现“新官不理旧账”的…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=01&articleid=2026-05-11-1-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-1-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "不坐“靠背椅”  甘坐“矮板凳”",
+            "excerpt": "习主席在全军高级干部培训班开班式上强调：“高级干部要带头恢复和弘扬我党我军优良传统，放下官架子、回归革命军人本色，让新风正气在部队更加充盈。”贯彻这一重要指示精神，军队领导干部应树牢正确群众观，放下架子、深入基层，不坐“靠背椅”、甘坐“矮板凳”，在融入官兵中赢得信任、赢得威信。 我军政治工作三大原则，官兵一致原则是第一条。很多领导干部之所以得到官兵认可，是…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=01&articleid=2026-05-11-1-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-1-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "“这样的干部就该晋升”",
+            "excerpt": "天高云净，高原绽绿，记者走进武警第二机动总队某支队，在机关楼大厅看到一份公文：关于张俊吉等几名警官晋升任用情况的公示。 接连几天的采访中，无论在党委机关还是在基层一线，记者听到大家的评价高度一致：潜心准备打仗、聚力研战谋战的人理应脱颖而出。 “以往涉及职务晋升、评功评奖，个别同志耍‘小聪明’、打‘小九九’，让想干事、能干事的人寒了心、泄了劲。”该支队人力资…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=01&articleid=2026-05-11-1-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-1-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=01&articleid=2026-05-11-1-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-1-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=01&articleid=2026-05-11-1-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260511/953301c132610849468c2444e99929af.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260511/3ad2ab1a361066e8017e0cfca581f2ea.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:08:44.114Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-11:p02",
+        "source": "pla_daily",
+        "issueDate": "2026-05-11",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-11-2-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "“老连长，我们向您报告”",
+            "excerpt": "为什么大地春常在，英雄的生命开鲜花。 4月23日上午，第十三批在韩中国人民志愿军烈士遗骸安葬仪式在沈阳抗美援朝烈士陵园举行。12位志愿军烈士英灵，70多年后重回神州大地，安眠于祖国的春天。 现场人群中，一队军容严整的陆军官兵引人注目——“特级英雄”杨根思生前所在连的5名官兵代表。他们身着礼服，深情凝望覆盖着国旗的棺椁：前辈们，我们替老连长接你们回家。 19…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=02&articleid=2026-05-11-2-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-2-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "科学决策决定政绩成色",
+            "subtitle": "——树立和践行正确政绩观系列谈",
+            "excerpt": "2002年，习主席到浙江工作不久，有人请他谈谈“施政纲领”。他笑着说：“我刚刚来，还没有发言权。”后来，经过马不停蹄的调查研究和深入细致的科学论证，习主席提出了“八八战略”，系统回答了浙江当时“爬坡过坎、转型发展”的时代之问，引领浙江走出一条具有时代特征、中国特色、浙江特点的发展道路。这启示我们，树立和践行正确政绩观必须坚持科学决策，从实际出发、按规律办事…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=02&articleid=2026-05-11-2-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-2-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "“兵头将尾”走上指挥席",
+            "excerpt": "前不久，第81集团军某部一场实战背景下的战术训练拉开帷幕。 “开始行动！”指令传来，装步连班长王博指挥官兵展开作业：无人机升空侦察、穿越机精准突防、各小组依案协同……很快，他们顺利拔除“敌”观察哨，完成对目标合围。 “与以往不同，此次训练班长走上指挥席，全程自主谋划、临机决策。”该部干部蒋磊告诉笔者，这一转变源于一次失利。 此前，该部参加实战化训练，装步二…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=02&articleid=2026-05-11-2-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-2-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "“生命线”在发射架下彰显生命力",
+            "excerpt": "近日，密林深处，火箭军某部一辆辆导弹战车在夜色中疾驰，向预定地域转进。 全流程实战化演练开始不久，官兵遭遇“‘敌’无人机抛撒传单”特情。政治工作小组迅速前出，收集并销毁散落传单，同步启动舆情防控、思想稳控预案，灵活开展短平快的战场鼓动。后续演练中，官兵士气高昂完成占领阵地、起竖导弹等操作，对目标成功实施“打击”。 “作战中政治工作是作战行动的重要组成部分，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=02&articleid=2026-05-11-2-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-2-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=02&articleid=2026-05-11-2-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260511/0a2a9edda1e37cc913c1474bc1aa2c93.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260511/d8718a464986aa7093fd48c580f3a9e1.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:08:44.114Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-11:p03",
+        "source": "pla_daily",
+        "issueDate": "2026-05-11",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-11-3-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "一路清风暖祁连",
+            "excerpt": "皑皑白雪，巍巍祁连。 1936年11月，红西路军转战河西走廊，董振堂率领红5军军部及两个团、西路军直属卫生部、总医院及供给部妇女团各一部进驻山丹。寒风刺骨，这支衣衫褴褛的队伍，始终恪守铁律，一路艰辛，一路清风，温暖了积雪覆盖的祁连山，也焐热了百姓冰封的心。 山丹祁店村，夜色沉沉。村里刚发生一场激战，村民孙春秀惊魂未定，忽闻轻叩门扉声：“大娘，我们想讨碗水喝…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-3-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "进展符合预期  效果逐步显现",
+            "excerpt": "“设立1000亿元财政金融协同促内需专项资金”“出台实施财政金融协同促内需一揽子政策”……今年的政府工作报告、预算报告作出部署，以财政金融“组合拳”更大力度支持扩大内需。 从实施中小微企业贷款贴息政策、实施民间投资专项担保计划，到优化实施服务业经营主体贷款贴息政策和个人消费贷款财政贴息政策，财政部等相关部门已出台实施多项具体政策。这一揽子政策具体落地情况如…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-3-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "我国首条深水油气装备工艺管线智能生产线建设完成",
+            "excerpt": "海洋石油工程股份有限公司5月10日发布消息，我国首条深水油气装备工艺管线智能生产线在海油工程珠海深水装备制造基地建设完成，进入调试阶段。图…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-3-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "我国科学家为无人机安装“氢能心脏”",
+            "subtitle": "可使工业级无人机续航时间提升超2倍",
+            "excerpt": "据新华社大连5月10日电（记者蔡拥军、张博群）记者10日从中国科学院大连化学物理研究所获悉，当日，该所研发的“高比功率阴极闭合式风冷电堆”技术在大连通过科技成果鉴定。这款新型电堆是为工业级无人机量身打造的集轻量化、高功率、风冷散热等特点于一体的“氢能心脏”，可使工业级无人机续航时间提升2倍以上。 随着低空经济快速发展，传统锂电池续航时间短、现有燃料电池系统…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-3-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“全球深渊探索计划”太平洋穿越科考航次完成",
+            "subtitle": "首次在南半球发现最深化能生态系统",
+            "excerpt": "据新华社海口5月10日电（记者赵颖全、陈凯姿）10日，“探索一号”科考船搭载“奋斗者”号载人潜水器抵达广州，标志着我国牵头组织的“全球深渊探索计划”太平洋穿越科考航次顺利完成。航次期间，首次中国—智利阿塔卡马海沟联合深潜任务也成功开展。 据介绍，该航次于2025年12月6日从三亚起航，历时156天，总航程超4万公里。来自中国、智利、德国、丹麦、加拿大、西班…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-3-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "2025年度全国秋粮收购超3.38亿吨",
+            "excerpt": "新华社北京5月10日电（记者古一平）国家粮食和物资储备局最新发布数据显示，2025年度秋粮旺季收购于今年4月底结束，全国各类粮食经营主体累计收购秋粮超3.38亿吨，为近年来较高水平。收购总体呈现进度快、购销活、价格涨等特点。 据初步统计，累计收购中晚稻1.03亿吨、玉米2.22亿吨、大豆1299万吨。河南、湖南、黑龙江3省启动中晚稻最低收购价执行预案，累计…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.114Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-3-6",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "2026年职业教育活动周实现职业学校全覆盖",
+            "excerpt": "新华社广州5月10日电（记者魏冠宇、杨深深）教育部等九部门5月10日启动2026年职业教育活动周。今年活动周主题为“一技在手，一生无忧”，将实现各地职业学校全覆盖，持续至16日。 在全国职业教育大讲堂暨2026年广东省职业教育活动周启动仪式举办地广东珠海，粤港澳三地职业院校、企业等展示风采。广东省职业教育改革发展成果展同日开展。 今年活动周围绕职教改革研讨…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.115Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-3-7",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "三部门部署智能体规范应用与创新发展",
+            "excerpt": "新华社北京5月8日电 记者8日获悉，为落实《关于深入实施“人工智能+”行动的意见》，国家网信办、国家发展改革委、工业和信息化部近日联合印发《智能体规范应用与创新发展实施意见》。意见明确了智能体发展要坚持安全可控、规范有序、创新驱动、应用牵引的基本原则。 国家网信办有关负责同志表示，近年来，以手机助手、终端智能管家、云端智能体等为代表的智能体产品加速涌现，呈…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-7",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.115Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260511/d2222c4369edc461d594e3040a845186.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260511/0f6d50ecb42dc668544bad1b611b93e3.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:08:44.115Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-11:p04",
+        "source": "pla_daily",
+        "issueDate": "2026-05-11",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-11-4-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "中欧班列开行突破13万列",
+            "excerpt": "新华社北京5月9日电（记者樊曦）记者从中国国家铁路集团有限公司获悉，9日10时，随着开往德国汉堡的X8037次中欧班列从中国郑州圃田站发车，中欧班列历年累计开行突破13万列，发送货值超5200亿美元。 国铁集团货运部负责人介绍，近年来，国铁集团围绕境内西、中、东三大通道，动态优化中欧班列运行线路，铺画时速120公里中欧班列图定线路93条。大力拓展境外多元化…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.115Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-4-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "我赴南苏丹维和工兵分队完成“通季—罗米奇”补给线修复任务",
+            "excerpt": "本报讯 特约记者王轶报道：近日，中国第16批赴南苏丹（瓦乌）维和工兵分队圆满完成“通季—罗米奇”补给线修复任务，全面恢复道路通行能力，为人道主义救援物资运输和当地民众出行带来便利，受到联南苏团高度评价。 此条补给线全长112公里，是南苏丹境内一条非常重要的补给线，是当地民众日常出行、物资转运的交通要道。受自然环境侵蚀和重型车辆碾压影响，道路路面和排水系统损…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.115Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-4-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "美为何加速推动硅谷AI巨头“参军”",
+            "excerpt": "5月1日，美国防部宣布与硅谷7家头部人工智能企业达成合作协议，包括美国太空探索技术公司（SpaceX）、开放人工智能研究中心（OpenAI）、谷歌、英伟达、微软等前沿人工智能公司。美方此举意在整合全球顶尖人工智能技术资源，深度嵌入美军作战体系与军事信息网络，标志着美军以人工智能为核心驱动的作战力量转型，迈入实质性、规模化阶段。 “增强决策优势”是美推动硅谷…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.115Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-4-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "中国式现代化为世界提供了新的发展模式",
+            "excerpt": "黑山副总理布迪米尔·阿莱克西奇日前在接受新华社记者专访时说，中国式现代化不仅意味着中国创造了经济发展奇迹，更为世界提供了“一种新的发展模式，表明现代化不必以牺牲自身特性为代价”。 2026年是黑中建交20周年。阿莱克西奇表示，20年来，他不仅见证了两国人民之间日益深厚的友谊，也深切感受到中国将数千年传统底蕴与现代化发展进程有机融合，“对细节的极致追求以及对…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.115Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-4-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "历史警钟必须长鸣",
+            "subtitle": "——起底日本在菲律宾的罪行与图谋",
+            "excerpt": "沙滩上，日本防卫大臣小泉进次郎在胸前握着右拳，与一群同样姿势的日本自卫队员合影，身后是日本自卫队的导弹发射车。 这是5月6日在菲律宾吕宋岛北部北依罗戈省帕瓦伊的一幕。当天，日本自卫队发射2枚88式岸基反舰导弹，这是二战结束以来日本首次在境外发射进攻型导弹。 这一幕充满历史讽刺意味，深深刺痛不少菲律宾人。 80多年前，日军在入侵占领菲律宾的三年多时间里犯下系…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.115Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-4-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "普京表示坚决制止篡改二战历史图谋",
+            "excerpt": "新华社莫斯科5月9日电 俄罗斯总统普京9日在莫斯科克里姆林宫表示，必须坚决制止任何篡改二战历史和美化纳粹分子的图谋。他强调，纳粹战犯已被纽伦堡审判定罪，纳粹罪行不受诉讼时效限制。 据克里姆林宫网站发布的消息，普京当天在卫国战争胜利日招待会上对外国政要和贵宾说，众所周知，苏联人民为粉碎纳粹主义作出决定性贡献。同时，这是一场不分你我的伟大胜利，“我们敬仰所有反…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.115Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-4-6",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "伊朗潜艇在波斯湾执行监视跟踪任务",
+            "excerpt": "据新华社德黑兰5月10日电 据伊朗伊斯兰共和国广播电视台10日报道，伊朗海军司令沙赫拉姆·伊拉尼表示，鉴于霍尔木兹海峡面临威胁的态势、现有作战能力与任务需求，伊朗自主建造的轻型潜艇正保持高度戒备，并将继续扩大部署和执行海底潜伏任务。这是伊朗海军自美伊战事以来首次公开披露潜艇在波斯湾水域执行监视与跟踪任务的相关信息。 另…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.115Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-4-7",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "以军空袭黎巴嫩南部造成15人死亡",
+            "excerpt": "据新华社贝鲁特5月10日电（记者申峰）据黎巴嫩国家通讯社和卫生部9日消息，以色列当天对黎南部多地发动一系列空袭，造成至少15人死亡，其中包括一名儿童，另有多人受伤。黎巴嫩真主党说，当天向黎以边境一带的以军车辆和部队集结地发射火箭弹，对以方违反停火协议作出回应。 4月17日零时，黎以为期10天…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-7",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.115Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-11-4-8",
+            "source": "pla_daily",
+            "issueDate": "2026-05-11",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "美方声称“仍在考虑”调整驻意美军",
+            "excerpt": "据新华社罗马5月9日电（记者王奕涵、刁泽）据意大利媒体9日报道，美国总统特朗普接受意《晚邮报》电话采访时表示，“仍在考虑”调整驻意美军，并称“在我们需要意大利的时候，意大利并不在场”。意大利国防部长克罗塞托对此回应称，对相关说法“无法理解”。 美国国防部数据显示，截至2025年底，美军在意大利长期部署约1.27万…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-8",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:08:44.115Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260511/64ac29eb85723269f8370cdbecd03c25.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260511/04236c5bec1d42b5a47374d7c614ab5f.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:08:44.115Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "pla-daily-index-json-v1",
+      "extractedAt": "2026-05-16T09:08:44.117Z"
+    }
+  },
+  "matchGroups": [
+    {
+      "id": "matched:people_daily:30156002:pla_daily:2026-05-11-3-5",
+      "issueDate": "2026-05-11",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156002",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "2025年度全国秋粮收购超3.38亿吨",
+          "excerpt": "本报北京5月10日电 （记者欧阳洁）国家粮食和物资储备局发布数据显示：2025年度秋粮旺季收购于今年4月底结束，全国各类粮食经营主体累计收购秋粮超3.38亿吨，为近年来较高水平，总体呈现进度快、购销活、价格涨等特点。 旺季收购期间，国家粮食和物资储备局强化统筹组织，细化政策措施，相机灵活开展收储调控，多措并举推动产销衔接和农企对接，积极引导各类主体入市，着…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156002.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:43.690Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-11-3-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "2025年度全国秋粮收购超3.38亿吨",
+          "excerpt": "新华社北京5月10日电（记者古一平）国家粮食和物资储备局最新发布数据显示，2025年度秋粮旺季收购于今年4月底结束，全国各类粮食经营主体累计收购秋粮超3.38亿吨，为近年来较高水平。收购总体呈现进度快、购销活、价格涨等特点。 据初步统计，累计收购中晚稻1.03亿吨、玉米2.22亿吨、大豆1299万吨。河南、湖南、黑龙江3省启动中晚稻最低收购价执行预案，累计…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 2025年度全国秋粮收购超3.38亿吨、细化政策措施。ナラティブ・完全タイトル一致: 2025年度全国秋粮收购超3.38亿吨、细化政策措施 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "2025年度全国秋粮收购超3.38亿吨",
+          "细化政策措施"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 80% / narrative 18%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 80% / ナラティブ類似 18%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 2025年度全国秋粮收购超3.38亿吨、细化政策措施",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30156023:pla_daily:2026-05-11-3-4",
+      "issueDate": "2026-05-11",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156023",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "“全球深渊探索计划”太平洋穿越科考航次完成",
+          "excerpt": "据新华社海口5月10日电 （记者赵颖全、陈凯姿）10日，“探索一号”科考船搭载“奋斗者”号载人潜水器抵达广东广州，标志着我国牵头组织的“全球深渊探索计划”太平洋穿越科考航次顺利完成。航次期间，首次中国—智利阿塔卡马海沟联合深潜任务也成功开展。 据介绍，该航次于2025年12月6日从海南三亚起航，历时156天，总航程超4万公里。来自中国、智利、德国、丹麦、加…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156023.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:45.392Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-11-3-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“全球深渊探索计划”太平洋穿越科考航次完成",
+          "subtitle": "首次在南半球发现最深化能生态系统",
+          "excerpt": "据新华社海口5月10日电（记者赵颖全、陈凯姿）10日，“探索一号”科考船搭载“奋斗者”号载人潜水器抵达广州，标志着我国牵头组织的“全球深渊探索计划”太平洋穿越科考航次顺利完成。航次期间，首次中国—智利阿塔卡马海沟联合深潜任务也成功开展。 据介绍，该航次于2025年12月6日从三亚起航，历时156天，总航程超4万公里。来自中国、智利、德国、丹麦、加拿大、西班…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: “全球深渊探索计划”太平洋穿越科考航次完成。ナラティブ・完全タイトル一致: “全球深渊探索计划”太平洋穿越科考航次完成 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [
+          "并在海底观测到与历史强震相关的断层构"
+        ],
+        "sharedTerms": [
+          "“全球深渊探索计划”太平洋穿越科考航次完成"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 89% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 89% / ナラティブ類似 0%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: “全球深渊探索计划”太平洋穿越科考航次完成",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30156021:pla_daily:2026-05-11-1-0+pla_daily:2026-05-11-1-1+pla_daily:2026-05-11-1-2+pla_daily:2026-05-11-1-3",
+      "issueDate": "2026-05-11",
+      "matchType": "matched",
+      "confidence": 0.85,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156021",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "给城市做个“精密体检”（深阅读）",
+          "author": "本报记者 尹晓宇",
+          "excerpt": "“十五五”规划纲要提出：“高质量推进城市更新，开展城市体检，加快建设完整社区，健全城市更新实施机制”。 城市体检作为精准发现问题、实施城市更新的重要基础性工作，是提升城市治理能力和水平、建设现代化人民城市的创新举措。江苏落实国家要求，构建包含规划评估、综合体检、专项体检、日常巡检在内的体检体系，全面开展城市体检评估，建立发现问题、解决问题、评估效果、巩固提…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156021.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:45.388Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-11-1-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "我军高学历高素质士兵走上重要战位",
+          "subtitle": "越来越多年轻“兵教头”“兵专家”“兵参谋”竞相涌现",
+          "excerpt": "编者按 基层的基础在士兵，士兵的中坚在军士。习主席高度重视军士队伍建设，多次强调军士队伍的重要性。全军各部队深入贯彻落实新时代人才强军战略，聚力推动高学历高素质军士队伍能力素质迭代升级、全面转型，实现人的能力素质同强军实践协调发展。近年来，大批高学历高素质青年携笔从戎、投身军营，凭借扎实系统的专业积淀、开阔活跃的创新思维和矢志强军的使命担当，逐步成长为助推…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=01&articleid=2026-05-11-1-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "理清“旧账”  不欠“新账”",
+          "excerpt": "前段时间，西部战区陆军某旅宣传科张干事收到一份盖有法院印章的民事判决书，心中一块石头终于落了地。这次判决，给困扰该旅多年的一个历史遗留问题画上句号。这得益于旅两届党委班子扭住问题接续发力、抓工作到底到位的作风。 历史遗留问题往往时间跨度长、涉及人员广，部分原始档案资料不够完整，加之经办人员岗位调整变动，推进过程中常常面临难点堵点，容易出现“新官不理旧账”的…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=01&articleid=2026-05-11-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-1-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "不坐“靠背椅”  甘坐“矮板凳”",
+          "excerpt": "习主席在全军高级干部培训班开班式上强调：“高级干部要带头恢复和弘扬我党我军优良传统，放下官架子、回归革命军人本色，让新风正气在部队更加充盈。”贯彻这一重要指示精神，军队领导干部应树牢正确群众观，放下架子、深入基层，不坐“靠背椅”、甘坐“矮板凳”，在融入官兵中赢得信任、赢得威信。 我军政治工作三大原则，官兵一致原则是第一条。很多领导干部之所以得到官兵认可，是…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=01&articleid=2026-05-11-1-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-1-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "“这样的干部就该晋升”",
+          "excerpt": "天高云净，高原绽绿，记者走进武警第二机动总队某支队，在机关楼大厅看到一份公文：关于张俊吉等几名警官晋升任用情况的公示。 接连几天的采访中，无论在党委机关还是在基层一线，记者听到大家的评价高度一致：潜心准备打仗、聚力研战谋战的人理应脱颖而出。 “以往涉及职务晋升、评功评奖，个别同志耍‘小聪明’、打‘小九九’，让想干事、能干事的人寒了心、泄了劲。”该支队人力资…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=01&articleid=2026-05-11-1-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 85%）。ナラティブ・LLMトピック束 / ナラティブ・LLM判定",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "为此当地将提升居民生活品质纳入更新目",
+          "徐州部署了120个无人机起降平台",
+          "有效提升了城市安全治理的系统性",
+          "建设现代化人民城市的创新举措",
+          "区两级城建计划和民生实事中",
+          "的燃气安全风险综合防控体系",
+          "是提升城市治理能力和水平",
+          "日常巡检在内的体检体系"
+        ],
+        "plaDailyTerms": [
+          "全军各部队2026年度春季军士选晋工",
+          "全军各部队深入贯彻落实新时代人才强军",
+          "参与开发的某型辅助系统在重大演训任务",
+          "各部队主动对接装备更新与战法创新需求",
+          "开阔活跃的创新思维和矢志强军的使命担",
+          "有效满足部队开展有人无人协同训练的现",
+          "海军辽宁舰二级上士刘佳慧站在驾驶室内",
+          "火箭军某旅二级上士吴强卫作为核心关键"
+        ],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 85% / lexical 0% / narrative 16%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 16%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・LLMトピック束",
+        "ナラティブ・LLM判定"
+      ]
+    },
+    {
+      "id": "people_only:1:要闻",
+      "issueDate": "2026-05-11",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30155998",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "福建推进民营经济高质量发展（“十五五”开好局起好步）",
+          "author": "本报记者 廖文根 付 文 刘晓宇",
+          "excerpt": "5月8日，福耀集团福清阳下生产基地下线一款全景天幕玻璃。这款集智能调光、镀膜隔热、玻璃天线三项功能于一体的新产品，既能集纳广播、高精度定位等8种天线，又能自动调节亮度、隔绝紫外线，让信号更强、功能更多、能耗更低。 “在关键工艺和设备等核心领域，福耀已实现全自主研发、自主可控，成功解决了行业14项‘卡脖子’技术难题。”福耀集团总裁叶舒说，“过去10年，福耀研…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30155998.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:43.699Z"
+          }
+        },
+        {
+          "id": "people_daily:30155999",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "因地制宜走出发展新路（总书记的关切·落地的回响）",
+          "author": "本报记者 戴林峰 徐驭尧",
+          "excerpt": "“要因地制宜发展高原特色优势产业，特别是特色农牧业和清洁能源产业，持续发展资源加工业，积极发展现代服务业，促进文旅产业融合。” ——2025年8月20日，习近平总书记在听取西藏自治区党委和政府工作汇报时指出 雪域高原，“风”“光”无限。 4650米，全球最高海拔的塔式光热电站——西藏安多土硕100兆瓦光热项目迎来新进展，全部15927面定日镜不久前安装完成…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30155999.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:43.813Z"
+          }
+        },
+        {
+          "id": "people_daily:30156000",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "我国加快建设分级诊疗体系",
+          "author": "本报记者 白剑峰",
+          "excerpt": "5月7日，79岁的邱先生接到了家庭医生团队健康管理师黄丽鸥的随访电话。今年3月，福建省厦门市思明区鼓浪屿街道社区卫生服务中心家庭医生团队根据邱先生的胸部CT检查结果发现，他的冠状动脉钙化程度较高，存在较高心血管病风险，于是立即建议他前往专科医院做进一步检查。次日，邱先生通过社区转诊绿色通道，来到厦门大学附属心血管病医院就诊。检查结果证实，冠状动脉存在重度狭…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156000.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:43.697Z"
+          }
+        },
+        {
+          "id": "people_daily:30156001",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "沂蒙老区“出海记”（老区新事）",
+          "author": "本报记者 侯琳良 李 蕊",
+          "excerpt": "一辆挂着“鲁Q”牌照的货车，能开到多远？ 3年前，答案是覆盖全国所有县级以上城市。如今，答案是亚欧大陆腹地，且范围仍在延展。 不靠海、不沿边的山东临沂，靠什么实现“突围”？ 2024年5月，习近平总书记在山东考察时强调：“要积极构建国际物流大通道”“努力成为畅通国内国际双循环的重要节点”。 破题突围，始于打通国际物流大通道的系列变革。 山东临满欧国际物流有…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156001.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:43.812Z"
+          }
+        },
+        {
+          "id": "people_daily:30156003",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "修复草原 防风固沙",
+          "excerpt": "从黄河“几字弯”到科尔沁沙地，从浑善达克沙地深处到巴丹吉林沙漠边缘，内蒙古各地正加快推进“三北”工程标志性项目。 “十四五”时期，内蒙古累计完成“三北”工程生态建设任务1.23亿亩，其中防沙治沙6688万亩，规模居全国首位。经过持续治理，内蒙古森林覆盖率达到21.98%，较2021年提升1.19个百分点；草原综合植被盖度达到45…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156003.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:43.581Z"
+          }
+        },
+        {
+          "id": "people_daily:30156004",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "4792.24万户经营主体获信用修复",
+          "excerpt": "本报北京5月10日电 （记者林丽鹂）市场监管总局大力推进高效办成信用修复“一件事”，据统计：截至今年3月底，累计为4792.24万户经营主体修复信用。 信用修复为失信企业提供了重塑自身信用的机会，帮其卸下“失信包袱”、重新参与市场竞争、恢复和增加市场交易机会。 随着一系列制度举措的出台，更多经营主体享受到信用修复政策红利。去年3月，市场监管信用修复全国统一…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156004.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:43.698Z"
+          }
+        },
+        {
+          "id": "people_daily:30156005",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "导读",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156005.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:43.695Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:2:要闻",
+      "issueDate": "2026-05-11",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156006",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "数据“动”起来，服务业“跑”起来（经济新方位·服务业扩能提质）",
+          "author": "本报记者 王昊男",
+          "excerpt": "挖了近70年“土疙瘩”的公司，却搞起了数据交易和人工智能。这一转变就发生在北京朝阳区。 泛黄的图纸、手写的报告、老旧的储存硬盘……走进位于朝阳区的北京城建勘测设计研究院有限责任公司，成排的档案柜被塞得满满当当。 “以前只能干瞪眼，守着一座‘金山’就是用不起来。”总工程师高涛介绍，这些档案来自包括北京在内的50多个城市、数百条地铁线路，“有超过1200万延米…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156006.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.286Z"
+          }
+        },
+        {
+          "id": "people_daily:30156007",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "全链条服务，好苗出好虾（海洋经济高质量发展一线见闻）",
+          "author": "本报记者 王云娜 宋 飞",
+          "excerpt": "“这是我们正在培育的‘快大’新品系，虾长得更快、更壮，现在已进入中试环节。”在广东湛江市东海岛国家863计划项目海水养殖种子工程南方基地，指着车间里的虾苗，运营方恒兴集团水产种苗与养殖研究所所长陈奕彬说。 来到基地，记者才发现，超市里、餐桌上常见的南美白对虾，很多就源自这里，听说不少养虾人宁肯空塘，也要等这里的虾苗。真有这么神奇？记者来到湛江雷州市养殖户宋…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156007.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.297Z"
+          }
+        },
+        {
+          "id": "people_daily:30156008",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "井下5G好用 无人矿车畅行（新场景新动能）",
+          "author": "本报记者 曾亦辰",
+          "excerpt": "手柄右移，实现放矿作业；鼠标一点，完成整列调度。甘肃金川集团股份有限公司龙首矿运输工区，电机车沿井下轨道平稳行驶。装矿、转弯、减速、停车，整套作业行云流水，驾驶室里却空无一人。 千米之外，井上的一间智能集控室里，机车运输情况实时显示在屏幕上。通过有轨运输无人驾驶井下自动调度系统，曾经的电机车司机、如今的操作员梅松波正在监控道岔状态信息：机车接近时，屏幕上对…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156008.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.287Z"
+          }
+        },
+        {
+          "id": "people_daily:30156009",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "2026年职业教育活动周启动",
+          "excerpt": "本报珠海5月10日电 （记者吴丹）2026年职业教育活动周10日启动。职业教育活动周由教育部等9部门联合举办，今年的主题为“一技在手，一生无忧”，将持续至5月16日。 据悉，今年活动周设立“七天主题活动日”，分别是：职教改革研讨日、技能成才宣讲日、产教融合示范日、发展成效展示日、职业技能体验日、职教志愿服务日以及地方特色活动日，推动活动周期间天天有活动、精…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156009.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.319Z"
+          }
+        },
+        {
+          "id": "people_daily:30156010",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156010.html",
+          "extraction": {
+            "status": "empty",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.288Z",
+            "message": "一部記事は本文抽出不可。タイトル・版面・参照ボタンのみ表示しています。"
+          }
+        },
+        {
+          "id": "people_daily:30156011",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "一季度互联网业务收入同比增10.6%",
+          "excerpt": "本报北京5月10日电 （记者刘温馨）工业和信息化部数据显示：今年一季度，我国规模以上互联网和相关服务企业完成互联网业务收入5027亿元，同比增长10.6%。 一季度，利润总额增速加快，规模以上互联网企业实现利润总额558.4亿元，同比增长60.5…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156011.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.289Z"
+          }
+        },
+        {
+          "id": "people_daily:30156012",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "17家行业协会商会发布国内贸易交易指引",
+          "subtitle": "为企业提供可操作易落地行为规范",
+          "excerpt": "据新华社电 （记者何晓）中国物流与采购联合会、中国商业联合会、中国纺织工业联合会、中国轻工业联合会、中国网络社会组织联合会等17家全国性行业协会商会近日在北京发布《国内贸易交易指引（试行）》。 指引共设7章38条，立足行业发展实际、聚焦堵点卡点问题、贯穿交易全流程，对订立交易合同、货物交付验收、账期及支付、争议解决、规范商业行为等各环节进行了明确和规定，为…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156012.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.292Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:3:要闻",
+      "issueDate": "2026-05-11",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156013",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中企助力纳米比亚增强发展动能（新时代中非合作）",
+          "author": "本报记者 戴楷然",
+          "excerpt": "一条公路便利了民众出行，一座储能电站为清洁能源转型注入动力，一片海域孕育着可持续发展的蓝色希望……在纳米比亚，从首都温得和克新机场公路的顺利通车，到奥姆布鲁储能项目的稳步推进，再到鲸湾港生蚝养殖产业的蓬勃发展，中国企业将发展理念、先进技术与本地需求结合，助力纳米比亚提升基础设施水平、优化能源结构、培育新兴产业。这些项目为当地带来实实在在的发展红利，书写着互…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156013.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.754Z"
+          }
+        },
+        {
+          "id": "people_daily:30156014",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "日本“新型军国主义”严重威胁地区和平稳定（国际论坛）",
+          "author": "丁 铎",
+          "excerpt": "日本任何试图挑战战后秩序、破坏地区稳定的军事冒险，终将遭到地区各国的共同反对，注定以失败收场 日前，日本政府就推进启动“安保三文件”修订工作召开首次专家会议。日本首相高市早苗在会议上妄言，修订“安保三文件”工作是左右国家命运的重要工作，要推进应对“新型作战方式”以及为长期战争做好准备，推进海上安保能力、网络安全和经济安全保障。 近来，日本“新型军国主义”妄…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156014.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.745Z"
+          }
+        },
+        {
+          "id": "people_daily:30156015",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "商务部新闻发言人就中美经贸磋商有关问题答记者问",
+          "excerpt": "新华社北京5月10日电 （记者谢希瑶）商务部新闻发言人10日就中美经贸磋商有关问题答记者问时表示，经中美双方商定，中共中央政治局委员、国务院副总理何立峰将于5月12日至13日率团赴韩国与美方举行经贸磋商。…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156015.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.753Z"
+          }
+        },
+        {
+          "id": "people_daily:30156016",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "塔吉克斯坦总统拉赫蒙今起对我国进行国事访问",
+          "excerpt": "应国家主席习近平邀请，塔吉克斯坦总统埃莫马利·拉赫蒙将于5月11日至14日对中国进行国事访问。 埃莫马利·拉赫蒙于1952年10月5日出生于塔吉克斯坦丹加拉区农民家庭。1969年毕业于加里宁纳巴德（现为萨尔班德）第40职业技术中学。1971年至1974年在太平洋舰队服役。1982年毕业于塔吉克斯坦国立大学经济系。 自1974年起在丹加拉区列宁国营农场工作，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156016.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.749Z"
+          }
+        },
+        {
+          "id": "people_daily:30156017",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“为意中文化交流增添新注脚”",
+          "subtitle": "——走进第六十一届威尼斯国际艺术双年展中国馆",
+          "author": "本报记者 谢亚宏",
+          "excerpt": "孟夏的风拂过意大利水城威尼斯，碧波在阳光下轻荡粼光。 5月8日，第六十一届威尼斯国际艺术双年展中国馆展览在此开幕。来自中国的艺术作品，在这里与世界艺术潮流相遇，绽放出传统与当代交融、艺术与科技共生的独特光华。 中国馆展览由中国文化和旅游部主办，中国美术学院策展。中国馆策展人、中国美术学院院长余旭红介绍，中国馆的主题“梦溪”取意于北宋沈括所著《梦溪笔谈》，呼…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156017.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.752Z"
+          }
+        },
+        {
+          "id": "people_daily:30156018",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "习近平主席特使、全国人大常委会副委员长洛桑江村出席吉布提总统就职典礼",
+          "excerpt": "新华社亚的斯亚贝巴5月9日电 （记者刘方强）吉布提市消息：当地时间9日，应吉布提总统盖莱邀请，习近平主席特使、全国人大常委会副委员长洛桑江村在吉布提出席盖莱总统就职典礼。同日，盖莱在人民宫会见洛桑江村。 洛桑江村向盖莱转达了习近平主席的热烈祝贺和良好祝愿，表示近年来在习近平主席和盖莱总统的战略引领下，中吉全面战略伙伴关系持续深化。中方愿同吉方一道，落实好两…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156018.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.751Z"
+          }
+        },
+        {
+          "id": "people_daily:30156019",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "2026年中美民间匹克球联谊赛举行",
+          "excerpt": "本报赣州5月10日电 （记者周欢）5月9日，2026年中美民间匹克球联谊赛在江西赣州上犹县举行。活动是落实中美“5年5万”倡议的具体实践，旨在为中美民间交往搭建新桥梁、注入青春活力。 联谊赛共设专业观摩赛、初级友谊赛、中级友谊赛三大组别。美国在华机构和企业代表、犹他理工大学匹克球队、俄勒冈友好匹克球代表团以及中国球员参赛，大家同台组队、混合竞技，相互切磋球…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156019.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.747Z"
+          }
+        },
+        {
+          "id": "people_daily:30156020",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中国援喀麦隆医疗队开展义诊活动",
+          "excerpt": "据新华社雅温得5月10日电 （记者王泽）中国（山西）第二十五批援喀麦隆医疗队日前赴喀麦隆中部大区阿约斯，开展为期两天的“百队千村行”主题义诊活动。 中国医疗队队长刘胜滨表示，此次活动旨在践行行医初心、传递中非友好。医疗队将持续以精湛医术解民忧，以暖心服务传温情，努力缓解当地民众就医难题，通过医疗帮扶深化中喀两…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156020.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:44.748Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 8本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:4:要闻",
+      "issueDate": "2026-05-11",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156022",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "实干奋进，青春无悔的姿态（人民论坛）",
+          "author": "常 晋",
+          "excerpt": "前段时间，收到一封大学生读者来信，写满年轻人常有的迷茫。他想有所作为，心里憋着一股劲，却不知该往何处使；前路漫漫，虽读了万卷书，仍担心走不好脚下路。谁的青春不曾有过彷徨？这样的困惑与求索，感同身受。 怎么破？答案，或可从近来一段网络流行语中找寻——“像建设新中国一样建设自己，像一个个五年规划一样规划自己”。初听是一句抒情感慨，细品也是一章奋进序曲。绽放青春…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156022.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:45.391Z"
+          }
+        },
+        {
+          "id": "people_daily:30156024",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "5月8日，2026年全国“四季村晚”（四川广安市前锋区）夏季示范展示活动在前锋区仁和寨举办，吸引许多游客前来观看。活动以“锦绣天府·乡约仁和”为主题，节目涵盖双竹连响、特色歌舞、川剧绝活、武术…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156024.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:45.395Z"
+          }
+        },
+        {
+          "id": "people_daily:30156025",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "7名奥运健儿获中国青年五四奖章",
+          "excerpt": "本报北京5月10日电 （记者杨昊）为表彰我国青年运动员在第二十五届冬季奥林匹克运动会和第十四届冬季残疾人奥林匹克运动会上的突出贡献，共青团中央、全国青联决定，授予苏翊鸣、王心迪、党鹤松、王涛、余爽、刘子旭、纪立家等7名青年运动员中国青年五四奖章。王跃、宁忠岩等运动员获授其他省部级奖项，不再重复授予。 共青团中央、全国青联号召全国广大青少年向我国体育健儿学习…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156025.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:45.393Z"
+          }
+        },
+        {
+          "id": "people_daily:30156026",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "新一轮较强降水影响江南华南等地",
+          "excerpt": "本报北京5月10日电 （记者蒋雪鸿）中央气象台预计，11日至14日，云南、江南、华南及湖北南部等地将自西向东迎来中到大雨天气，部分地区有暴雨，并伴有短时强降水等强对流天气。 10日18时，中央气象台发布强对流天气蓝色预警。预计10日20时至11日20时，山西东南部、河北南部、山东西部和南部、河南北部、江苏北部等地部分地…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156026.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:45.390Z"
+          }
+        },
+        {
+          "id": "people_daily:30156027",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "从“办事窗口”到“邻里客厅”（奋进“十五五”·一线见闻）",
+          "author": "本报记者 王欣悦",
+          "excerpt": "创新社区集成服务模式。 ——摘自“十五五”规划纲要 下午4点多，重庆市奉节县永安街道江陵社区服务综合体二楼的手工教室里坐满了人。社区居民李治桃手指翻飞，毛线在她手中渐渐变成一枝美丽的向日葵，“年初的时候这里开设了免费编织培训班，我就想试试看，没想到成了一项副业。” 手工教室位于综合体的“渝好空间”，1700平方米的空间里，有“好娃托管”“好姐家政”与“好邻…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156027.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:45.390Z"
+          }
+        },
+        {
+          "id": "people_daily:30156028",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "让社区服务走好“最后一公里”（编辑手记）",
+          "author": "余 璇",
+          "excerpt": "作为城市治理、服务群众的“最后一公里”，社区如何更好满足群众需求？从“渝好空间”的实践中，我们看见了一份将以人为本理念与基层治理实践相结合的温暖答卷。 看见“人”的需求，方能让好服务更精准。居民有休闲、娱乐、社交等需求，社区便开辟活动区域；家长有带娃难题，社区便推出托管服务。这些针对性强的举措，让居民生活更便利、幸福更真切。 凝聚“众”的力量，方能让好服务…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156028.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:45.394Z"
+          }
+        },
+        {
+          "id": "people_daily:30156029",
+          "source": "people_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "我国加快建设分级诊疗体系",
+          "author": "本报记者 白剑峰",
+          "excerpt": "5月7日，79岁的邱先生接到了家庭医生团队健康管理师黄丽鸥的随访电话。今年3月，福建省厦门市思明区鼓浪屿街道社区卫生服务中心家庭医生团队根据邱先生的胸部CT检查结果发现，他的冠状动脉钙化程度较高，存在较高心血管病风险，于是立即建议他前往专科医院做进一步检查。次日，邱先生通过社区转诊绿色通道，来到厦门大学附属心血管病医院就诊。检查结果证实，冠状动脉存在重度狭…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/11/content_30156029.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:08:45.547Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:1:要闻",
+      "issueDate": "2026-05-11",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-11-1-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=01&articleid=2026-05-11-1-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-1-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=01&articleid=2026-05-11-1-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        }
+      ],
+      "reason": "81cn only 2本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:2:要闻",
+      "issueDate": "2026-05-11",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-11-2-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“老连长，我们向您报告”",
+          "excerpt": "为什么大地春常在，英雄的生命开鲜花。 4月23日上午，第十三批在韩中国人民志愿军烈士遗骸安葬仪式在沈阳抗美援朝烈士陵园举行。12位志愿军烈士英灵，70多年后重回神州大地，安眠于祖国的春天。 现场人群中，一队军容严整的陆军官兵引人注目——“特级英雄”杨根思生前所在连的5名官兵代表。他们身着礼服，深情凝望覆盖着国旗的棺椁：前辈们，我们替老连长接你们回家。 19…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=02&articleid=2026-05-11-2-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "科学决策决定政绩成色",
+          "subtitle": "——树立和践行正确政绩观系列谈",
+          "excerpt": "2002年，习主席到浙江工作不久，有人请他谈谈“施政纲领”。他笑着说：“我刚刚来，还没有发言权。”后来，经过马不停蹄的调查研究和深入细致的科学论证，习主席提出了“八八战略”，系统回答了浙江当时“爬坡过坎、转型发展”的时代之问，引领浙江走出一条具有时代特征、中国特色、浙江特点的发展道路。这启示我们，树立和践行正确政绩观必须坚持科学决策，从实际出发、按规律办事…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=02&articleid=2026-05-11-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-2-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“兵头将尾”走上指挥席",
+          "excerpt": "前不久，第81集团军某部一场实战背景下的战术训练拉开帷幕。 “开始行动！”指令传来，装步连班长王博指挥官兵展开作业：无人机升空侦察、穿越机精准突防、各小组依案协同……很快，他们顺利拔除“敌”观察哨，完成对目标合围。 “与以往不同，此次训练班长走上指挥席，全程自主谋划、临机决策。”该部干部蒋磊告诉笔者，这一转变源于一次失利。 此前，该部参加实战化训练，装步二…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=02&articleid=2026-05-11-2-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-2-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“生命线”在发射架下彰显生命力",
+          "excerpt": "近日，密林深处，火箭军某部一辆辆导弹战车在夜色中疾驰，向预定地域转进。 全流程实战化演练开始不久，官兵遭遇“‘敌’无人机抛撒传单”特情。政治工作小组迅速前出，收集并销毁散落传单，同步启动舆情防控、思想稳控预案，灵活开展短平快的战场鼓动。后续演练中，官兵士气高昂完成占领阵地、起竖导弹等操作，对目标成功实施“打击”。 “作战中政治工作是作战行动的重要组成部分，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=02&articleid=2026-05-11-2-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-2-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=02&articleid=2026-05-11-2-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        }
+      ],
+      "reason": "81cn only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:3:要闻",
+      "issueDate": "2026-05-11",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-11-3-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "一路清风暖祁连",
+          "excerpt": "皑皑白雪，巍巍祁连。 1936年11月，红西路军转战河西走廊，董振堂率领红5军军部及两个团、西路军直属卫生部、总医院及供给部妇女团各一部进驻山丹。寒风刺骨，这支衣衫褴褛的队伍，始终恪守铁律，一路艰辛，一路清风，温暖了积雪覆盖的祁连山，也焐热了百姓冰封的心。 山丹祁店村，夜色沉沉。村里刚发生一场激战，村民孙春秀惊魂未定，忽闻轻叩门扉声：“大娘，我们想讨碗水喝…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-3-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "进展符合预期  效果逐步显现",
+          "excerpt": "“设立1000亿元财政金融协同促内需专项资金”“出台实施财政金融协同促内需一揽子政策”……今年的政府工作报告、预算报告作出部署，以财政金融“组合拳”更大力度支持扩大内需。 从实施中小微企业贷款贴息政策、实施民间投资专项担保计划，到优化实施服务业经营主体贷款贴息政策和个人消费贷款财政贴息政策，财政部等相关部门已出台实施多项具体政策。这一揽子政策具体落地情况如…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-3-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "我国首条深水油气装备工艺管线智能生产线建设完成",
+          "excerpt": "海洋石油工程股份有限公司5月10日发布消息，我国首条深水油气装备工艺管线智能生产线在海油工程珠海深水装备制造基地建设完成，进入调试阶段。图…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-3-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "我国科学家为无人机安装“氢能心脏”",
+          "subtitle": "可使工业级无人机续航时间提升超2倍",
+          "excerpt": "据新华社大连5月10日电（记者蔡拥军、张博群）记者10日从中国科学院大连化学物理研究所获悉，当日，该所研发的“高比功率阴极闭合式风冷电堆”技术在大连通过科技成果鉴定。这款新型电堆是为工业级无人机量身打造的集轻量化、高功率、风冷散热等特点于一体的“氢能心脏”，可使工业级无人机续航时间提升2倍以上。 随着低空经济快速发展，传统锂电池续航时间短、现有燃料电池系统…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.114Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-3-6",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "2026年职业教育活动周实现职业学校全覆盖",
+          "excerpt": "新华社广州5月10日电（记者魏冠宇、杨深深）教育部等九部门5月10日启动2026年职业教育活动周。今年活动周主题为“一技在手，一生无忧”，将实现各地职业学校全覆盖，持续至16日。 在全国职业教育大讲堂暨2026年广东省职业教育活动周启动仪式举办地广东珠海，粤港澳三地职业院校、企业等展示风采。广东省职业教育改革发展成果展同日开展。 今年活动周围绕职教改革研讨…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.115Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-3-7",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "三部门部署智能体规范应用与创新发展",
+          "excerpt": "新华社北京5月8日电 记者8日获悉，为落实《关于深入实施“人工智能+”行动的意见》，国家网信办、国家发展改革委、工业和信息化部近日联合印发《智能体规范应用与创新发展实施意见》。意见明确了智能体发展要坚持安全可控、规范有序、创新驱动、应用牵引的基本原则。 国家网信办有关负责同志表示，近年来，以手机助手、终端智能管家、云端智能体等为代表的智能体产品加速涌现，呈…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=03&articleid=2026-05-11-3-7",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.115Z"
+          }
+        }
+      ],
+      "reason": "81cn only 6本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:4:要闻",
+      "issueDate": "2026-05-11",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-11-4-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "中欧班列开行突破13万列",
+          "excerpt": "新华社北京5月9日电（记者樊曦）记者从中国国家铁路集团有限公司获悉，9日10时，随着开往德国汉堡的X8037次中欧班列从中国郑州圃田站发车，中欧班列历年累计开行突破13万列，发送货值超5200亿美元。 国铁集团货运部负责人介绍，近年来，国铁集团围绕境内西、中、东三大通道，动态优化中欧班列运行线路，铺画时速120公里中欧班列图定线路93条。大力拓展境外多元化…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.115Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-4-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "我赴南苏丹维和工兵分队完成“通季—罗米奇”补给线修复任务",
+          "excerpt": "本报讯 特约记者王轶报道：近日，中国第16批赴南苏丹（瓦乌）维和工兵分队圆满完成“通季—罗米奇”补给线修复任务，全面恢复道路通行能力，为人道主义救援物资运输和当地民众出行带来便利，受到联南苏团高度评价。 此条补给线全长112公里，是南苏丹境内一条非常重要的补给线，是当地民众日常出行、物资转运的交通要道。受自然环境侵蚀和重型车辆碾压影响，道路路面和排水系统损…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.115Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-4-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "美为何加速推动硅谷AI巨头“参军”",
+          "excerpt": "5月1日，美国防部宣布与硅谷7家头部人工智能企业达成合作协议，包括美国太空探索技术公司（SpaceX）、开放人工智能研究中心（OpenAI）、谷歌、英伟达、微软等前沿人工智能公司。美方此举意在整合全球顶尖人工智能技术资源，深度嵌入美军作战体系与军事信息网络，标志着美军以人工智能为核心驱动的作战力量转型，迈入实质性、规模化阶段。 “增强决策优势”是美推动硅谷…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.115Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-4-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "中国式现代化为世界提供了新的发展模式",
+          "excerpt": "黑山副总理布迪米尔·阿莱克西奇日前在接受新华社记者专访时说，中国式现代化不仅意味着中国创造了经济发展奇迹，更为世界提供了“一种新的发展模式，表明现代化不必以牺牲自身特性为代价”。 2026年是黑中建交20周年。阿莱克西奇表示，20年来，他不仅见证了两国人民之间日益深厚的友谊，也深切感受到中国将数千年传统底蕴与现代化发展进程有机融合，“对细节的极致追求以及对…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.115Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-4-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "历史警钟必须长鸣",
+          "subtitle": "——起底日本在菲律宾的罪行与图谋",
+          "excerpt": "沙滩上，日本防卫大臣小泉进次郎在胸前握着右拳，与一群同样姿势的日本自卫队员合影，身后是日本自卫队的导弹发射车。 这是5月6日在菲律宾吕宋岛北部北依罗戈省帕瓦伊的一幕。当天，日本自卫队发射2枚88式岸基反舰导弹，这是二战结束以来日本首次在境外发射进攻型导弹。 这一幕充满历史讽刺意味，深深刺痛不少菲律宾人。 80多年前，日军在入侵占领菲律宾的三年多时间里犯下系…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.115Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-4-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "普京表示坚决制止篡改二战历史图谋",
+          "excerpt": "新华社莫斯科5月9日电 俄罗斯总统普京9日在莫斯科克里姆林宫表示，必须坚决制止任何篡改二战历史和美化纳粹分子的图谋。他强调，纳粹战犯已被纽伦堡审判定罪，纳粹罪行不受诉讼时效限制。 据克里姆林宫网站发布的消息，普京当天在卫国战争胜利日招待会上对外国政要和贵宾说，众所周知，苏联人民为粉碎纳粹主义作出决定性贡献。同时，这是一场不分你我的伟大胜利，“我们敬仰所有反…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.115Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-4-6",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "伊朗潜艇在波斯湾执行监视跟踪任务",
+          "excerpt": "据新华社德黑兰5月10日电 据伊朗伊斯兰共和国广播电视台10日报道，伊朗海军司令沙赫拉姆·伊拉尼表示，鉴于霍尔木兹海峡面临威胁的态势、现有作战能力与任务需求，伊朗自主建造的轻型潜艇正保持高度戒备，并将继续扩大部署和执行海底潜伏任务。这是伊朗海军自美伊战事以来首次公开披露潜艇在波斯湾水域执行监视与跟踪任务的相关信息。 另…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.115Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-4-7",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "以军空袭黎巴嫩南部造成15人死亡",
+          "excerpt": "据新华社贝鲁特5月10日电（记者申峰）据黎巴嫩国家通讯社和卫生部9日消息，以色列当天对黎南部多地发动一系列空袭，造成至少15人死亡，其中包括一名儿童，另有多人受伤。黎巴嫩真主党说，当天向黎以边境一带的以军车辆和部队集结地发射火箭弹，对以方违反停火协议作出回应。 4月17日零时，黎以为期10天…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-7",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.115Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-11-4-8",
+          "source": "pla_daily",
+          "issueDate": "2026-05-11",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "美方声称“仍在考虑”调整驻意美军",
+          "excerpt": "据新华社罗马5月9日电（记者王奕涵、刁泽）据意大利媒体9日报道，美国总统特朗普接受意《晚邮报》电话采访时表示，“仍在考虑”调整驻意美军，并称“在我们需要意大利的时候，意大利并不在场”。意大利国防部长克罗塞托对此回应称，对相关说法“无法理解”。 美国国防部数据显示，截至2025年底，美军在意大利长期部署约1.27万…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-11&paperNumber=04&articleid=2026-05-11-4-8",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:08:44.115Z"
+          }
+        }
+      ],
+      "reason": "81cn only 9本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    }
+  ],
+  "counts": {
+    "peopleArticles": 32,
+    "plaArticles": 28,
+    "matchedGroups": 3,
+    "matchedPeopleArticles": 3,
+    "matchedPlaArticles": 6,
+    "peopleOnlyArticles": 29,
+    "plaOnlyArticles": 22
+  }
+}

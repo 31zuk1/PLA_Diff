@@ -61,7 +61,7 @@ Older topic-cluster mock data still lives in `src/data/mockData.ts`.
 ## Current MVP Limitations
 
 - No full crawler or editorial review queue
-- Snapshot persistence uses Vercel Blob in production and local files in development
+- Snapshot persistence uses Vercel Blob in production, local files in development, and a checked-in static archive fallback when Blob reads are unavailable
 - Optional OpenAI adjudication only; without `OPENAI_API_KEY`, matching falls back to stricter local heuristics
 - No public full article-body storage or mirroring
 - No embedding index
@@ -127,6 +127,8 @@ curl -H "Authorization: Bearer $CRON_SECRET" \
 
 Production uses Vercel Cron. The included `vercel.json` runs `/api/cron/daily-issue` once per day at `02:00 UTC`, which is `11:00 JST` / `10:00 China time`. Hobby plans may invoke within the specified hour.
 
+If Vercel Blob cannot serve stored objects, the app falls back to checked-in static JSON under `public/archive`. That fallback is read-only and keeps the public site usable for the bundled one-month archive, but scheduled updates still require a writable Blob store or another persistent storage backend.
+
 Recommended Vercel environment variables:
 
 - `CRON_SECRET`: random secret for the cron endpoint
@@ -136,3 +138,6 @@ Recommended Vercel environment variables:
 - `ENABLE_LLM_JUDGE`: optional; set `false` to force local heuristics
 - `SNAPSHOT_RETENTION_DAYS`: optional; defaults to `31`
 - `PLA_DIFF_STORAGE=file`: optional local/debug override to avoid Blob even when a token is present
+- `PLA_DIFF_BLOB_ACCESS`: optional; set `private` if the configured Blob store is private, otherwise defaults to `public`
+- `PLA_DIFF_STATIC_ARCHIVE=false`: optional; disables the checked-in static archive fallback
+- `PLA_DIFF_STATIC_ARCHIVE_ORIGIN`: optional absolute origin used to fetch `/archive/*.json` if the server cannot read bundled public files directly

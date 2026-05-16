@@ -1,0 +1,2121 @@
+{
+  "schemaVersion": 1,
+  "issueDate": "2026-05-05",
+  "generatedAt": "2026-05-16T09:07:41.550Z",
+  "retentionDays": 31,
+  "frontPages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "judge": {
+    "enabled": true,
+    "model": "gpt-4.1-nano"
+  },
+  "peopleIssue": {
+    "id": "people_daily:2026-05-05",
+    "source": "people_daily",
+    "issueDate": "2026-05-05",
+    "pages": [
+      {
+        "id": "people_daily:2026-05-05:p01",
+        "source": "people_daily",
+        "issueDate": "2026-05-05",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154848",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "抓好重点行业领域风险隐患排查整治 加强公共安全管理 确保人民群众生命财产安全",
+            "subtitle": "李强作出批示",
+            "excerpt": "新华社北京5月4日电 5月4日16时40分许，湖南长沙浏阳市华盛烟花制造燃放有限公司车间发生爆炸，造成重大人员伤亡。 事故发生后，中共中央总书记、国家主席、中央军委主席习近平高度重视并作出重要指示指出，湖南长沙浏阳市一烟花厂发生爆炸，造成重大人员伤亡。要抓紧搜寻失联人员，全力救治伤员，妥善做好善后等工作。要尽快查明事故原因，严肃追责。 习近平强调，各地区和…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154848.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:27.376Z"
+            }
+          },
+          {
+            "id": "people_daily:30154849",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "大国之大利天下",
+            "subtitle": "——二〇二六年春季中国元首外交纪事",
+            "author": "新华社记者",
+            "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154849.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:27.385Z"
+            }
+          },
+          {
+            "id": "people_daily:30154850",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "在新征程上贡献青春力量",
+            "subtitle": "——习近平总书记的回信激励广大青年拼搏奋斗",
+            "author": "本报记者 杨 昊",
+            "excerpt": "科创前沿，年轻的科研工作者聚力攻克关键核心技术；车间轰鸣，青年工匠精心打磨每一款大国重器；三尺讲台，志愿者们向大山里的孩子传递知识和温暖……以奋斗砥砺理想，用奉献诠释担当，将青春华章写在祖国大地上，是如今广大青年的生动写照。 “希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。”…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154850.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:27.374Z"
+            }
+          },
+          {
+            "id": "people_daily:30154851",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "一个节点一个节点坚守（今日谈）",
+            "author": "盛玉雷",
+            "excerpt": "“五一”假期前，中央纪委国家监委公开通报8起违反中央八项规定精神典型问题，释放出锲而不舍落实中央八项规定精神、持续纠治“四风”顽疾的强烈信号。节日期间，是“四风”问题易发多发的关键节点。 节点也是“考点”。如今，领导干部“一到节假日就不见了”的现象消失了，自觉坚守岗位“时时放心不下”的责任感变强了；推杯换盏、违规吃喝等“四风”问题少了，为群众服务的时间多了…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154851.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:27.370Z"
+            }
+          },
+          {
+            "id": "people_daily:30154852",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154852.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:27.373Z"
+            }
+          },
+          {
+            "id": "people_daily:30154853",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "奋力拼搏进取 勇于创新创造",
+            "author": "本报记者",
+            "excerpt": "劳动最光荣、劳动最崇高、劳动最伟大、劳动最美丽。 在“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问，指出：“广大劳动群众紧紧团结在党的周围，奋力拼搏进取，勇于创新创造”“希望广大劳动群众大力弘扬劳模精神、劳动精神、工匠精神”。 今年是中国共产党成立105周年，是“十五五”开局之年。广大劳动者立足岗位、躬身耕耘，以坚守诠释初…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154853.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:27.376Z"
+            }
+          },
+          {
+            "id": "people_daily:30154854",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "古渡潮起产业兴",
+            "author": "本报记者 李增辉 姜 峰 刘新吾",
+            "excerpt": "宇树科技落子重庆，选址大渡口区。有人问：为什么是这个曾经的老工业区？ 4月28日，宇树科技西部创新运营中心在大渡口区正式投用。宇树科技将携手大渡口区共建人形机器人“具身智能机器人实验室”等项目，共促重庆智能机器人产业高质量发展。此前，宇树科技全资子公司——重庆宇弈科技有限公司也落户大渡口区。 这场双向奔赴，既是企业对当地发展的认可，更是大渡口区转型升级的坚…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154854.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:27.534Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/05/5883ce15-695e-4c45-a1d7-b83865fa7df5.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/05/d5d848ef-2537-4047-ae41-21d6927698df.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:07:27.535Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-05:p02",
+        "source": "people_daily",
+        "issueDate": "2026-05-05",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154855",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "天边到田间，北斗显身手（春耕里的新质生产力）",
+            "author": "本报记者 谷业凯",
+            "excerpt": "近年来，北斗卫星导航技术在农业中深度应用，推动传统农业向智慧农业加快转型。一系列新设备新应用，让北斗系统从天边到田间，成为现代农业的“精准标尺”和“智慧大脑”。“天上建好、地上用好”的北斗系统，给春播春管带来哪些新变化？记者进行了采访。 更全面—— 无人机植保、精准播种，从单一导航向全产业链智能化延伸 江苏海安市隆政街道联合村俞万家庭农场里，麦苗正处在返青…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154855.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.047Z"
+            }
+          },
+          {
+            "id": "people_daily:30154856",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "青年与机器人产业共成长（产业里的年轻人）",
+            "author": "本报记者 洪秋婷",
+            "excerpt": "在五四青年节到来之际，习近平总书记给中国青年五四奖章暨新时代青年先锋奖获奖者代表回信指出，今年是“十五五”开局之年，青年建功正当其时。 “五一”假期，位于广州市海珠区的广东省具身智能训练场，各类机器人在青年架构师、工程师的操作下，正开展沉浸式训练：机械臂精准抓取汽车螺栓完成分拣、巡检机器人沿电路管线自主排查隐患、人形机器人完成精细作业……科技创新一线，新时…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154856.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.044Z"
+            }
+          },
+          {
+            "id": "people_daily:30154857",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "向新奋进 不负青春（子夜走笔）",
+            "author": "崔 斌",
+            "excerpt": "科技创新一线是青年干事创业的大舞台，知识密集度和创意需求度都很高，是青年科技人才发挥才智比较集中的领域。 “北斗”组网，卫星研制团队平均年龄31岁；上海“模速空间”大模型创新生态社区，平均年龄33岁的青年团队，守护着300多个创业梦想……千千万万“正年轻”的科技人才，为我国科技创新事业“正奋进”。 近年来，各地区各部门托举成长、帮助成才的政策举措日益丰富完…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154857.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:27.868Z"
+            }
+          },
+          {
+            "id": "people_daily:30154858",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "一区一主题，串起文商旅体展（经济新方位·聚焦假期消费）",
+            "author": "本报记者 田 泓",
+            "excerpt": "享潮玩、购好物……“五一”假期，第七届上海“五五购物节”人气正旺，一场搬进商圈的乒乓球赛、一杯冠军拉花的限定咖啡、一次新奇有趣的夜游活动……为市民游客奉上一场全城消费嘉年华。 “逛商场的同时，还打了场人机亲子赛。”5月1日，王先生带女儿来到上海百联西郊购物中心，看到商场球馆在举行乒乓球趣味赛，父女两人报了名。球桌对面，自动发球机不断变化出球线路，王先生手把…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154858.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.046Z"
+            }
+          },
+          {
+            "id": "people_daily:30154859",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "在新征程上贡献青春力量",
+            "subtitle": "——习近平总书记的回信激励广大青年拼搏奋斗",
+            "author": "本报记者 杨 昊",
+            "excerpt": "科创前沿，年轻的科研工作者聚力攻克关键核心技术；车间轰鸣，青年工匠精心打磨每一款大国重器；三尺讲台，志愿者们向大山里的孩子传递知识和温暖……以奋斗砥砺理想，用奉献诠释担当，将青春华章写在祖国大地上，是如今广大青年的生动写照。 “希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。”…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154859.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.045Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/05/913ea776-0228-47e1-b3c7-09b007df3488.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/05/adeb427f-2b65-4968-96dd-16c08a8e5966.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:07:28.048Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-05:p03",
+        "source": "people_daily",
+        "issueDate": "2026-05-05",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154860",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“为全球公共卫生应急管理贡献更多中国力量”（新时代中非合作）",
+            "author": "本报记者 郑 翔",
+            "excerpt": "塞拉利昂首都弗里敦市郊，坐落着一栋白色建筑——塞拉利昂—中国友好生物安全实验室（以下简称“塞中友好生物安全实验室”）。从2015年正式启用，到如今常态化开展传染病监测与防控，实验室历经3期项目建设，从单一的埃博拉病毒检测平台，发展成为覆盖数十项检测的“全能选手”。10余年间，一批又一批中国公共卫生专家接力奔赴，与塞方共同筑起坚实的公共卫生屏障。 从应急驰援…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154860.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.501Z"
+            }
+          },
+          {
+            "id": "people_daily:30154861",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "当和合思想遇上乌班图哲学（国际论坛）",
+            "author": "约罗·迪亚洛",
+            "excerpt": "从儒家和合思想倡导的和谐共生，到非洲乌班图哲学“我们在故我在”的智慧箴言，非中文化共同传递着一个理念：和平、合作与团结才是人类进步的基石 2026年是非中开启外交关系70周年，也是“中非人文交流年”。值此特殊年份，回望非中关系的历史，对于促进非中关系向前发展有着重要意义。 非中交往历史源远流长，内容丰富多彩，为双方增强相互理解、深化团结合作奠定了坚实基础。…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154861.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.502Z"
+            }
+          },
+          {
+            "id": "people_daily:30154862",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "大国之大利天下",
+            "subtitle": "——二〇二六年春季中国元首外交纪事",
+            "author": "新华社记者",
+            "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154862.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.506Z"
+            }
+          },
+          {
+            "id": "people_daily:30154863",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "法国友人移交一批日本侵华资料",
+            "excerpt": "本报南京5月4日电 （记者尹晓宇）5月4日，法国友人白士杰团队向侵华日军南京大屠杀遇难同胞纪念馆移交一批日本侵华资料（扫描件）。 此次移交的资料来自法国外交部南特外交档案中心部分日军侵华档案的扫描，涉及42份外交文献资料，共1993页，时间范围从1920年至1943年，资料以法文为主，还包含英文、中文、日文等多种文字。其内容涉及南京大屠杀、日本侵略行径与西…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154863.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.503Z"
+            }
+          },
+          {
+            "id": "people_daily:30154864",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "孟加拉国外交部长卡利勒将访华",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154864.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.501Z"
+            }
+          },
+          {
+            "id": "people_daily:30154865",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "米兰设计周见证中国设计创新活力",
+            "author": "本报记者 谢亚宏",
+            "excerpt": "2026米兰设计周日前在意大利米兰举行。来自中国的设计师、机构将作品和展览点缀在时尚之都的各个角落，成为这场全球室内装饰与设计行业盛会的一大亮点。 米兰华人街所在的萨尔皮设计街区是米兰设计周的主要场馆之一，融入中国元素的装置艺术、百米“文明之桥”彩绘长卷等，展示着中意文化交流的悠久历史。在米兰龙甲中文学校内，汉字创意设计展通过平面视觉艺术、书法作品、视频影…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154865.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.500Z"
+            }
+          },
+          {
+            "id": "people_daily:30154866",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "第二十四届平壤春季国际商品展览会开幕",
+            "excerpt": "本报平壤5月4日电 （记者刘融）第二十四届平壤春季国际商品展览会4日在朝鲜平壤青年中央会馆开幕。应朝方邀请，驻朝外交使团等参加开幕式。朝鲜对外经济相尹正浩、朝鲜国际展览社社长咸主燮等出席。 开幕式结束后，中国驻朝鲜大使王亚军陪同尹正浩参观了青年中央会馆展台，并赴玉流展示馆参观部分中国企业展台。 平壤国际商品展览会是朝鲜规模最大的综合性国际贸易展览会，每年春…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154866.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.502Z"
+            }
+          },
+          {
+            "id": "people_daily:30154867",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中国驻美国大使馆举办开放日暨陕西省推介活动",
+            "excerpt": "本报华盛顿5月4日电 （记者李志伟）当地时间5月2日，中国驻美国大使馆举办开放日暨陕西省推介活动。美各界友好人士及7000多名当地民众参加。 中国驻美国大使谢锋在致辞中表示，当前，中美关系再次来到新的十字路口。双方应着眼未来构建新时期中美正确相处之道，让两国和世界各国人民的日子都越来越美好。欢迎更多美国朋友乘着240小时过境免签的东风，走进大美陕西…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154867.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.693Z"
+            }
+          },
+          {
+            "id": "people_daily:30154868",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中国民间援助物资交接仪式在蒙古国举行",
+            "excerpt": "据新华社乌兰巴托5月4日电 （记者宝乐日其其格）中国民间援助物资交接仪式4日在蒙古国首都乌兰巴托举行。中国驻蒙古国大使沈敏娟、联合国儿童基金会…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154868.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:28.674Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/05/ca817248-e16a-490d-a5a8-ef13f18db17a.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/05/3b11bdc8-52ba-40fb-86c8-5dfb34d0639c.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:07:28.693Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-05:p04",
+        "source": "people_daily",
+        "issueDate": "2026-05-05",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154869",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "各地广泛开展五四主题团日活动",
+            "excerpt": "本报北京5月4日电 （记者杨昊）今年五四青年节期间，全国各地共青团组织深入学习贯彻习近平总书记给中国青年五四奖章暨新时代青年先锋奖获奖者代表的重要回信精神，围绕“青年大学习 建功‘十五五’”开展系列主题团日活动，引导广大团员青年胸怀远大理想，矢志拼搏奋斗，把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。 各级团组织深化理论武…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154869.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:29.357Z"
+            }
+          },
+          {
+            "id": "people_daily:30154870",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "大学生村医的一天（在现场）",
+            "author": "本报记者 叶传增",
+            "excerpt": "“五一”假期，戈云坤和往常一样，早早来到村卫生室。 卫生室门口，几名村民已经到了。“大爹大娘早！”戈云坤和村民们打招呼，村民们也亲切地喊他“戈医生”。 26岁的戈云坤，是云南省红河哈尼族彝族自治州弥勒市竹园镇赵林村卫生室的一名大学生村医。3年前，他从大学毕业后，通过云南省大学生乡村医生专项计划考试来到这里。 卫生室上午8时开门，他总是提前到。 “村里老年人…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154870.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:29.487Z"
+            }
+          },
+          {
+            "id": "people_daily:30154871",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "“再多做一些事，这也是咱的心意”（奋进“十五五”·一线见闻）",
+            "author": "本报记者 李 蕊",
+            "excerpt": "积极开发老年人力资源。 ——摘自“十五五”规划纲要 穿着印有“乐安晚晴”字样的橙色制服，61岁的程学青和搭档贾同枚一起来到84岁的山东省滨州市博兴县陈户镇桥子村村民程秀芳老人家。今天，他们的任务是查看老人身体状况，陪着聊聊天，再打扫房间。 在陈户镇，60岁以上老人占全镇人口的26.7%，其中80岁以上老人超过1200人。2024年7月，针对农村居家老人“机…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154871.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:29.360Z"
+            }
+          },
+          {
+            "id": "people_daily:30154872",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "汇聚银发力量 从“身边”出发（编辑手记）",
+            "author": "余 璇",
+            "excerpt": "积极开发老年人力资源，拓展适合老年人的多样化工作岗位，是积极应对人口老龄化的重要举措。那么，该如何让老年人发挥余热？陈户镇的探索，提供了一条可供参考的路径——从身边人、身边情出发，激发老年人参与社会活动的积极性。 壮大服务力量，从“身边人”着眼。陈户镇的“乐安晚晴”服务队，招募的都是本村的适龄“身边人”。这些“小老”们常年扎根乡土、热忱邻里、熟悉乡情，经过…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154872.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:29.359Z"
+            }
+          },
+          {
+            "id": "people_daily:30154873",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "古渡潮起产业兴",
+            "author": "本报记者 李增辉 姜 峰 刘新吾",
+            "excerpt": "宇树科技落子重庆，选址大渡口区。有人问：为什么是这个曾经的老工业区？ 4月28日，宇树科技西部创新运营中心在大渡口区正式投用。宇树科技将携手大渡口区共建人形机器人“具身智能机器人实验室”等项目，共促重庆智能机器人产业高质量发展。此前，宇树科技全资子公司——重庆宇弈科技有限公司也落户大渡口区。 这场双向奔赴，既是企业对当地发展的认可，更是大渡口区转型升级的坚…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154873.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:29.358Z"
+            }
+          },
+          {
+            "id": "people_daily:30154874",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "“五一”假期，文旅市场持续升温。人们在亲近自然、感受文化、体验新意中乐享假日时光，文旅消费潜能持续释放…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154874.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:29.364Z"
+            }
+          },
+          {
+            "id": "people_daily:30154875",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "网信部门公布一批典型案例",
+            "excerpt": "本报北京5月4日电 （记者金歆）记者从中央网信办获悉：近期，一些“自媒体”账号在发布涉时政等领域信息时，未规范标注信息来源，误导公众认知，破坏网络生态。主要情形包括未标注国内外时事、公共政策、社会事件的信息来源，未标注AI（人工智能）生成标识，未标注虚构演绎标签。网信部门督促网站平台深入自查自纠，依法依约处置违规账号9.8万余个。 3日，网信部门通报了其中…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154875.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:29.347Z"
+            }
+          },
+          {
+            "id": "people_daily:30154876",
+            "source": "people_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "奋力拼搏进取 勇于创新创造",
+            "author": "本报记者",
+            "excerpt": "劳动最光荣、劳动最崇高、劳动最伟大、劳动最美丽。 在“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问，指出：“广大劳动群众紧紧团结在党的周围，奋力拼搏进取，勇于创新创造”“希望广大劳动群众大力弘扬劳模精神、劳动精神、工匠精神”。 今年是中国共产党成立105周年，是“十五五”开局之年。广大劳动者立足岗位、躬身耕耘，以坚守诠释初…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154876.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:29.365Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/05/ab8ce25e-f4e7-46c5-ad0f-7b4cf878acb3.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/05/75025fee-1d92-471d-b638-7ddd743a9343.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:07:29.487Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "people-daily-html-v1",
+      "extractedAt": "2026-05-16T09:07:29.487Z"
+    }
+  },
+  "plaIssue": {
+    "id": "pla_daily:2026-05-05",
+    "source": "pla_daily",
+    "issueDate": "2026-05-05",
+    "pages": [
+      {
+        "id": "pla_daily:2026-05-05:p01",
+        "source": "pla_daily",
+        "issueDate": "2026-05-05",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-05-1-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "抓好重点行业领域风险隐患排查整治\n加强公共安全管理  确保人民群众生命财产安全",
+            "subtitle": "李强作出批示",
+            "excerpt": "新华社北京5月4日电 5月4日16时40分许，湖南长沙浏阳市华盛烟花制造燃放有限公司车间发生爆炸，造成重大人员伤亡。 事故发生后，中共中央总书记、国家主席、中央军委主席习近平高度重视并作出重要指示指出，湖南长沙浏阳市一烟花厂发生爆炸，造成重大人员伤亡。要抓紧搜寻失联人员，全力救治伤员，妥善做好善后等工作。要尽快查明事故原因，严肃追责。 习近平强调，各地区和…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=01&articleid=2026-05-05-1-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.869Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-1-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "大国之大利天下",
+            "subtitle": "——二〇二六年春季中国元首外交纪事",
+            "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=01&articleid=2026-05-05-1-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.870Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-1-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "在新征程上贡献青春力量",
+            "subtitle": "——习主席给中国青年五四奖章暨新时代青年先锋奖获奖者代表的回信在全军引起热烈反响",
+            "excerpt": "五四青年节到来之际，习主席给中国青年五四奖章暨新时代青年先锋奖获奖者代表回信，向全国各族青年致以节日祝贺并提出殷切期望。全军青年官兵坚定表示，一定牢记习主席谆谆嘱托，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，贯彻军委主席负责制，胸怀远大理想，矢志拼搏奋斗，把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=01&articleid=2026-05-05-1-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.870Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-1-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "以青春之我  赴强军之约",
+            "excerpt": "5月的大地，充溢着阳光与花香。在祖国最东端的空军某雷达站，一场主题为“七十六载铸天网、奋进攻坚新征程”的团日活动火热进行。青年官兵走进荣誉室感悟历史，立足战位展开热烈讨论，“岗位即战位、开机即战斗”的使命意识在思想深处扎牢。 一支军队的未来，寄望于青年的选择、青春的担当。推进强军事业，需要一批又一批有志青年接续奋斗。五四青年节来临之际，全军青年官兵以多种形…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=01&articleid=2026-05-05-1-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.870Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-1-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=01&articleid=2026-05-05-1-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.870Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260505/8b520aacc3773adaef71cad82283e9f3.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260505/5eaf1303475ee1cb011549c1815cb394.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:07:27.870Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-05:p02",
+        "source": "pla_daily",
+        "issueDate": "2026-05-05",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-05-2-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "“战斗的学习”",
+            "excerpt": "1951年深秋，荒野落上了凝霜。在抗美援朝前线一座昏暗的防空洞里，22岁的女教员孙群英拿着一截粉笔，借着烛火的微光在黑板上写下几个汉字。 70多年后，当年“正青春”的女教员，已是90多岁的老人。她对那时的情景历历在目：我带着一盒粉笔、几本书就上了战场。 战地炮声隆隆，洞中一灯如豆。这或许是世界战争史上的一大奇观：在枪林弹雨的战场上，这支部队的连排干部分批来…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.870Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-2-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "各地广泛开展“青年大学习 建功‘十五五’”五四主题团日活动",
+            "excerpt": "新华社北京5月4日电 （记者王明玉）今年五四青年节期间，各级共青团组织围绕“青年大学习 建功‘十五五’”主题，广泛开展内容丰富、形式新颖、贴近青年的五四主题团日活动，引导广大团员青年胸怀远大理想，矢志拼搏奋斗，把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。 在理论学习中“铸魂”。各级团组织通过主题宣讲、系列团课等形式，讲好…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.870Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-2-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "大国之大利天下",
+            "subtitle": "——二〇二六年春季中国元首外交纪事",
+            "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.870Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-2-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "严防“节日病”  廉洁过假期",
+            "subtitle": "——“五一”各地精准纠治“四风”问题观察",
+            "excerpt": "“有的不收敛不收手，顶风违规吃喝、收礼；有的政绩观存在偏差，急功近利、盲目蛮干；有的作风不严不实，不正确履行职责、乱作为……” “五一”假期前，中央纪委国家监委公开通报8起违反中央八项规定精神典型问题，点名道姓、直指病灶，释放出锲而不舍落实中央八项规定精神、持续纠治“四风”顽疾的强烈信号。 节日期间，是“四风”问题易发多发的关键节点。 “五一”假期，各地纪…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.870Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-2-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "以青春之我  赴强军之约",
+            "excerpt": "5月的大地，充溢着阳光与花香。在祖国最东端的空军某雷达站，一场主题为“七十六载铸天网、奋进攻坚新征程”的团日活动火热进行。青年官兵走进荣誉室感悟历史，立足战位展开热烈讨论，“岗位即战位、开机即战斗”的使命意识在思想深处扎牢。 一支军队的未来，寄望于青年的选择、青春的担当。推进强军事业，需要一批又一批有志青年接续奋斗。五四青年节来临之际，全军青年官兵以多种形…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.870Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-2-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.870Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260505/f828e6e15461b9e648780a472663d4fa.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260505/3916f6a09b19b2fe32936413f347c6d7.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:07:27.870Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-05:p03",
+        "source": "pla_daily",
+        "issueDate": "2026-05-05",
+        "pageNumber": 3,
+        "pageName": "军营观察",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-05-3-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 3,
+            "pageName": "军营观察",
+            "title": "“南沙卫士”的壁画展",
+            "excerpt": "深蓝色的海水，扑向岸边的白沙。待海浪轻盈卷着细沙离开，海岸围墙上的“南沙卫士”4个字和一幅幅壁画变得醒目。 五四青年节前夕，一场别开生面的岛礁壁画展在海军南沙某守备部队举办，成为丰富守礁官兵精神文化生活的新亮点。基层连队的战士们拿起画笔，在狭长的海岸围墙上，用略显稚拙的线条勾勒身边的故事。 没有专业画师，只有一双双沾着海盐、紧握钢枪的手；没有宏大叙事，只有…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=03&articleid=2026-05-05-3-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.870Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-3-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 3,
+            "pageName": "军营观察",
+            "title": "礁盘上镌刻着“我的青春年轮”",
+            "excerpt": "高温、高湿、高盐，孤悬深海。在海军南沙某守备部队驻守的岛礁上，一代代官兵战风斗浪，将青春与忠诚铭刻礁盘，熔铸成“吃苦不言苦、苦干不苦熬、苦中有作为”的誓言。他们的奋斗青春印记，正是这片祖宗海上最深沉、最滚烫的年轮。 担当的印记 登上岛礁，岸边漫步，闷热的海风扑面而来，夹杂着海水的咸腥。 靠近海岸围墙的海水呈浅蓝色，越往外颜色越深，直到一条黑线连接海天。值守…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=03&articleid=2026-05-05-3-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.870Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-3-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 3,
+            "pageName": "军营观察",
+            "title": "在这里，坚守也是战斗",
+            "excerpt": "海天相接处，一个黑点渐渐清晰，在浪尖起伏，越来越近—补给船来了！ 码头上瞬间沸腾。电瓶车沿着红砖路鱼贯而至，整齐列队；手推车轮声急促，汇成忙碌的交响。得知补给船临时靠泊，岛礁各部门精选骨干，早早守候。 对于海军南沙某守备部队驻守的遥远礁盘而言，一砖一瓦、一蔬一果，乃至一支笔、一盒颜料，都依赖这定期抵达的“海上生命线”，官兵亲切地称之为“南沙航班”。 船近码…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=03&articleid=2026-05-05-3-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.871Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260505/b6547090f9e5da6434ff8cbdd90be379.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260505/0723e51b666dd3c548e7953c6a13438e.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:07:27.871Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-05:p04",
+        "source": "pla_daily",
+        "issueDate": "2026-05-05",
+        "pageNumber": 4,
+        "pageName": "画苑",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-05-4-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "画苑",
+            "title": "索降训练",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.871Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-4-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "画苑",
+            "title": "军人风采",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.871Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-4-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "画苑",
+            "title": "训练时光",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.871Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-4-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "画苑",
+            "title": "青春和弦",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.871Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-4-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "画苑",
+            "title": "利刃出鞘",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.871Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-4-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "画苑",
+            "title": "篆刻",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.871Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-4-6",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "画苑",
+            "title": "道路施工",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.871Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-4-7",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "画苑",
+            "title": "劈波斩浪",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-7",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.871Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-05-4-8",
+            "source": "pla_daily",
+            "issueDate": "2026-05-05",
+            "pageNumber": 4,
+            "pageName": "画苑",
+            "title": "焊接作业",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-8",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:27.871Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260505/74d83f191749c1591ec2bb56964bae7c.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260505/aefd053ccd734c8bf521ce1bc74103d8.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:07:27.871Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "pla-daily-index-json-v1",
+      "extractedAt": "2026-05-16T09:07:27.871Z"
+    }
+  },
+  "matchGroups": [
+    {
+      "id": "matched:people_daily:30154849+people_daily:30154862+people_daily:30154867:pla_daily:2026-05-05-1-1+pla_daily:2026-05-05-2-2",
+      "issueDate": "2026-05-05",
+      "matchType": "matched",
+      "confidence": 1,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154849",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "大国之大利天下",
+          "subtitle": "——二〇二六年春季中国元首外交纪事",
+          "author": "新华社记者",
+          "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154849.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:27.385Z"
+          }
+        },
+        {
+          "id": "people_daily:30154862",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "大国之大利天下",
+          "subtitle": "——二〇二六年春季中国元首外交纪事",
+          "author": "新华社记者",
+          "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154862.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.506Z"
+          }
+        },
+        {
+          "id": "people_daily:30154867",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中国驻美国大使馆举办开放日暨陕西省推介活动",
+          "excerpt": "本报华盛顿5月4日电 （记者李志伟）当地时间5月2日，中国驻美国大使馆举办开放日暨陕西省推介活动。美各界友好人士及7000多名当地民众参加。 中国驻美国大使谢锋在致辞中表示，当前，中美关系再次来到新的十字路口。双方应着眼未来构建新时期中美正确相处之道，让两国和世界各国人民的日子都越来越美好。欢迎更多美国朋友乘着240小时过境免签的东风，走进大美陕西…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154867.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.693Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-05-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "大国之大利天下",
+          "subtitle": "——二〇二六年春季中国元首外交纪事",
+          "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=01&articleid=2026-05-05-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.870Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-2-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "大国之大利天下",
+          "subtitle": "——二〇二六年春季中国元首外交纪事",
+          "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.870Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 100%）。共有語: 大国之大利天下、欢迎你对中国进行国事访问、习近平主席在北京会晤、韩国总统李在明对中国进行国事访问。ナラティブ・アンカートピック束: 大国之大利天下、欢迎你对中国进行国事访问、习近平主席在北京会晤、韩国总统李在明对中国进行国事访问 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "正确相处之道",
+          "中美关系"
+        ],
+        "plaDailyTerms": [
+          "习近平主席亲自擘画指挥中国特色大国外",
+          "今年是中俄战略协作伙伴关系建立30周",
+          "将通过高质量发展为世界注入更多确定性",
+          "探索出了一条迥异于西方的中国式现代化",
+          "用自身高质量发展为世界创造蓬勃机遇",
+          "我们有坚定推进中国式现代化的决心",
+          "战略性问题进行长时间深入交流",
+          "要打造具有战略定力的中西关系"
+        ],
+        "sharedTerms": [
+          "大国之大利天下",
+          "欢迎你对中国进行国事访问",
+          "习近平主席在北京会晤",
+          "韩国总统李在明对中国进行国事访问",
+          "坚持国际法",
+          "让世界重回丛林法",
+          "中美将分别主办亚太经合组织领导人非正式会议",
+          "中美关系议题"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 100% / lexical 100% / narrative 89%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 89%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・アンカートピック束: 大国之大利天下、欢迎你对中国进行国事访问、习近平主席在北京会晤、韩国总统李在明对中国进行国事访问",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30154848:pla_daily:2026-05-05-1-0",
+      "issueDate": "2026-05-05",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154848",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "抓好重点行业领域风险隐患排查整治 加强公共安全管理 确保人民群众生命财产安全",
+          "subtitle": "李强作出批示",
+          "excerpt": "新华社北京5月4日电 5月4日16时40分许，湖南长沙浏阳市华盛烟花制造燃放有限公司车间发生爆炸，造成重大人员伤亡。 事故发生后，中共中央总书记、国家主席、中央军委主席习近平高度重视并作出重要指示指出，湖南长沙浏阳市一烟花厂发生爆炸，造成重大人员伤亡。要抓紧搜寻失联人员，全力救治伤员，妥善做好善后等工作。要尽快查明事故原因，严肃追责。 习近平强调，各地区和…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154848.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:27.376Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-05-1-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "抓好重点行业领域风险隐患排查整治\n加强公共安全管理  确保人民群众生命财产安全",
+          "subtitle": "李强作出批示",
+          "excerpt": "新华社北京5月4日电 5月4日16时40分许，湖南长沙浏阳市华盛烟花制造燃放有限公司车间发生爆炸，造成重大人员伤亡。 事故发生后，中共中央总书记、国家主席、中央军委主席习近平高度重视并作出重要指示指出，湖南长沙浏阳市一烟花厂发生爆炸，造成重大人员伤亡。要抓紧搜寻失联人员，全力救治伤员，妥善做好善后等工作。要尽快查明事故原因，严肃追责。 习近平强调，各地区和…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=01&articleid=2026-05-05-1-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.869Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 抓好重点行业领域风险隐患排查整治 加强公共安全管理 确保人民群众生命财产安全、中央军委主席习近平高度重视并作出重要。ナラティブ・完全タイトル一致: 抓好重点行业领域风险隐患排查整治 加强公共安全管理 确保人民群众生命财产安全、中央军委主席习近平高度重视并作出重要 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "抓好重点行业领域风险隐患排查整治 加强公共安全管理 确保人民群众生命财产安全",
+          "中央军委主席习近平高度重视并作出重要"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 100% / narrative 11%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 11%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 抓好重点行业领域风险隐患排查整治 加强公共安全管理 确保人民群众生命财产安全、中央军委主席习近平高度重视并作出重要",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30154850+people_daily:30154859:pla_daily:2026-05-05-1-2",
+      "issueDate": "2026-05-05",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154850",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "在新征程上贡献青春力量",
+          "subtitle": "——习近平总书记的回信激励广大青年拼搏奋斗",
+          "author": "本报记者 杨 昊",
+          "excerpt": "科创前沿，年轻的科研工作者聚力攻克关键核心技术；车间轰鸣，青年工匠精心打磨每一款大国重器；三尺讲台，志愿者们向大山里的孩子传递知识和温暖……以奋斗砥砺理想，用奉献诠释担当，将青春华章写在祖国大地上，是如今广大青年的生动写照。 “希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。”…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154850.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:27.374Z"
+          }
+        },
+        {
+          "id": "people_daily:30154859",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "在新征程上贡献青春力量",
+          "subtitle": "——习近平总书记的回信激励广大青年拼搏奋斗",
+          "author": "本报记者 杨 昊",
+          "excerpt": "科创前沿，年轻的科研工作者聚力攻克关键核心技术；车间轰鸣，青年工匠精心打磨每一款大国重器；三尺讲台，志愿者们向大山里的孩子传递知识和温暖……以奋斗砥砺理想，用奉献诠释担当，将青春华章写在祖国大地上，是如今广大青年的生动写照。 “希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。”…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154859.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.045Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-05-1-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "在新征程上贡献青春力量",
+          "subtitle": "——习主席给中国青年五四奖章暨新时代青年先锋奖获奖者代表的回信在全军引起热烈反响",
+          "excerpt": "五四青年节到来之际，习主席给中国青年五四奖章暨新时代青年先锋奖获奖者代表回信，向全国各族青年致以节日祝贺并提出殷切期望。全军青年官兵坚定表示，一定牢记习主席谆谆嘱托，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，贯彻军委主席负责制，胸怀远大理想，矢志拼搏奋斗，把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=01&articleid=2026-05-05-1-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.870Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 在新征程上贡献青春力量。ナラティブ・アンカートピック束: 在新征程上贡献青春力量 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "更是数字中国发展的生力军",
+          "基层治理的最前沿",
+          "剧走进3000多所中小学法",
+          "将继续弘扬载人航天精神",
+          "车间工程"
+        ],
+        "plaDailyTerms": [
+          "先锋奖获奖者代表的回信在全军引起热烈",
+          "分队前身部队17名勇士冒着敌人的炮火",
+          "火箭军某部通信连指导员陈东森结合建连",
+          "红其拉甫边防连官兵认真学习习主席回信",
+          "这名武警湖南总队训练基地教研室教员",
+          "对广大青年官兵产生了强大的号召力",
+          "陈东森立即与连长筹备专业编组考核",
+          "集体的75220部队42分队官兵"
+        ],
+        "sharedTerms": [
+          "在新征程上贡献青春力量"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 92% / lexical 57% / narrative 10%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 57% / ナラティブ類似 10%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・アンカートピック束: 在新征程上贡献青春力量",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "people_only:1:要闻",
+      "issueDate": "2026-05-05",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154851",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "一个节点一个节点坚守（今日谈）",
+          "author": "盛玉雷",
+          "excerpt": "“五一”假期前，中央纪委国家监委公开通报8起违反中央八项规定精神典型问题，释放出锲而不舍落实中央八项规定精神、持续纠治“四风”顽疾的强烈信号。节日期间，是“四风”问题易发多发的关键节点。 节点也是“考点”。如今，领导干部“一到节假日就不见了”的现象消失了，自觉坚守岗位“时时放心不下”的责任感变强了；推杯换盏、违规吃喝等“四风”问题少了，为群众服务的时间多了…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154851.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:27.370Z"
+          }
+        },
+        {
+          "id": "people_daily:30154852",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154852.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:27.373Z"
+          }
+        },
+        {
+          "id": "people_daily:30154853",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "奋力拼搏进取 勇于创新创造",
+          "author": "本报记者",
+          "excerpt": "劳动最光荣、劳动最崇高、劳动最伟大、劳动最美丽。 在“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问，指出：“广大劳动群众紧紧团结在党的周围，奋力拼搏进取，勇于创新创造”“希望广大劳动群众大力弘扬劳模精神、劳动精神、工匠精神”。 今年是中国共产党成立105周年，是“十五五”开局之年。广大劳动者立足岗位、躬身耕耘，以坚守诠释初…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154853.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:27.376Z"
+          }
+        },
+        {
+          "id": "people_daily:30154854",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "古渡潮起产业兴",
+          "author": "本报记者 李增辉 姜 峰 刘新吾",
+          "excerpt": "宇树科技落子重庆，选址大渡口区。有人问：为什么是这个曾经的老工业区？ 4月28日，宇树科技西部创新运营中心在大渡口区正式投用。宇树科技将携手大渡口区共建人形机器人“具身智能机器人实验室”等项目，共促重庆智能机器人产业高质量发展。此前，宇树科技全资子公司——重庆宇弈科技有限公司也落户大渡口区。 这场双向奔赴，既是企业对当地发展的认可，更是大渡口区转型升级的坚…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154854.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:27.534Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 4本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:2:要闻",
+      "issueDate": "2026-05-05",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154855",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "天边到田间，北斗显身手（春耕里的新质生产力）",
+          "author": "本报记者 谷业凯",
+          "excerpt": "近年来，北斗卫星导航技术在农业中深度应用，推动传统农业向智慧农业加快转型。一系列新设备新应用，让北斗系统从天边到田间，成为现代农业的“精准标尺”和“智慧大脑”。“天上建好、地上用好”的北斗系统，给春播春管带来哪些新变化？记者进行了采访。 更全面—— 无人机植保、精准播种，从单一导航向全产业链智能化延伸 江苏海安市隆政街道联合村俞万家庭农场里，麦苗正处在返青…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154855.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.047Z"
+          }
+        },
+        {
+          "id": "people_daily:30154856",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "青年与机器人产业共成长（产业里的年轻人）",
+          "author": "本报记者 洪秋婷",
+          "excerpt": "在五四青年节到来之际，习近平总书记给中国青年五四奖章暨新时代青年先锋奖获奖者代表回信指出，今年是“十五五”开局之年，青年建功正当其时。 “五一”假期，位于广州市海珠区的广东省具身智能训练场，各类机器人在青年架构师、工程师的操作下，正开展沉浸式训练：机械臂精准抓取汽车螺栓完成分拣、巡检机器人沿电路管线自主排查隐患、人形机器人完成精细作业……科技创新一线，新时…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154856.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.044Z"
+          }
+        },
+        {
+          "id": "people_daily:30154857",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "向新奋进 不负青春（子夜走笔）",
+          "author": "崔 斌",
+          "excerpt": "科技创新一线是青年干事创业的大舞台，知识密集度和创意需求度都很高，是青年科技人才发挥才智比较集中的领域。 “北斗”组网，卫星研制团队平均年龄31岁；上海“模速空间”大模型创新生态社区，平均年龄33岁的青年团队，守护着300多个创业梦想……千千万万“正年轻”的科技人才，为我国科技创新事业“正奋进”。 近年来，各地区各部门托举成长、帮助成才的政策举措日益丰富完…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154857.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:27.868Z"
+          }
+        },
+        {
+          "id": "people_daily:30154858",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "一区一主题，串起文商旅体展（经济新方位·聚焦假期消费）",
+          "author": "本报记者 田 泓",
+          "excerpt": "享潮玩、购好物……“五一”假期，第七届上海“五五购物节”人气正旺，一场搬进商圈的乒乓球赛、一杯冠军拉花的限定咖啡、一次新奇有趣的夜游活动……为市民游客奉上一场全城消费嘉年华。 “逛商场的同时，还打了场人机亲子赛。”5月1日，王先生带女儿来到上海百联西郊购物中心，看到商场球馆在举行乒乓球趣味赛，父女两人报了名。球桌对面，自动发球机不断变化出球线路，王先生手把…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154858.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.046Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 4本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:3:要闻",
+      "issueDate": "2026-05-05",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154860",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“为全球公共卫生应急管理贡献更多中国力量”（新时代中非合作）",
+          "author": "本报记者 郑 翔",
+          "excerpt": "塞拉利昂首都弗里敦市郊，坐落着一栋白色建筑——塞拉利昂—中国友好生物安全实验室（以下简称“塞中友好生物安全实验室”）。从2015年正式启用，到如今常态化开展传染病监测与防控，实验室历经3期项目建设，从单一的埃博拉病毒检测平台，发展成为覆盖数十项检测的“全能选手”。10余年间，一批又一批中国公共卫生专家接力奔赴，与塞方共同筑起坚实的公共卫生屏障。 从应急驰援…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154860.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.501Z"
+          }
+        },
+        {
+          "id": "people_daily:30154861",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "当和合思想遇上乌班图哲学（国际论坛）",
+          "author": "约罗·迪亚洛",
+          "excerpt": "从儒家和合思想倡导的和谐共生，到非洲乌班图哲学“我们在故我在”的智慧箴言，非中文化共同传递着一个理念：和平、合作与团结才是人类进步的基石 2026年是非中开启外交关系70周年，也是“中非人文交流年”。值此特殊年份，回望非中关系的历史，对于促进非中关系向前发展有着重要意义。 非中交往历史源远流长，内容丰富多彩，为双方增强相互理解、深化团结合作奠定了坚实基础。…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154861.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.502Z"
+          }
+        },
+        {
+          "id": "people_daily:30154863",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "法国友人移交一批日本侵华资料",
+          "excerpt": "本报南京5月4日电 （记者尹晓宇）5月4日，法国友人白士杰团队向侵华日军南京大屠杀遇难同胞纪念馆移交一批日本侵华资料（扫描件）。 此次移交的资料来自法国外交部南特外交档案中心部分日军侵华档案的扫描，涉及42份外交文献资料，共1993页，时间范围从1920年至1943年，资料以法文为主，还包含英文、中文、日文等多种文字。其内容涉及南京大屠杀、日本侵略行径与西…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154863.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.503Z"
+          }
+        },
+        {
+          "id": "people_daily:30154864",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "孟加拉国外交部长卡利勒将访华",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154864.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.501Z"
+          }
+        },
+        {
+          "id": "people_daily:30154865",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "米兰设计周见证中国设计创新活力",
+          "author": "本报记者 谢亚宏",
+          "excerpt": "2026米兰设计周日前在意大利米兰举行。来自中国的设计师、机构将作品和展览点缀在时尚之都的各个角落，成为这场全球室内装饰与设计行业盛会的一大亮点。 米兰华人街所在的萨尔皮设计街区是米兰设计周的主要场馆之一，融入中国元素的装置艺术、百米“文明之桥”彩绘长卷等，展示着中意文化交流的悠久历史。在米兰龙甲中文学校内，汉字创意设计展通过平面视觉艺术、书法作品、视频影…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154865.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.500Z"
+          }
+        },
+        {
+          "id": "people_daily:30154866",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "第二十四届平壤春季国际商品展览会开幕",
+          "excerpt": "本报平壤5月4日电 （记者刘融）第二十四届平壤春季国际商品展览会4日在朝鲜平壤青年中央会馆开幕。应朝方邀请，驻朝外交使团等参加开幕式。朝鲜对外经济相尹正浩、朝鲜国际展览社社长咸主燮等出席。 开幕式结束后，中国驻朝鲜大使王亚军陪同尹正浩参观了青年中央会馆展台，并赴玉流展示馆参观部分中国企业展台。 平壤国际商品展览会是朝鲜规模最大的综合性国际贸易展览会，每年春…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154866.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.502Z"
+          }
+        },
+        {
+          "id": "people_daily:30154868",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中国民间援助物资交接仪式在蒙古国举行",
+          "excerpt": "据新华社乌兰巴托5月4日电 （记者宝乐日其其格）中国民间援助物资交接仪式4日在蒙古国首都乌兰巴托举行。中国驻蒙古国大使沈敏娟、联合国儿童基金会…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154868.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:28.674Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:4:要闻",
+      "issueDate": "2026-05-05",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154869",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "各地广泛开展五四主题团日活动",
+          "excerpt": "本报北京5月4日电 （记者杨昊）今年五四青年节期间，全国各地共青团组织深入学习贯彻习近平总书记给中国青年五四奖章暨新时代青年先锋奖获奖者代表的重要回信精神，围绕“青年大学习 建功‘十五五’”开展系列主题团日活动，引导广大团员青年胸怀远大理想，矢志拼搏奋斗，把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。 各级团组织深化理论武…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154869.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:29.357Z"
+          }
+        },
+        {
+          "id": "people_daily:30154870",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "大学生村医的一天（在现场）",
+          "author": "本报记者 叶传增",
+          "excerpt": "“五一”假期，戈云坤和往常一样，早早来到村卫生室。 卫生室门口，几名村民已经到了。“大爹大娘早！”戈云坤和村民们打招呼，村民们也亲切地喊他“戈医生”。 26岁的戈云坤，是云南省红河哈尼族彝族自治州弥勒市竹园镇赵林村卫生室的一名大学生村医。3年前，他从大学毕业后，通过云南省大学生乡村医生专项计划考试来到这里。 卫生室上午8时开门，他总是提前到。 “村里老年人…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154870.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:29.487Z"
+          }
+        },
+        {
+          "id": "people_daily:30154871",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "“再多做一些事，这也是咱的心意”（奋进“十五五”·一线见闻）",
+          "author": "本报记者 李 蕊",
+          "excerpt": "积极开发老年人力资源。 ——摘自“十五五”规划纲要 穿着印有“乐安晚晴”字样的橙色制服，61岁的程学青和搭档贾同枚一起来到84岁的山东省滨州市博兴县陈户镇桥子村村民程秀芳老人家。今天，他们的任务是查看老人身体状况，陪着聊聊天，再打扫房间。 在陈户镇，60岁以上老人占全镇人口的26.7%，其中80岁以上老人超过1200人。2024年7月，针对农村居家老人“机…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154871.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:29.360Z"
+          }
+        },
+        {
+          "id": "people_daily:30154872",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "汇聚银发力量 从“身边”出发（编辑手记）",
+          "author": "余 璇",
+          "excerpt": "积极开发老年人力资源，拓展适合老年人的多样化工作岗位，是积极应对人口老龄化的重要举措。那么，该如何让老年人发挥余热？陈户镇的探索，提供了一条可供参考的路径——从身边人、身边情出发，激发老年人参与社会活动的积极性。 壮大服务力量，从“身边人”着眼。陈户镇的“乐安晚晴”服务队，招募的都是本村的适龄“身边人”。这些“小老”们常年扎根乡土、热忱邻里、熟悉乡情，经过…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154872.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:29.359Z"
+          }
+        },
+        {
+          "id": "people_daily:30154873",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "古渡潮起产业兴",
+          "author": "本报记者 李增辉 姜 峰 刘新吾",
+          "excerpt": "宇树科技落子重庆，选址大渡口区。有人问：为什么是这个曾经的老工业区？ 4月28日，宇树科技西部创新运营中心在大渡口区正式投用。宇树科技将携手大渡口区共建人形机器人“具身智能机器人实验室”等项目，共促重庆智能机器人产业高质量发展。此前，宇树科技全资子公司——重庆宇弈科技有限公司也落户大渡口区。 这场双向奔赴，既是企业对当地发展的认可，更是大渡口区转型升级的坚…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154873.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:29.358Z"
+          }
+        },
+        {
+          "id": "people_daily:30154874",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "“五一”假期，文旅市场持续升温。人们在亲近自然、感受文化、体验新意中乐享假日时光，文旅消费潜能持续释放…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154874.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:29.364Z"
+          }
+        },
+        {
+          "id": "people_daily:30154875",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "网信部门公布一批典型案例",
+          "excerpt": "本报北京5月4日电 （记者金歆）记者从中央网信办获悉：近期，一些“自媒体”账号在发布涉时政等领域信息时，未规范标注信息来源，误导公众认知，破坏网络生态。主要情形包括未标注国内外时事、公共政策、社会事件的信息来源，未标注AI（人工智能）生成标识，未标注虚构演绎标签。网信部门督促网站平台深入自查自纠，依法依约处置违规账号9.8万余个。 3日，网信部门通报了其中…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154875.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:29.347Z"
+          }
+        },
+        {
+          "id": "people_daily:30154876",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "奋力拼搏进取 勇于创新创造",
+          "author": "本报记者",
+          "excerpt": "劳动最光荣、劳动最崇高、劳动最伟大、劳动最美丽。 在“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问，指出：“广大劳动群众紧紧团结在党的周围，奋力拼搏进取，勇于创新创造”“希望广大劳动群众大力弘扬劳模精神、劳动精神、工匠精神”。 今年是中国共产党成立105周年，是“十五五”开局之年。广大劳动者立足岗位、躬身耕耘，以坚守诠释初…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154876.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:29.365Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 8本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:1:要闻",
+      "issueDate": "2026-05-05",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-05-1-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "以青春之我  赴强军之约",
+          "excerpt": "5月的大地，充溢着阳光与花香。在祖国最东端的空军某雷达站，一场主题为“七十六载铸天网、奋进攻坚新征程”的团日活动火热进行。青年官兵走进荣誉室感悟历史，立足战位展开热烈讨论，“岗位即战位、开机即战斗”的使命意识在思想深处扎牢。 一支军队的未来，寄望于青年的选择、青春的担当。推进强军事业，需要一批又一批有志青年接续奋斗。五四青年节来临之际，全军青年官兵以多种形…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=01&articleid=2026-05-05-1-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.870Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-1-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=01&articleid=2026-05-05-1-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.870Z"
+          }
+        }
+      ],
+      "reason": "81cn only 2本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:2:要闻",
+      "issueDate": "2026-05-05",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-05-2-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“战斗的学习”",
+          "excerpt": "1951年深秋，荒野落上了凝霜。在抗美援朝前线一座昏暗的防空洞里，22岁的女教员孙群英拿着一截粉笔，借着烛火的微光在黑板上写下几个汉字。 70多年后，当年“正青春”的女教员，已是90多岁的老人。她对那时的情景历历在目：我带着一盒粉笔、几本书就上了战场。 战地炮声隆隆，洞中一灯如豆。这或许是世界战争史上的一大奇观：在枪林弹雨的战场上，这支部队的连排干部分批来…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.870Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "各地广泛开展“青年大学习 建功‘十五五’”五四主题团日活动",
+          "excerpt": "新华社北京5月4日电 （记者王明玉）今年五四青年节期间，各级共青团组织围绕“青年大学习 建功‘十五五’”主题，广泛开展内容丰富、形式新颖、贴近青年的五四主题团日活动，引导广大团员青年胸怀远大理想，矢志拼搏奋斗，把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。 在理论学习中“铸魂”。各级团组织通过主题宣讲、系列团课等形式，讲好…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.870Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-2-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "严防“节日病”  廉洁过假期",
+          "subtitle": "——“五一”各地精准纠治“四风”问题观察",
+          "excerpt": "“有的不收敛不收手，顶风违规吃喝、收礼；有的政绩观存在偏差，急功近利、盲目蛮干；有的作风不严不实，不正确履行职责、乱作为……” “五一”假期前，中央纪委国家监委公开通报8起违反中央八项规定精神典型问题，点名道姓、直指病灶，释放出锲而不舍落实中央八项规定精神、持续纠治“四风”顽疾的强烈信号。 节日期间，是“四风”问题易发多发的关键节点。 “五一”假期，各地纪…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.870Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-2-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "以青春之我  赴强军之约",
+          "excerpt": "5月的大地，充溢着阳光与花香。在祖国最东端的空军某雷达站，一场主题为“七十六载铸天网、奋进攻坚新征程”的团日活动火热进行。青年官兵走进荣誉室感悟历史，立足战位展开热烈讨论，“岗位即战位、开机即战斗”的使命意识在思想深处扎牢。 一支军队的未来，寄望于青年的选择、青春的担当。推进强军事业，需要一批又一批有志青年接续奋斗。五四青年节来临之际，全军青年官兵以多种形…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.870Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-2-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.870Z"
+          }
+        }
+      ],
+      "reason": "81cn only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:3:军营观察",
+      "issueDate": "2026-05-05",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-05-3-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "军营观察",
+          "title": "“南沙卫士”的壁画展",
+          "excerpt": "深蓝色的海水，扑向岸边的白沙。待海浪轻盈卷着细沙离开，海岸围墙上的“南沙卫士”4个字和一幅幅壁画变得醒目。 五四青年节前夕，一场别开生面的岛礁壁画展在海军南沙某守备部队举办，成为丰富守礁官兵精神文化生活的新亮点。基层连队的战士们拿起画笔，在狭长的海岸围墙上，用略显稚拙的线条勾勒身边的故事。 没有专业画师，只有一双双沾着海盐、紧握钢枪的手；没有宏大叙事，只有…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=03&articleid=2026-05-05-3-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.870Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-3-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "军营观察",
+          "title": "礁盘上镌刻着“我的青春年轮”",
+          "excerpt": "高温、高湿、高盐，孤悬深海。在海军南沙某守备部队驻守的岛礁上，一代代官兵战风斗浪，将青春与忠诚铭刻礁盘，熔铸成“吃苦不言苦、苦干不苦熬、苦中有作为”的誓言。他们的奋斗青春印记，正是这片祖宗海上最深沉、最滚烫的年轮。 担当的印记 登上岛礁，岸边漫步，闷热的海风扑面而来，夹杂着海水的咸腥。 靠近海岸围墙的海水呈浅蓝色，越往外颜色越深，直到一条黑线连接海天。值守…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=03&articleid=2026-05-05-3-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.870Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-3-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "军营观察",
+          "title": "在这里，坚守也是战斗",
+          "excerpt": "海天相接处，一个黑点渐渐清晰，在浪尖起伏，越来越近—补给船来了！ 码头上瞬间沸腾。电瓶车沿着红砖路鱼贯而至，整齐列队；手推车轮声急促，汇成忙碌的交响。得知补给船临时靠泊，岛礁各部门精选骨干，早早守候。 对于海军南沙某守备部队驻守的遥远礁盘而言，一砖一瓦、一蔬一果，乃至一支笔、一盒颜料，都依赖这定期抵达的“海上生命线”，官兵亲切地称之为“南沙航班”。 船近码…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=03&articleid=2026-05-05-3-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.871Z"
+          }
+        }
+      ],
+      "reason": "81cn only 3本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:4:画苑",
+      "issueDate": "2026-05-05",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-05-4-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "画苑",
+          "title": "索降训练",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.871Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-4-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "画苑",
+          "title": "军人风采",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.871Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-4-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "画苑",
+          "title": "训练时光",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.871Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-4-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "画苑",
+          "title": "青春和弦",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.871Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-4-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "画苑",
+          "title": "利刃出鞘",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.871Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-4-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "画苑",
+          "title": "篆刻",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.871Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-4-6",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "画苑",
+          "title": "道路施工",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.871Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-4-7",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "画苑",
+          "title": "劈波斩浪",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-7",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.871Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-4-8",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 4,
+          "pageName": "画苑",
+          "title": "焊接作业",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=04&articleid=2026-05-05-4-8",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:27.871Z"
+          }
+        }
+      ],
+      "reason": "81cn only 9本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    }
+  ],
+  "counts": {
+    "peopleArticles": 29,
+    "plaArticles": 23,
+    "matchedGroups": 3,
+    "matchedPeopleArticles": 6,
+    "matchedPlaArticles": 4,
+    "peopleOnlyArticles": 23,
+    "plaOnlyArticles": 19
+  }
+}

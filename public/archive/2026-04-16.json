@@ -1,0 +1,2492 @@
+{
+  "schemaVersion": 1,
+  "issueDate": "2026-04-16",
+  "generatedAt": "2026-05-16T09:03:24.645Z",
+  "retentionDays": 31,
+  "frontPages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "judge": {
+    "enabled": true,
+    "model": "gpt-4.1-nano"
+  },
+  "peopleIssue": {
+    "id": "people_daily:2026-04-16",
+    "source": "people_daily",
+    "issueDate": "2026-04-16",
+    "pages": [
+      {
+        "id": "people_daily:2026-04-16:p01",
+        "source": "people_daily",
+        "issueDate": "2026-04-16",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30151332",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
+            "excerpt": "新华社北京4月15日电 （记者冯歆然、董雪）4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林举行会谈。 习近平再次祝贺苏林当选越南国家主席。习近平指出，你当选越南国家主席后第一时间到访中国，体现了你对发展中越关系的高度重视。相信在以苏林同志为首的越共中央坚强领导下，越南必将坚定走好社会主义道路，朝着…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151332.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.174Z"
+            }
+          },
+          {
+            "id": "people_daily:30151333",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平同苏林共同会见中越青年代表",
+            "excerpt": "新华社北京4月15日电 （记者董雪、冯歆然）4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林共同会见参加“红色研学之旅”的中越青年代表。 习近平发表讲话，表示去年我和苏林总书记一道启动“红色研学之旅”项目，一年来，两国青年共同探寻中越友好的红色基因，感受中国式现代化的万千气象，在中国各地留下许多互学…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151333.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.167Z"
+            }
+          },
+          {
+            "id": "people_daily:30151334",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平夫妇同苏林夫妇亲切话别",
+            "excerpt": "新华社北京4月15日电 4月15日下午，中共中央总书记、国家主席习近平和夫人彭丽媛同来华进行国事访问的越共中央总书记、国家主席苏林和夫人吴芳璃亲切话别。 习近平说，今天，我同苏林总书记、国家主席就共同关心的全局性、战略性问题进行了长时间深入交流，达成许多新的重要共识。我突出感受到，中越都是社会主义国家，我们要继续沿着这条道路确定的方向坚定前行，做社会主义事…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151334.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.060Z"
+            }
+          },
+          {
+            "id": "people_daily:30151335",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平会见俄罗斯外长拉夫罗夫",
+            "excerpt": "新华社北京4月15日电 （记者冯歆然）4月15日上午，国家主席习近平在北京人民大会堂会见俄罗斯外长拉夫罗夫。 习近平请拉夫罗夫转达对普京总统的诚挚问候。习近平指出，今年是中俄战略协作伙伴关系建立30周年，也是《中俄睦邻友好合作条约》签署25周年，两国全面战略协作伙伴关系保持高水平发展，各领域合作成果丰硕。面对变乱交织的国际形势，中俄关系的稳定性和确定性尤为…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151335.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.176Z"
+            }
+          },
+          {
+            "id": "people_daily:30151336",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "推动全民阅读，建设书香社会",
+            "excerpt": "新华社北京4月15日电 4月16日出版的第8期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《推动全民阅读，建设书香社会》。这是习近平总书记2013年3月至2025年3月期间有关重要论述的节录。 文章指出，阅读是人类获取知识、启智增慧、培养道德的重要途径，可以让人得到思想启发，树立崇高理想，涵养浩然之气。学史可以看成败、鉴得失、知…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151336.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.244Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202604/16/51606eb5-619a-4d3d-bd38-aa922f852013.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202604/16/efbea8cb-2bb7-4b5f-85a1-47f59628495a.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:03:16.244Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-04-16:p02",
+        "source": "people_daily",
+        "issueDate": "2026-04-16",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30151337",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "为构建具有战略意义的中越命运共同体凝聚青春力量",
+            "subtitle": "——习近平总书记会见参加“红色研学之旅”的中越青年代表时的重要讲话引发两国青年热烈反响",
+            "author": "本报记者 刘 刚 魏 贺",
+            "excerpt": "4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林共同会见参加“红色研学之旅”的中越青年代表，并发表重要讲话。参加会见的中越两国青年代表纷纷表示，习近平总书记的重要讲话为两国青年牢固树立红色信仰、赓续红色血脉指明了方向，两国青年将沿着两国老一辈领导人的革命足迹，探寻中越友好的红色基因，做中越友谊的传承…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151337.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.585Z"
+            }
+          },
+          {
+            "id": "people_daily:30151338",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中国实践让人权从“纸面”走进“生活”（国际论坛）",
+            "author": "皮特·赫尔曼",
+            "excerpt": "中国在短短几十年间实现跨越式发展，这本身就是人类人权史上的伟大奇迹，也赋予了人权概念更深刻的时代内涵。消除贫困绝不仅仅是解决温饱，更是为了实现人的全面发展 曾经有一段时期，国际上关于人权的讨论往往被框定在单一维度下。时至今日，这种认知正在发生深刻重塑，其背后主要有两个原因：世界多极化趋势深入发展和人权理念内涵更加丰富。过去由个别国家主导、看似“无可争议”的…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151338.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.828Z"
+            }
+          },
+          {
+            "id": "people_daily:30151339",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
+            "excerpt": "新华社北京4月15日电 （记者冯歆然、董雪）4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林举行会谈。 习近平再次祝贺苏林当选越南国家主席。习近平指出，你当选越南国家主席后第一时间到访中国，体现了你对发展中越关系的高度重视。相信在以苏林同志为首的越共中央坚强领导下，越南必将坚定走好社会主义道路，朝着…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151339.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.613Z"
+            }
+          },
+          {
+            "id": "people_daily:30151340",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "习近平夫妇同苏林夫妇亲切话别",
+            "excerpt": "新华社北京4月15日电 4月15日下午，中共中央总书记、国家主席习近平和夫人彭丽媛同来华进行国事访问的越共中央总书记、国家主席苏林和夫人吴芳璃亲切话别。 习近平说，今天，我同苏林总书记、国家主席就共同关心的全局性、战略性问题进行了长时间深入交流，达成许多新的重要共识。我突出感受到，中越都是社会主义国家，我们要继续沿着这条道路确定的方向坚定前行，做社会主义事…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151340.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.596Z"
+            }
+          },
+          {
+            "id": "people_daily:30151341",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "王毅同伊朗外长阿拉格齐通电话",
+            "excerpt": "新华社北京4月15日电 中共中央政治局委员、外交部长王毅15日同伊朗外长阿拉格齐通电话。 阿拉格齐通报了伊美谈判最新情况及伊方下步考虑，表示伊方愿通过和平谈判方式，继续寻求理性、现实的解决方案。伊方高度赞赏中方一直以来为推动局势缓和降温所作努力，期待中方为促和止战发挥积极作用。 王毅表示，中方一如既往支持伊朗维护自身主权安全和民族尊严。习近平主席郑重提出关…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151341.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.604Z"
+            }
+          },
+          {
+            "id": "people_daily:30151342",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "陈文清会见越共中央政治局委员、公安部部长梁三光",
+            "excerpt": "新华社北京4月15日电 中共中央政治局委员、中央政法委书记陈文清14日在京会见越共中央政治局委员、公安部部长梁三光。 陈文清指出，习近平总书记和苏林总书记为深化构建具有战略意义的中越命运共同体擘画了宏伟蓝图。希望双方以两党两国最高领导人重要共识为指引，加强维护政治安全、打击网赌电诈、保护海外利益等重点领域执法司…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151342.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.681Z"
+            }
+          },
+          {
+            "id": "people_daily:30151343",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "莫桑比克共和国总统查波今起对我国进行国事访问",
+            "excerpt": "应国家主席习近平邀请，莫桑比克共和国总统丹尼尔·弗朗西斯科·查波将于4月16日至22日对中国进行国事访问。 丹尼尔·弗朗西斯科·查波，男，49岁。2025年起担任莫桑比克共和国…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151343.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.685Z"
+            }
+          },
+          {
+            "id": "people_daily:30151344",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "“期待中国产品尽快服务阿布扎比电网建设”",
+            "author": "本报记者 贺 勇 李亚楠",
+            "excerpt": "在位于新疆昌吉的特变电工国家特高压变压器工程技术研究中心测试中心，来自阿联酋阿布扎比国家能源公司的监理工程师伊萨·塔里奥核对着电脑屏幕上的数据。他对记者说：“数据没有问题，试验完成，正在等待定船发运，我们的电网建设项目等着这套设备呢。期待中国产品尽快服务阿布扎比电网建设。” 隔着玻璃，试验场上是高达9.5米的“大块头”——一台400千伏三相油浸式限流电抗器…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151344.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.581Z"
+            }
+          },
+          {
+            "id": "people_daily:30151345",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "雅万高铁累计发送旅客超1500万人次",
+            "excerpt": "本报雅加达4月15日电 （记者曹师韵）记者从印尼中国高速铁路有限公司获悉：截至4月14日，由中印尼两国合作建设的雅万高铁累计发送旅客突破1500万人次，运营规模和服务水平持续提升，项目综合效益进一步显现。…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151345.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.653Z"
+            }
+          },
+          {
+            "id": "people_daily:30151346",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "第九届进博会座谈会在西班牙举办",
+            "excerpt": "本报马德里4月15日电 （记者许海林）第九届中国国际进口博览会（进博会）座谈会15日在西班牙马德里举办，10余家…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151346.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.769Z"
+            }
+          },
+          {
+            "id": "people_daily:30151347",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "第三届兰花奖全球征集正式启动",
+            "excerpt": "本报北京4月15日电 （记者强薇）4月15日，第三届兰花奖全球征集启动仪式在京举行，来自国内外的80余名嘉宾出席活动。 兰花奖是中国外文局于2022年发起、面向全球设立的重要国际文化交流大奖，旨在积极践行全球文明倡议，弘扬全人类共同价值，促进文明交流互鉴，夯实构建人类命运共同体的人文基础。兰花奖表彰奖励全球范围内致力于中华文化国际交流、对促进文明交流互鉴作…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151347.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.663Z"
+            }
+          },
+          {
+            "id": "people_daily:30151348",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "在莫桑比克伊尼亚卡岛，由中国路桥工程有限责任公司承建的海上栈桥通道码头日前正式启用。长期以来，由于岛屿周边海域水浅，客轮无法直接靠岸，游客和居民需换乘小船并涉水登岛，客轮上的游客登岛往往需要一至两个小时。该项目全长约1.3公里，是连接岛屿与海上客运航线的重要基…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151348.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:16.679Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202604/16/8aee7c74-1d0a-496e-8776-941cd91a9ac2.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202604/16/a1576abc-dd6e-4eef-9240-a22a74bb19ee.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:03:16.829Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-04-16:p03",
+        "source": "people_daily",
+        "issueDate": "2026-04-16",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30151349",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "李强赵乐际分别会见越共中央总书记、国家主席苏林",
+            "excerpt": "新华社北京4月15日电 4月15日下午，国务院总理李强在北京人民大会堂会见来华进行国事访问的越共中央总书记、国家主席苏林。 李强表示，今天上午，习近平总书记、国家主席同苏林总书记、国家主席举行会谈，就深入推进具有战略意义的中越命运共同体建设把舵定向。当前世界形势持续复杂演变，不稳定不确定因素增多，中越作为传统友邻，应当更加紧密团结协作。中方愿同越方遵循两党…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151349.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.131Z"
+            }
+          },
+          {
+            "id": "people_daily:30151350",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "蔡奇同越共中央政治局委员、中央书记处常务书记陈锦绣举行会谈",
+            "excerpt": "新华社北京4月15日电 4月15日，中共中央政治局常委、中央书记处书记蔡奇在中国共产党历史展览馆同越共中央政治局委员、中央书记处常务书记陈锦绣举行会谈。 蔡奇表示，今天，习近平总书记同苏林总书记围绕共同关心的全局性、战略性问题长时间深入交流，达成许多重要共识，共同擘画中越命运共同体崭新图景。中越两党要发挥统筹总领作用，切实指导各部门、各地方、各机制平台将两…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151350.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.130Z"
+            }
+          },
+          {
+            "id": "people_daily:30151351",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "深化投资审批制度改革",
+            "excerpt": "新华社北京4月15日电 为进一步优化投资审批权限配置、提升投资服务便利度、强化投资项目全过程监管，着力扩大有效投资，国务院办公厅日前印发《关于深化投资审批制度改革的意见》（以下简称《意见》），对相关工作作出部署。 在严格政府投资项目管理方面，《意见》提出，按照权责一致、监督有效并与事权相匹配的原则，优化政府投资项目审批权限；严禁违规通过国有企业等以企业投资…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151351.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.203Z"
+            }
+          },
+          {
+            "id": "people_daily:30151352",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "习近平会见俄罗斯外长拉夫罗夫",
+            "excerpt": "新华社北京4月15日电 （记者冯歆然）4月15日上午，国家主席习近平在北京人民大会堂会见俄罗斯外长拉夫罗夫。 习近平请拉夫罗夫转达对普京总统的诚挚问候。习近平指出，今年是中俄战略协作伙伴关系建立30周年，也是《中俄睦邻友好合作条约》签署25周年，两国全面战略协作伙伴关系保持高水平发展，各领域合作成果丰硕。面对变乱交织的国际形势，中俄关系的稳定性和确定性尤为…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151352.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.223Z"
+            }
+          },
+          {
+            "id": "people_daily:30151353",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "让群众用药更可及 价格水平更合理（权威发布）",
+            "author": "本报记者 孙秀艳",
+            "excerpt": "国办近日印发《关于健全药品价格形成机制的若干意见》，强调健全以市场为主导的药品价格形成机制，支持医药产业高质量发展，保障人民群众获得质优价宜药品。4月15日，国务院新闻办举行国务院政策例行吹风会，介绍有关情况。 全周期、全渠道、全领域提出一系列改革举措 国家医保局副局长施子海介绍，2015年6月以来，除麻醉药品和第一类精神药品外，其他药品都取消了政府定价，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151353.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.147Z"
+            }
+          },
+          {
+            "id": "people_daily:30151354",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "政策护航 举措贴心（快评）",
+            "author": "​亦 欣",
+            "excerpt": "一份意见，涵盖医药行业价格方方面面。14项具体内容，有立足行业发展的大政策，也有方便群众的小举措。 政策之“大”，在于着眼全局、系统谋划。瞄准药品价格全流程、全领域发力，无论是多元支付助力医药创新，还是短缺药品保供稳价，都是从行业长远发展出发，理顺价格秩序，平衡好企业创新和群众用药需求，为医药行业健康发展搭好制度框架，解决行业发展的根本性问题。 政策中的“…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151354.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.147Z"
+            }
+          },
+          {
+            "id": "people_daily:30151355",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "加快培育开放合作新动能和国际竞争新优势",
+            "author": "本报记者 李 刚",
+            "excerpt": "“十五五”开局之年，国务院新闻办组织系列主题采访活动，帮助中外记者了解各地贯彻落实“十五五”规划纲要的情况。4月15日，广东省政府相关人士就持续推动粤港澳大湾区建设，加快培育开放合作新动能、国际竞争新优势等介绍有关情况。 “2025年，大湾区以不到全国0.6%的国土面积、约占全国6%的常住人口，创造了全国1/9的经济总量，实现了约2.15万亿美元的地区生产…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151355.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.145Z"
+            }
+          },
+          {
+            "id": "people_daily:30151356",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "今年消费品以旧换新已超5000亿元",
+            "excerpt": "本报北京4月15日电 （记者王珂）记者15日从商务部获悉：商务大数据监测显示，截至4月12日，2026年消费品以旧换新销售额达5029.4亿元，惠及6977.7万人次。 汽车以旧换新超167万辆，带动新车销售额超2694.4亿元。其中，报废更新超47.2万辆，销售额超606.9亿元；置换更新超119.8万辆，销售额超208…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151356.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.211Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202604/16/3ec2a45b-c506-44d4-91f5-184f0d221ca5.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202604/16/968c7385-a5bb-4230-a11f-43804350a0d7.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:03:17.223Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-04-16:p04",
+        "source": "people_daily",
+        "issueDate": "2026-04-16",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30151357",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "同心共筑国家安全坚实屏障",
+            "subtitle": "——各地广泛开展全民国家安全教育日宣教活动",
+            "author": "本报记者 亓玉昆",
+            "excerpt": "今年4月15日是第十一个全民国家安全教育日，宣传教育活动的主题是“统筹发展和安全 护航‘十五五’新征程”。 从城市到乡村、从学校到企业、从社区到军营，连日来，各地各部门发挥积极性、主动性、创造性，纷纷开展接地气、聚人气、有生气的宣教活动，推动总体国家安全观更加深入人心，同心共筑国家安全坚实屏障。 青年是国家的未来，让总体国家安全观在青年心中生根发芽尤为重要…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151357.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.533Z"
+            }
+          },
+          {
+            "id": "people_daily:30151358",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "对得起信任，扛得住责任（人民论坛）",
+            "author": "盛玉雷",
+            "excerpt": "在其位、谋其政、尽其责，是党员干部的本分。当群众“误打误撞”求助一件“分外之事”，该咋办？ 湖北利川元堡乡，一位老人因为不识字错过便民服务大厅，走进党建办公室反映“家里停水”，工作人员带她到水务公司咨询，还给村干部打电话跟踪解决。 江西景德镇珠山区，有群众来到纪委办公室投诉噪声扰民。接访干部给出建议，先与相关职能部门沟通联系，如果存在不作为、慢作为的情况，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151358.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.536Z"
+            }
+          },
+          {
+            "id": "people_daily:30151359",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "103名群众受到国家安全机关表彰奖励",
+            "excerpt": "本报北京4月15日电 （记者亓玉昆）记者4月15日从国家安全部获悉：在第十一个全民国家安全教育日到来之际，国家安全机关开展了2025—2026年度公民举报危害国家安全行为表彰奖励活动，共有103名群众受表彰奖励，其中特别重大贡献奖励3人、重大贡献奖励23人、重要贡献奖励77人，受奖人数创历史新高。 据介绍，这是国家安全机关连续第八年组织全国范围的表彰奖励活…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151359.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.550Z"
+            }
+          },
+          {
+            "id": "people_daily:30151360",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "日前，福建省福州市鼓楼区安泰街道黎明湖公园，鼓楼区自然资源和规划局、福建省观鸟协会等联合开展爱鸟护鸟和生态安全宣传活动，志愿者将自然体验与生态安全、野生动物保护等知识有机融合，引导大家共同守护生物多样…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151360.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.531Z"
+            }
+          },
+          {
+            "id": "people_daily:30151361",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "香港举办2026年全民国家安全教育日开幕典礼",
+            "excerpt": "本报香港4月15日电 （记者冯学知）4月15日上午，香港特别行政区维护国家安全委员会在香港会议展览中心举办2026年全民国家安全教育日开幕典礼。香港社会各界逾2300人出席活动。 中央港澳工作办公室主任、国务院港澳事务办公室主任夏宝龙在开幕典礼上视频致辞表示，要深入学习贯彻习近平主席重要讲话精神，统筹发展和安全，以高水平安全护航香港由治及兴，开创“十五五”…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151361.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.544Z"
+            }
+          },
+          {
+            "id": "people_daily:30151362",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "2026年“青马工程”全国班共设12个班次",
+            "excerpt": "本报北京4月15日电 （记者杨昊）记者从共青团中央获悉：青年马克思主义者培养工程成果交流会暨2026年全国班开班式日前在中央团校举行。今年“青马工程”全国班共开设8个常规班次、4个专项班次。 会议强调，“十五五”规划纲要中设立“支持青年发展”专节，对青年一代挺膺担当提出了时代要求。“青马工程”学员要在党的创新理论青春化传播上挑大梁，引导广大青年听党话、跟党…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151362.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.541Z"
+            }
+          },
+          {
+            "id": "people_daily:30151363",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "澳门全民国家安全教育系列活动开幕",
+            "excerpt": "本报澳门4月15日电 （记者富子梅）由澳门特区政府与澳门中联办联合举办的全民国家安全教育系列活动，15日在中国与葡语国家商贸合作服务平台综合体开幕。 开幕礼由全国政协副主席何厚铧、澳门特区行政长官岑浩辉、澳门中联办主任郑新聪、外交部驻澳门特派员公署特派员卞立新、解放军驻澳部队司令员陈文胜等主礼。 岑浩辉在致辞时表示，维护国家主权、安全、发展利益是“一国两制…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151363.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.542Z"
+            }
+          },
+          {
+            "id": "people_daily:30151364",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "推动全民阅读，建设书香社会",
+            "excerpt": "新华社北京4月15日电 4月16日出版的第8期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《推动全民阅读，建设书香社会》。这是习近平总书记2013年3月至2025年3月期间有关重要论述的节录。 文章指出，阅读是人类获取知识、启智增慧、培养道德的重要途径，可以让人得到思想启发，树立崇高理想，涵养浩然之气。学史可以看成败、鉴得失、知…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151364.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.535Z"
+            }
+          },
+          {
+            "id": "people_daily:30151366",
+            "source": "people_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "广告",
+            "excerpt": "",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151366.html",
+            "extraction": {
+              "status": "empty",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:17.538Z",
+              "message": "一部記事は本文抽出不可。タイトル・版面・参照ボタンのみ表示しています。"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202604/16/e9a3ab39-d5e5-4797-ab31-8980d624f774.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202604/16/27481a1b-39fe-47e6-826f-9fa964e8bbc1.jpg.2",
+        "extraction": {
+          "status": "partial",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:03:17.550Z",
+          "message": "一部記事は本文抽出不可。タイトル・版面・参照ボタンのみ表示しています。"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "partial",
+      "method": "people-daily-html-v1",
+      "extractedAt": "2026-05-16T09:03:17.551Z",
+      "message": "一部記事は本文抽出不可。タイトル・版面・参照ボタンのみ表示しています。"
+    }
+  },
+  "plaIssue": {
+    "id": "pla_daily:2026-04-16",
+    "source": "pla_daily",
+    "issueDate": "2026-04-16",
+    "pages": [
+      {
+        "id": "pla_daily:2026-04-16:p01",
+        "source": "pla_daily",
+        "issueDate": "2026-04-16",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-04-16-1-0",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
+            "excerpt": "新华社北京4月15日电（记者冯歆然、董雪）4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林举行会谈。 习近平再次祝贺苏林当选越南国家主席。习近平指出，你当选越南国家主席后第一时间到访中国，体现了你对发展中越关系的高度重视。相信在以苏林同志为首的越共中央坚强领导下，越南必将坚定走好社会主义道路，朝着建…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=01&articleid=2026-04-16-1-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.057Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-1-1",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平同苏林共同会见中越青年代表",
+            "excerpt": "新华社北京4月15日电（记者董雪、冯歆然）4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林共同会见参加“红色研学之旅”的中越青年代表。 习近平发表讲话，表示去年我和苏林总书记一道启动“红色研学之旅”项目，一年来，两国青年共同探寻中越友好的红色基因，感受中国式现代化的万千气象，在中国各地留下许多互学互…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=01&articleid=2026-04-16-1-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.057Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-1-2",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平夫妇同苏林夫妇亲切话别",
+            "excerpt": "新华社北京4月15日电 4月15日下午，中共中央总书记、国家主席习近平和夫人彭丽媛同来华进行国事访问的越共中央总书记、国家主席苏林和夫人吴芳璃亲切话别。 习近平说，今天，我同苏林总书记、国家主席就共同关心的全局性、战略性问题进行了长时间深入交流，达成许多新的重要共识。我突出感受到，中越都是社会主义国家，我们要继续沿着这条道路确定的方向坚定前行，做社会主义事…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=01&articleid=2026-04-16-1-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.057Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-1-3",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平会见俄罗斯外长拉夫罗夫",
+            "excerpt": "新华社北京4月15日电（记者冯歆然）4月15日上午，国家主席习近平在北京人民大会堂会见俄罗斯外长拉夫罗夫。 习近平请拉夫罗夫转达对普京总统的诚挚问候。习近平指出，今年是中俄战略协作伙伴关系建立30周年，也是《中俄睦邻友好合作条约》签署25周年，两国全面战略协作伙伴关系保持高水平发展，各领域合作成果丰硕。面对变乱交织的国际形势，中俄关系的稳定性和确定性尤为宝…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=01&articleid=2026-04-16-1-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.057Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-1-4",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "推动全民阅读，建设书香社会",
+            "excerpt": "新华社北京4月15日电 4月16日出版的第8期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《推动全民阅读，建设书香社会》。这是习近平总书记2013年3月至2025年3月期间有关重要论述的节录。 文章指出，阅读是人类获取知识、启智增慧、培养道德的重要途径，可以让人得到思想启发，树立崇高理想，涵养浩然之气。学史可以看成败、鉴得失、知…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=01&articleid=2026-04-16-1-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.057Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260416/7209780f76eff783d91d555a91f2c49f.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260416/bf58d6265f2bd7733d3645785367c0a7.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:03:17.057Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-04-16:p02",
+        "source": "pla_daily",
+        "issueDate": "2026-04-16",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-04-16-2-0",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
+            "excerpt": "新华社北京4月15日电（记者冯歆然、董雪）4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林举行会谈。 习近平再次祝贺苏林当选越南国家主席。习近平指出，你当选越南国家主席后第一时间到访中国，体现了你对发展中越关系的高度重视。相信在以苏林同志为首的越共中央坚强领导下，越南必将坚定走好社会主义道路，朝着建…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.058Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-2-1",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "习近平夫妇同苏林夫妇亲切话别",
+            "excerpt": "新华社北京4月15日电 4月15日下午，中共中央总书记、国家主席习近平和夫人彭丽媛同来华进行国事访问的越共中央总书记、国家主席苏林和夫人吴芳璃亲切话别。 习近平说，今天，我同苏林总书记、国家主席就共同关心的全局性、战略性问题进行了长时间深入交流，达成许多新的重要共识。我突出感受到，中越都是社会主义国家，我们要继续沿着这条道路确定的方向坚定前行，做社会主义事…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.058Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-2-2",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "习近平会见俄罗斯外长拉夫罗夫",
+            "excerpt": "新华社北京4月15日电（记者冯歆然）4月15日上午，国家主席习近平在北京人民大会堂会见俄罗斯外长拉夫罗夫。 习近平请拉夫罗夫转达对普京总统的诚挚问候。习近平指出，今年是中俄战略协作伙伴关系建立30周年，也是《中俄睦邻友好合作条约》签署25周年，两国全面战略协作伙伴关系保持高水平发展，各领域合作成果丰硕。面对变乱交织的国际形势，中俄关系的稳定性和确定性尤为宝…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.058Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-2-3",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "推动全民阅读，建设书香社会",
+            "excerpt": "新华社北京4月15日电 4月16日出版的第8期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《推动全民阅读，建设书香社会》。这是习近平总书记2013年3月至2025年3月期间有关重要论述的节录。 文章指出，阅读是人类获取知识、启智增慧、培养道德的重要途径，可以让人得到思想启发，树立崇高理想，涵养浩然之气。学史可以看成败、鉴得失、知…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.058Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-2-4",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "让中越“同志加兄弟”的深厚情谊焕发青春光彩",
+            "subtitle": "——习近平总书记、国家主席同苏林总书记、国家主席共同会见中越青年代表侧记",
+            "excerpt": "4月的北京，风和日暖，春意盎然。 15日上午，北京人民大会堂西大厅华灯璀璨，中国共产党党旗和越南共产党党旗并排而立，五星红旗和金星红旗相映成辉。 在歌颂两国深情厚谊的《越南—中国》乐曲声中，中共中央总书记、国家主席习近平同越共中央总书记、国家主席苏林步入会场，共同会见参加“红色研学之旅”的中越青年代表。 “大家好，很高兴同大家见面。”面对300多名朝气蓬勃…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.058Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-2-5",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "苏林参访中国共产党历史展览馆",
+            "excerpt": "春日时节，生机盎然。 4月15日，位于北京中轴线北端延长线上的中国共产党历史展览馆迎来一位远道而来的客人——应习近平总书记、国家主席邀请正在对中国进行国事访问的越共中央总书记、国家主席苏林。 走进展厅，苏林在一幅幅历史影像和一件件珍贵展品前驻足。 神情专注地观看长征主题影片，凝视血战湘江、爬雪山等画面；在不同时期中国百姓家庭生活场景复原区，感叹时代变迁；面…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.058Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-2-6",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "“丝路方舟”号医院船离开巴新启程回国",
+            "excerpt": "本报莫尔兹比港4月15日电 崔晓洋、唐磊报道：执行“和谐使命-2025”任务的中国海军“丝路方舟”号医院船，于当地时间15日圆满结束对巴布亚新几内亚的友好访问与医疗服务，驶离莫尔兹比港启程回国。 巴新军政要员、中国驻巴新大使馆工作人员、当地民众及华人华侨代表等到码头送行。 巴新是“丝路方舟”号医院船执行“和谐使命-2025”任务的最后一站。访问巴新期间，医…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.058Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-2-7",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "西班牙首相访华取得圆满成功 传递中西紧密合作明确信号",
+            "excerpt": "新华社北京4月15日电（记者曹嘉玥、马卓言）外交部发言人郭嘉昆15日表示，西班牙首相桑切斯访华取得圆满成功，传递了中西加强沟通、巩固互信、紧密合作的明确信号。中方相信，中西合作将为两国人民带来更多福祉，也为世界和平、发展、繁荣注入更多正能量。 郭嘉昆在例行记者会上回答有关提问时说，4月11日至15日，西班牙首相桑切斯应邀对华进行正式访问，这是他4年来第4次…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-7",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.058Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-2-8",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "美国“切断伊朗海上贸易”影响几何",
+            "excerpt": "美军中央司令部14日发表声明称，美军对伊朗港口的封锁已全面实施，“美军已完全切断伊朗海上进出口经济贸易”。另据航运数据显示，14日有数艘船只通过霍尔木兹海峡。 目前霍尔木兹海峡通航情况如何？自美以伊战事爆发以来，有多少船只通过了这一全球航运要道？美伊对峙局面如何演变？ 美军中央司令部称，在美方封锁开始后的24小时内，没有船只突破封锁。6艘商船听从美军指令，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-8",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.059Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260416/84fae5ee55112e8dc6539225da7c870e.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260416/4da7bb2c1b194ce29e5ff48b3c9dafef.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:03:17.059Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-04-16:p03",
+        "source": "pla_daily",
+        "issueDate": "2026-04-16",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-04-16-3-0",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "汇聚起全民共筑国家安全屏障的强大合力",
+            "subtitle": "——各地各部门广泛开展全民国家安全教育日宣教活动",
+            "excerpt": "在湖北省汉口站，武汉铁路公安处民警、志愿者向旅客宣讲防范化解危害国家安全行为的知识；在江西省赣州市白云小学，学生们创作国家安全教育主题绘画…… 今年4月15日是第十一个全民国家安全教育日。连日来，各地各部门围绕“统筹发展和安全 护航‘十五五’新征程”主题，广泛开展全民国家安全教育日宣教活动，推动总体国家安全观深入人心。 加强新兴领域国家安全能力建设，是统筹…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.059Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-3-1",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "启动“国家安全 青春挺膺”主题团日活动周",
+            "excerpt": "据新华社南京4月15日电（记者王明玉、朱国亮）在第十一个全民国家安全教育日到来之际，共青团中央、国家安全部在南京理工大学举办总体国家安全观宣传教育主场示范活动，并共同启动“国家安全 青春挺膺”主题团日活动周。 活动现场，2部国家安全主题宣传片与广大观众见面，围绕“统筹发展和安全 护航‘十五五’新征程”主题，深刻阐释国家安全与新一代青年的紧密关系。在主题团课…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.059Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-3-2",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“国安小卫士”选拔助力校园宣讲",
+            "excerpt": "本报讯 特约记者荣俊运报道：“发现有人偷拍军事设施该怎么办？”“拨打举报电话！”4月13日，辽宁省沈阳市皇姑区岐山一校一个教室内，三年级学生阿茹娜利用课间10分钟时间站上讲台，一节“课间微课堂”随即展开。她胸前别着一枚徽章，上面“国安小卫士”几个字格外醒目——几天前，阿茹娜刚通过考核获得该徽章。 全民国家安全教育日到来之际，皇姑区人武部联合沈阳第十二离职干…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.059Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-3-3",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“军营故事会”强化国家安全意识",
+            "excerpt": "本报讯 王文博、记者李庆桐报道：“这是发生在东北老航校历史上一次惊心动魄的斗争，多亏我军敏锐截获敌人情报，粉碎了敌人破坏航校建设的企图……”4月15日，空军某部以“身边的国家安全”为主题组织“军营故事会”，中士柴则瓴分享了一则东北老航校维护国家军事安全的战斗故事，让官兵受到警醒。 该部领导介绍，今年是东北老航校建校80周年，在全民国家安全教育日到来之际，他…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.059Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-3-4",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“普法情景剧”筑牢国家安全防线",
+            "excerpt": "本报讯 张江斌、徐明远报道：“境外渗透近在咫尺，泄密风险就在指尖，大家务必提高警惕！”4月14日，石家庄军事法院联合军地有关部门组成宣讲团，走进武警某部新兵训练大队，开展“法助军威、安固太行”国家安全教育活动。 全民国家安全教育日到来之际，该法院抓住新兵入营关键阶段，精准筹划普法内容，创新宣讲教育形式，通过庭审直播、以案释法、“普法情景剧”等多种形式，帮助…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.059Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-3-5",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "第139届广交会开幕",
+            "excerpt": "据新华社广州4月15日电（记者詹奕嘉、丁乐）第139届中国进出口商品交易会（广交会）15日在广州开幕。本届广交会参展企业超过3.2万家，其中拥有专精特新、单项冠军等称号的优质企业超过1.1万家，均超往届水平。 顺应外贸发展新趋势、新特点，本届广交会展品专区增至179个，首次增设智能穿戴、显示技术、消费级无人机等9个专区。 参展企业中，六成拥有自有品牌，近2…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.059Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-3-6",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "一季度全国铁路货运发送量超12亿吨",
+            "excerpt": "据新华社北京4月15日电（记者叶昊鸣）记者15日从国家铁路局获悉，一季度，全国铁路累计完成货运发送量12.81亿吨，同比增长2.2%；完成货运周转量9071.98亿吨公里，同比增长5.1%。 从分品类运输情况看，一季度，全国铁路累计发送煤炭6.81亿吨、集装箱2.56亿吨、粮食1528万吨，同比分别增长1.7%、10.7%、11.3%。 客…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.059Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-3-7",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "今年以旧换新销售额突破5000亿元",
+            "excerpt": "新华社北京4月15日电（记者谢希瑶）记者15日从商务部获悉，商务大数据监测显示，截至4月12日，2026年消费品以旧换新销售额5029.4亿元，惠及6977.7万人次。 分品类来看，截至4月12日，今年以来汽车以旧换新超167万辆，带动新车销售额超2694.4亿元。其中，汽车报废更新超47.2万辆，销售额超606.9亿元；汽车置换更新超119.8万辆，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-7",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.059Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-3-8",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中国网络视听用户规模达10.99亿人",
+            "excerpt": "据新华社成都4月15日电（记者白瀛、董小红）15日在成都发布的《中国网络视听发展研究报告（2026）》显示，截至2025年12月，中国网络视听用户规模达10.99亿人，稳居各互联网应用首位，成为国内渗透范围最广、覆盖人群最多的数字服务载体，彰显了行业极强的发展韧性与对用户的强劲吸引力。 报告显示，2025年我国网络视听行业市场规模为近1.29万亿元，同比增…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-8",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.059Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-3-9",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "短讯",
+            "excerpt": "■李强15日在京会见越共中央总书记、国家主席苏林 ■赵乐际15日在京会见越共中央总书记、国家主席苏林 ■蔡奇15日在京同越共中央政治局委员、中央书记处常务书记陈锦绣举行会…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-9",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.059Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-3-10",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-10",
+            "extraction": {
+              "status": "empty",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.060Z",
+              "message": "Article content text was empty"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-3-11",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "4月15日，西十高铁湖北段正式启动重联动车组逐级提速试验。西十高铁西起陕西西安，穿越秦岭山脉，终点为湖北十堰，正线全长256.938公里，设计时速350公里，是武汉至西安高铁的重要段落和福银通道的重要…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-11",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.060Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260416/db20528f4d082fb5bf277743297b1dba.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260416/290dd3bb350bfa2e97cf26fb8912ee2a.jpg",
+        "extraction": {
+          "status": "partial",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:03:17.060Z",
+          "message": "Article content text was empty"
+        }
+      },
+      {
+        "id": "pla_daily:2026-04-16:p04",
+        "source": "pla_daily",
+        "issueDate": "2026-04-16",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-04-16-4-0",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "指导员的“逆袭”",
+            "excerpt": "“这次，指导员会不会踢到一块‘铁板’上？”前些日子，连队鼓励官兵报名参加上级专业考核，这个问题成了官兵们的一个悬念。 此前，上级下发了计划组织专业比武的通知，各连只能推荐一个车组参加。消息传开，连队官兵个个摩拳擦掌，都想在比武中一展身手。 派谁出战？连务会上，大家各抒己见：“我推荐班长柴佳椿，他从事装甲射击专业多年，专业技术过硬，参赛经验丰富，再合适不过”…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=04&articleid=2026-04-16-4-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.060Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-4-1",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "树牢安全也是硬道理的理念",
+            "excerpt": "平不肆险，安不忘危。今年4月15日是第十一个全民国家安全教育日，军地纷纷开展丰富多彩的宣传教育活动，提升全民国家安全意识。 习主席强调，各级党委和政府要坚持系统思维，进一步树立发展是硬道理、安全也是硬道理的理念，在工作中自觉把发展和安全统一起来，共同谋划、一体部署、相互促进。这一重要论述深刻阐明了发展和安全的内在联系。广大官兵要坚定不移贯彻总体国家安全观，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=04&articleid=2026-04-16-4-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.060Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-4-2",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "更新知识体系  厚植打赢底气",
+            "excerpt": "近日，海军航空大学某大队组织晋升教育培训学员，走进青岛马克思主义中国化书苑，在现地教学中接受思想淬炼和精神洗礼。这是该大队坚持“为战育人”根本导向，提升初级指挥教育培训质效的一个缩影。 “强军兴军，要在得人，院校教育是培养人才的重要途径。”该大队领导介绍，晋升教育培训学员普遍具备丰富的基层任职经历和较强的工作实践能力，他们的自身特点对教学内容和方法手段提出…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=04&articleid=2026-04-16-4-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.060Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-4-3",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "兵器室有了“智慧大脑”",
+            "excerpt": "本报讯 陈继亮、曾存军报道：“指尖在控制面板上轻轻点击，武器出入库就能快速完成登记。”春日，新疆军区某团某分队组织一场战备拉动，官兵迅速从新改造的兵器室里领取武器，整个过程井然有序、快捷高效。 该团领导介绍，近年来，随着新配发的武器装备不断增多，以往手工填写武器编号的出入库登记方式，难以满足应急情况下快速申领武器的需求。为此，他们以营区“两化”建设为抓手，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=04&articleid=2026-04-16-4-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.060Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-4-4",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=04&articleid=2026-04-16-4-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.060Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-16-4-5",
+            "source": "pla_daily",
+            "issueDate": "2026-04-16",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=04&articleid=2026-04-16-4-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:17.060Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260416/6d9b91d76abce93db74be3aa5593f692.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260416/b35acc2c51b14d850b76d9f3281c14df.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:03:17.060Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "partial",
+      "method": "pla-daily-index-json-v1",
+      "extractedAt": "2026-05-16T09:03:17.064Z",
+      "message": "Article content text was empty"
+    }
+  },
+  "matchGroups": [
+    {
+      "id": "matched:people_daily:30151332+people_daily:30151333+people_daily:30151334+people_daily:30151339+people_daily:30151340+people_daily:30151337:pla_daily:2026-04-16-1-0+pla_daily:2026-04-16-2-0+pla_daily:2026-04-16-1-1+pla_daily:2026-04-16-1-2+pla_daily:2026-04-16-2-1",
+      "issueDate": "2026-04-16",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151332",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
+          "excerpt": "新华社北京4月15日电 （记者冯歆然、董雪）4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林举行会谈。 习近平再次祝贺苏林当选越南国家主席。习近平指出，你当选越南国家主席后第一时间到访中国，体现了你对发展中越关系的高度重视。相信在以苏林同志为首的越共中央坚强领导下，越南必将坚定走好社会主义道路，朝着…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151332.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.174Z"
+          }
+        },
+        {
+          "id": "people_daily:30151333",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平同苏林共同会见中越青年代表",
+          "excerpt": "新华社北京4月15日电 （记者董雪、冯歆然）4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林共同会见参加“红色研学之旅”的中越青年代表。 习近平发表讲话，表示去年我和苏林总书记一道启动“红色研学之旅”项目，一年来，两国青年共同探寻中越友好的红色基因，感受中国式现代化的万千气象，在中国各地留下许多互学…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151333.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.167Z"
+          }
+        },
+        {
+          "id": "people_daily:30151334",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平夫妇同苏林夫妇亲切话别",
+          "excerpt": "新华社北京4月15日电 4月15日下午，中共中央总书记、国家主席习近平和夫人彭丽媛同来华进行国事访问的越共中央总书记、国家主席苏林和夫人吴芳璃亲切话别。 习近平说，今天，我同苏林总书记、国家主席就共同关心的全局性、战略性问题进行了长时间深入交流，达成许多新的重要共识。我突出感受到，中越都是社会主义国家，我们要继续沿着这条道路确定的方向坚定前行，做社会主义事…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151334.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.060Z"
+          }
+        },
+        {
+          "id": "people_daily:30151337",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "为构建具有战略意义的中越命运共同体凝聚青春力量",
+          "subtitle": "——习近平总书记会见参加“红色研学之旅”的中越青年代表时的重要讲话引发两国青年热烈反响",
+          "author": "本报记者 刘 刚 魏 贺",
+          "excerpt": "4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林共同会见参加“红色研学之旅”的中越青年代表，并发表重要讲话。参加会见的中越两国青年代表纷纷表示，习近平总书记的重要讲话为两国青年牢固树立红色信仰、赓续红色血脉指明了方向，两国青年将沿着两国老一辈领导人的革命足迹，探寻中越友好的红色基因，做中越友谊的传承…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151337.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.585Z"
+          }
+        },
+        {
+          "id": "people_daily:30151339",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
+          "excerpt": "新华社北京4月15日电 （记者冯歆然、董雪）4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林举行会谈。 习近平再次祝贺苏林当选越南国家主席。习近平指出，你当选越南国家主席后第一时间到访中国，体现了你对发展中越关系的高度重视。相信在以苏林同志为首的越共中央坚强领导下，越南必将坚定走好社会主义道路，朝着…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151339.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.613Z"
+          }
+        },
+        {
+          "id": "people_daily:30151340",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "习近平夫妇同苏林夫妇亲切话别",
+          "excerpt": "新华社北京4月15日电 4月15日下午，中共中央总书记、国家主席习近平和夫人彭丽媛同来华进行国事访问的越共中央总书记、国家主席苏林和夫人吴芳璃亲切话别。 习近平说，今天，我同苏林总书记、国家主席就共同关心的全局性、战略性问题进行了长时间深入交流，达成许多新的重要共识。我突出感受到，中越都是社会主义国家，我们要继续沿着这条道路确定的方向坚定前行，做社会主义事…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151340.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.596Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-16-1-0",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
+          "excerpt": "新华社北京4月15日电（记者冯歆然、董雪）4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林举行会谈。 习近平再次祝贺苏林当选越南国家主席。习近平指出，你当选越南国家主席后第一时间到访中国，体现了你对发展中越关系的高度重视。相信在以苏林同志为首的越共中央坚强领导下，越南必将坚定走好社会主义道路，朝着建…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=01&articleid=2026-04-16-1-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.057Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平同苏林共同会见中越青年代表",
+          "excerpt": "新华社北京4月15日电（记者董雪、冯歆然）4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林共同会见参加“红色研学之旅”的中越青年代表。 习近平发表讲话，表示去年我和苏林总书记一道启动“红色研学之旅”项目，一年来，两国青年共同探寻中越友好的红色基因，感受中国式现代化的万千气象，在中国各地留下许多互学互…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=01&articleid=2026-04-16-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.057Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-1-2",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平夫妇同苏林夫妇亲切话别",
+          "excerpt": "新华社北京4月15日电 4月15日下午，中共中央总书记、国家主席习近平和夫人彭丽媛同来华进行国事访问的越共中央总书记、国家主席苏林和夫人吴芳璃亲切话别。 习近平说，今天，我同苏林总书记、国家主席就共同关心的全局性、战略性问题进行了长时间深入交流，达成许多新的重要共识。我突出感受到，中越都是社会主义国家，我们要继续沿着这条道路确定的方向坚定前行，做社会主义事…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=01&articleid=2026-04-16-1-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.057Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-2-0",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
+          "excerpt": "新华社北京4月15日电（记者冯歆然、董雪）4月15日上午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的越共中央总书记、国家主席苏林举行会谈。 习近平再次祝贺苏林当选越南国家主席。习近平指出，你当选越南国家主席后第一时间到访中国，体现了你对发展中越关系的高度重视。相信在以苏林同志为首的越共中央坚强领导下，越南必将坚定走好社会主义道路，朝着建…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.058Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "习近平夫妇同苏林夫妇亲切话别",
+          "excerpt": "新华社北京4月15日电 4月15日下午，中共中央总书记、国家主席习近平和夫人彭丽媛同来华进行国事访问的越共中央总书记、国家主席苏林和夫人吴芳璃亲切话别。 习近平说，今天，我同苏林总书记、国家主席就共同关心的全局性、战略性问题进行了长时间深入交流，达成许多新的重要共识。我突出感受到，中越都是社会主义国家，我们要继续沿着这条道路确定的方向坚定前行，做社会主义事…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.058Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 习近平同越共中央总书记、国家主席苏林举行会谈、国家主席习近平在人民大会堂同来华进行国事访问、要用好高层会晤、不断推进高质量发展和社会主义现代化建。ナラティブ・LLMトピック束: 习近平同越共中央总书记、国家主席苏林举行会谈、国家主席习近平在人民大会堂同来华进行国事访问、要用好高层会晤、不断推进高质量发展和社会主义现代化建 / ナラティブ・LLM判定: 习近平夫妇同苏林夫妇亲切话别、国家主席习近平和夫人彭丽媛同来华进行国事访问、朝着构建更高水平具有战略意义的命运共、战略性问题进行了长时间深入交流",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "不断推进高质量发展和社会主义现代化建",
+          "加快构建更高水平具有战略意义的中越命",
+          "双方要保持高度的战略清醒和强大的战略",
+          "愿同中方加强战略沟通和高水平战略协作",
+          "推动两国全面战略合作伙伴关系和具有战",
+          "苏林在习近平陪同下检阅中国人民解放军",
+          "捍卫社会主义制度和共产党执政地位",
+          "东盟建立全面战略伙伴关系5周年"
+        ],
+        "plaDailyTerms": [
+          "朝着构建更高水平具有战略意义的命运共",
+          "战略性问题进行了长时间深入交流",
+          "要做实现现代化的命运共同体",
+          "正在共同奔向现代化",
+          "为两国社会主义事业和构建具有战略意义",
+          "感受中国式现代化的万千气象",
+          "的越共中央总书记国家主席苏林共同会见",
+          "习近平同苏林共同会见"
+        ],
+        "sharedTerms": [
+          "习近平同越共中央总书记、国家主席苏林举行会谈",
+          "国家主席习近平在人民大会堂同来华进行国事访问",
+          "要用好高层会晤",
+          "不断推进高质量发展和社会主义现代化建",
+          "加快构建更高水平具有战略意义的中越命",
+          "双方要保持高度的战略清醒和强大的战略",
+          "愿同中方加强战略沟通和高水平战略协作",
+          "推动两国全面战略合作伙伴关系和具有战",
+          "习近平同苏林共同会见中越青年代表",
+          "为两国社会主义事业和构建具有战略意义",
+          "感受中国式现代化的万千气象",
+          "的越共中央总书记国家主席苏林共同会见"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 92% / lexical 100% / narrative 89%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 89%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・LLMトピック束: 习近平同越共中央总书记、国家主席苏林举行会谈、国家主席习近平在人民大会堂同来华进行国事访问、要用好高层会晤、不断推进高质量发展和社会主义现代化建",
+        "ナラティブ・LLM判定: 习近平夫妇同苏林夫妇亲切话别、国家主席习近平和夫人彭丽媛同来华进行国事访问、朝着构建更高水平具有战略意义的命运共、战略性问题进行了长时间深入交流"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30151335+people_daily:30151352:pla_daily:2026-04-16-1-3+pla_daily:2026-04-16-2-2+pla_daily:2026-04-16-2-8",
+      "issueDate": "2026-04-16",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151335",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平会见俄罗斯外长拉夫罗夫",
+          "excerpt": "新华社北京4月15日电 （记者冯歆然）4月15日上午，国家主席习近平在北京人民大会堂会见俄罗斯外长拉夫罗夫。 习近平请拉夫罗夫转达对普京总统的诚挚问候。习近平指出，今年是中俄战略协作伙伴关系建立30周年，也是《中俄睦邻友好合作条约》签署25周年，两国全面战略协作伙伴关系保持高水平发展，各领域合作成果丰硕。面对变乱交织的国际形势，中俄关系的稳定性和确定性尤为…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151335.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.176Z"
+          }
+        },
+        {
+          "id": "people_daily:30151352",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "习近平会见俄罗斯外长拉夫罗夫",
+          "excerpt": "新华社北京4月15日电 （记者冯歆然）4月15日上午，国家主席习近平在北京人民大会堂会见俄罗斯外长拉夫罗夫。 习近平请拉夫罗夫转达对普京总统的诚挚问候。习近平指出，今年是中俄战略协作伙伴关系建立30周年，也是《中俄睦邻友好合作条约》签署25周年，两国全面战略协作伙伴关系保持高水平发展，各领域合作成果丰硕。面对变乱交织的国际形势，中俄关系的稳定性和确定性尤为…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151352.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.223Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-16-1-3",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平会见俄罗斯外长拉夫罗夫",
+          "excerpt": "新华社北京4月15日电（记者冯歆然）4月15日上午，国家主席习近平在北京人民大会堂会见俄罗斯外长拉夫罗夫。 习近平请拉夫罗夫转达对普京总统的诚挚问候。习近平指出，今年是中俄战略协作伙伴关系建立30周年，也是《中俄睦邻友好合作条约》签署25周年，两国全面战略协作伙伴关系保持高水平发展，各领域合作成果丰硕。面对变乱交织的国际形势，中俄关系的稳定性和确定性尤为宝…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=01&articleid=2026-04-16-1-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.057Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-2-2",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "习近平会见俄罗斯外长拉夫罗夫",
+          "excerpt": "新华社北京4月15日电（记者冯歆然）4月15日上午，国家主席习近平在北京人民大会堂会见俄罗斯外长拉夫罗夫。 习近平请拉夫罗夫转达对普京总统的诚挚问候。习近平指出，今年是中俄战略协作伙伴关系建立30周年，也是《中俄睦邻友好合作条约》签署25周年，两国全面战略协作伙伴关系保持高水平发展，各领域合作成果丰硕。面对变乱交织的国际形势，中俄关系的稳定性和确定性尤为宝…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.058Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-2-8",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "美国“切断伊朗海上贸易”影响几何",
+          "excerpt": "美军中央司令部14日发表声明称，美军对伊朗港口的封锁已全面实施，“美军已完全切断伊朗海上进出口经济贸易”。另据航运数据显示，14日有数艘船只通过霍尔木兹海峡。 目前霍尔木兹海峡通航情况如何？自美以伊战事爆发以来，有多少船只通过了这一全球航运要道？美伊对峙局面如何演变？ 美军中央司令部称，在美方封锁开始后的24小时内，没有船只突破封锁。6艘商船听从美军指令，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-8",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.059Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 习近平会见俄罗斯外长拉夫罗夫、两国全面战略协作伙伴关系保持高水平发、今年是中俄战略协作伙伴关系建立30周、推动中俄全面战略协作伙伴关系站得更高。ナラティブ・LLMトピック束: 习近平会见俄罗斯外长拉夫罗夫、两国全面战略协作伙伴关系保持高水平发、今年是中俄战略协作伙伴关系建立30周、推动中俄全面战略协作伙伴关系站得更高 / ナラティブ・LLM判定",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "两国全面战略协作伙伴关系保持高水平发",
+          "今年是中俄战略协作伙伴关系建立30周",
+          "推动中俄全面战略协作伙伴关系站得更高",
+          "中俄要以更加密切有力的战略协作",
+          "表示在两国元首战略引领下",
+          "双方要保持战略定力",
+          "加强战略沟通",
+          "习近平会见"
+        ],
+        "plaDailyTerms": [
+          "美军已完全切断伊朗海上进出口经济贸易",
+          "美国和以色列2月28日对伊朗发动军事",
+          "美方派出十余艘军舰和数十架飞机执行此",
+          "而是以海上封锁这一有限军事行动向伊朗",
+          "美方可能暂时避免重启大规模军事对抗",
+          "美军中央司令部14日发表声明称",
+          "美军对伊朗港口的封锁已全面实施",
+          "6艘商船听从美军指令"
+        ],
+        "sharedTerms": [
+          "习近平会见俄罗斯外长拉夫罗夫",
+          "两国全面战略协作伙伴关系保持高水平发",
+          "今年是中俄战略协作伙伴关系建立30周",
+          "推动中俄全面战略协作伙伴关系站得更高",
+          "中俄要以更加密切有力的战略协作",
+          "表示在两国元首战略引领下",
+          "双方要保持战略定力",
+          "加强战略沟通"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 92% / lexical 100% / narrative 76%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 76%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・LLMトピック束: 习近平会见俄罗斯外长拉夫罗夫、两国全面战略协作伙伴关系保持高水平发、今年是中俄战略协作伙伴关系建立30周、推动中俄全面战略协作伙伴关系站得更高",
+        "ナラティブ・LLM判定"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30151336+people_daily:30151364:pla_daily:2026-04-16-1-4+pla_daily:2026-04-16-2-3",
+      "issueDate": "2026-04-16",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151336",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "推动全民阅读，建设书香社会",
+          "excerpt": "新华社北京4月15日电 4月16日出版的第8期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《推动全民阅读，建设书香社会》。这是习近平总书记2013年3月至2025年3月期间有关重要论述的节录。 文章指出，阅读是人类获取知识、启智增慧、培养道德的重要途径，可以让人得到思想启发，树立崇高理想，涵养浩然之气。学史可以看成败、鉴得失、知…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151336.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.244Z"
+          }
+        },
+        {
+          "id": "people_daily:30151364",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "推动全民阅读，建设书香社会",
+          "excerpt": "新华社北京4月15日电 4月16日出版的第8期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《推动全民阅读，建设书香社会》。这是习近平总书记2013年3月至2025年3月期间有关重要论述的节录。 文章指出，阅读是人类获取知识、启智增慧、培养道德的重要途径，可以让人得到思想启发，树立崇高理想，涵养浩然之气。学史可以看成败、鉴得失、知…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151364.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.535Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-16-1-4",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "推动全民阅读，建设书香社会",
+          "excerpt": "新华社北京4月15日电 4月16日出版的第8期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《推动全民阅读，建设书香社会》。这是习近平总书记2013年3月至2025年3月期间有关重要论述的节录。 文章指出，阅读是人类获取知识、启智增慧、培养道德的重要途径，可以让人得到思想启发，树立崇高理想，涵养浩然之气。学史可以看成败、鉴得失、知…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=01&articleid=2026-04-16-1-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.057Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-2-3",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "推动全民阅读，建设书香社会",
+          "excerpt": "新华社北京4月15日电 4月16日出版的第8期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《推动全民阅读，建设书香社会》。这是习近平总书记2013年3月至2025年3月期间有关重要论述的节录。 文章指出，阅读是人类获取知识、启智增慧、培养道德的重要途径，可以让人得到思想启发，树立崇高理想，涵养浩然之气。学史可以看成败、鉴得失、知…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.058Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 推动全民阅读，建设书香社会、不断完善履职尽责必备的知识体系、中央军委主席习近平的重要文章、改革开放史。ナラティブ・アンカートピック束: 推动全民阅读，建设书香社会、不断完善履职尽责必备的知识体系、中央军委主席习近平的重要文章、改革开放史 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "推动全民阅读，建设书香社会",
+          "不断完善履职尽责必备的知识体系",
+          "中央军委主席习近平的重要文章",
+          "改革开放史",
+          "中华民族的精神世界就能更加厚重深邃",
+          "不断提升人民思想境界",
+          "可以让人得到思想启发",
+          "增强人民精神力量"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 92% / lexical 100% / narrative 69%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 69%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・アンカートピック束: 推动全民阅读，建设书香社会、不断完善履职尽责必备的知识体系、中央军委主席习近平的重要文章、改革开放史",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "people_only:2:要闻",
+      "issueDate": "2026-04-16",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151338",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中国实践让人权从“纸面”走进“生活”（国际论坛）",
+          "author": "皮特·赫尔曼",
+          "excerpt": "中国在短短几十年间实现跨越式发展，这本身就是人类人权史上的伟大奇迹，也赋予了人权概念更深刻的时代内涵。消除贫困绝不仅仅是解决温饱，更是为了实现人的全面发展 曾经有一段时期，国际上关于人权的讨论往往被框定在单一维度下。时至今日，这种认知正在发生深刻重塑，其背后主要有两个原因：世界多极化趋势深入发展和人权理念内涵更加丰富。过去由个别国家主导、看似“无可争议”的…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151338.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.828Z"
+          }
+        },
+        {
+          "id": "people_daily:30151341",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "excerpt": "新华社北京4月15日电 中共中央政治局委员、外交部长王毅15日同伊朗外长阿拉格齐通电话。 阿拉格齐通报了伊美谈判最新情况及伊方下步考虑，表示伊方愿通过和平谈判方式，继续寻求理性、现实的解决方案。伊方高度赞赏中方一直以来为推动局势缓和降温所作努力，期待中方为促和止战发挥积极作用。 王毅表示，中方一如既往支持伊朗维护自身主权安全和民族尊严。习近平主席郑重提出关…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151341.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.604Z"
+          }
+        },
+        {
+          "id": "people_daily:30151342",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "陈文清会见越共中央政治局委员、公安部部长梁三光",
+          "excerpt": "新华社北京4月15日电 中共中央政治局委员、中央政法委书记陈文清14日在京会见越共中央政治局委员、公安部部长梁三光。 陈文清指出，习近平总书记和苏林总书记为深化构建具有战略意义的中越命运共同体擘画了宏伟蓝图。希望双方以两党两国最高领导人重要共识为指引，加强维护政治安全、打击网赌电诈、保护海外利益等重点领域执法司…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151342.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.681Z"
+          }
+        },
+        {
+          "id": "people_daily:30151343",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "莫桑比克共和国总统查波今起对我国进行国事访问",
+          "excerpt": "应国家主席习近平邀请，莫桑比克共和国总统丹尼尔·弗朗西斯科·查波将于4月16日至22日对中国进行国事访问。 丹尼尔·弗朗西斯科·查波，男，49岁。2025年起担任莫桑比克共和国…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151343.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.685Z"
+          }
+        },
+        {
+          "id": "people_daily:30151344",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“期待中国产品尽快服务阿布扎比电网建设”",
+          "author": "本报记者 贺 勇 李亚楠",
+          "excerpt": "在位于新疆昌吉的特变电工国家特高压变压器工程技术研究中心测试中心，来自阿联酋阿布扎比国家能源公司的监理工程师伊萨·塔里奥核对着电脑屏幕上的数据。他对记者说：“数据没有问题，试验完成，正在等待定船发运，我们的电网建设项目等着这套设备呢。期待中国产品尽快服务阿布扎比电网建设。” 隔着玻璃，试验场上是高达9.5米的“大块头”——一台400千伏三相油浸式限流电抗器…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151344.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.581Z"
+          }
+        },
+        {
+          "id": "people_daily:30151345",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "雅万高铁累计发送旅客超1500万人次",
+          "excerpt": "本报雅加达4月15日电 （记者曹师韵）记者从印尼中国高速铁路有限公司获悉：截至4月14日，由中印尼两国合作建设的雅万高铁累计发送旅客突破1500万人次，运营规模和服务水平持续提升，项目综合效益进一步显现。…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151345.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.653Z"
+          }
+        },
+        {
+          "id": "people_daily:30151346",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "第九届进博会座谈会在西班牙举办",
+          "excerpt": "本报马德里4月15日电 （记者许海林）第九届中国国际进口博览会（进博会）座谈会15日在西班牙马德里举办，10余家…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151346.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.769Z"
+          }
+        },
+        {
+          "id": "people_daily:30151347",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "第三届兰花奖全球征集正式启动",
+          "excerpt": "本报北京4月15日电 （记者强薇）4月15日，第三届兰花奖全球征集启动仪式在京举行，来自国内外的80余名嘉宾出席活动。 兰花奖是中国外文局于2022年发起、面向全球设立的重要国际文化交流大奖，旨在积极践行全球文明倡议，弘扬全人类共同价值，促进文明交流互鉴，夯实构建人类命运共同体的人文基础。兰花奖表彰奖励全球范围内致力于中华文化国际交流、对促进文明交流互鉴作…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151347.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.663Z"
+          }
+        },
+        {
+          "id": "people_daily:30151348",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "在莫桑比克伊尼亚卡岛，由中国路桥工程有限责任公司承建的海上栈桥通道码头日前正式启用。长期以来，由于岛屿周边海域水浅，客轮无法直接靠岸，游客和居民需换乘小船并涉水登岛，客轮上的游客登岛往往需要一至两个小时。该项目全长约1.3公里，是连接岛屿与海上客运航线的重要基…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151348.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:16.679Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 9本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:3:要闻",
+      "issueDate": "2026-04-16",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151349",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "李强赵乐际分别会见越共中央总书记、国家主席苏林",
+          "excerpt": "新华社北京4月15日电 4月15日下午，国务院总理李强在北京人民大会堂会见来华进行国事访问的越共中央总书记、国家主席苏林。 李强表示，今天上午，习近平总书记、国家主席同苏林总书记、国家主席举行会谈，就深入推进具有战略意义的中越命运共同体建设把舵定向。当前世界形势持续复杂演变，不稳定不确定因素增多，中越作为传统友邻，应当更加紧密团结协作。中方愿同越方遵循两党…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151349.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.131Z"
+          }
+        },
+        {
+          "id": "people_daily:30151350",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "蔡奇同越共中央政治局委员、中央书记处常务书记陈锦绣举行会谈",
+          "excerpt": "新华社北京4月15日电 4月15日，中共中央政治局常委、中央书记处书记蔡奇在中国共产党历史展览馆同越共中央政治局委员、中央书记处常务书记陈锦绣举行会谈。 蔡奇表示，今天，习近平总书记同苏林总书记围绕共同关心的全局性、战略性问题长时间深入交流，达成许多重要共识，共同擘画中越命运共同体崭新图景。中越两党要发挥统筹总领作用，切实指导各部门、各地方、各机制平台将两…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151350.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.130Z"
+          }
+        },
+        {
+          "id": "people_daily:30151351",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "深化投资审批制度改革",
+          "excerpt": "新华社北京4月15日电 为进一步优化投资审批权限配置、提升投资服务便利度、强化投资项目全过程监管，着力扩大有效投资，国务院办公厅日前印发《关于深化投资审批制度改革的意见》（以下简称《意见》），对相关工作作出部署。 在严格政府投资项目管理方面，《意见》提出，按照权责一致、监督有效并与事权相匹配的原则，优化政府投资项目审批权限；严禁违规通过国有企业等以企业投资…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151351.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.203Z"
+          }
+        },
+        {
+          "id": "people_daily:30151353",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "让群众用药更可及 价格水平更合理（权威发布）",
+          "author": "本报记者 孙秀艳",
+          "excerpt": "国办近日印发《关于健全药品价格形成机制的若干意见》，强调健全以市场为主导的药品价格形成机制，支持医药产业高质量发展，保障人民群众获得质优价宜药品。4月15日，国务院新闻办举行国务院政策例行吹风会，介绍有关情况。 全周期、全渠道、全领域提出一系列改革举措 国家医保局副局长施子海介绍，2015年6月以来，除麻醉药品和第一类精神药品外，其他药品都取消了政府定价，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151353.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.147Z"
+          }
+        },
+        {
+          "id": "people_daily:30151354",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "政策护航 举措贴心（快评）",
+          "author": "​亦 欣",
+          "excerpt": "一份意见，涵盖医药行业价格方方面面。14项具体内容，有立足行业发展的大政策，也有方便群众的小举措。 政策之“大”，在于着眼全局、系统谋划。瞄准药品价格全流程、全领域发力，无论是多元支付助力医药创新，还是短缺药品保供稳价，都是从行业长远发展出发，理顺价格秩序，平衡好企业创新和群众用药需求，为医药行业健康发展搭好制度框架，解决行业发展的根本性问题。 政策中的“…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151354.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.147Z"
+          }
+        },
+        {
+          "id": "people_daily:30151355",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "加快培育开放合作新动能和国际竞争新优势",
+          "author": "本报记者 李 刚",
+          "excerpt": "“十五五”开局之年，国务院新闻办组织系列主题采访活动，帮助中外记者了解各地贯彻落实“十五五”规划纲要的情况。4月15日，广东省政府相关人士就持续推动粤港澳大湾区建设，加快培育开放合作新动能、国际竞争新优势等介绍有关情况。 “2025年，大湾区以不到全国0.6%的国土面积、约占全国6%的常住人口，创造了全国1/9的经济总量，实现了约2.15万亿美元的地区生产…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151355.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.145Z"
+          }
+        },
+        {
+          "id": "people_daily:30151356",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "今年消费品以旧换新已超5000亿元",
+          "excerpt": "本报北京4月15日电 （记者王珂）记者15日从商务部获悉：商务大数据监测显示，截至4月12日，2026年消费品以旧换新销售额达5029.4亿元，惠及6977.7万人次。 汽车以旧换新超167万辆，带动新车销售额超2694.4亿元。其中，报废更新超47.2万辆，销售额超606.9亿元；置换更新超119.8万辆，销售额超208…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151356.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.211Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:4:要闻",
+      "issueDate": "2026-04-16",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151357",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "同心共筑国家安全坚实屏障",
+          "subtitle": "——各地广泛开展全民国家安全教育日宣教活动",
+          "author": "本报记者 亓玉昆",
+          "excerpt": "今年4月15日是第十一个全民国家安全教育日，宣传教育活动的主题是“统筹发展和安全 护航‘十五五’新征程”。 从城市到乡村、从学校到企业、从社区到军营，连日来，各地各部门发挥积极性、主动性、创造性，纷纷开展接地气、聚人气、有生气的宣教活动，推动总体国家安全观更加深入人心，同心共筑国家安全坚实屏障。 青年是国家的未来，让总体国家安全观在青年心中生根发芽尤为重要…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151357.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.533Z"
+          }
+        },
+        {
+          "id": "people_daily:30151358",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "对得起信任，扛得住责任（人民论坛）",
+          "author": "盛玉雷",
+          "excerpt": "在其位、谋其政、尽其责，是党员干部的本分。当群众“误打误撞”求助一件“分外之事”，该咋办？ 湖北利川元堡乡，一位老人因为不识字错过便民服务大厅，走进党建办公室反映“家里停水”，工作人员带她到水务公司咨询，还给村干部打电话跟踪解决。 江西景德镇珠山区，有群众来到纪委办公室投诉噪声扰民。接访干部给出建议，先与相关职能部门沟通联系，如果存在不作为、慢作为的情况，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151358.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.536Z"
+          }
+        },
+        {
+          "id": "people_daily:30151359",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "103名群众受到国家安全机关表彰奖励",
+          "excerpt": "本报北京4月15日电 （记者亓玉昆）记者4月15日从国家安全部获悉：在第十一个全民国家安全教育日到来之际，国家安全机关开展了2025—2026年度公民举报危害国家安全行为表彰奖励活动，共有103名群众受表彰奖励，其中特别重大贡献奖励3人、重大贡献奖励23人、重要贡献奖励77人，受奖人数创历史新高。 据介绍，这是国家安全机关连续第八年组织全国范围的表彰奖励活…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151359.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.550Z"
+          }
+        },
+        {
+          "id": "people_daily:30151360",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "日前，福建省福州市鼓楼区安泰街道黎明湖公园，鼓楼区自然资源和规划局、福建省观鸟协会等联合开展爱鸟护鸟和生态安全宣传活动，志愿者将自然体验与生态安全、野生动物保护等知识有机融合，引导大家共同守护生物多样…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151360.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.531Z"
+          }
+        },
+        {
+          "id": "people_daily:30151361",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "香港举办2026年全民国家安全教育日开幕典礼",
+          "excerpt": "本报香港4月15日电 （记者冯学知）4月15日上午，香港特别行政区维护国家安全委员会在香港会议展览中心举办2026年全民国家安全教育日开幕典礼。香港社会各界逾2300人出席活动。 中央港澳工作办公室主任、国务院港澳事务办公室主任夏宝龙在开幕典礼上视频致辞表示，要深入学习贯彻习近平主席重要讲话精神，统筹发展和安全，以高水平安全护航香港由治及兴，开创“十五五”…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151361.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.544Z"
+          }
+        },
+        {
+          "id": "people_daily:30151362",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "2026年“青马工程”全国班共设12个班次",
+          "excerpt": "本报北京4月15日电 （记者杨昊）记者从共青团中央获悉：青年马克思主义者培养工程成果交流会暨2026年全国班开班式日前在中央团校举行。今年“青马工程”全国班共开设8个常规班次、4个专项班次。 会议强调，“十五五”规划纲要中设立“支持青年发展”专节，对青年一代挺膺担当提出了时代要求。“青马工程”学员要在党的创新理论青春化传播上挑大梁，引导广大青年听党话、跟党…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151362.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.541Z"
+          }
+        },
+        {
+          "id": "people_daily:30151363",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "澳门全民国家安全教育系列活动开幕",
+          "excerpt": "本报澳门4月15日电 （记者富子梅）由澳门特区政府与澳门中联办联合举办的全民国家安全教育系列活动，15日在中国与葡语国家商贸合作服务平台综合体开幕。 开幕礼由全国政协副主席何厚铧、澳门特区行政长官岑浩辉、澳门中联办主任郑新聪、外交部驻澳门特派员公署特派员卞立新、解放军驻澳部队司令员陈文胜等主礼。 岑浩辉在致辞时表示，维护国家主权、安全、发展利益是“一国两制…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151363.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.542Z"
+          }
+        },
+        {
+          "id": "people_daily:30151366",
+          "source": "people_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "广告",
+          "excerpt": "",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/16/content_30151366.html",
+          "extraction": {
+            "status": "empty",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:17.538Z",
+            "message": "一部記事は本文抽出不可。タイトル・版面・参照ボタンのみ表示しています。"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 8本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:2:要闻",
+      "issueDate": "2026-04-16",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-16-2-4",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "让中越“同志加兄弟”的深厚情谊焕发青春光彩",
+          "subtitle": "——习近平总书记、国家主席同苏林总书记、国家主席共同会见中越青年代表侧记",
+          "excerpt": "4月的北京，风和日暖，春意盎然。 15日上午，北京人民大会堂西大厅华灯璀璨，中国共产党党旗和越南共产党党旗并排而立，五星红旗和金星红旗相映成辉。 在歌颂两国深情厚谊的《越南—中国》乐曲声中，中共中央总书记、国家主席习近平同越共中央总书记、国家主席苏林步入会场，共同会见参加“红色研学之旅”的中越青年代表。 “大家好，很高兴同大家见面。”面对300多名朝气蓬勃…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.058Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-2-5",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "苏林参访中国共产党历史展览馆",
+          "excerpt": "春日时节，生机盎然。 4月15日，位于北京中轴线北端延长线上的中国共产党历史展览馆迎来一位远道而来的客人——应习近平总书记、国家主席邀请正在对中国进行国事访问的越共中央总书记、国家主席苏林。 走进展厅，苏林在一幅幅历史影像和一件件珍贵展品前驻足。 神情专注地观看长征主题影片，凝视血战湘江、爬雪山等画面；在不同时期中国百姓家庭生活场景复原区，感叹时代变迁；面…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.058Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-2-6",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“丝路方舟”号医院船离开巴新启程回国",
+          "excerpt": "本报莫尔兹比港4月15日电 崔晓洋、唐磊报道：执行“和谐使命-2025”任务的中国海军“丝路方舟”号医院船，于当地时间15日圆满结束对巴布亚新几内亚的友好访问与医疗服务，驶离莫尔兹比港启程回国。 巴新军政要员、中国驻巴新大使馆工作人员、当地民众及华人华侨代表等到码头送行。 巴新是“丝路方舟”号医院船执行“和谐使命-2025”任务的最后一站。访问巴新期间，医…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.058Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-2-7",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "西班牙首相访华取得圆满成功 传递中西紧密合作明确信号",
+          "excerpt": "新华社北京4月15日电（记者曹嘉玥、马卓言）外交部发言人郭嘉昆15日表示，西班牙首相桑切斯访华取得圆满成功，传递了中西加强沟通、巩固互信、紧密合作的明确信号。中方相信，中西合作将为两国人民带来更多福祉，也为世界和平、发展、繁荣注入更多正能量。 郭嘉昆在例行记者会上回答有关提问时说，4月11日至15日，西班牙首相桑切斯应邀对华进行正式访问，这是他4年来第4次…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=02&articleid=2026-04-16-2-7",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.058Z"
+          }
+        }
+      ],
+      "reason": "81cn only 4本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:3:要闻",
+      "issueDate": "2026-04-16",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-16-3-0",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "汇聚起全民共筑国家安全屏障的强大合力",
+          "subtitle": "——各地各部门广泛开展全民国家安全教育日宣教活动",
+          "excerpt": "在湖北省汉口站，武汉铁路公安处民警、志愿者向旅客宣讲防范化解危害国家安全行为的知识；在江西省赣州市白云小学，学生们创作国家安全教育主题绘画…… 今年4月15日是第十一个全民国家安全教育日。连日来，各地各部门围绕“统筹发展和安全 护航‘十五五’新征程”主题，广泛开展全民国家安全教育日宣教活动，推动总体国家安全观深入人心。 加强新兴领域国家安全能力建设，是统筹…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.059Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-3-1",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "启动“国家安全 青春挺膺”主题团日活动周",
+          "excerpt": "据新华社南京4月15日电（记者王明玉、朱国亮）在第十一个全民国家安全教育日到来之际，共青团中央、国家安全部在南京理工大学举办总体国家安全观宣传教育主场示范活动，并共同启动“国家安全 青春挺膺”主题团日活动周。 活动现场，2部国家安全主题宣传片与广大观众见面，围绕“统筹发展和安全 护航‘十五五’新征程”主题，深刻阐释国家安全与新一代青年的紧密关系。在主题团课…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.059Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-3-2",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“国安小卫士”选拔助力校园宣讲",
+          "excerpt": "本报讯 特约记者荣俊运报道：“发现有人偷拍军事设施该怎么办？”“拨打举报电话！”4月13日，辽宁省沈阳市皇姑区岐山一校一个教室内，三年级学生阿茹娜利用课间10分钟时间站上讲台，一节“课间微课堂”随即展开。她胸前别着一枚徽章，上面“国安小卫士”几个字格外醒目——几天前，阿茹娜刚通过考核获得该徽章。 全民国家安全教育日到来之际，皇姑区人武部联合沈阳第十二离职干…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.059Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-3-3",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“军营故事会”强化国家安全意识",
+          "excerpt": "本报讯 王文博、记者李庆桐报道：“这是发生在东北老航校历史上一次惊心动魄的斗争，多亏我军敏锐截获敌人情报，粉碎了敌人破坏航校建设的企图……”4月15日，空军某部以“身边的国家安全”为主题组织“军营故事会”，中士柴则瓴分享了一则东北老航校维护国家军事安全的战斗故事，让官兵受到警醒。 该部领导介绍，今年是东北老航校建校80周年，在全民国家安全教育日到来之际，他…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.059Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-3-4",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“普法情景剧”筑牢国家安全防线",
+          "excerpt": "本报讯 张江斌、徐明远报道：“境外渗透近在咫尺，泄密风险就在指尖，大家务必提高警惕！”4月14日，石家庄军事法院联合军地有关部门组成宣讲团，走进武警某部新兵训练大队，开展“法助军威、安固太行”国家安全教育活动。 全民国家安全教育日到来之际，该法院抓住新兵入营关键阶段，精准筹划普法内容，创新宣讲教育形式，通过庭审直播、以案释法、“普法情景剧”等多种形式，帮助…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.059Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-3-5",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "第139届广交会开幕",
+          "excerpt": "据新华社广州4月15日电（记者詹奕嘉、丁乐）第139届中国进出口商品交易会（广交会）15日在广州开幕。本届广交会参展企业超过3.2万家，其中拥有专精特新、单项冠军等称号的优质企业超过1.1万家，均超往届水平。 顺应外贸发展新趋势、新特点，本届广交会展品专区增至179个，首次增设智能穿戴、显示技术、消费级无人机等9个专区。 参展企业中，六成拥有自有品牌，近2…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.059Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-3-6",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "一季度全国铁路货运发送量超12亿吨",
+          "excerpt": "据新华社北京4月15日电（记者叶昊鸣）记者15日从国家铁路局获悉，一季度，全国铁路累计完成货运发送量12.81亿吨，同比增长2.2%；完成货运周转量9071.98亿吨公里，同比增长5.1%。 从分品类运输情况看，一季度，全国铁路累计发送煤炭6.81亿吨、集装箱2.56亿吨、粮食1528万吨，同比分别增长1.7%、10.7%、11.3%。 客…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.059Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-3-7",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "今年以旧换新销售额突破5000亿元",
+          "excerpt": "新华社北京4月15日电（记者谢希瑶）记者15日从商务部获悉，商务大数据监测显示，截至4月12日，2026年消费品以旧换新销售额5029.4亿元，惠及6977.7万人次。 分品类来看，截至4月12日，今年以来汽车以旧换新超167万辆，带动新车销售额超2694.4亿元。其中，汽车报废更新超47.2万辆，销售额超606.9亿元；汽车置换更新超119.8万辆，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-7",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.059Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-3-8",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中国网络视听用户规模达10.99亿人",
+          "excerpt": "据新华社成都4月15日电（记者白瀛、董小红）15日在成都发布的《中国网络视听发展研究报告（2026）》显示，截至2025年12月，中国网络视听用户规模达10.99亿人，稳居各互联网应用首位，成为国内渗透范围最广、覆盖人群最多的数字服务载体，彰显了行业极强的发展韧性与对用户的强劲吸引力。 报告显示，2025年我国网络视听行业市场规模为近1.29万亿元，同比增…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-8",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.059Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-3-9",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "短讯",
+          "excerpt": "■李强15日在京会见越共中央总书记、国家主席苏林 ■赵乐际15日在京会见越共中央总书记、国家主席苏林 ■蔡奇15日在京同越共中央政治局委员、中央书记处常务书记陈锦绣举行会…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-9",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.059Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-3-10",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-10",
+          "extraction": {
+            "status": "empty",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.060Z",
+            "message": "Article content text was empty"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-3-11",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "4月15日，西十高铁湖北段正式启动重联动车组逐级提速试验。西十高铁西起陕西西安，穿越秦岭山脉，终点为湖北十堰，正线全长256.938公里，设计时速350公里，是武汉至西安高铁的重要段落和福银通道的重要…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=03&articleid=2026-04-16-3-11",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.060Z"
+          }
+        }
+      ],
+      "reason": "81cn only 12本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:4:要闻",
+      "issueDate": "2026-04-16",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-16-4-0",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "指导员的“逆袭”",
+          "excerpt": "“这次，指导员会不会踢到一块‘铁板’上？”前些日子，连队鼓励官兵报名参加上级专业考核，这个问题成了官兵们的一个悬念。 此前，上级下发了计划组织专业比武的通知，各连只能推荐一个车组参加。消息传开，连队官兵个个摩拳擦掌，都想在比武中一展身手。 派谁出战？连务会上，大家各抒己见：“我推荐班长柴佳椿，他从事装甲射击专业多年，专业技术过硬，参赛经验丰富，再合适不过”…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=04&articleid=2026-04-16-4-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.060Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-4-1",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "树牢安全也是硬道理的理念",
+          "excerpt": "平不肆险，安不忘危。今年4月15日是第十一个全民国家安全教育日，军地纷纷开展丰富多彩的宣传教育活动，提升全民国家安全意识。 习主席强调，各级党委和政府要坚持系统思维，进一步树立发展是硬道理、安全也是硬道理的理念，在工作中自觉把发展和安全统一起来，共同谋划、一体部署、相互促进。这一重要论述深刻阐明了发展和安全的内在联系。广大官兵要坚定不移贯彻总体国家安全观，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=04&articleid=2026-04-16-4-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.060Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-4-2",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "更新知识体系  厚植打赢底气",
+          "excerpt": "近日，海军航空大学某大队组织晋升教育培训学员，走进青岛马克思主义中国化书苑，在现地教学中接受思想淬炼和精神洗礼。这是该大队坚持“为战育人”根本导向，提升初级指挥教育培训质效的一个缩影。 “强军兴军，要在得人，院校教育是培养人才的重要途径。”该大队领导介绍，晋升教育培训学员普遍具备丰富的基层任职经历和较强的工作实践能力，他们的自身特点对教学内容和方法手段提出…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=04&articleid=2026-04-16-4-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.060Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-4-3",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "兵器室有了“智慧大脑”",
+          "excerpt": "本报讯 陈继亮、曾存军报道：“指尖在控制面板上轻轻点击，武器出入库就能快速完成登记。”春日，新疆军区某团某分队组织一场战备拉动，官兵迅速从新改造的兵器室里领取武器，整个过程井然有序、快捷高效。 该团领导介绍，近年来，随着新配发的武器装备不断增多，以往手工填写武器编号的出入库登记方式，难以满足应急情况下快速申领武器的需求。为此，他们以营区“两化”建设为抓手，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=04&articleid=2026-04-16-4-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.060Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-4-4",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=04&articleid=2026-04-16-4-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.060Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-16-4-5",
+          "source": "pla_daily",
+          "issueDate": "2026-04-16",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-16&paperNumber=04&articleid=2026-04-16-4-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:17.060Z"
+          }
+        }
+      ],
+      "reason": "81cn only 6本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    }
+  ],
+  "counts": {
+    "peopleArticles": 34,
+    "plaArticles": 32,
+    "matchedGroups": 3,
+    "matchedPeopleArticles": 10,
+    "matchedPlaArticles": 10,
+    "peopleOnlyArticles": 24,
+    "plaOnlyArticles": 22
+  }
+}

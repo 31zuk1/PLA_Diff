@@ -12,6 +12,8 @@ import {
 type BlobSdk = typeof import("@vercel/blob");
 
 const localSnapshotRoot = join(process.cwd(), ".cache", "peoplepla-diff");
+const staticSnapshotRoot = join(process.cwd(), "public");
+let blobReadsUnavailable = false;
 
 export async function readSnapshotIndex(): Promise<SnapshotIndex> {
   const index = await readJson<SnapshotIndex>(snapshotIndexPath);
@@ -70,15 +72,28 @@ export async function writeDailyIssueSnapshot(
 }
 
 export function storageDriverLabel() {
-  return shouldUseBlobStorage() ? "vercel-blob" : "local-file";
+  const primaryDriver = shouldUseBlobStorage() ? "vercel-blob" : "local-file";
+  return shouldUseStaticArchiveFallback() ? `${primaryDriver}+static` : primaryDriver;
 }
 
 async function readJson<T>(pathname: string): Promise<T | undefined> {
   if (shouldUseBlobStorage()) {
-    return readBlobJson<T>(pathname);
+    const blobJson = await readBlobJson<T>(pathname);
+
+    if (blobJson) {
+      return blobJson;
+    }
+
+    return readStaticJson<T>(pathname);
   }
 
-  return readLocalJson<T>(pathname);
+  const localJson = await readLocalJson<T>(pathname);
+
+  if (localJson) {
+    return localJson;
+  }
+
+  return readStaticJson<T>(pathname);
 }
 
 async function writeJson(pathname: string, value: unknown) {
@@ -87,7 +102,7 @@ async function writeJson(pathname: string, value: unknown) {
   if (shouldUseBlobStorage()) {
     const { put } = await loadBlobSdk();
     await put(pathname, serialized, {
-      access: "public",
+      access: blobAccessType(),
       allowOverwrite: true,
       cacheControlMaxAge: 60,
       contentType: "application/json; charset=utf-8",
@@ -119,25 +134,30 @@ async function deleteJsonFiles(pathnames: string[]) {
 }
 
 async function readBlobJson<T>(pathname: string): Promise<T | undefined> {
+  if (blobReadsUnavailable) {
+    return undefined;
+  }
+
   try {
-    const { list } = await loadBlobSdk();
-    const { blobs } = await list({ limit: 1, prefix: pathname });
-    const blob = blobs.find((candidate) => candidate.pathname === pathname);
+    const { get } = await loadBlobSdk();
+    const result = await get(pathname, {
+      access: blobAccessType(),
+      useCache: false,
+    });
 
-    if (!blob) {
+    if (!result || !result.stream) {
       return undefined;
     }
 
-    const response = await fetch(blob.url, { cache: "no-store" });
-
-    if (!response.ok) {
-      return undefined;
-    }
-
-    const text = await response.text();
+    const text = await new Response(result.stream).text();
 
     return JSON.parse(text) as T;
   } catch (error) {
+    if (isUnavailableBlobStoreRead(error)) {
+      blobReadsUnavailable = true;
+      return undefined;
+    }
+
     if (isMissingBlobRead(error)) {
       return undefined;
     }
@@ -164,7 +184,7 @@ async function buildBlobSnapshotIndex(
           return currentEntry;
         }
 
-        const snapshot = await readBlobUrlJson<DailyIssueSnapshot>(blob.url);
+        const snapshot = await readBlobJson<DailyIssueSnapshot>(blob.pathname);
         return snapshot ? toSnapshotIndexEntry(snapshot) : undefined;
       }),
     )
@@ -190,16 +210,6 @@ async function listBlobSnapshotPaths(predicate: (pathname: string) => boolean) {
     .filter(predicate);
 }
 
-async function readBlobUrlJson<T>(url: string): Promise<T | undefined> {
-  const response = await fetch(url, { cache: "no-store" });
-
-  if (!response.ok) {
-    return undefined;
-  }
-
-  return JSON.parse(await response.text()) as T;
-}
-
 async function readLocalJson<T>(pathname: string): Promise<T | undefined> {
   try {
     const text = await readFile(localPath(pathname), "utf8");
@@ -213,6 +223,49 @@ async function readLocalJson<T>(pathname: string): Promise<T | undefined> {
   }
 }
 
+async function readStaticJson<T>(pathname: string): Promise<T | undefined> {
+  if (!shouldUseStaticArchiveFallback()) {
+    return undefined;
+  }
+
+  const fileJson = await readStaticFileJson<T>(pathname);
+
+  if (fileJson) {
+    return fileJson;
+  }
+
+  return readStaticUrlJson<T>(pathname);
+}
+
+async function readStaticFileJson<T>(pathname: string): Promise<T | undefined> {
+  try {
+    const text = await readFile(staticPath(pathname), "utf8");
+    return JSON.parse(text) as T;
+  } catch (error) {
+    if (error instanceof Error && "code" in error && error.code === "ENOENT") {
+      return undefined;
+    }
+
+    throw error;
+  }
+}
+
+async function readStaticUrlJson<T>(pathname: string): Promise<T | undefined> {
+  const origin = staticArchiveOrigin();
+
+  if (!origin) {
+    return undefined;
+  }
+
+  const response = await fetch(`${origin}/${pathname}`, { cache: "no-store" });
+
+  if (!response.ok) {
+    return undefined;
+  }
+
+  return JSON.parse(await response.text()) as T;
+}
+
 async function loadBlobSdk(): Promise<BlobSdk> {
   return import("@vercel/blob");
 }
@@ -221,8 +274,42 @@ function shouldUseBlobStorage() {
   return Boolean(process.env.BLOB_READ_WRITE_TOKEN) && process.env.PLA_DIFF_STORAGE !== "file";
 }
 
+function shouldUseStaticArchiveFallback() {
+  return process.env.PLA_DIFF_STATIC_ARCHIVE !== "false";
+}
+
+function blobAccessType(): "public" | "private" {
+  return process.env.PLA_DIFF_BLOB_ACCESS === "private" ? "private" : "public";
+}
+
 function localPath(pathname: string) {
   return join(localSnapshotRoot, ...pathname.split("/"));
+}
+
+function staticPath(pathname: string) {
+  return join(staticSnapshotRoot, ...pathname.split("/"));
+}
+
+function staticArchiveOrigin() {
+  const explicitOrigin =
+    process.env.PLA_DIFF_STATIC_ARCHIVE_ORIGIN ??
+    process.env.NEXT_PUBLIC_SITE_URL ??
+    process.env.VERCEL_PROJECT_PRODUCTION_URL;
+
+  if (explicitOrigin) {
+    return normalizeOrigin(explicitOrigin);
+  }
+
+  if (process.env.VERCEL_URL) {
+    return normalizeOrigin(process.env.VERCEL_URL);
+  }
+
+  return undefined;
+}
+
+function normalizeOrigin(value: string) {
+  const withProtocol = /^https?:\/\//.test(value) ? value : `https://${value}`;
+  return withProtocol.replace(/\/$/, "");
 }
 
 function compareIndexEntries(left: { issueDate: string }, right: { issueDate: string }) {
@@ -234,9 +321,28 @@ function isMissingBlobRead(error: unknown) {
     return false;
   }
 
+  const message = error.message.toLowerCase();
+
   return (
-    error.message.includes("400 Bad Request") ||
-    error.message.includes("404 Not Found") ||
+    message.includes("400 bad request") ||
+    message.includes("404 not found") ||
     error.name === "BlobNotFoundError"
+  );
+}
+
+function isUnavailableBlobStoreRead(error: unknown) {
+  if (!(error instanceof Error)) {
+    return false;
+  }
+
+  const message = error.message.toLowerCase();
+
+  return (
+    message.includes("403") ||
+    message.includes("blocked") ||
+    message.includes("suspended") ||
+    error.name === "BlobAccessError" ||
+    error.name === "BlobStoreNotFoundError" ||
+    error.name === "BlobStoreSuspendedError"
   );
 }

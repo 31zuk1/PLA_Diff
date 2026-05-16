@@ -1,0 +1,1109 @@
+{
+  "schemaVersion": 1,
+  "issueDate": "2026-05-03",
+  "generatedAt": "2026-05-16T09:07:18.252Z",
+  "retentionDays": 31,
+  "frontPages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "judge": {
+    "enabled": true,
+    "model": "gpt-4.1-nano"
+  },
+  "peopleIssue": {
+    "id": "people_daily:2026-05-03",
+    "source": "people_daily",
+    "issueDate": "2026-05-03",
+    "pages": [
+      {
+        "id": "people_daily:2026-05-03:p01",
+        "source": "people_daily",
+        "issueDate": "2026-05-03",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154672",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "“涉及老百姓的事情关键在实”（总书记的人民情怀）",
+            "author": "本报记者 姜 洁 魏哲哲",
+            "excerpt": "为民造福是最大政绩。 “建新城是为了老百姓过上更好生活”。九年，习近平总书记四赴雄安，调研、座谈，擘画、引领……今年3月考察时，总书记又殷殷叮嘱：“完善公共服务体系，着力保障和改善民生”。 务实功、出实招、求实效。一笔一画，久久为功，未来之城雄安新区稳扎稳打、日新月异。“努力创造经得起实践、人民、历史检验的实绩。” “实”字里见方向、有指引。“涉及老百姓的…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154672.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:13.840Z"
+            }
+          },
+          {
+            "id": "people_daily:30154673",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "抓住机遇，以更大力度更实举措加强基础研究",
+            "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+            "author": "本报评论员",
+            "excerpt": "科技兴则民族兴，科技强则国家强。在加强基础研究座谈会上，习近平总书记从统筹两个大局的战略高度，全面分析面临的新形势新挑战，强调“我们要抓住机遇、应对挑战”“以更大力度、更实举措加强基础研究”。 “当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。” 从机遇来看，世界已经进入大科学时代，技术创新进入前…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154673.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:13.855Z"
+            }
+          },
+          {
+            "id": "people_daily:30154674",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "持续抓下去，不断抓出新成效",
+            "subtitle": "——与会代表谈贯彻落实加强基础研究座谈会精神",
+            "author": "本报记者 李君强 孙 振 杨翘楚",
+            "excerpt": "基础研究是整个科学体系的源头，是所有技术问题的总机关。党的十八大以来，以习近平同志为核心的党中央高度重视基础研究，通过优化科研布局、加大投入保障、创新体制机制等，推动我国基础研究水平显著提升。 当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。4月30日，习近平总书记出席加强基础研究座谈会并发表重要…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154674.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:13.841Z"
+            }
+          },
+          {
+            "id": "people_daily:30154675",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "“怀爱国之心、立报国之志、增强国之能”",
+            "subtitle": "——新时代青年这样回答“爱国三问”",
+            "author": "本报记者 李昌禹 杨 昊",
+            "excerpt": "站在“十五五”开局新起点，何以青春、青年何为？ 无需人工遥控，全自主完成乒乓球对打，连续接球、攻防转换一气呵成……4月10日，中美“乒乓外交”55周年纪念大会上，双足人形机器人智元灵犀X2身姿灵动，表现惊艳。 一年前，上海“模速空间”大模型创新生态社区，智元机器人联合创始人兼首席技术官、90后彭志辉向习近平总书记展示了灵犀X2，介绍了前沿实用的具身智能技术…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154675.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:13.839Z"
+            }
+          },
+          {
+            "id": "people_daily:30154676",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "今年第二批915亿元超长期特别国债支持设备更新资金已下达",
+            "excerpt": "本报北京5月2日电 （记者刘志强）记者从国家发展改革委获悉：2026年第二批915亿元“两新”设备更新项目清单和资金安排近日已下达，支持工业、能源电力、电子信息等16个领域超过6700个项目，带动总投资超过3800亿元；同时，继续支持老旧营运货车、新能源城市公交车、老旧农机报废更新。加上此前已下达的936亿元，今年已累计安排“两新”设备更新资金1851…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154676.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:13.823Z"
+            }
+          },
+          {
+            "id": "people_daily:30154677",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "春到骆驼湾",
+            "author": "本报记者 万秀斌 史自强",
+            "excerpt": "“五一”假期，太行山深处的河北省阜平县龙泉关镇骆驼湾村，山花绽放，绿意盎然，一批批游客踏春而来。 这个曾经深度贫困的小山村，正迎着春风，舒展乡村全面振兴新画卷。 巨变，始于14年前。 2012年12月底，习近平总书记踏着皑皑白雪来到骆驼湾村，盘腿坐在炕上，和乡亲们促膝交谈，殷殷叮嘱“进一步坚定信心、找对路子，坚持苦干实干，推动贫困地区脱贫致富、加快发展”。…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154677.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:13.825Z"
+            }
+          },
+          {
+            "id": "people_daily:30154678",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154678.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:13.837Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/03/effa94f3-988e-46eb-8c60-29dacab04147.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/03/41b57ec3-f081-44a7-8611-25c72516c7bb.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:06:13.855Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-03:p02",
+        "source": "people_daily",
+        "issueDate": "2026-05-03",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154679",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中国游中国购热情持续高涨（经济新方位·聚焦假期消费）",
+            "excerpt": "",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154679.html",
+            "extraction": {
+              "status": "failed",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:16.780Z",
+              "message": "This operation was aborted"
+            }
+          },
+          {
+            "id": "people_daily:30154680",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "推广粉用稻 专供螺蛳粉（春耕里的新质生产力）",
+            "excerpt": "",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154680.html",
+            "extraction": {
+              "status": "failed",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:16.780Z",
+              "message": "This operation was aborted"
+            }
+          },
+          {
+            "id": "people_daily:30154681",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "良种配良法 小麦长势好（春耕里的新质生产力）",
+            "excerpt": "",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154681.html",
+            "extraction": {
+              "status": "failed",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:16.780Z",
+              "message": "This operation was aborted"
+            }
+          },
+          {
+            "id": "people_daily:30154682",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "一季度贷款支持科创企业力度较大",
+            "excerpt": "",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154682.html",
+            "extraction": {
+              "status": "failed",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:16.781Z",
+              "message": "This operation was aborted"
+            }
+          },
+          {
+            "id": "people_daily:30154683",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "持续抓下去，不断抓出新成效",
+            "excerpt": "",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154683.html",
+            "extraction": {
+              "status": "failed",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:16.781Z",
+              "message": "This operation was aborted"
+            }
+          },
+          {
+            "id": "people_daily:30154684",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "全年煤炭市场供需预计总体平衡",
+            "excerpt": "",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154684.html",
+            "extraction": {
+              "status": "failed",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:16.781Z",
+              "message": "This operation was aborted"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/03/fa3d44eb-7430-4853-929a-4558d160a711.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/03/bd5e3880-62db-4b40-9347-b9885026bc01.jpg.2",
+        "extraction": {
+          "status": "partial",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:07:16.781Z",
+          "message": "This operation was aborted"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-03:p03",
+        "source": "people_daily",
+        "issueDate": "2026-05-03",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154685",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "智能绿色物流，见证中匈互利合作提质升级",
+            "author": "本报记者 禹丽敏",
+            "excerpt": "匈牙利首都布达佩斯往北30公里，多瑙河畔的瓦茨小镇是该国历史悠久的铁路枢纽。位于匈牙利的中欧商贸物流合作园区是中国在欧洲建设的首个商贸物流型境外经贸合作区。其电商产业园位于瓦茨，见证中匈互利合作蓬勃发展，也让古老的小镇焕发新生。2025年10月底，园区内的智能仓项目正式投入运营。日前，记者来到智能仓，实地探访它为中匈、中欧商贸物流合作带来的新气象。 “过去…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154685.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:17.757Z"
+            }
+          },
+          {
+            "id": "people_daily:30154686",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "东京审判的法理定论不容否定（国际论坛）",
+            "author": "朱成山 卢彦名",
+            "excerpt": "重申东京审判的历史价值与深刻内涵，坚守对日本侵略罪行的法律定性，对维护战后国际秩序、捍卫人类正义有着极强的现实针对性 今年5月3日是东京审判开庭80周年纪念日。1946年5月至1948年11月，由中、美、英、苏等11国代表组成的远东国际军事法庭，对日本军国主义侵略罪行进行了正义清算。这场史无前例的国际大审判，不仅依法惩处了东条英机、广田弘毅、松井石根等日本…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154686.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:17.766Z"
+            }
+          },
+          {
+            "id": "people_daily:30154687",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“萨顿档案”进一步夯实日军南京暴行铁证",
+            "author": "本报记者 尹晓宇",
+            "excerpt": "4月29日，东京审判国际检察局成员、美国副检察官大卫·纳尔逊·萨顿的18件（套）珍贵档案，入藏侵华日军南京大屠杀遇难同胞纪念馆。这批史料包括萨顿1946年至1948年执行东京审判任务期间的6本日记原件、萨顿撰写的系列“来自中国的报告”原件等。 1946年5月3日至1948年11月12日，中、美、英、苏等11国在日本东京开设远东国际军事法庭，审判二战日本甲级…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154687.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:17.749Z"
+            }
+          },
+          {
+            "id": "people_daily:30154688",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“为非中经贸合作开辟更广阔的前景”",
+            "subtitle": "——访埃及埃中商会秘书长赫尔米",
+            "author": "本报记者 沈小晓",
+            "excerpt": "5月1日起，中国对53个非洲建交国全面实施零关税举措，同时继续推动商签共同发展经济伙伴关系协定，并通过升级“绿色通道”等进一步扩大非洲输华产品准入。埃及埃中商会秘书长迪亚·赫尔米在接受本报记者采访时表示，中国零关税举措体现了互利共赢的理念，将进一步巩固非中友谊，推动非中经贸合作迈向更高水平。 赫尔米认为，当前，全球经济动荡不定，国际金融体系亟待改革，许多国…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154688.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:17.744Z"
+            }
+          },
+          {
+            "id": "people_daily:30154689",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+            "excerpt": "本报北京5月2日电 （记者罗珊珊）商务部2日发布阻断禁令，阻断美国以参与涉伊朗石油交易为由，对恒力石化（大连）炼化有限公司、山东寿光鲁清石化有限公司、山东金诚石化集团有限公司、河北鑫海化工集团有限公司、山东胜星化工有限公司等5家企业采取的列入“特别指定国民清单”（SDN清单）、实施冻结资产和禁止交易制裁措施。 商务部新闻发言人当天对此回应表示，2025年以…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154689.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:17.808Z"
+            }
+          },
+          {
+            "id": "people_daily:30154690",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中国担任安理会5月轮值主席",
+            "excerpt": "本报联合国5月2日电 （记者李志伟）中国1日开始担任联合国安理会当月轮值主席。中国常驻联合国代表傅聪在当天举行的记者会上介绍，安理会本月将聚焦三项重点：重振《联合国宪章》权威和联合国作用、推动中东问题政治解决、支持非洲国家稳定发展。 傅聪表示，近年来，国际局势动荡加剧，冲突对抗日益增多，多边体系和国际法治遭受严重冲击。国际社会迫切需要采取行动，重振《联合国…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154690.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:17.740Z"
+            }
+          },
+          {
+            "id": "people_daily:30154691",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "多国学员实地了解中国式现代化实践经验",
+            "excerpt": "本报上海5月2日电 （记者崔寅）北京大学“东方奖学金”治国理政研修班学员代表团日前到访上海，感受上海经济社会发展、城市治理、科创成果，多角度、立体化了解中国式现代化的实践经验。 代表团由57个国家和地区的学员组成，先后走访了中共一大会址、洋山港四期码头、漕河泾开发区人形机器人孵化器、上海基层社区街道等，还在上海市委党校与国内高校学者开展座谈交流。 学员们认…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154691.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:17.875Z"
+            }
+          },
+          {
+            "id": "people_daily:30154692",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "外交部发言人就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问",
+            "excerpt": "新华社北京5月2日电 外交部发言人2日就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问。 有记者问：据报道，台湾地区领导人赖清德已于5月2日搭乘斯威士兰国王的“私人飞机”抵斯。请问中方对此有何评论？ 发言人说，赖清德在宜兰发生地震后仅几小时，弃岛内民生于不顾，偷偷钻进一架外国飞机溜出台湾，大肆挥霍公帑，上演“偷渡式”外窜闹剧，沦为国际笑柄，拉长“台独”丑行…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154692.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:17.876Z"
+            }
+          },
+          {
+            "id": "people_daily:30154694",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "国台办：玩弄伎俩、贻笑天下",
+            "excerpt": "新华社北京5月2日电 国务院台办发言人陈斌华2日答记者问表示，此前因有关国家坚持一个中国原则，赖清德企图乘包机窜访斯威士兰被迫取消，但其不甘失败，竟然不顾颜面，以偷鸡摸狗的方式外窜至斯。当前岛内正遭遇地震，赖清德不管不顾。由此可见其对岛内民众冷血无情，“台独”立场顽固，是彻头彻尾的“麻烦制造者”。 有记者问：赖清德此前因有关国家拒绝发放包机飞行许可，窜访斯…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154694.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:17.871Z"
+            }
+          },
+          {
+            "id": "people_daily:30154693",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中国—东盟灾害管理合作项目启动",
+            "excerpt": "本报雅加达5月2日电 （记者曹师韵）中国—东盟灾害管理合作项目启动仪式日前在位于印度尼西亚雅加达的东盟秘书处举行。东盟秘书长高金洪、中国驻东盟大使王擎、东盟灾害管理委员会官员以及东盟各国常驻代表等出席活动。 2026年是“中国—东盟建立全面战略伙伴关系5周年”主题年。中国—东盟灾害管理合作项目启动实施，旨在通过为东盟开展人力资源培…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154693.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:17.927Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/03/52d8611f-b4c4-44ee-9786-1d088735d0e6.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/03/877af185-0130-42ec-af31-5a5d25217d22.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:07:17.927Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-03:p04",
+        "source": "people_daily",
+        "issueDate": "2026-05-03",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154695",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "以不懈奋斗书写青春华章",
+            "subtitle": "——2026年度中国青年五四奖章暨新时代青年先锋奖获奖者速写",
+            "author": "本报记者 杨 昊",
+            "excerpt": "青春逢盛世，奋斗正当时。 2026年度中国青年五四奖章暨新时代青年先锋奖评选结果日前揭晓。作为当代青年的杰出代表，他们当中有守护万家平安的忠诚卫士，有攻克科技难题的创新尖兵，有扎根基层一线的实干先锋……他们以青春之名践行初心使命，以实干之力书写责任担当，汇聚起推动国家发展、社会进步的青春力量。 守土有责，热血铸忠诚 从边境一线到救援现场、万里海疆，他们挺身…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154695.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.247Z"
+            }
+          },
+          {
+            "id": "people_daily:30154696",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "数智洞见未来",
+            "subtitle": "——第九届数字中国建设峰会综述",
+            "author": "本报记者 施 钰",
+            "excerpt": "竞技体育中，AI（人工智能）辅助训练、运动表现分析等技术广泛应用，科学训练水平显著提升； 电力运维中，国网福建电力的“智驾无人机巡检车”，相比人工巡检效率提升5到10倍； 医药服务领域，江苏省药品监督管理局发布的“药事知了”全场景智能化药事服务平台，实现用药风险前置拦截、不良反应主动捕获…… 4月29日至30日，由国家发展改革委、国家数据局、国家网信办、工…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154696.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.251Z"
+            }
+          },
+          {
+            "id": "people_daily:30154697",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "共享车位 高效便民",
+            "author": "本报记者 尚嵘峥",
+            "excerpt": "“五一”假期，新疆乌鲁木齐市民李先生驾车前往人民公园游玩。他将车开进公园西北门附近的市林业和草原局大院，在保安的引导下找到空闲车位，停好车辆。 “进公园方便得很！”李先生指着大院门口贴的“节假日期间免费对外开放”标识说，大院门口的道闸始终抬起，停车无须登记，更不必缴费，“确实是件惠民的实事。” “节假日和周末，机关企事业单位的停车场闲置车位多，利用率较低。…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154697.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.245Z"
+            }
+          },
+          {
+            "id": "people_daily:30154698",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154698.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.246Z"
+            }
+          },
+          {
+            "id": "people_daily:30154699",
+            "source": "people_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "“怀爱国之心、立报国之志、增强国之能”",
+            "subtitle": "——新时代青年这样回答“爱国三问”",
+            "author": "本报记者 李昌禹 杨 昊",
+            "excerpt": "站在“十五五”开局新起点，何以青春、青年何为？ 无需人工遥控，全自主完成乒乓球对打，连续接球、攻防转换一气呵成……4月10日，中美“乒乓外交”55周年纪念大会上，双足人形机器人智元灵犀X2身姿灵动，表现惊艳。 一年前，上海“模速空间”大模型创新生态社区，智元机器人联合创始人兼首席技术官、90后彭志辉向习近平总书记展示了灵犀X2，介绍了前沿实用的具身智能技术…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154699.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.250Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/03/5b6ed62e-7310-4510-9037-2fe34e6245f5.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/03/8adaa008-65b5-4cca-8881-98fefa2bcb84.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:07:18.251Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "partial",
+      "method": "people-daily-html-v1",
+      "extractedAt": "2026-05-16T09:07:18.251Z",
+      "message": "This operation was aborted"
+    }
+  },
+  "plaIssue": {
+    "id": "pla_daily:2026-05-03",
+    "source": "pla_daily",
+    "issueDate": "2026-05-03",
+    "pages": [],
+    "extraction": {
+      "status": "failed",
+      "method": "pla-daily-index-json-v1",
+      "extractedAt": "2026-05-16T09:07:16.780Z",
+      "message": "This operation was aborted"
+    }
+  },
+  "matchGroups": [
+    {
+      "id": "people_only:1:要闻",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154672",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "“涉及老百姓的事情关键在实”（总书记的人民情怀）",
+          "author": "本报记者 姜 洁 魏哲哲",
+          "excerpt": "为民造福是最大政绩。 “建新城是为了老百姓过上更好生活”。九年，习近平总书记四赴雄安，调研、座谈，擘画、引领……今年3月考察时，总书记又殷殷叮嘱：“完善公共服务体系，着力保障和改善民生”。 务实功、出实招、求实效。一笔一画，久久为功，未来之城雄安新区稳扎稳打、日新月异。“努力创造经得起实践、人民、历史检验的实绩。” “实”字里见方向、有指引。“涉及老百姓的…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154672.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:13.840Z"
+          }
+        },
+        {
+          "id": "people_daily:30154673",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "抓住机遇，以更大力度更实举措加强基础研究",
+          "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+          "author": "本报评论员",
+          "excerpt": "科技兴则民族兴，科技强则国家强。在加强基础研究座谈会上，习近平总书记从统筹两个大局的战略高度，全面分析面临的新形势新挑战，强调“我们要抓住机遇、应对挑战”“以更大力度、更实举措加强基础研究”。 “当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。” 从机遇来看，世界已经进入大科学时代，技术创新进入前…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154673.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:13.855Z"
+          }
+        },
+        {
+          "id": "people_daily:30154674",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "持续抓下去，不断抓出新成效",
+          "subtitle": "——与会代表谈贯彻落实加强基础研究座谈会精神",
+          "author": "本报记者 李君强 孙 振 杨翘楚",
+          "excerpt": "基础研究是整个科学体系的源头，是所有技术问题的总机关。党的十八大以来，以习近平同志为核心的党中央高度重视基础研究，通过优化科研布局、加大投入保障、创新体制机制等，推动我国基础研究水平显著提升。 当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。4月30日，习近平总书记出席加强基础研究座谈会并发表重要…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154674.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:13.841Z"
+          }
+        },
+        {
+          "id": "people_daily:30154675",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "“怀爱国之心、立报国之志、增强国之能”",
+          "subtitle": "——新时代青年这样回答“爱国三问”",
+          "author": "本报记者 李昌禹 杨 昊",
+          "excerpt": "站在“十五五”开局新起点，何以青春、青年何为？ 无需人工遥控，全自主完成乒乓球对打，连续接球、攻防转换一气呵成……4月10日，中美“乒乓外交”55周年纪念大会上，双足人形机器人智元灵犀X2身姿灵动，表现惊艳。 一年前，上海“模速空间”大模型创新生态社区，智元机器人联合创始人兼首席技术官、90后彭志辉向习近平总书记展示了灵犀X2，介绍了前沿实用的具身智能技术…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154675.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:13.839Z"
+          }
+        },
+        {
+          "id": "people_daily:30154676",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "今年第二批915亿元超长期特别国债支持设备更新资金已下达",
+          "excerpt": "本报北京5月2日电 （记者刘志强）记者从国家发展改革委获悉：2026年第二批915亿元“两新”设备更新项目清单和资金安排近日已下达，支持工业、能源电力、电子信息等16个领域超过6700个项目，带动总投资超过3800亿元；同时，继续支持老旧营运货车、新能源城市公交车、老旧农机报废更新。加上此前已下达的936亿元，今年已累计安排“两新”设备更新资金1851…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154676.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:13.823Z"
+          }
+        },
+        {
+          "id": "people_daily:30154677",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "春到骆驼湾",
+          "author": "本报记者 万秀斌 史自强",
+          "excerpt": "“五一”假期，太行山深处的河北省阜平县龙泉关镇骆驼湾村，山花绽放，绿意盎然，一批批游客踏春而来。 这个曾经深度贫困的小山村，正迎着春风，舒展乡村全面振兴新画卷。 巨变，始于14年前。 2012年12月底，习近平总书记踏着皑皑白雪来到骆驼湾村，盘腿坐在炕上，和乡亲们促膝交谈，殷殷叮嘱“进一步坚定信心、找对路子，坚持苦干实干，推动贫困地区脱贫致富、加快发展”。…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154677.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:13.825Z"
+          }
+        },
+        {
+          "id": "people_daily:30154678",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154678.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:13.837Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:2:要闻",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154679",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中国游中国购热情持续高涨（经济新方位·聚焦假期消费）",
+          "excerpt": "",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154679.html",
+          "extraction": {
+            "status": "failed",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:16.780Z",
+            "message": "This operation was aborted"
+          }
+        },
+        {
+          "id": "people_daily:30154680",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "推广粉用稻 专供螺蛳粉（春耕里的新质生产力）",
+          "excerpt": "",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154680.html",
+          "extraction": {
+            "status": "failed",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:16.780Z",
+            "message": "This operation was aborted"
+          }
+        },
+        {
+          "id": "people_daily:30154681",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "良种配良法 小麦长势好（春耕里的新质生产力）",
+          "excerpt": "",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154681.html",
+          "extraction": {
+            "status": "failed",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:16.780Z",
+            "message": "This operation was aborted"
+          }
+        },
+        {
+          "id": "people_daily:30154682",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "一季度贷款支持科创企业力度较大",
+          "excerpt": "",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154682.html",
+          "extraction": {
+            "status": "failed",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:16.781Z",
+            "message": "This operation was aborted"
+          }
+        },
+        {
+          "id": "people_daily:30154683",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "持续抓下去，不断抓出新成效",
+          "excerpt": "",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154683.html",
+          "extraction": {
+            "status": "failed",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:16.781Z",
+            "message": "This operation was aborted"
+          }
+        },
+        {
+          "id": "people_daily:30154684",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "全年煤炭市场供需预计总体平衡",
+          "excerpt": "",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154684.html",
+          "extraction": {
+            "status": "failed",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:16.781Z",
+            "message": "This operation was aborted"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 6本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:3:要闻",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154685",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "智能绿色物流，见证中匈互利合作提质升级",
+          "author": "本报记者 禹丽敏",
+          "excerpt": "匈牙利首都布达佩斯往北30公里，多瑙河畔的瓦茨小镇是该国历史悠久的铁路枢纽。位于匈牙利的中欧商贸物流合作园区是中国在欧洲建设的首个商贸物流型境外经贸合作区。其电商产业园位于瓦茨，见证中匈互利合作蓬勃发展，也让古老的小镇焕发新生。2025年10月底，园区内的智能仓项目正式投入运营。日前，记者来到智能仓，实地探访它为中匈、中欧商贸物流合作带来的新气象。 “过去…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154685.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:17.757Z"
+          }
+        },
+        {
+          "id": "people_daily:30154686",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "东京审判的法理定论不容否定（国际论坛）",
+          "author": "朱成山 卢彦名",
+          "excerpt": "重申东京审判的历史价值与深刻内涵，坚守对日本侵略罪行的法律定性，对维护战后国际秩序、捍卫人类正义有着极强的现实针对性 今年5月3日是东京审判开庭80周年纪念日。1946年5月至1948年11月，由中、美、英、苏等11国代表组成的远东国际军事法庭，对日本军国主义侵略罪行进行了正义清算。这场史无前例的国际大审判，不仅依法惩处了东条英机、广田弘毅、松井石根等日本…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154686.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:17.766Z"
+          }
+        },
+        {
+          "id": "people_daily:30154687",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“萨顿档案”进一步夯实日军南京暴行铁证",
+          "author": "本报记者 尹晓宇",
+          "excerpt": "4月29日，东京审判国际检察局成员、美国副检察官大卫·纳尔逊·萨顿的18件（套）珍贵档案，入藏侵华日军南京大屠杀遇难同胞纪念馆。这批史料包括萨顿1946年至1948年执行东京审判任务期间的6本日记原件、萨顿撰写的系列“来自中国的报告”原件等。 1946年5月3日至1948年11月12日，中、美、英、苏等11国在日本东京开设远东国际军事法庭，审判二战日本甲级…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154687.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:17.749Z"
+          }
+        },
+        {
+          "id": "people_daily:30154688",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“为非中经贸合作开辟更广阔的前景”",
+          "subtitle": "——访埃及埃中商会秘书长赫尔米",
+          "author": "本报记者 沈小晓",
+          "excerpt": "5月1日起，中国对53个非洲建交国全面实施零关税举措，同时继续推动商签共同发展经济伙伴关系协定，并通过升级“绿色通道”等进一步扩大非洲输华产品准入。埃及埃中商会秘书长迪亚·赫尔米在接受本报记者采访时表示，中国零关税举措体现了互利共赢的理念，将进一步巩固非中友谊，推动非中经贸合作迈向更高水平。 赫尔米认为，当前，全球经济动荡不定，国际金融体系亟待改革，许多国…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154688.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:17.744Z"
+          }
+        },
+        {
+          "id": "people_daily:30154689",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "excerpt": "本报北京5月2日电 （记者罗珊珊）商务部2日发布阻断禁令，阻断美国以参与涉伊朗石油交易为由，对恒力石化（大连）炼化有限公司、山东寿光鲁清石化有限公司、山东金诚石化集团有限公司、河北鑫海化工集团有限公司、山东胜星化工有限公司等5家企业采取的列入“特别指定国民清单”（SDN清单）、实施冻结资产和禁止交易制裁措施。 商务部新闻发言人当天对此回应表示，2025年以…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154689.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:17.808Z"
+          }
+        },
+        {
+          "id": "people_daily:30154690",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中国担任安理会5月轮值主席",
+          "excerpt": "本报联合国5月2日电 （记者李志伟）中国1日开始担任联合国安理会当月轮值主席。中国常驻联合国代表傅聪在当天举行的记者会上介绍，安理会本月将聚焦三项重点：重振《联合国宪章》权威和联合国作用、推动中东问题政治解决、支持非洲国家稳定发展。 傅聪表示，近年来，国际局势动荡加剧，冲突对抗日益增多，多边体系和国际法治遭受严重冲击。国际社会迫切需要采取行动，重振《联合国…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154690.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:17.740Z"
+          }
+        },
+        {
+          "id": "people_daily:30154691",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "多国学员实地了解中国式现代化实践经验",
+          "excerpt": "本报上海5月2日电 （记者崔寅）北京大学“东方奖学金”治国理政研修班学员代表团日前到访上海，感受上海经济社会发展、城市治理、科创成果，多角度、立体化了解中国式现代化的实践经验。 代表团由57个国家和地区的学员组成，先后走访了中共一大会址、洋山港四期码头、漕河泾开发区人形机器人孵化器、上海基层社区街道等，还在上海市委党校与国内高校学者开展座谈交流。 学员们认…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154691.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:17.875Z"
+          }
+        },
+        {
+          "id": "people_daily:30154692",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "外交部发言人就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问",
+          "excerpt": "新华社北京5月2日电 外交部发言人2日就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问。 有记者问：据报道，台湾地区领导人赖清德已于5月2日搭乘斯威士兰国王的“私人飞机”抵斯。请问中方对此有何评论？ 发言人说，赖清德在宜兰发生地震后仅几小时，弃岛内民生于不顾，偷偷钻进一架外国飞机溜出台湾，大肆挥霍公帑，上演“偷渡式”外窜闹剧，沦为国际笑柄，拉长“台独”丑行…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154692.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:17.876Z"
+          }
+        },
+        {
+          "id": "people_daily:30154694",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "国台办：玩弄伎俩、贻笑天下",
+          "excerpt": "新华社北京5月2日电 国务院台办发言人陈斌华2日答记者问表示，此前因有关国家坚持一个中国原则，赖清德企图乘包机窜访斯威士兰被迫取消，但其不甘失败，竟然不顾颜面，以偷鸡摸狗的方式外窜至斯。当前岛内正遭遇地震，赖清德不管不顾。由此可见其对岛内民众冷血无情，“台独”立场顽固，是彻头彻尾的“麻烦制造者”。 有记者问：赖清德此前因有关国家拒绝发放包机飞行许可，窜访斯…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154694.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:17.871Z"
+          }
+        },
+        {
+          "id": "people_daily:30154693",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中国—东盟灾害管理合作项目启动",
+          "excerpt": "本报雅加达5月2日电 （记者曹师韵）中国—东盟灾害管理合作项目启动仪式日前在位于印度尼西亚雅加达的东盟秘书处举行。东盟秘书长高金洪、中国驻东盟大使王擎、东盟灾害管理委员会官员以及东盟各国常驻代表等出席活动。 2026年是“中国—东盟建立全面战略伙伴关系5周年”主题年。中国—东盟灾害管理合作项目启动实施，旨在通过为东盟开展人力资源培…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154693.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:17.927Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 10本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:4:要闻",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154695",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "以不懈奋斗书写青春华章",
+          "subtitle": "——2026年度中国青年五四奖章暨新时代青年先锋奖获奖者速写",
+          "author": "本报记者 杨 昊",
+          "excerpt": "青春逢盛世，奋斗正当时。 2026年度中国青年五四奖章暨新时代青年先锋奖评选结果日前揭晓。作为当代青年的杰出代表，他们当中有守护万家平安的忠诚卫士，有攻克科技难题的创新尖兵，有扎根基层一线的实干先锋……他们以青春之名践行初心使命，以实干之力书写责任担当，汇聚起推动国家发展、社会进步的青春力量。 守土有责，热血铸忠诚 从边境一线到救援现场、万里海疆，他们挺身…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154695.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.247Z"
+          }
+        },
+        {
+          "id": "people_daily:30154696",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "数智洞见未来",
+          "subtitle": "——第九届数字中国建设峰会综述",
+          "author": "本报记者 施 钰",
+          "excerpt": "竞技体育中，AI（人工智能）辅助训练、运动表现分析等技术广泛应用，科学训练水平显著提升； 电力运维中，国网福建电力的“智驾无人机巡检车”，相比人工巡检效率提升5到10倍； 医药服务领域，江苏省药品监督管理局发布的“药事知了”全场景智能化药事服务平台，实现用药风险前置拦截、不良反应主动捕获…… 4月29日至30日，由国家发展改革委、国家数据局、国家网信办、工…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154696.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.251Z"
+          }
+        },
+        {
+          "id": "people_daily:30154697",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "共享车位 高效便民",
+          "author": "本报记者 尚嵘峥",
+          "excerpt": "“五一”假期，新疆乌鲁木齐市民李先生驾车前往人民公园游玩。他将车开进公园西北门附近的市林业和草原局大院，在保安的引导下找到空闲车位，停好车辆。 “进公园方便得很！”李先生指着大院门口贴的“节假日期间免费对外开放”标识说，大院门口的道闸始终抬起，停车无须登记，更不必缴费，“确实是件惠民的实事。” “节假日和周末，机关企事业单位的停车场闲置车位多，利用率较低。…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154697.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.245Z"
+          }
+        },
+        {
+          "id": "people_daily:30154698",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154698.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.246Z"
+          }
+        },
+        {
+          "id": "people_daily:30154699",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "“怀爱国之心、立报国之志、增强国之能”",
+          "subtitle": "——新时代青年这样回答“爱国三问”",
+          "author": "本报记者 李昌禹 杨 昊",
+          "excerpt": "站在“十五五”开局新起点，何以青春、青年何为？ 无需人工遥控，全自主完成乒乓球对打，连续接球、攻防转换一气呵成……4月10日，中美“乒乓外交”55周年纪念大会上，双足人形机器人智元灵犀X2身姿灵动，表现惊艳。 一年前，上海“模速空间”大模型创新生态社区，智元机器人联合创始人兼首席技术官、90后彭志辉向习近平总书记展示了灵犀X2，介绍了前沿实用的具身智能技术…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154699.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.250Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    }
+  ],
+  "counts": {
+    "peopleArticles": 28,
+    "plaArticles": 0,
+    "matchedGroups": 0,
+    "matchedPeopleArticles": 0,
+    "matchedPlaArticles": 0,
+    "peopleOnlyArticles": 28,
+    "plaOnlyArticles": 0
+  }
+}

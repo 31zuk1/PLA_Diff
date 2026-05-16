@@ -1,0 +1,2187 @@
+{
+  "schemaVersion": 1,
+  "issueDate": "2026-04-22",
+  "generatedAt": "2026-05-16T09:04:27.113Z",
+  "retentionDays": 31,
+  "frontPages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "judge": {
+    "enabled": true,
+    "model": "gpt-4.1-nano"
+  },
+  "peopleIssue": {
+    "id": "people_daily:2026-04-22",
+    "source": "people_daily",
+    "issueDate": "2026-04-22",
+    "pages": [
+      {
+        "id": "people_daily:2026-04-22:p01",
+        "source": "people_daily",
+        "issueDate": "2026-04-22",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30152525",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平同莫桑比克总统查波会谈",
+            "excerpt": "新华社北京4月21日电 （记者邵艺博、曹嘉玥）4月21日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的莫桑比克总统查波举行会谈。两国元首一致同意将双边关系提升至新时代中莫命运共同体。 习近平指出，中国和莫桑比克传统友谊穿越历史、跨越山海。建交以来，中莫两国相互信任、守望相助，成为中非友好和南南合作的典范。新形势下，不断深化中莫友好合作符合两国人民…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152525.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.494Z"
+            }
+          },
+          {
+            "id": "people_daily:30152526",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛",
+            "excerpt": "新华社北京4月21日电 （记者邵艺博）4月21日下午，中共中央总书记、国家主席习近平在人民大会堂会见作为老挝人民革命党中央总书记、国家主席通伦特使专程来访的老挝人革党中央政治局委员、常务副总理沙伦赛。 习近平指出，中老两党互派特使通报各自重大政治议程，彰显了双方深厚传统友谊和高水平政治互信。今年是中老建交65周年暨“中老友好年”。不久前，我同通伦总书记互致…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152526.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.580Z"
+            }
+          },
+          {
+            "id": "people_daily:30152527",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "国家主席习近平任免驻外大使",
+            "excerpt": "新华社北京4月21日电 中华人民共和国主席习近平根据全国人民代表大会常务委员会的决定任免下列驻外大使： 一、免去张益明的中华人民共和国驻阿拉伯联合酋长国特命全权大使职务； 任命曾继新为中华人民共和国驻阿拉伯联合酋长国特命全权大使。 二、免去童德发的中华人民共和国驻加纳共和国特命全权大使职务； 任命丛耸为中华人民共和国驻加…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152527.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.477Z"
+            }
+          },
+          {
+            "id": "people_daily:30152528",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "李强会见莫桑比克总统查波",
+            "excerpt": "新华社北京4月21日电 4月21日上午，国务院总理李强在北京人民大会堂会见来华进行国事访问的莫桑比克总统查波。 李强表示，今年是中莫建立全面战略合作伙伴关系10周年。近些年，在双方共同努力下，中莫互利合作取得丰硕成果。习近平主席将同总统先生举行会谈，就进一步深化两国关系与合作作出新的规划。中方愿同莫方一道弘扬传统友谊，始终相互信任，坚定支持彼此核心利益和重…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152528.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.476Z"
+            }
+          },
+          {
+            "id": "people_daily:30152529",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "赵乐际分别会见莫桑比克总统查波、欧洲议会副议长奥马吉",
+            "excerpt": "新华社北京4月21日电 全国人大常委会委员长赵乐际21日在北京会见莫桑比克总统查波。 赵乐际表示，中国和莫桑比克传统友谊深厚。今天下午，习近平主席将同总统先生举行会谈，共同开启中莫关系新篇章。中方愿同莫方一道，以两国元首重要共识为引领，弘扬传统友好，深化政治互信，拓展互利合作，密切人文交流，全面落实中非合作论坛北京峰会成果；加强立法机构交流合作，分享改革发…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152529.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.467Z"
+            }
+          },
+          {
+            "id": "people_daily:30152530",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "韩正会见孟加拉国民族主义党高级干部考察团",
+            "excerpt": "新华社北京4月21日电 国家副主席韩正21日在京会见由党的总书记，内阁地方政府、农村发展和合作社部长阿拉姆吉尔率领的孟加拉国民族主义党高级干部考察团。 韩正表示，中孟是相知相交的友好近邻。中方祝贺孟加拉国平稳顺利完成大选，愿同孟方一道，以两国领导人重要共识为引领，赓续传统友谊，深化政治互信，加强共建“一带一路”等领域合作，推动中孟全面战略合作伙伴关系不断向…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152530.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.495Z"
+            }
+          },
+          {
+            "id": "people_daily:30152531",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "导读",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152531.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.481Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202604/22/72527c29-2791-4766-aaa4-a4f536451507.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202604/22/01af3283-c898-4336-8683-5ed9cb69343c.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:04:09.580Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-04-22:p02",
+        "source": "people_daily",
+        "issueDate": "2026-04-22",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30152532",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "国务院印发《关于推进服务业扩能提质的意见》",
+            "excerpt": "新华社北京4月21日电 为深入贯彻落实习近平总书记关于服务业发展的重要指示和全国服务业大会精神，国务院日前印发《关于推进服务业扩能提质的意见》（以下简称《意见》）。 《意见》要求，以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，完整准确全面贯彻新发展理念，坚持有效市场和有为政府相结合，坚持扩能和提质并举、发展和监管统筹，突…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152532.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:10.191Z"
+            }
+          },
+          {
+            "id": "people_daily:30152533",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "服务业高质量发展有了“路线图”（子夜走笔）",
+            "author": "李心萍",
+            "excerpt": "4月21日，国务院《关于推进服务业扩能提质的意见》（以下简称《意见》）对外发布。 从新时代首次聚焦服务业的全国性大会在京召开，到《意见》的正式发布，推动服务业高质量发展的“路线图”愈发清晰。 推动服务业高质量发展，关键要从“扩能”和“提质”两方面入手。 扩能，意味着拓展服务业的广度与深度，提升其发展能级。 服务业涵盖餐饮住宿、批发零售等生活性服务业，也包括…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152533.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.937Z"
+            }
+          },
+          {
+            "id": "people_daily:30152534",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "工业经济向新向好稳中有进（权威发布）",
+            "author": "本报记者 王 政 刘温馨",
+            "excerpt": "“一季度，规模以上工业增加值同比增长6.1%，31个省份全部实现正增长，行业增长面超八成，工业对经济增长的贡献率近四成。”在4月21日举行的国务院新闻办新闻发布会上，工业和信息化部副部长张云明介绍了一季度工业和信息化发展情况。 34个行业增加值实现同比增长 “今年以来，工业经济总体呈现向新向好、稳中有进态势，切实发挥了稳定宏观经济大盘的‘压舱石’作用。”张…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152534.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.904Z"
+            }
+          },
+          {
+            "id": "people_daily:30152535",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "增势源自创新、助力创新（快评）",
+            "author": "刘温馨",
+            "excerpt": "翻看工业经济一季报，高技术制造业以“一马当先”之势领跑增长，成为我国经济良好开局、产业结构持续优化的生动写照。 增势源自创新。正是基于AI等技术变革，消费电子等行业新技术、新产品加速落地，带动高技术制造业蓬勃发展，也助推生产结构、供给结构加速向价值链中高端迈进。 增势也助力创新。今年以来，我国全链条推进关键核心技术攻关和前沿领域布局，航空航天、量子科技、生…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152535.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.925Z"
+            }
+          },
+          {
+            "id": "people_daily:30152536",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "把个人理想融入科技强国建设",
+            "author": "本报记者 吴月辉",
+            "excerpt": "加快实现高水平科技自立自强是推动高质量发展的必由之路。在强国建设、民族复兴的新征程上，千千万万科技工作者扎根一线，瞄准产业前沿，为国家科技事业的发展贡献了智慧和力量。 4月21日，国务院新闻办举行“新征程上的奋斗者”中外记者见面会，5位科技领域代表围绕“弘扬科学家精神 聚力科技自立自强”，交流分享科研经历和心得体会。 清华大学车辆与运载学院副教授徐梁飞主要…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152536.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.912Z"
+            }
+          },
+          {
+            "id": "people_daily:30152537",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "又“酸”又“瘦”的荒坡，这样变沃土（春耕里的新质生产力）",
+            "author": "本报记者 王 丹",
+            "excerpt": "“5号地，照例30分钟；3号地，含氮量略少，今天多开10分钟。”江西南昌进贤县北良智慧农场技术员陈军厂操作手机上的智慧农场系统，远处的增压泵应声启动，田垄间的喷枪转动起来，将水肥混合液喷向红土地，最远可喷至45米外。 红土翻浪，翻耕后的田畴如红棕色的毯子铺向远方。北良农场的红土含氮量达每千克90毫克、酸碱度在6以上，轮茬种植油菜、玉米、芝麻等作物，是块名副…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152537.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.902Z"
+            }
+          },
+          {
+            "id": "people_daily:30152538",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "10部门促进和规范电子单证应用",
+            "subtitle": "提升货物贸易和运输数字化水平",
+            "excerpt": "本报北京4月21日电 （记者金歆）国家网信办、工业和信息化部、公安部等十部门近日联合公布《促进和规范电子单证应用规定》，自2026年9月1日起施行。 规定明确了促进和规范电子单证应用的原则、部门职责等。鼓励电子单证的推广应用，分类分级管理电子单证系统，提升货物贸易和运输数字化水平。明确各有关部门加强政策协同，依据各自职责促进和规范电子单证应用，推动电子单证…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152538.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:09.916Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202604/22/a545b0e0-f7fe-4f37-a878-da8a4c1e241d.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202604/22/3e4edeba-6028-4af5-b708-3fa6161ecb24.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:04:10.191Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-04-22:p03",
+        "source": "people_daily",
+        "issueDate": "2026-04-22",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30152539",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中华人民共和国和莫桑比克共和国关于构建新时代中莫命运共同体的联合声明",
+            "subtitle": "（二〇二六年四月二十一日，北京）",
+            "excerpt": "应中华人民共和国主席习近平邀请，莫桑比克共和国总统丹尼尔·弗朗西斯科·查波于2026年4月16日至22日对中华人民共和国进行国事访问。 访问期间，两国元首在亲切友好气氛中举行会谈，就新形势下中莫、中非关系以及共同关心的国际和地区问题深入交换意见。中华人民共和国国务院总理李强、全国人民代表大会常务委员会委员长赵乐际分别同查波总统会见。 双方一致认为，中莫传统…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152539.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:10.570Z"
+            }
+          },
+          {
+            "id": "people_daily:30152540",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "薪火相传厚情谊 青春同心向未来",
+            "author": "本报记者 杨 昊 李 纵",
+            "excerpt": "“能够参加‘红色研学之旅’，我深感幸运。每一处足迹、每一个故事、每一段回忆都使我们更加深刻地理解越中之间的深厚情谊。”越南红领巾讲解员、河内市南门坊吴士连初中的黎芳宝玉说。 日前，由共青团中央主办的越南青年来华“红色研学之旅”之“不忘初心”研学营在广东和北京两地举办，200名越南各界青少年代表来华研学。中越两国青年代表携手同行，在红色溯源中感悟初心，在发展…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152540.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:10.535Z"
+            }
+          },
+          {
+            "id": "people_daily:30152541",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "高市向靖国神社献祭品，是对历史正义的公然亵渎（钟声）",
+            "excerpt": "4月21日，日本首相高市早苗以“内阁总理大臣”名义，向供奉二战甲级战犯、臭名昭著的靖国神社供奉名为“真榊”的祭品。在东京审判开庭80周年的特殊年份，高市冒天下之大不韪，一意孤行，是对人类良知的执意践踏，是对历史正义的公然亵渎，更是对二战胜利成果的狂妄挑衅。全世界正义力量应对这种倒行逆施保持高度警惕，并对日本的战略走向作出清醒判断。 靖国神社从来就不是单纯的…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152541.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:10.513Z"
+            }
+          },
+          {
+            "id": "people_daily:30152542",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "王毅会见老挝常务副总理沙伦赛",
+            "excerpt": "新华社北京4月21日电 （记者万倩仪）中共中央政治局委员、外交部长王毅21日在北京会见作为老挝人民革命党中央总书记、国家主席通伦特使专程来访的老挝人革党中央政治局委员、常务副总理沙伦赛。 王毅表示，中方愿同老方落实好两党两国最高领导人重要共识，保持高层交往，加强战略沟通，深化长期合作，维护各自政治安全、政权安全和制度安全，促进世界社会主义事业发展，也为…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152542.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:10.520Z"
+            }
+          },
+          {
+            "id": "people_daily:30152543",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "王毅将访问柬埔寨、泰国、缅甸并与董军共同出席中柬外长、防长“2+2”战略对话机制首次会议",
+            "excerpt": "本报北京4月21日电 （记者褚君）外交部发言人4月21日宣布：中共中央政治局委员、外交部长王毅将于4月22日至26日应邀访问柬埔寨、泰国、缅甸。访柬期间，王毅将与国…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152543.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:10.512Z"
+            }
+          },
+          {
+            "id": "people_daily:30152544",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "何立峰会见美国通用电气医疗集团全球总裁兼首席执行官安杜尼时指出 中国将坚定不移扩大高水平对外开放 欢迎美资企业共享中国高质量发展机遇",
+            "excerpt": "新华社北京4月21日电 中共中央政治局委员、国务院副总理何立峰21日下午在北京会见美国通用电气医疗集团全球总裁兼首席执行官安杜尼。 何立峰指出，2026年中国经济实现良好开局，发展韧性和活力进一步彰显。“十五五”时期，中国将坚定不移扩大高水平对外开放，持续打造一流营商环境，欢迎包括通用电气医疗集团在内的更多美资企业持续深化对华互利合…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152544.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:10.519Z"
+            }
+          },
+          {
+            "id": "people_daily:30152545",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "肖捷会见欧洲议会副议长奥马吉",
+            "excerpt": "新华社北京4月21日电 全国人大常委会副委员长肖捷21日在京会见应邀来华访问的欧洲议会副议长奥马吉。双方就推动中欧关系健康稳定发…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152545.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:10.528Z"
+            }
+          },
+          {
+            "id": "people_daily:30152546",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "刘海星会见孟加拉国民族主义党高级干部考察团",
+            "excerpt": "新华社北京4月21日电 4月21日，中共中央对外联络部部长刘海星在北京会见由党的总书记，内阁地方政府、农村发展和合作社部长阿拉姆吉尔率领的孟加拉国民族主义党高…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152546.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:10.602Z"
+            }
+          },
+          {
+            "id": "people_daily:30152547",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "莫桑比克总统查波向人民英雄纪念碑敬献花圈",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152547.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:10.942Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202604/22/cb918fe2-3a32-48fe-8615-d95f85e67018.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202604/22/a596dd2d-7c3b-47a1-b1d6-4efc6a443d26.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:04:10.942Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-04-22:p04",
+        "source": "people_daily",
+        "issueDate": "2026-04-22",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30152548",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "第五届中新社会治理高层论坛在杭州举行",
+            "subtitle": "陈文清出席并致辞",
+            "excerpt": "本报杭州4月21日电 （记者徐隽）第五届中新社会治理高层论坛20日在浙江杭州举行。中共中央政治局委员、中央政法委书记陈文清，新加坡社会政策统筹部长兼保健卫生部长王乙康出席并致辞。 陈文清指出，在习近平总书记的领导下，源起浙江的新时代“枫桥经验”和社会治安综合治理中心，传承了中华优秀传统文化，凝聚了中华民族的智慧，为正确处理新形势下人民内部矛盾提供了路径方法…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152548.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:11.318Z"
+            }
+          },
+          {
+            "id": "people_daily:30152549",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "奋力谱写中国式现代化内蒙古新篇章（开局起步“十五五”·专题新闻发布）",
+            "author": "本报记者 冯春梅 张 枨",
+            "excerpt": "4月21日，开局起步“十五五”内蒙古专场新闻发布会在呼和浩特举行。内蒙古自治区党委副书记、自治区人民政府主席包钢表示，全区干部群众有信心、有决心、有能力实现“十五五”时期各项目标任务，谱写中国式现代化内蒙古新篇章。“全面落实习近平总书记对内蒙古系列重要讲话重要指示精神，我们将加快构建具有内蒙古特色、在国家产业格局中具有重要地位的现代化产业体系。”包钢说。…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152549.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:11.263Z"
+            }
+          },
+          {
+            "id": "people_daily:30152550",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "山东努力成为北方地区经济重要增长极（开局起步“十五五”·专题新闻发布）",
+            "author": "本报记者 侯琳良",
+            "excerpt": "4月21日，开局起步“十五五”山东专场新闻发布会在济南举行。山东省委副书记、省长周乃翔表示，深入贯彻习近平总书记对山东工作的重要指示要求，山东将加快建设绿色低碳高质量发展先行区，打造高水平对外开放新高地，努力成为北方地区经济重要增长极，让山东发展动能更澎湃、人民生活更美好。 在培育新产业、壮大新动能上下好先手棋 全国超过1/3的商用车、一半的动车组、80%…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152550.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:11.288Z"
+            }
+          },
+          {
+            "id": "people_daily:30152551",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "福建省福清市持续推动生态修复和文旅融合发展，让昔日矿坑转型为生态文旅公园，为群众提供更多高品质的休闲生活空间。图为福清市福庐山一处由矿坑改造成的露营…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152551.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:11.268Z"
+            }
+          },
+          {
+            "id": "people_daily:30152552",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "国务院任免国家工作人员",
+            "excerpt": "新华社北京4月21日电 国务院任免国家工作人员。 任命吕武钦为公安部部长助理；任命池景阳为国家移民管理局（中华人民共和国出入境管理局）副局长；任命丰成友为中国地质调查局副局长。 免去林涛的国务院副秘书长职务；免去张勇的国家移…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152552.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:11.272Z"
+            }
+          },
+          {
+            "id": "people_daily:30152553",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "交通运输部海事局发布航运企业安全生产指南",
+            "excerpt": "本报北京4月21日电 （记者韩鑫）交通运输部海事局近日发布《航运企业落实安全生产主体责任指南（1.0版）》及6项配套工作指引，初步构建起“1+6”航运企业安全管理制度体系，为我国航运业夯实安全发展基础。 指南内容贯穿航运企业安全生产全流程、全要素、全岗位：聚焦深化风险分级管控与隐患排查治理双重预防机制，指导企业建立常态化风险防范化解机制，重点遏制商渔船碰撞…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152553.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:11.270Z"
+            }
+          },
+          {
+            "id": "people_daily:30152554",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "国务院任免国家工作人员",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152554.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:11.279Z"
+            }
+          },
+          {
+            "id": "people_daily:30152555",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "县里能检测 研发少奔波",
+            "author": "本报记者 杨颜菲",
+            "excerpt": "在江西吉安市峡江县，食品工程师后小红带着新款果汁样品，从中润食品有限公司研发大楼出发，不一会儿就抵达了峡江县生物医药综合检测中心。登记、送检，流程顺畅，全程不到半小时。 峡江县近年来推动生物医药大健康、绿色食品等产业集聚发展，企业数量持续增长，食药新品加速迭代。与此同时，一个问题愈发凸显：产品想上市，需要专业检测报告作为“通行证”，但县级层面却缺乏高资质的…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152555.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:11.287Z"
+            }
+          },
+          {
+            "id": "people_daily:30152556",
+            "source": "people_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "“五一”假期首尾增开直通夜间高铁列车",
+            "excerpt": "本报北京4月21日电 （记者李心萍）记者从中国铁路12306技术中心获悉：“五一”假期火车票开售以来购票需求旺盛，为最大限度满足旅客购票需求，铁路部门在假期首尾出行高峰时段和旅客出行相对集中的方向，计划调整高铁夜间“天窗”维修时间，在确保安全前提下，于4月29日夜间至5月2日凌晨、5月4日夜间至6日凌晨，在京沪、京广、京哈等高铁干线安排开行直通夜间高铁列车…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152556.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:04:11.164Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202604/22/a7ecd658-b30e-4040-b1e6-ac9b5458858b.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202604/22/842672a1-330c-486b-8fdc-5ac2d78c6825.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:04:11.319Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "people-daily-html-v1",
+      "extractedAt": "2026-05-16T09:04:11.319Z"
+    }
+  },
+  "plaIssue": {
+    "id": "pla_daily:2026-04-22",
+    "source": "pla_daily",
+    "issueDate": "2026-04-22",
+    "pages": [
+      {
+        "id": "pla_daily:2026-04-22:p01",
+        "source": "pla_daily",
+        "issueDate": "2026-04-22",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-04-22-1-0",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平同莫桑比克总统查波会谈",
+            "excerpt": "新华社北京4月21日电 （记者邵艺博、曹嘉玥）4月21日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的莫桑比克总统查波举行会谈。两国元首一致同意将双边关系提升至新时代中莫命运共同体。 习近平指出，中国和莫桑比克传统友谊穿越历史、跨越山海。建交以来，中莫两国相互信任、守望相助，成为中非友好和南南合作的典范。新形势下，不断深化中莫友好合作符合两国人民…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=01&articleid=2026-04-22-1-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.920Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-1-1",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛",
+            "excerpt": "新华社北京4月21日电 （记者邵艺博）4月21日下午，中共中央总书记、国家主席习近平在人民大会堂会见作为老挝人民革命党中央总书记、国家主席通伦特使专程来访的老挝人革党中央政治局委员、常务副总理沙伦赛。 习近平指出，中老两党互派特使通报各自重大政治议程，彰显了双方深厚传统友谊和高水平政治互信。今年是中老建交65周年暨“中老友好年”。不久前，我同通伦总书记互致…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=01&articleid=2026-04-22-1-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.920Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-1-2",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "国家主席习近平任免驻外大使",
+            "excerpt": "新华社北京4月21日电 中华人民共和国主席习近平根据全国人民代表大会常务委员会的决定任免下列驻外大使： 一、免去张益明的中华人民共和国驻阿拉伯联合酋长国特命全权大使职务； 任命曾继新为中华人民共和国驻阿拉伯联合酋长国特命全权大使。 二、免去童德发的中华人民共和国驻加纳共和国特命全权大使职务； 任命丛耸为中华人民共和国驻加…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=01&articleid=2026-04-22-1-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.920Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-1-3",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "“雪中送炭”解难 “有的放矢”指导",
+            "excerpt": "入营初期适当增加心理行为训练比重，帮助新兵早日适应军营生活；新训课目展开前增设示教环节，规范动作、统一标准……近日，信息支援部队某部一名党委常委按照党委帮建基层计划，带领作训参谋与新兵营干部骨干认真研究训练思路，很多源自一线调研的“金点子”被纳入训练方案。 早在新兵入营前，这名党委常委就带领工作组，指导完成了训练场地构设、训练器材添置等事项。随后，他们深入…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=01&articleid=2026-04-22-1-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.920Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-1-4",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "从“能飞能上舰”到“能战能联合”",
+            "excerpt": "本报讯 记者钱晓虎、特约通讯员姜子晗报道：海天之上，数架歼-15T战机、歼-35战机、空警-600预警机展开体系协同训练，海军某新型舰载机伴飞侦察……近日，海军某航母编队在渤海某海域组织实战化训练，各机型飞行骨干按作战群编组，圆满完成侦察预警、防空反导等10余项联合训练科目，在真打实抗中淬炼制胜本领。 信息共享、联合研练，航母编队体系支撑更加全面的背后，是…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=01&articleid=2026-04-22-1-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.920Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260422/cbfdb8034b54cf664e3323e822a80570.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260422/90f3fbb4b12b45158926dfbea61a3bba.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:04:09.920Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-04-22:p02",
+        "source": "pla_daily",
+        "issueDate": "2026-04-22",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-04-22-2-0",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "告别“干粮袋” 吃上“百家饭”",
+            "excerpt": "雪域高原，铁翼飞旋。春日，西藏军区某旅在高原训练场连续展开多场实战化训练。 冰峰雪岭间，执行对地突击任务的某直升机编队突然发出油料补给信号。随后，一架战机飞离编队，就近紧急停靠等待补给。让记者没想到的是，前来提供补给的并非该旅保障单元，而是驻地就在附近的空军某场站应急保障分队。 抵达战机临时降落点后，该场站油料保障分队熟练连接输油管线、精准调控油量，为战机…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=02&articleid=2026-04-22-2-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.920Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-2-1",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "过得硬与信得过",
+            "excerpt": "打铁必须自身硬。 习主席指出：“全军广大官兵特别是基层官兵坚定听党话、跟党走，忠诚履职尽责，聚力攻坚克难，圆满完成各项任务，是完全过得硬、信得过的。” 过得硬，强调的是官兵自身的能力素质；信得过，则是对其形象人格的高度认可。 军队领导干部是部队建设的“关键少数”和中坚力量，是强军事业的领路人、广大官兵的主心骨，更应该做到过得硬、信得过。 过得硬，首先是政治…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=02&articleid=2026-04-22-2-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.920Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-2-2",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "荒坡地变身投弹场",
+            "excerpt": "“轰！轰！轰！”仲春时节，第73集团军某旅手榴弹实投训练场硝烟弥漫、尘土飞扬。首次参加手榴弹实投训练的新兵们，在教练员指导下圆满完成大纲规定的训练内容。 训练间隙，作战支援营的昌连长告诉笔者，这个投入使用不久的手榴弹实投训练场，布局合理、设施齐全，重点点位还安装了高清监控设备，指挥员能随时通过监控画面掌握官兵训练进度和现场情况。 “不久前，这个手榴弹实投训…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=02&articleid=2026-04-22-2-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-2-3",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "先辈故事润兵心砺斗志",
+            "excerpt": "本报讯 姚冠辰报道：日前，海军某部礼堂座无虚席。讲台上，海军第一代舰载机特级飞行员吕蕴兴以及曾6次随编队执行护航等重大任务的特级飞行员胡宝良，分别结合个人成长经历和任务体会，讲述海军舰载航空兵部队艰苦创业的光辉历程。一个个感人故事、一幅幅历史照片，让官兵深受触动，现场不时响起热烈掌声。 “红色资源不是尘封的历史，而是鲜活的教育素材。”该部领导表示，近年来，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=02&articleid=2026-04-22-2-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-2-4",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=02&articleid=2026-04-22-2-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260422/683a666aac56c12e21cd4cfdf0f1d358.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260422/3b12e98fddd4d1aaf19c972158807771.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:04:09.921Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-04-22:p03",
+        "source": "pla_daily",
+        "issueDate": "2026-04-22",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-04-22-3-0",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "刻骨铭心的“草地之问”",
+            "excerpt": "濒临绝境，常人问温饱、问生死。食不果腹、衣衫褴褛的红军在穿越沼泽遍布、危机四伏的茫茫草地时，却问出了一串刻骨铭心的问题。这些发问，像雾霭中的阳光、如暗夜里的闪电，照见了一支军队的精神底色，也照见了共产党人最朴素的作风与信仰。 1936年7月，红四方面军的战士们已把粮袋里最后一撮粮食“一颗一颗数着吃光了”，连皮带、皮鞋底都拌着野菜吃了，但路途还很长。一天，战…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-3-1",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "第十三批在韩中国人民志愿军烈士遗骸即将回国",
+            "excerpt": "新华社北京4月21日电 （记者刘艺、高玉娇）记者从退役军人事务部获悉，日前，由退役军人事务部等部门组成的在韩中国人民志愿军烈士遗骸交接工作代表团组已前往韩国，将于4月22日接运第十三批12位在韩中国人民志愿军烈士遗骸及相关遗物归国。 自2014年以来，中韩…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-3-2",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "向新向好 稳中有进",
+            "subtitle": "——透视首季工业和信息化发展成效",
+            "excerpt": "“十五五”开局之年，工业和信息化领域首份季度“成绩单”成色如何？产业呈现哪些新特征？在21日举行的国新办新闻发布会上，工业和信息化部有关负责人详解2026年一季度工业和信息化发展成效。 “今年以来，我们积极会同各地区、各部门靠前发力、主动作为。一季度，工业和信息化发展总体实现良好开局。”工业和信息化部副部长张云明说。 数据显示，一季度，规模以上工业增加值同…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-3-3",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "两部门会商部署重点地区防汛抢险救灾工作",
+            "excerpt": "据新华社北京4月21日电 （记者黄韬铭）记者21日从应急管理部获悉，近期南方降雨过程频繁，国家防总办公室、应急管理部当日组织气象、水利等部门会商研判西南、江南、华南地区强降雨发展趋势，研究部署重点地区防汛抢险救灾工作。 会商要求，要强化监测预报预警，综合运用多种手段提高短临预报精准度，扩大预警覆盖面，确保预警信息第一时间传递到镇村、入户到人，加强上下游联动…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-3-4",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "水利部会商部署近期强降雨防范应对工作",
+            "excerpt": "据新华社北京4月20日电 （记者魏弘毅）记者从水利部获悉，为应对我国部分地区强降雨过程，水利部20日召开会商会，分析研判雨情汛情形势，针对性安排部署强降雨防范应对工作。 为应对可能出现的汛情，水利部会商要求相关省份水利部门和流域管理机构强化值班值守和会商研判，滚动开展雨水情监测预报，及时发布预警信息，科学调度水工程，紧盯重点地区和部位风险，突出抓好山洪灾害…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-3-5",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "赴亚沙之约 展开放风采",
+            "subtitle": "——写在第六届亚洲沙滩运动会开幕之际",
+            "excerpt": "南海之滨，椰风轻拂。22日，第六届亚洲沙滩运动会将在海南三亚拉开帷幕。这是海南自贸港全岛封关运作后举办的首场大型国际综合性赛事。 2025年12月18日，海南自贸港启动全岛封关运作，中国对外开放迈出具有里程碑意义的一步。习近平总书记指出，“建设海南自由贸易港的战略目标，就是要把海南自由贸易港打造成为引领我国新时代对外开放的重要门户”。 碧海迎亚沙，开放看海…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-3-6",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "短讯",
+            "excerpt": "■李强21日在京会见莫桑比克总统查波 ■赵乐际21日在京分别会见莫桑比克总统查波、欧洲议会副议长奥马吉 ■韩正21日在京会见孟加拉国民族主义党高级干部考察团…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-3-7",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-7",
+            "extraction": {
+              "status": "empty",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z",
+              "message": "Article content text was empty"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260422/6ea6a3cc1212d252d78874a6165394ef.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260422/48028804289e9bc16da8b1fae0abcedc.jpg",
+        "extraction": {
+          "status": "partial",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:04:09.921Z",
+          "message": "Article content text was empty"
+        }
+      },
+      {
+        "id": "pla_daily:2026-04-22:p04",
+        "source": "pla_daily",
+        "issueDate": "2026-04-22",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-04-22-4-0",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "中华人民共和国和莫桑比克共和国关于构建新时代中莫命运共同体的联合声明",
+            "subtitle": "（2026年4月21日，北京）",
+            "excerpt": "应中华人民共和国主席习近平邀请，莫桑比克共和国总统丹尼尔·弗朗西斯科·查波于2026年4月16日至22日对中华人民共和国进行国事访问。 访问期间，两国元首在亲切友好气氛中举行会谈，就新形势下中莫、中非关系以及共同关心的国际和地区问题深入交换意见。中华人民共和国国务院总理李强、全国人民代表大会常务委员会委员长赵乐际分别同查波总统会见。 双方一致认为，中莫传统…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-4-1",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "否认罪责就意味着重犯",
+            "excerpt": "4月21日，日本首相高市早苗以“内阁总理大臣”的名义，向供奉二战甲级战犯的靖国神社供奉名为“真榊”的祭品。这不是一次孤立的偶然事件，而是日本右翼政客的又一次肆意作祟，是“新型军国主义”幽灵的公然挑衅。 高市早苗在担任首相前，每年8月15日都会前往靖国神社参拜。尽管这种错误行径引发侵略受害国强烈抗议和日本国内反对，但是高市早苗等右翼政客仍然不管不顾、一意孤行…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-4-2",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "中方坚决反对、严厉谴责日方有关靖国神社的消极动向",
+            "excerpt": "新华社北京4月21日电 （记者万倩仪、曹嘉玥）就日本首相高市早苗21日向靖国神社供奉祭品，外交部发言人郭嘉昆21日答记者问时表示，中方坚决反对、严厉谴责日方有关靖国神社的消极动向，已向日方提出严正交涉、强烈抗议。 郭嘉昆在例行记者会上表示，靖国神社是日本军国主义对外发动侵略战争的精神工具和象征，是事实上的“战犯神社”。今年是东京审判开庭80周年。80年前，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-4-3",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "伊朗问题上，特朗普政府遭民主党“组合拳”",
+            "excerpt": "美国总统特朗普20日连发4篇社交媒体帖文，为他发动对伊朗军事行动辩解，并抨击民主党和所谓“假新闻”媒体。 事出有因。民主党目前正瞄准11月的中期选举，借伊朗战事对特朗普政府发起政治猛攻。 分析人士认为，在选战、民意和经济等多重压力下，特朗普政府有意从中东战事抽身，但又面对着不愿屈服的伊朗，陷入进退两难的战略被动。 民主党借机出手，向特朗普政府打出党争“组合…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-4-4",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "中老500千伏联网工程正式投产",
+            "excerpt": "据新华社万象4月21日电 （记者马淮钊、赵旭）中老500千伏联网工程投产仪式20日在老挝首都万象和中国云南昆明同时举行，标志着双方电力互通互济能力得到大幅提升。中老两国政企界代表百余人出席在万象举行的投产仪式，老挝总理宋赛在仪式上按下项目启动键。 中国驻老挝大使方虹致辞表示，中老联网工程顺利投产，构建起电力双向互济的“绿色能源大动脉”。中方愿以此类项目为示…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-4-5",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "再次敦促日方尽快彻查闯馆事件",
+            "excerpt": "新华社东京4月21日电 （记者陈泽安）中国驻日本大使馆日前就近期受到系列恐怖威胁举行记者会。围绕日本陆上自卫队三等陆尉村田晃大3月24日携刀翻墙强行闯入中国驻日本大使馆事件，使馆再次敦促日方尽快彻查，给中方一个负责任的交代。 中国驻日本大使馆说，村田手持长达31厘米的锋利刀具，翻墙侵闯使馆，威胁要杀死中国外交人员，事实清楚，证据确凿。村田移交警方前，使馆采…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-4-6",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "韩国对日本高层向靖国神社供奉祭品深表失望和遗憾",
+            "excerpt": "新华社首尔4月21日电 （记者黄莹莹）韩国外交部21日表示，韩国政府对日本高层当天向供奉二战甲级战犯的靖国神社供奉祭品深表失望和遗憾。 韩国政府当天以外交部发言人评论的方式发表声明表示，韩方敦促日方高层正视历史，以行动体现对侵略历史的谦卑忏悔和真诚反思，并强调这是构建基于互信、…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-22-4-7",
+            "source": "pla_daily",
+            "issueDate": "2026-04-22",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "2026年德国汉诺威工业博览会4月19日晚举行开幕式。展会主题为“以技术洞见产业未来”，聚焦工业人工智能（AI）、机器人技术…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-7",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:04:09.921Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260422/7df724ae242216c8b8600e04aec456a7.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260422/5b7108858e598bdbff475f733aea4539.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:04:09.921Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "partial",
+      "method": "pla-daily-index-json-v1",
+      "extractedAt": "2026-05-16T09:04:09.924Z",
+      "message": "Article content text was empty"
+    }
+  },
+  "matchGroups": [
+    {
+      "id": "matched:people_daily:30152525+people_daily:30152526+people_daily:30152527+people_daily:30152539+people_daily:30152528+people_daily:30152529+people_daily:30152534:pla_daily:2026-04-22-1-0+pla_daily:2026-04-22-1-1+pla_daily:2026-04-22-1-2+pla_daily:2026-04-22-4-0+pla_daily:2026-04-22-1-3+pla_daily:2026-04-22-1-4",
+      "issueDate": "2026-04-22",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30152525",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平同莫桑比克总统查波会谈",
+          "excerpt": "新华社北京4月21日电 （记者邵艺博、曹嘉玥）4月21日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的莫桑比克总统查波举行会谈。两国元首一致同意将双边关系提升至新时代中莫命运共同体。 习近平指出，中国和莫桑比克传统友谊穿越历史、跨越山海。建交以来，中莫两国相互信任、守望相助，成为中非友好和南南合作的典范。新形势下，不断深化中莫友好合作符合两国人民…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152525.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.494Z"
+          }
+        },
+        {
+          "id": "people_daily:30152526",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛",
+          "excerpt": "新华社北京4月21日电 （记者邵艺博）4月21日下午，中共中央总书记、国家主席习近平在人民大会堂会见作为老挝人民革命党中央总书记、国家主席通伦特使专程来访的老挝人革党中央政治局委员、常务副总理沙伦赛。 习近平指出，中老两党互派特使通报各自重大政治议程，彰显了双方深厚传统友谊和高水平政治互信。今年是中老建交65周年暨“中老友好年”。不久前，我同通伦总书记互致…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152526.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.580Z"
+          }
+        },
+        {
+          "id": "people_daily:30152527",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "国家主席习近平任免驻外大使",
+          "excerpt": "新华社北京4月21日电 中华人民共和国主席习近平根据全国人民代表大会常务委员会的决定任免下列驻外大使： 一、免去张益明的中华人民共和国驻阿拉伯联合酋长国特命全权大使职务； 任命曾继新为中华人民共和国驻阿拉伯联合酋长国特命全权大使。 二、免去童德发的中华人民共和国驻加纳共和国特命全权大使职务； 任命丛耸为中华人民共和国驻加…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152527.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.477Z"
+          }
+        },
+        {
+          "id": "people_daily:30152528",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "李强会见莫桑比克总统查波",
+          "excerpt": "新华社北京4月21日电 4月21日上午，国务院总理李强在北京人民大会堂会见来华进行国事访问的莫桑比克总统查波。 李强表示，今年是中莫建立全面战略合作伙伴关系10周年。近些年，在双方共同努力下，中莫互利合作取得丰硕成果。习近平主席将同总统先生举行会谈，就进一步深化两国关系与合作作出新的规划。中方愿同莫方一道弘扬传统友谊，始终相互信任，坚定支持彼此核心利益和重…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152528.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.476Z"
+          }
+        },
+        {
+          "id": "people_daily:30152529",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "赵乐际分别会见莫桑比克总统查波、欧洲议会副议长奥马吉",
+          "excerpt": "新华社北京4月21日电 全国人大常委会委员长赵乐际21日在北京会见莫桑比克总统查波。 赵乐际表示，中国和莫桑比克传统友谊深厚。今天下午，习近平主席将同总统先生举行会谈，共同开启中莫关系新篇章。中方愿同莫方一道，以两国元首重要共识为引领，弘扬传统友好，深化政治互信，拓展互利合作，密切人文交流，全面落实中非合作论坛北京峰会成果；加强立法机构交流合作，分享改革发…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152529.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.467Z"
+          }
+        },
+        {
+          "id": "people_daily:30152534",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "工业经济向新向好稳中有进（权威发布）",
+          "author": "本报记者 王 政 刘温馨",
+          "excerpt": "“一季度，规模以上工业增加值同比增长6.1%，31个省份全部实现正增长，行业增长面超八成，工业对经济增长的贡献率近四成。”在4月21日举行的国务院新闻办新闻发布会上，工业和信息化部副部长张云明介绍了一季度工业和信息化发展情况。 34个行业增加值实现同比增长 “今年以来，工业经济总体呈现向新向好、稳中有进态势，切实发挥了稳定宏观经济大盘的‘压舱石’作用。”张…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152534.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.904Z"
+          }
+        },
+        {
+          "id": "people_daily:30152539",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中华人民共和国和莫桑比克共和国关于构建新时代中莫命运共同体的联合声明",
+          "subtitle": "（二〇二六年四月二十一日，北京）",
+          "excerpt": "应中华人民共和国主席习近平邀请，莫桑比克共和国总统丹尼尔·弗朗西斯科·查波于2026年4月16日至22日对中华人民共和国进行国事访问。 访问期间，两国元首在亲切友好气氛中举行会谈，就新形势下中莫、中非关系以及共同关心的国际和地区问题深入交换意见。中华人民共和国国务院总理李强、全国人民代表大会常务委员会委员长赵乐际分别同查波总统会见。 双方一致认为，中莫传统…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152539.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:10.570Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-22-1-0",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平同莫桑比克总统查波会谈",
+          "excerpt": "新华社北京4月21日电 （记者邵艺博、曹嘉玥）4月21日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的莫桑比克总统查波举行会谈。两国元首一致同意将双边关系提升至新时代中莫命运共同体。 习近平指出，中国和莫桑比克传统友谊穿越历史、跨越山海。建交以来，中莫两国相互信任、守望相助，成为中非友好和南南合作的典范。新形势下，不断深化中莫友好合作符合两国人民…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=01&articleid=2026-04-22-1-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.920Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛",
+          "excerpt": "新华社北京4月21日电 （记者邵艺博）4月21日下午，中共中央总书记、国家主席习近平在人民大会堂会见作为老挝人民革命党中央总书记、国家主席通伦特使专程来访的老挝人革党中央政治局委员、常务副总理沙伦赛。 习近平指出，中老两党互派特使通报各自重大政治议程，彰显了双方深厚传统友谊和高水平政治互信。今年是中老建交65周年暨“中老友好年”。不久前，我同通伦总书记互致…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=01&articleid=2026-04-22-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.920Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-1-2",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "国家主席习近平任免驻外大使",
+          "excerpt": "新华社北京4月21日电 中华人民共和国主席习近平根据全国人民代表大会常务委员会的决定任免下列驻外大使： 一、免去张益明的中华人民共和国驻阿拉伯联合酋长国特命全权大使职务； 任命曾继新为中华人民共和国驻阿拉伯联合酋长国特命全权大使。 二、免去童德发的中华人民共和国驻加纳共和国特命全权大使职务； 任命丛耸为中华人民共和国驻加…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=01&articleid=2026-04-22-1-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.920Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-1-3",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "“雪中送炭”解难 “有的放矢”指导",
+          "excerpt": "入营初期适当增加心理行为训练比重，帮助新兵早日适应军营生活；新训课目展开前增设示教环节，规范动作、统一标准……近日，信息支援部队某部一名党委常委按照党委帮建基层计划，带领作训参谋与新兵营干部骨干认真研究训练思路，很多源自一线调研的“金点子”被纳入训练方案。 早在新兵入营前，这名党委常委就带领工作组，指导完成了训练场地构设、训练器材添置等事项。随后，他们深入…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=01&articleid=2026-04-22-1-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.920Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-1-4",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "从“能飞能上舰”到“能战能联合”",
+          "excerpt": "本报讯 记者钱晓虎、特约通讯员姜子晗报道：海天之上，数架歼-15T战机、歼-35战机、空警-600预警机展开体系协同训练，海军某新型舰载机伴飞侦察……近日，海军某航母编队在渤海某海域组织实战化训练，各机型飞行骨干按作战群编组，圆满完成侦察预警、防空反导等10余项联合训练科目，在真打实抗中淬炼制胜本领。 信息共享、联合研练，航母编队体系支撑更加全面的背后，是…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=01&articleid=2026-04-22-1-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.920Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-4-0",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "中华人民共和国和莫桑比克共和国关于构建新时代中莫命运共同体的联合声明",
+          "subtitle": "（2026年4月21日，北京）",
+          "excerpt": "应中华人民共和国主席习近平邀请，莫桑比克共和国总统丹尼尔·弗朗西斯科·查波于2026年4月16日至22日对中华人民共和国进行国事访问。 访问期间，两国元首在亲切友好气氛中举行会谈，就新形势下中莫、中非关系以及共同关心的国际和地区问题深入交换意见。中华人民共和国国务院总理李强、全国人民代表大会常务委员会委员长赵乐际分别同查波总统会见。 双方一致认为，中莫传统…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 习近平同莫桑比克总统查波会谈、国家主席习近平在北京人民大会堂同来华进行国事访问、中方愿同莫方以落实中非合作论坛、很高兴成为今年首位对中国进行国事访问。ナラティブ・LLMトピック束: 习近平同莫桑比克总统查波会谈、国家主席习近平在北京人民大会堂同来华进行国事访问、中方愿同莫方以落实中非合作论坛、很高兴成为今年首位对中国进行国事访问 / ナラティブ・LLM判定",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "中国式现代化的成功实践为发展中国家探",
+          "中方欢迎莫方用好零关税政策和非洲农产",
+          "中方祝贺莫方在深化和加快结构性改革基",
+          "全球文明倡议和全球治理倡议等重大理念",
+          "双方强调元首外交对双边关系的战略引领",
+          "特别是2016年两国建立全面战略合作",
+          "规划将为中国式现代化绘就新的壮丽图景",
+          "索自身现代化道路提供了有益借鉴"
+        ],
+        "plaDailyTerms": [
+          "信息支援部队某部一名党委常委按照党委",
+          "入营初期适当增加心理行为训练比重",
+          "为军士革新攻关设立专项基金",
+          "但它不仅夯实了部队发展根基",
+          "官兵练兵备战热情持续高涨",
+          "帮助新兵早日适应军营生活",
+          "帮助新兵营提升训练质效",
+          "指导完成了训练场地构设"
+        ],
+        "sharedTerms": [
+          "习近平同莫桑比克总统查波会谈",
+          "国家主席习近平在北京人民大会堂同来华进行国事访问",
+          "中方愿同莫方以落实中非合作论坛",
+          "很高兴成为今年首位对中国进行国事访问",
+          "中非合作论坛",
+          "对非建交国零关税政策将为非洲国家经济",
+          "查波在习近平陪同下检阅中国人民解放军",
+          "中方愿同莫方加强发展战略对接",
+          "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛",
+          "站在事关社会主义前途命运的战略高度",
+          "推动中老命运共同体建设朝着高标准",
+          "深化战略对接"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 92% / lexical 100% / narrative 87%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 87%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・LLMトピック束: 习近平同莫桑比克总统查波会谈、国家主席习近平在北京人民大会堂同来华进行国事访问、中方愿同莫方以落实中非合作论坛、很高兴成为今年首位对中国进行国事访问",
+        "ナラティブ・LLM判定"
+      ]
+    },
+    {
+      "id": "people_only:1:要闻",
+      "issueDate": "2026-04-22",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30152530",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "韩正会见孟加拉国民族主义党高级干部考察团",
+          "excerpt": "新华社北京4月21日电 国家副主席韩正21日在京会见由党的总书记，内阁地方政府、农村发展和合作社部长阿拉姆吉尔率领的孟加拉国民族主义党高级干部考察团。 韩正表示，中孟是相知相交的友好近邻。中方祝贺孟加拉国平稳顺利完成大选，愿同孟方一道，以两国领导人重要共识为引领，赓续传统友谊，深化政治互信，加强共建“一带一路”等领域合作，推动中孟全面战略合作伙伴关系不断向…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152530.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.495Z"
+          }
+        },
+        {
+          "id": "people_daily:30152531",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "导读",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152531.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.481Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 2本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:2:要闻",
+      "issueDate": "2026-04-22",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30152532",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "国务院印发《关于推进服务业扩能提质的意见》",
+          "excerpt": "新华社北京4月21日电 为深入贯彻落实习近平总书记关于服务业发展的重要指示和全国服务业大会精神，国务院日前印发《关于推进服务业扩能提质的意见》（以下简称《意见》）。 《意见》要求，以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，完整准确全面贯彻新发展理念，坚持有效市场和有为政府相结合，坚持扩能和提质并举、发展和监管统筹，突…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152532.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:10.191Z"
+          }
+        },
+        {
+          "id": "people_daily:30152533",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "服务业高质量发展有了“路线图”（子夜走笔）",
+          "author": "李心萍",
+          "excerpt": "4月21日，国务院《关于推进服务业扩能提质的意见》（以下简称《意见》）对外发布。 从新时代首次聚焦服务业的全国性大会在京召开，到《意见》的正式发布，推动服务业高质量发展的“路线图”愈发清晰。 推动服务业高质量发展，关键要从“扩能”和“提质”两方面入手。 扩能，意味着拓展服务业的广度与深度，提升其发展能级。 服务业涵盖餐饮住宿、批发零售等生活性服务业，也包括…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152533.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.937Z"
+          }
+        },
+        {
+          "id": "people_daily:30152535",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "增势源自创新、助力创新（快评）",
+          "author": "刘温馨",
+          "excerpt": "翻看工业经济一季报，高技术制造业以“一马当先”之势领跑增长，成为我国经济良好开局、产业结构持续优化的生动写照。 增势源自创新。正是基于AI等技术变革，消费电子等行业新技术、新产品加速落地，带动高技术制造业蓬勃发展，也助推生产结构、供给结构加速向价值链中高端迈进。 增势也助力创新。今年以来，我国全链条推进关键核心技术攻关和前沿领域布局，航空航天、量子科技、生…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152535.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.925Z"
+          }
+        },
+        {
+          "id": "people_daily:30152536",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "把个人理想融入科技强国建设",
+          "author": "本报记者 吴月辉",
+          "excerpt": "加快实现高水平科技自立自强是推动高质量发展的必由之路。在强国建设、民族复兴的新征程上，千千万万科技工作者扎根一线，瞄准产业前沿，为国家科技事业的发展贡献了智慧和力量。 4月21日，国务院新闻办举行“新征程上的奋斗者”中外记者见面会，5位科技领域代表围绕“弘扬科学家精神 聚力科技自立自强”，交流分享科研经历和心得体会。 清华大学车辆与运载学院副教授徐梁飞主要…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152536.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.912Z"
+          }
+        },
+        {
+          "id": "people_daily:30152537",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "又“酸”又“瘦”的荒坡，这样变沃土（春耕里的新质生产力）",
+          "author": "本报记者 王 丹",
+          "excerpt": "“5号地，照例30分钟；3号地，含氮量略少，今天多开10分钟。”江西南昌进贤县北良智慧农场技术员陈军厂操作手机上的智慧农场系统，远处的增压泵应声启动，田垄间的喷枪转动起来，将水肥混合液喷向红土地，最远可喷至45米外。 红土翻浪，翻耕后的田畴如红棕色的毯子铺向远方。北良农场的红土含氮量达每千克90毫克、酸碱度在6以上，轮茬种植油菜、玉米、芝麻等作物，是块名副…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152537.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.902Z"
+          }
+        },
+        {
+          "id": "people_daily:30152538",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "10部门促进和规范电子单证应用",
+          "subtitle": "提升货物贸易和运输数字化水平",
+          "excerpt": "本报北京4月21日电 （记者金歆）国家网信办、工业和信息化部、公安部等十部门近日联合公布《促进和规范电子单证应用规定》，自2026年9月1日起施行。 规定明确了促进和规范电子单证应用的原则、部门职责等。鼓励电子单证的推广应用，分类分级管理电子单证系统，提升货物贸易和运输数字化水平。明确各有关部门加强政策协同，依据各自职责促进和规范电子单证应用，推动电子单证…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152538.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:09.916Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 6本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:3:要闻",
+      "issueDate": "2026-04-22",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30152540",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "薪火相传厚情谊 青春同心向未来",
+          "author": "本报记者 杨 昊 李 纵",
+          "excerpt": "“能够参加‘红色研学之旅’，我深感幸运。每一处足迹、每一个故事、每一段回忆都使我们更加深刻地理解越中之间的深厚情谊。”越南红领巾讲解员、河内市南门坊吴士连初中的黎芳宝玉说。 日前，由共青团中央主办的越南青年来华“红色研学之旅”之“不忘初心”研学营在广东和北京两地举办，200名越南各界青少年代表来华研学。中越两国青年代表携手同行，在红色溯源中感悟初心，在发展…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152540.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:10.535Z"
+          }
+        },
+        {
+          "id": "people_daily:30152541",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "高市向靖国神社献祭品，是对历史正义的公然亵渎（钟声）",
+          "excerpt": "4月21日，日本首相高市早苗以“内阁总理大臣”名义，向供奉二战甲级战犯、臭名昭著的靖国神社供奉名为“真榊”的祭品。在东京审判开庭80周年的特殊年份，高市冒天下之大不韪，一意孤行，是对人类良知的执意践踏，是对历史正义的公然亵渎，更是对二战胜利成果的狂妄挑衅。全世界正义力量应对这种倒行逆施保持高度警惕，并对日本的战略走向作出清醒判断。 靖国神社从来就不是单纯的…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152541.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:10.513Z"
+          }
+        },
+        {
+          "id": "people_daily:30152542",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "王毅会见老挝常务副总理沙伦赛",
+          "excerpt": "新华社北京4月21日电 （记者万倩仪）中共中央政治局委员、外交部长王毅21日在北京会见作为老挝人民革命党中央总书记、国家主席通伦特使专程来访的老挝人革党中央政治局委员、常务副总理沙伦赛。 王毅表示，中方愿同老方落实好两党两国最高领导人重要共识，保持高层交往，加强战略沟通，深化长期合作，维护各自政治安全、政权安全和制度安全，促进世界社会主义事业发展，也为…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152542.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:10.520Z"
+          }
+        },
+        {
+          "id": "people_daily:30152543",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "王毅将访问柬埔寨、泰国、缅甸并与董军共同出席中柬外长、防长“2+2”战略对话机制首次会议",
+          "excerpt": "本报北京4月21日电 （记者褚君）外交部发言人4月21日宣布：中共中央政治局委员、外交部长王毅将于4月22日至26日应邀访问柬埔寨、泰国、缅甸。访柬期间，王毅将与国…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152543.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:10.512Z"
+          }
+        },
+        {
+          "id": "people_daily:30152544",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "何立峰会见美国通用电气医疗集团全球总裁兼首席执行官安杜尼时指出 中国将坚定不移扩大高水平对外开放 欢迎美资企业共享中国高质量发展机遇",
+          "excerpt": "新华社北京4月21日电 中共中央政治局委员、国务院副总理何立峰21日下午在北京会见美国通用电气医疗集团全球总裁兼首席执行官安杜尼。 何立峰指出，2026年中国经济实现良好开局，发展韧性和活力进一步彰显。“十五五”时期，中国将坚定不移扩大高水平对外开放，持续打造一流营商环境，欢迎包括通用电气医疗集团在内的更多美资企业持续深化对华互利合…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152544.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:10.519Z"
+          }
+        },
+        {
+          "id": "people_daily:30152545",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "肖捷会见欧洲议会副议长奥马吉",
+          "excerpt": "新华社北京4月21日电 全国人大常委会副委员长肖捷21日在京会见应邀来华访问的欧洲议会副议长奥马吉。双方就推动中欧关系健康稳定发…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152545.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:10.528Z"
+          }
+        },
+        {
+          "id": "people_daily:30152546",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "刘海星会见孟加拉国民族主义党高级干部考察团",
+          "excerpt": "新华社北京4月21日电 4月21日，中共中央对外联络部部长刘海星在北京会见由党的总书记，内阁地方政府、农村发展和合作社部长阿拉姆吉尔率领的孟加拉国民族主义党高…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152546.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:10.602Z"
+          }
+        },
+        {
+          "id": "people_daily:30152547",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "莫桑比克总统查波向人民英雄纪念碑敬献花圈",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152547.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:10.942Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 8本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:4:要闻",
+      "issueDate": "2026-04-22",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30152548",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "第五届中新社会治理高层论坛在杭州举行",
+          "subtitle": "陈文清出席并致辞",
+          "excerpt": "本报杭州4月21日电 （记者徐隽）第五届中新社会治理高层论坛20日在浙江杭州举行。中共中央政治局委员、中央政法委书记陈文清，新加坡社会政策统筹部长兼保健卫生部长王乙康出席并致辞。 陈文清指出，在习近平总书记的领导下，源起浙江的新时代“枫桥经验”和社会治安综合治理中心，传承了中华优秀传统文化，凝聚了中华民族的智慧，为正确处理新形势下人民内部矛盾提供了路径方法…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152548.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:11.318Z"
+          }
+        },
+        {
+          "id": "people_daily:30152549",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "奋力谱写中国式现代化内蒙古新篇章（开局起步“十五五”·专题新闻发布）",
+          "author": "本报记者 冯春梅 张 枨",
+          "excerpt": "4月21日，开局起步“十五五”内蒙古专场新闻发布会在呼和浩特举行。内蒙古自治区党委副书记、自治区人民政府主席包钢表示，全区干部群众有信心、有决心、有能力实现“十五五”时期各项目标任务，谱写中国式现代化内蒙古新篇章。“全面落实习近平总书记对内蒙古系列重要讲话重要指示精神，我们将加快构建具有内蒙古特色、在国家产业格局中具有重要地位的现代化产业体系。”包钢说。…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152549.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:11.263Z"
+          }
+        },
+        {
+          "id": "people_daily:30152550",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "山东努力成为北方地区经济重要增长极（开局起步“十五五”·专题新闻发布）",
+          "author": "本报记者 侯琳良",
+          "excerpt": "4月21日，开局起步“十五五”山东专场新闻发布会在济南举行。山东省委副书记、省长周乃翔表示，深入贯彻习近平总书记对山东工作的重要指示要求，山东将加快建设绿色低碳高质量发展先行区，打造高水平对外开放新高地，努力成为北方地区经济重要增长极，让山东发展动能更澎湃、人民生活更美好。 在培育新产业、壮大新动能上下好先手棋 全国超过1/3的商用车、一半的动车组、80%…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152550.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:11.288Z"
+          }
+        },
+        {
+          "id": "people_daily:30152551",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "福建省福清市持续推动生态修复和文旅融合发展，让昔日矿坑转型为生态文旅公园，为群众提供更多高品质的休闲生活空间。图为福清市福庐山一处由矿坑改造成的露营…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152551.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:11.268Z"
+          }
+        },
+        {
+          "id": "people_daily:30152552",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "国务院任免国家工作人员",
+          "excerpt": "新华社北京4月21日电 国务院任免国家工作人员。 任命吕武钦为公安部部长助理；任命池景阳为国家移民管理局（中华人民共和国出入境管理局）副局长；任命丰成友为中国地质调查局副局长。 免去林涛的国务院副秘书长职务；免去张勇的国家移…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152552.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:11.272Z"
+          }
+        },
+        {
+          "id": "people_daily:30152553",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "交通运输部海事局发布航运企业安全生产指南",
+          "excerpt": "本报北京4月21日电 （记者韩鑫）交通运输部海事局近日发布《航运企业落实安全生产主体责任指南（1.0版）》及6项配套工作指引，初步构建起“1+6”航运企业安全管理制度体系，为我国航运业夯实安全发展基础。 指南内容贯穿航运企业安全生产全流程、全要素、全岗位：聚焦深化风险分级管控与隐患排查治理双重预防机制，指导企业建立常态化风险防范化解机制，重点遏制商渔船碰撞…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152553.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:11.270Z"
+          }
+        },
+        {
+          "id": "people_daily:30152554",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "国务院任免国家工作人员",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152554.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:11.279Z"
+          }
+        },
+        {
+          "id": "people_daily:30152555",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "县里能检测 研发少奔波",
+          "author": "本报记者 杨颜菲",
+          "excerpt": "在江西吉安市峡江县，食品工程师后小红带着新款果汁样品，从中润食品有限公司研发大楼出发，不一会儿就抵达了峡江县生物医药综合检测中心。登记、送检，流程顺畅，全程不到半小时。 峡江县近年来推动生物医药大健康、绿色食品等产业集聚发展，企业数量持续增长，食药新品加速迭代。与此同时，一个问题愈发凸显：产品想上市，需要专业检测报告作为“通行证”，但县级层面却缺乏高资质的…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152555.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:11.287Z"
+          }
+        },
+        {
+          "id": "people_daily:30152556",
+          "source": "people_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "“五一”假期首尾增开直通夜间高铁列车",
+          "excerpt": "本报北京4月21日电 （记者李心萍）记者从中国铁路12306技术中心获悉：“五一”假期火车票开售以来购票需求旺盛，为最大限度满足旅客购票需求，铁路部门在假期首尾出行高峰时段和旅客出行相对集中的方向，计划调整高铁夜间“天窗”维修时间，在确保安全前提下，于4月29日夜间至5月2日凌晨、5月4日夜间至6日凌晨，在京沪、京广、京哈等高铁干线安排开行直通夜间高铁列车…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/22/content_30152556.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:04:11.164Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 9本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:2:要闻",
+      "issueDate": "2026-04-22",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-22-2-0",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "告别“干粮袋” 吃上“百家饭”",
+          "excerpt": "雪域高原，铁翼飞旋。春日，西藏军区某旅在高原训练场连续展开多场实战化训练。 冰峰雪岭间，执行对地突击任务的某直升机编队突然发出油料补给信号。随后，一架战机飞离编队，就近紧急停靠等待补给。让记者没想到的是，前来提供补给的并非该旅保障单元，而是驻地就在附近的空军某场站应急保障分队。 抵达战机临时降落点后，该场站油料保障分队熟练连接输油管线、精准调控油量，为战机…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=02&articleid=2026-04-22-2-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.920Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "过得硬与信得过",
+          "excerpt": "打铁必须自身硬。 习主席指出：“全军广大官兵特别是基层官兵坚定听党话、跟党走，忠诚履职尽责，聚力攻坚克难，圆满完成各项任务，是完全过得硬、信得过的。” 过得硬，强调的是官兵自身的能力素质；信得过，则是对其形象人格的高度认可。 军队领导干部是部队建设的“关键少数”和中坚力量，是强军事业的领路人、广大官兵的主心骨，更应该做到过得硬、信得过。 过得硬，首先是政治…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=02&articleid=2026-04-22-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.920Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-2-2",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "荒坡地变身投弹场",
+          "excerpt": "“轰！轰！轰！”仲春时节，第73集团军某旅手榴弹实投训练场硝烟弥漫、尘土飞扬。首次参加手榴弹实投训练的新兵们，在教练员指导下圆满完成大纲规定的训练内容。 训练间隙，作战支援营的昌连长告诉笔者，这个投入使用不久的手榴弹实投训练场，布局合理、设施齐全，重点点位还安装了高清监控设备，指挥员能随时通过监控画面掌握官兵训练进度和现场情况。 “不久前，这个手榴弹实投训…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=02&articleid=2026-04-22-2-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-2-3",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "先辈故事润兵心砺斗志",
+          "excerpt": "本报讯 姚冠辰报道：日前，海军某部礼堂座无虚席。讲台上，海军第一代舰载机特级飞行员吕蕴兴以及曾6次随编队执行护航等重大任务的特级飞行员胡宝良，分别结合个人成长经历和任务体会，讲述海军舰载航空兵部队艰苦创业的光辉历程。一个个感人故事、一幅幅历史照片，让官兵深受触动，现场不时响起热烈掌声。 “红色资源不是尘封的历史，而是鲜活的教育素材。”该部领导表示，近年来，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=02&articleid=2026-04-22-2-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-2-4",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=02&articleid=2026-04-22-2-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        }
+      ],
+      "reason": "81cn only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:3:要闻",
+      "issueDate": "2026-04-22",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-22-3-0",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "刻骨铭心的“草地之问”",
+          "excerpt": "濒临绝境，常人问温饱、问生死。食不果腹、衣衫褴褛的红军在穿越沼泽遍布、危机四伏的茫茫草地时，却问出了一串刻骨铭心的问题。这些发问，像雾霭中的阳光、如暗夜里的闪电，照见了一支军队的精神底色，也照见了共产党人最朴素的作风与信仰。 1936年7月，红四方面军的战士们已把粮袋里最后一撮粮食“一颗一颗数着吃光了”，连皮带、皮鞋底都拌着野菜吃了，但路途还很长。一天，战…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-3-1",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "第十三批在韩中国人民志愿军烈士遗骸即将回国",
+          "excerpt": "新华社北京4月21日电 （记者刘艺、高玉娇）记者从退役军人事务部获悉，日前，由退役军人事务部等部门组成的在韩中国人民志愿军烈士遗骸交接工作代表团组已前往韩国，将于4月22日接运第十三批12位在韩中国人民志愿军烈士遗骸及相关遗物归国。 自2014年以来，中韩…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-3-2",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "向新向好 稳中有进",
+          "subtitle": "——透视首季工业和信息化发展成效",
+          "excerpt": "“十五五”开局之年，工业和信息化领域首份季度“成绩单”成色如何？产业呈现哪些新特征？在21日举行的国新办新闻发布会上，工业和信息化部有关负责人详解2026年一季度工业和信息化发展成效。 “今年以来，我们积极会同各地区、各部门靠前发力、主动作为。一季度，工业和信息化发展总体实现良好开局。”工业和信息化部副部长张云明说。 数据显示，一季度，规模以上工业增加值同…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-3-3",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "两部门会商部署重点地区防汛抢险救灾工作",
+          "excerpt": "据新华社北京4月21日电 （记者黄韬铭）记者21日从应急管理部获悉，近期南方降雨过程频繁，国家防总办公室、应急管理部当日组织气象、水利等部门会商研判西南、江南、华南地区强降雨发展趋势，研究部署重点地区防汛抢险救灾工作。 会商要求，要强化监测预报预警，综合运用多种手段提高短临预报精准度，扩大预警覆盖面，确保预警信息第一时间传递到镇村、入户到人，加强上下游联动…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-3-4",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "水利部会商部署近期强降雨防范应对工作",
+          "excerpt": "据新华社北京4月20日电 （记者魏弘毅）记者从水利部获悉，为应对我国部分地区强降雨过程，水利部20日召开会商会，分析研判雨情汛情形势，针对性安排部署强降雨防范应对工作。 为应对可能出现的汛情，水利部会商要求相关省份水利部门和流域管理机构强化值班值守和会商研判，滚动开展雨水情监测预报，及时发布预警信息，科学调度水工程，紧盯重点地区和部位风险，突出抓好山洪灾害…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-3-5",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "赴亚沙之约 展开放风采",
+          "subtitle": "——写在第六届亚洲沙滩运动会开幕之际",
+          "excerpt": "南海之滨，椰风轻拂。22日，第六届亚洲沙滩运动会将在海南三亚拉开帷幕。这是海南自贸港全岛封关运作后举办的首场大型国际综合性赛事。 2025年12月18日，海南自贸港启动全岛封关运作，中国对外开放迈出具有里程碑意义的一步。习近平总书记指出，“建设海南自由贸易港的战略目标，就是要把海南自由贸易港打造成为引领我国新时代对外开放的重要门户”。 碧海迎亚沙，开放看海…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-3-6",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "短讯",
+          "excerpt": "■李强21日在京会见莫桑比克总统查波 ■赵乐际21日在京分别会见莫桑比克总统查波、欧洲议会副议长奥马吉 ■韩正21日在京会见孟加拉国民族主义党高级干部考察团…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-3-7",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=03&articleid=2026-04-22-3-7",
+          "extraction": {
+            "status": "empty",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z",
+            "message": "Article content text was empty"
+          }
+        }
+      ],
+      "reason": "81cn only 8本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:4:要闻",
+      "issueDate": "2026-04-22",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-22-4-1",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "否认罪责就意味着重犯",
+          "excerpt": "4月21日，日本首相高市早苗以“内阁总理大臣”的名义，向供奉二战甲级战犯的靖国神社供奉名为“真榊”的祭品。这不是一次孤立的偶然事件，而是日本右翼政客的又一次肆意作祟，是“新型军国主义”幽灵的公然挑衅。 高市早苗在担任首相前，每年8月15日都会前往靖国神社参拜。尽管这种错误行径引发侵略受害国强烈抗议和日本国内反对，但是高市早苗等右翼政客仍然不管不顾、一意孤行…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-4-2",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "中方坚决反对、严厉谴责日方有关靖国神社的消极动向",
+          "excerpt": "新华社北京4月21日电 （记者万倩仪、曹嘉玥）就日本首相高市早苗21日向靖国神社供奉祭品，外交部发言人郭嘉昆21日答记者问时表示，中方坚决反对、严厉谴责日方有关靖国神社的消极动向，已向日方提出严正交涉、强烈抗议。 郭嘉昆在例行记者会上表示，靖国神社是日本军国主义对外发动侵略战争的精神工具和象征，是事实上的“战犯神社”。今年是东京审判开庭80周年。80年前，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-4-3",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "伊朗问题上，特朗普政府遭民主党“组合拳”",
+          "excerpt": "美国总统特朗普20日连发4篇社交媒体帖文，为他发动对伊朗军事行动辩解，并抨击民主党和所谓“假新闻”媒体。 事出有因。民主党目前正瞄准11月的中期选举，借伊朗战事对特朗普政府发起政治猛攻。 分析人士认为，在选战、民意和经济等多重压力下，特朗普政府有意从中东战事抽身，但又面对着不愿屈服的伊朗，陷入进退两难的战略被动。 民主党借机出手，向特朗普政府打出党争“组合…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-4-4",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "中老500千伏联网工程正式投产",
+          "excerpt": "据新华社万象4月21日电 （记者马淮钊、赵旭）中老500千伏联网工程投产仪式20日在老挝首都万象和中国云南昆明同时举行，标志着双方电力互通互济能力得到大幅提升。中老两国政企界代表百余人出席在万象举行的投产仪式，老挝总理宋赛在仪式上按下项目启动键。 中国驻老挝大使方虹致辞表示，中老联网工程顺利投产，构建起电力双向互济的“绿色能源大动脉”。中方愿以此类项目为示…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-4-5",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "再次敦促日方尽快彻查闯馆事件",
+          "excerpt": "新华社东京4月21日电 （记者陈泽安）中国驻日本大使馆日前就近期受到系列恐怖威胁举行记者会。围绕日本陆上自卫队三等陆尉村田晃大3月24日携刀翻墙强行闯入中国驻日本大使馆事件，使馆再次敦促日方尽快彻查，给中方一个负责任的交代。 中国驻日本大使馆说，村田手持长达31厘米的锋利刀具，翻墙侵闯使馆，威胁要杀死中国外交人员，事实清楚，证据确凿。村田移交警方前，使馆采…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-4-6",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "韩国对日本高层向靖国神社供奉祭品深表失望和遗憾",
+          "excerpt": "新华社首尔4月21日电 （记者黄莹莹）韩国外交部21日表示，韩国政府对日本高层当天向供奉二战甲级战犯的靖国神社供奉祭品深表失望和遗憾。 韩国政府当天以外交部发言人评论的方式发表声明表示，韩方敦促日方高层正视历史，以行动体现对侵略历史的谦卑忏悔和真诚反思，并强调这是构建基于互信、…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-22-4-7",
+          "source": "pla_daily",
+          "issueDate": "2026-04-22",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "2026年德国汉诺威工业博览会4月19日晚举行开幕式。展会主题为“以技术洞见产业未来”，聚焦工业人工智能（AI）、机器人技术…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-22&paperNumber=04&articleid=2026-04-22-4-7",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:04:09.921Z"
+          }
+        }
+      ],
+      "reason": "81cn only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    }
+  ],
+  "counts": {
+    "peopleArticles": 32,
+    "plaArticles": 26,
+    "matchedGroups": 1,
+    "matchedPeopleArticles": 7,
+    "matchedPlaArticles": 6,
+    "peopleOnlyArticles": 25,
+    "plaOnlyArticles": 20
+  }
+}

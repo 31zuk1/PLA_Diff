@@ -1,0 +1,1890 @@
+{
+  "schemaVersion": 1,
+  "issueDate": "2026-05-04",
+  "generatedAt": "2026-05-16T09:07:26.623Z",
+  "retentionDays": 31,
+  "frontPages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "judge": {
+    "enabled": true,
+    "model": "gpt-4.1-nano"
+  },
+  "peopleIssue": {
+    "id": "people_daily:2026-05-04",
+    "source": "people_daily",
+    "issueDate": "2026-05-04",
+    "pages": [
+      {
+        "id": "people_daily:2026-05-04:p01",
+        "source": "people_daily",
+        "issueDate": "2026-05-04",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154777",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "胸怀远大理想矢志拼搏奋斗 带动广大青年把个人追求融入国家发展大局",
+            "excerpt": "回 信 中国青年五四奖章暨新时代青年先锋奖获奖者代表： 来信收悉。你们牢记党的嘱托，扎根科技创新、乡村振兴、社会服务、卫国戍边等基层一线，以实干担当书写无悔青春，展现了新时代中国青年自信自强、昂扬向上的良好风貌。 今年是“十五五”开局之年，青年建功正当其时。希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新业…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154777.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.563Z"
+            }
+          },
+          {
+            "id": "people_daily:30154778",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "坚持不懈，提升我国原始创新能力",
+            "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+            "author": "本报评论员",
+            "excerpt": "立足“十五五”这一夯实基础、全面发力的关键时期，如何全面加强基础研究、提升我国原始创新能力？习近平总书记在加强基础研究座谈会上作出全面部署，强调“一体推进教育科技人才发展”“加强对基础研究的支持保障”“深化基础研究国际交流合作”。 原始创新是“从0到1”的创新，是科技创新的“源头活水”。党的十八大以来，在以习近平同志为核心的党中央坚强领导下，我们顺应新一轮…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154778.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.571Z"
+            }
+          },
+          {
+            "id": "people_daily:30154779",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "努力实现“十五五”良好开局",
+            "subtitle": "——今年以来中国经济观察",
+            "author": "本报记者 武少民 吴秋余 葛孟超",
+            "excerpt": "“十五五”规划纲要恢宏起笔，神州大地涌动高质量发展勃勃生机。 春播春管从南向北有序开展，创新前沿捷报频传，重大工程接续发力……“十五五”首季国内生产总值实现5.0%的增长，为这个开局之年的春天，标注时代坐标的坚实一笔。 “努力实现‘十五五’良好开局”，习近平总书记高瞻远瞩、领航掌舵。 4月28日召开的中共中央政治局会议指出，我国经济起步有力，主要指标好于预…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154779.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.600Z"
+            }
+          },
+          {
+            "id": "people_daily:30154780",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "立足岗位作贡献 青春奋进勇担当",
+            "author": "本报记者",
+            "excerpt": "希望寄予青年，实干成就伟业。 在五四青年节到来之际，习近平总书记给中国青年五四奖章暨新时代青年先锋奖获奖者代表回信，向全国各族青年致以节日祝贺并提出殷切期望：“把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。” “五一”假期，神州大地上，坚守岗位、拼搏不息的身影中，不乏挺膺担当、实干奉献的青年，他们在推进中国式现代化的广阔舞…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154780.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.582Z"
+            }
+          },
+          {
+            "id": "people_daily:30154781",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "建功“十五五” 创造新业绩（今日谈）",
+            "author": "沈道民",
+            "excerpt": "“今年是‘十五五’开局之年，青年建功正当其时。”习近平总书记的殷切期望，激励广大青年立足各自岗位不断创造新业绩，在新征程上贡献青春力量。 青年向上，国家向前。人工智能创新突破，离不开一大批年轻科技工作者埋头攻关；乡村全面振兴扎实推进，见证着许多90后、00后新农人辛勤付出；千千万万青年志愿者将“小我”融入“大我”，在奉献人民、服务社会中锻炼成长；强军兴军战…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154781.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.641Z"
+            }
+          },
+          {
+            "id": "people_daily:30154782",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154782.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.572Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/04/eb713394-638c-464a-9594-0eca293f6c69.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/04/416e6212-e88d-4a21-b3db-6f21ef825cfa.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:07:18.641Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-04:p02",
+        "source": "people_daily",
+        "issueDate": "2026-05-04",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154783",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "非遗鱼灯舞出山村魅力（经济新方位·聚焦假期消费）",
+            "author": "本报记者 罗阳奇",
+            "excerpt": "5月的皖南，山色青翠。从安徽歙县徽州古城驱车出发，不到半小时，便抵达了一座隐匿于群山之间的千年古村——歙县瞻淇村。村名取自《诗经》“瞻彼淇奥，绿竹猗猗”，一踏入村口，便似走进诗画之中。 一家鱼灯体验馆内，桌上放着几只尚未制作完成的鱼灯，竹篾为骨，白布为肤，红色的鳞片在灯光下泛着温润的光泽。游客正聚精会神地为鱼灯上色。 “瞻淇鱼灯起源于宋朝，有800多年历史…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154783.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.989Z"
+            }
+          },
+          {
+            "id": "people_daily:30154784",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "“让‘中国算法’成为精准医疗的标配”（产业里的年轻人）",
+            "author": "本报记者 黄晓慧",
+            "excerpt": "“信噪比还是差一点，得调整一下参数。”算法研发负责人叶青紧盯着刚跑出来的重建图像，眉头微蹙。 上海联影医疗高级应用算法部，屏幕上跳动着正电子发射断层成像（PET）数据流，叶青正试图从海量噪声中算出更清晰的病灶轨迹。 1993年出生的叶青，是部门的技术骨干。她专攻参数成像重建、动态运动校正等关键技术，用一行行代码，给国产高端医疗器械装上“最强大脑”，不仅“看…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154784.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:19.082Z"
+            }
+          },
+          {
+            "id": "people_daily:30154785",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "青春书写创新答卷（编辑手记）",
+            "author": "祁嘉润",
+            "excerpt": "从求学时期见证中国首创亮相的惊艳，到连续攻关突破动态算法瓶颈的坚韧，再到面向未来许下要看得准更要治得准的雄心壮志……叶青成长的故事背后，是我国高端医疗器械产业从小到大、从弱到强的不凡历程，也彰显一代代中国青年科技工作者接续奋斗的荣光。 他们瞄准新领域、新课题，坚持啃硬骨头，用青春书写中国创新的能力与定力。他们的奋斗身影，也是我国高端医疗器械产业蓬勃发展的底…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154785.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:19.077Z"
+            }
+          },
+          {
+            "id": "people_daily:30154786",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "一键下单 农机到田（春耕里的新质生产力）",
+            "author": "本报记者 孙 超",
+            "excerpt": "一早，湖南安仁县植保机飞手卢亚龙点开手机里的“农机一键达”软件——“灵官镇种粮大户许柏林，预约100亩新插秧苗施肥”。跟随预约提示，卢亚龙动身前往灵官镇。软件上，往后半个月的日程，都排得明明白白。 到了许柏林的田边，卢亚龙核对信息、启动机器。旋翼轰鸣，药雾均匀洒下。100亩田，半天打完，高效又精准。 这给许柏林省了不少心。过去，他为了种好400亩流转地，光…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154786.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:19.080Z"
+            }
+          },
+          {
+            "id": "people_daily:30154787",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "努力实现“十五五”良好开局",
+            "subtitle": "——今年以来中国经济观察",
+            "author": "本报记者 武少民 吴秋余 葛孟超",
+            "excerpt": "“十五五”规划纲要恢宏起笔，神州大地涌动高质量发展勃勃生机。 春播春管从南向北有序开展，创新前沿捷报频传，重大工程接续发力……“十五五”首季国内生产总值实现5.0%的增长，为这个开局之年的春天，标注时代坐标的坚实一笔。 “努力实现‘十五五’良好开局”，习近平总书记高瞻远瞩、领航掌舵。 4月28日召开的中共中央政治局会议指出，我国经济起步有力，主要指标好于预…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154787.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:18.998Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/04/a96b678b-ddbc-4527-b328-cbc643482aa4.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/04/a983c4fb-2d92-4511-aafe-3f33b590bedf.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:07:19.083Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-04:p03",
+        "source": "people_daily",
+        "issueDate": "2026-05-04",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154788",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "红海畔，又添中国“大风车”（共建“一带一路”·第一现场）",
+            "author": "本报记者 沈小晓",
+            "excerpt": "巨型吊车将长约90米的风机叶片缓缓擎至百米高空，云朵低垂的天空映衬着中埃工人们忙碌的身影，重型卡车在临时道路上卷起阵阵沙尘……在埃及小镇拉斯加里卜附近，由中国电力建设集团承建的苏伊士湾1.1吉瓦风电项目正在进行风机吊装作业，一座现代化风电场正在沙漠与海岸的交界处拔地而起。红海的海风，即将变成绿电，谱写中埃绿色能源合作新篇章。 “这不仅是我个人事业的新起点，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154788.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:19.476Z"
+            }
+          },
+          {
+            "id": "people_daily:30154789",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "对非零关税政策为中非合作高质量发展注入新动能（国际论坛）",
+            "author": "徐永利",
+            "excerpt": "中国成为全球首个对非洲建交国实施全覆盖零关税的主要经济体，不仅为中非合作共赢开拓新维度、注入新动力，更向动荡世界展现开放包容、互利共赢的东方智慧 5月1日起，中国正式对53个非洲建交国全面实施零关税举措。这一制度性安排，使中国成为全球首个对非洲建交国实施全覆盖零关税的主要经济体，不仅为中非合作共赢开拓新维度、注入新动力，更向动荡世界展现开放包容、互利共赢的…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154789.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:19.483Z"
+            }
+          },
+          {
+            "id": "people_daily:30154790",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "外交部发言人就东京审判开庭80周年答记者问",
+            "excerpt": "新华社北京5月3日电 外交部发言人3日就东京审判开庭80周年答记者问。 有记者问：今天是远东国际军事法庭（东京审判）开庭80周年纪念日。近期，中国、日本、国际社会都举行了一系列纪念活动，重温东京审判历史意义。请问中方对此有何评论？ 发言人说，1946年5月3日，根据日本无条件投降安排和盟军最高统帅颁布的《远东国际军事法庭宪章》，远东国际军事法庭正式开庭。这…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154790.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:19.574Z"
+            }
+          },
+          {
+            "id": "people_daily:30154791",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“为非洲经济发展注入动力”",
+            "subtitle": "——访加纳非中政策与咨询中心执行主任弗林蓬",
+            "author": "本报记者 邹 松",
+            "excerpt": "“中国对53个非洲建交国全面实施零关税举措，其意义远不止贸易层面，更在于为非洲经济转型与融入经济全球化提供了前所未有的战略机遇。”近日，加纳非中政策与咨询中心执行主任保罗·弗林蓬在接受本报记者专访时表示。 弗林蓬认为，中国对非零关税举措是对非洲经济未来投下的“信任票”。他表示，当前全球资本流动趋于谨慎，贸易体系呈现碎片化态势，许多国家对非洲市场持观望态度。…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154791.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:19.484Z"
+            }
+          },
+          {
+            "id": "people_daily:30154792",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“这是中国不断推进高水平对外开放的最好证明”（外媒记者看中国）",
+            "author": "本报记者 崔 寅 洪秋婷",
+            "excerpt": "日前，来自美国、英国、法国、俄罗斯等10多个国家和地区的近70名中外记者走访中国上海、广东，感受中国扩大高水平对外开放的实践成效。 在上海的采访中，外媒记者们围绕中国开放型经济如何提质增效频频提问：“外企在上海发展有哪些优势？”“外资呈现怎样新的趋势和特点？”“外企在中国发展的信心来自哪里？” “目前在沪外企近8万家，累计实际使用外资超3800亿美元，今年…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154792.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:19.531Z"
+            }
+          },
+          {
+            "id": "people_daily:30154793",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中方在《开罗宣言》发表地建立纪念碑",
+            "excerpt": "本报开罗5月3日电 （记者黄培昭、沈小晓）《开罗宣言》为结束第二次世界大战作出重要贡献，是确认台湾作为中国不可分割领土的重要历史和法理依据，与之后重申《开罗宣言》规定的《波茨坦公告》等一系列具有法律效力的文件构成了二战后国际秩序的组成部分。为纪念《开罗…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154793.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:19.489Z"
+            }
+          },
+          {
+            "id": "people_daily:30154794",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "乌兹别克斯坦总理阿里波夫将访华并举行中乌政府间合作委员会第八次会议",
+            "excerpt": "新华社北京5月3日电 外交部发言人3日宣布：应中国政府邀请，乌兹别克斯坦总理阿里波夫将于5月6日至7日访华，并同中共中央政治局委员、国务院…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154794.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:19.479Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/04/9a937c63-651d-4b7f-a88e-583807302e48.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/04/80ccc957-b0bb-46ea-a154-552744976c0d.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:07:19.574Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-04:p04",
+        "source": "people_daily",
+        "issueDate": "2026-05-04",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154795",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "交通更有序 出行更从容",
+            "subtitle": "——从三个场景看“五一”出行服务新升级",
+            "author": "本报记者 韩 鑫 李心萍 邱超奕",
+            "excerpt": "旅游、探亲、休闲叠加，“五一”假期，出行“热力”十足—— 陆上，铁路、公路迎来客流高峰；水上，珠江夜游、三峡游等特色项目不断升温；空中，旅游城市航线需求保持高位…… 交通运输部数据显示，“五一”假期，全社会跨区域人员流动量预计达15.2亿人次，日均超3亿人次，创历史同期新高。 出行热力映射发展活力、展现内需潜力。透过铁路、公路、民航3个场景，可以看到出行服…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154795.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:20.020Z"
+            }
+          },
+          {
+            "id": "people_daily:30154796",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "截至2025年底全国共有共青团员7833.6万名",
+            "excerpt": "本报北京5月3日电 （记者杨昊）共青团中央5月3日发布数据显示，截至2025年12月底，全国共有共青团员7833.6万名，共青团组织515.0万个，分别比2024年底净增301.8万名、75.3万个。2025年共发展团员913.7万名。 其中，团的地方委员会0.3万个，基层团（工）委19.9万个，团总支部13.9万个，团支部480.9万个。学校团组织235…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154796.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:20.022Z"
+            }
+          },
+          {
+            "id": "people_daily:30154797",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "以实干担当书写无悔青春（人民论坛）",
+            "author": "盛玉雷",
+            "excerpt": "“以实干担当书写无悔青春”“在新征程上贡献青春力量”，在五四青年节到来之际，习近平总书记的勉励与期许，激励着广大青年立足各自岗位不断创造新业绩。 最近，李创业的“创业”故事引发网友关注。 这是他艰难的“行走”——因患小儿麻痹症，只能蹲在地上前行。 这是他挺拔的“站立”——从河南奔赴新疆开了家诊所，门口的灯24小时常亮，只要患者需要就上门出诊，对家境困难的还…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154797.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:20.021Z"
+            }
+          },
+          {
+            "id": "people_daily:30154798",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "5月3日，2026（第十九届）北京国际汽车展览会闭幕。本届车展以“领时代 智未来”为主题，首次采用双馆联动模式，总展览面积达38万平方米，规模跃居全球车展首位。本届车展展车总数1451辆，其中全球首发车181辆、概念车7…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154798.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:20.020Z"
+            }
+          },
+          {
+            "id": "people_daily:30154799",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "上海复兴岛吸引全球创客",
+            "author": "本报记者 姜泓冰 巨云鹏",
+            "excerpt": "5月1日到2日，一场音乐活动在上海市复兴岛举行。黄浦江畔，12万平方米公共空间里，上万名乐迷登岛感受音乐的魅力。 巨大的码头塔吊下，观众和江景合影打卡，形成一幅美妙的景观。 复兴岛位于上海市杨浦区，是黄浦江畔唯一的内陆岛屿，面积约1.3平方公里，曾是上海重要的工业基地和仓储区，是造船、燃料、仓储等产业的聚集地。 近年来，这些行业逐渐搬离市区，留下旧仓库、厂…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154799.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:20.032Z"
+            }
+          },
+          {
+            "id": "people_daily:30154800",
+            "source": "people_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "立足岗位作贡献 青春奋进勇担当",
+            "excerpt": "希望寄予青年，实干成就伟业。 在五四青年节到来之际，习近平总书记给中国青年五四奖章暨新时代青年先锋奖获奖者代表回信，向全国各族青年致以节日祝贺并提出殷切期望：“把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。” “五一”假期，神州大地上，坚守岗位、拼搏不息的身影中，不乏挺膺担当、实干奉献的青年，他们在推进中国式现代化的广阔舞…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154800.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:07:20.021Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/04/911a0803-375f-4b56-85e5-48a1a8ab493d.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/04/cbc881f7-f785-4459-a869-cb4f122ab5db.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:07:20.032Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "people-daily-html-v1",
+      "extractedAt": "2026-05-16T09:07:20.032Z"
+    }
+  },
+  "plaIssue": {
+    "id": "pla_daily:2026-05-04",
+    "source": "pla_daily",
+    "issueDate": "2026-05-04",
+    "pages": [
+      {
+        "id": "pla_daily:2026-05-04:p01",
+        "source": "pla_daily",
+        "issueDate": "2026-05-04",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-04-1-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "胸怀远大理想矢志拼搏奋斗 带动广大青年把个人追求融入国家发展大局",
+            "excerpt": "回 信 中国青年五四奖章暨新时代青年先锋奖 获奖者代表： 来信收悉。你们牢记党的嘱托，扎根科技创新、乡村振兴、社会服务、卫国戍边等基层一线，以实干担当书写无悔青春，展现了新时代中国青年自信自强、昂扬向上的良好风貌。 今年是“十五五”开局之年，青年建功正当其时。希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=01&articleid=2026-05-04-1-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.592Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-1-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "谱写无愧于时代和人民的青春华章",
+            "subtitle": "——习近平总书记的回信激励广大青年和青年工作者努力拼搏、接续奋进",
+            "excerpt": "“希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。”五四青年节到来之际，习近平总书记回信勉励中国青年五四奖章暨新时代青年先锋奖获奖者代表，向全国各族青年致以节日祝贺并提出殷切期望。 殷殷期许，沁润心田。习近平总书记的回信令广大青年和青年工作者倍感振奋。大家表示，要以习近平总书记…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=01&articleid=2026-05-04-1-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.592Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-1-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "在强军新征程上贡献青春力量",
+            "excerpt": "“希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。”在五四青年节到来之际，习主席给中国青年五四奖章暨新时代青年先锋奖获奖者代表回信，向全国各族青年致以节日祝贺并提出殷切期望。这是对青年的嘱托，也是对奋斗的号召，必将激励广大青年官兵在强军新征程上挺膺担当、奋勇争先，为国防和军队现…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=01&articleid=2026-05-04-1-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.592Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-1-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "又见苦楝发新芽",
+            "excerpt": "海风轻拂，苍劲交错的深灰色树枝上，一串串金黄色的种子随风摇曳。 又是一个春天，黄海前哨，江苏省灌云县开山岛上的一株株苦楝树绽出新绿，去年冬天以来掉落在岛上的种子，正顽强地向石缝里扎根，努力发出新芽。 苦楝树，树皮、树叶、果实乃至根系均含有苦味物质‌，由此得名“苦楝”。近日，记者登上开山岛。站在苦楝树下，守岛英雄王继才的妻子王仕花深情地说，“苦楝”与“苦恋”…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=01&articleid=2026-05-04-1-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.592Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-1-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "拒绝“绕道走”  坚持“马上办”",
+            "excerpt": "“关于你反映的子女入学问题，已协调驻地教育部门解决。现对办理情况进行回访，请问你对结果是否满意……”春日的一天，火箭军某基地解难帮困领导小组办公室内，工作人员对照前期整理的问题台账，逐一进行电话回访，言语温和而亲切。 “政绩观是否端正，关键要看为官兵解决了多少实际问题。”该小组组长向记者介绍，基地建立“收集—办理—反馈”系统化解难帮困机制以来，党委机关解决…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=01&articleid=2026-05-04-1-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.592Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-1-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=01&articleid=2026-05-04-1-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.592Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260504/b3b434a141c6fc6b27f1f4158b73a4eb.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260504/2e2e1acfd45e1083d9303f8e18391d6e.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:07:19.592Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-04:p02",
+        "source": "pla_daily",
+        "issueDate": "2026-05-04",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-04-2-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "走好建设科技强国的必由之路",
+            "subtitle": "——新时代我国基础研究实现新飞跃",
+            "excerpt": "基础研究是科技创新的源头活水，决定着一个国家科技创新的底蕴和后劲。 4月30日，习近平总书记在加强基础研究座谈会上强调：“要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。” 党的十八大以来，以习近平同志为核心的党中央深入推动实施创新驱动发展战略，提出加快建设创新型国家的战略任务，确立2035年建成科技强国的奋斗目标。…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.593Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-2-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "坚持不懈，提升我国原始创新能力",
+            "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+            "excerpt": "立足“十五五”这一夯实基础、全面发力的关键时期，如何全面加强基础研究、提升我国原始创新能力？习近平总书记在加强基础研究座谈会上作出全面部署，强调“一体推进教育科技人才发展”“加强对基础研究的支持保障”“深化基础研究国际交流合作”。 原始创新是“从0到1”的创新，是科技创新的“源头活水”。党的十八大以来，在以习近平同志为核心的党中央坚强领导下，我们顺应新一轮…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.593Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-2-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "谱写无愧于时代和人民的青春华章",
+            "subtitle": "——习近平总书记的回信激励广大青年和青年工作者努力拼搏、接续奋进",
+            "excerpt": "“希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。”五四青年节到来之际，习近平总书记回信勉励中国青年五四奖章暨新时代青年先锋奖获奖者代表，向全国各族青年致以节日祝贺并提出殷切期望。 殷殷期许，沁润心田。习近平总书记的回信令广大青年和青年工作者倍感振奋。大家表示，要以习近平总书记…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.593Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-2-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "截至2025年底全国共有共青团员7833.6万名",
+            "excerpt": "新华社北京5月3日电 共青团中央3日发布数据显示，截至2025年12月底，全国共有共青团员7833.6万名，共青团组织515.0万个，分别比2024年底净增301.8万名、75.3万个。2025年共发展团员913.7万名。 其中，团的地方委员会0.3万个，基层团（工）委19.9万个，团总支部13.9万个，团支部480.9万个。学校团组织235.5万个，团员…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.593Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-2-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "外交部发言人就东京审判开庭80周年答记者问",
+            "excerpt": "据新华社北京5月3日电 外交部发言人3日就东京审判开庭80周年答记者问。 有记者问：今天是远东国际军事法庭（东京审判）开庭80周年纪念日。近期，中国、日本、国际社会都举行了一系列纪念活动，重温东京审判历史意义。请问中方对此有何评论？ 发言人说，1946年5月3日，根据日本无条件投降安排和盟军最高统帅颁布的《远东国际军事法庭宪章》，远东国际军事法庭正式开庭。…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.593Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-2-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "又见苦楝发新芽",
+            "excerpt": "海风轻拂，苍劲交错的深灰色树枝上，一串串金黄色的种子随风摇曳。 又是一个春天，黄海前哨，江苏省灌云县开山岛上的一株株苦楝树绽出新绿，去年冬天以来掉落在岛上的种子，正顽强地向石缝里扎根，努力发出新芽。 苦楝树，树皮、树叶、果实乃至根系均含有苦味物质‌，由此得名“苦楝”。近日，记者登上开山岛。站在苦楝树下，守岛英雄王继才的妻子王仕花深情地说，“苦楝”与“苦恋”…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.593Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-2-6",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中方在《开罗宣言》发表地建立纪念碑",
+            "excerpt": "新华社开罗5月3日电 据中国驻埃及使馆3日消息，为纪念《开罗宣言》在埃及米娜宫饭店达成，中方在米娜宫饭店建立纪念碑。当前，立碑区域正在修缮，完工后将向公众开放。 《开罗宣言》为结束第二次世界大战做出重要贡献，是确认台湾作为中国不可分割领土的重要历史和法理依据…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.593Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260504/9aefaae41c7e2a10c109365364a322a0.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260504/1adccc55402e524cda272c8a5a60f790.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:07:19.593Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-04:p03",
+        "source": "pla_daily",
+        "issueDate": "2026-05-04",
+        "pageNumber": 3,
+        "pageName": "专版",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-04-3-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 3,
+            "pageName": "专版",
+            "title": "以实干实绩书写新时代青春答卷",
+            "subtitle": "——解放军和武警部队2026年度中国青年五四奖章暨新时代青年先锋奖部分获奖个人（集体）风采",
+            "excerpt": "75220部队42分队—— 十七勇士今犹在 ■贺文康 本报记者 陈典宏 春日岭南，75220部队42分队一场实战化战术训练拉开帷幕。面对“敌”渗透袭扰、炮火压制等特情，分队官兵临危不乱、高效处置，利用无人机直插“敌”纵深、履带式无人车突进破障，成功拔除“敌”火力点。 这一幕，与90多年前何其相似。彼时，分队前身部队17名勇士乘一叶孤舟，在激流中勇进，顶着炮…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=03&articleid=2026-05-04-3-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.593Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260504/9c804989f74799c4166b022207ad7a55.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260504/1ec284ffc095b8f5a55898c44fbfc78e.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:07:19.593Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-04:p04",
+        "source": "pla_daily",
+        "issueDate": "2026-05-04",
+        "pageNumber": 4,
+        "pageName": "双拥视界",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-04-4-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 4,
+            "pageName": "双拥视界",
+            "title": "黔货进军营  消费助振兴",
+            "subtitle": "——贵州省军地携手开展“黔货出山进军营”行动",
+            "excerpt": "春染黔贵，万物勃发。一辆辆满载贵州特色农副产品的货车从群山环抱中的乡村出发，驶向座座军营。 山川秀美的多彩贵州，过去一度因地形复杂、交通不便，许多优质农产品面临“出山难”。军队参与脱贫攻坚和支持乡村振兴以来，立足自身职责使命，携手地方共同探索，开展“黔货出山进军营”行动。通过整合资源、搭建平台，双方创新构建“军地搭台、企业唱戏、群众受益”的长效帮扶机制，打…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=04&articleid=2026-05-04-4-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.593Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-4-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 4,
+            "pageName": "双拥视界",
+            "title": "红星闪闪照童心",
+            "excerpt": "周末，宁夏同心县中国工农红军西征纪念园内，稚嫩而坚定的童声在回荡。 “1936年，西征红军在同心建立了陕甘宁省豫海县回民自治政府，红军战士和回族群众亲如一家……”四年级学生苏凯宁站在小号手广场上，为往来游客进行义务讲解。 除了小号手广场，在红军西征纪念馆、陕甘宁省豫海县回民自治政府成立大会旧址等红色场馆，活跃着10余名像苏凯宁一样的小讲解员。他们深情讲述红…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=04&articleid=2026-05-04-4-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.593Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-4-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 4,
+            "pageName": "双拥视界",
+            "title": "军地鹊桥  缘聚军营",
+            "subtitle": "○四川省宜宾市组建“公益红娘”队伍<br>\n○江苏省江阴市打造高效婚恋服务平台",
+            "excerpt": "今年2月，中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》（以下简称《意见》），明确提出构建全方位、多层次的婚恋服务体系，为军地各级解决官兵婚恋难题提供政策指引和行动遵循。 广大官兵常年驻守祖国海疆边关、扎根艰苦战位，却因任务繁重、驻地偏远、社交受限等，在婚恋问题上面临现实困难。《意见》印发以来，军地相关部门迅速响…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=04&articleid=2026-05-04-4-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.593Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-04-4-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-04",
+            "pageNumber": 4,
+            "pageName": "双拥视界",
+            "title": "“暖心港湾”",
+            "excerpt": "清晨，河南省临颍县人民路上的“老兵文印”店早早开门迎客。 退役军人王昊民正在准备办理优待证的材料，看到这家店便走了进来：“老板，能复印资料吗？” 店主、退役军人夏占民笑着应承。接过王昊民的身份证、退役证明等材料，他一边操作复印机，一边指向店门口的“爱心服务公约”标牌：“面向退役军人、现役军人、革命伤残军人，免费提供打印复印、政策咨询、心理咨询服务。” 王昊…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=04&articleid=2026-05-04-4-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:07:19.593Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260504/01dce3ee498b0776b5227b45d2938f95.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260504/40df7bb3b5de53c031e06d19ac58f55c.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:07:19.593Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "pla-daily-index-json-v1",
+      "extractedAt": "2026-05-16T09:07:19.593Z"
+    }
+  },
+  "matchGroups": [
+    {
+      "id": "matched:people_daily:30154777:pla_daily:2026-05-04-1-0",
+      "issueDate": "2026-05-04",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154777",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "胸怀远大理想矢志拼搏奋斗 带动广大青年把个人追求融入国家发展大局",
+          "excerpt": "回 信 中国青年五四奖章暨新时代青年先锋奖获奖者代表： 来信收悉。你们牢记党的嘱托，扎根科技创新、乡村振兴、社会服务、卫国戍边等基层一线，以实干担当书写无悔青春，展现了新时代中国青年自信自强、昂扬向上的良好风貌。 今年是“十五五”开局之年，青年建功正当其时。希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新业…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154777.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.563Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-04-1-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "胸怀远大理想矢志拼搏奋斗 带动广大青年把个人追求融入国家发展大局",
+          "excerpt": "回 信 中国青年五四奖章暨新时代青年先锋奖 获奖者代表： 来信收悉。你们牢记党的嘱托，扎根科技创新、乡村振兴、社会服务、卫国戍边等基层一线，以实干担当书写无悔青春，展现了新时代中国青年自信自强、昂扬向上的良好风貌。 今年是“十五五”开局之年，青年建功正当其时。希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=01&articleid=2026-05-04-1-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.592Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 胸怀远大理想矢志拼搏奋斗 带动广大青年把个人追求融入国家发展大局、中央军委主席习近平给中国青年五四奖章。ナラティブ・完全タイトル一致: 胸怀远大理想矢志拼搏奋斗 带动广大青年把个人追求融入国家发展大局、中央军委主席习近平给中国青年五四奖章 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "胸怀远大理想矢志拼搏奋斗 带动广大青年把个人追求融入国家发展大局",
+          "中央军委主席习近平给中国青年五四奖章"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 98% / narrative 11%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 98% / ナラティブ類似 11%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 胸怀远大理想矢志拼搏奋斗 带动广大青年把个人追求融入国家发展大局、中央军委主席习近平给中国青年五四奖章",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30154778+people_daily:30154790:pla_daily:2026-05-04-2-1+pla_daily:2026-05-04-2-4",
+      "issueDate": "2026-05-04",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154778",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "坚持不懈，提升我国原始创新能力",
+          "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+          "author": "本报评论员",
+          "excerpt": "立足“十五五”这一夯实基础、全面发力的关键时期，如何全面加强基础研究、提升我国原始创新能力？习近平总书记在加强基础研究座谈会上作出全面部署，强调“一体推进教育科技人才发展”“加强对基础研究的支持保障”“深化基础研究国际交流合作”。 原始创新是“从0到1”的创新，是科技创新的“源头活水”。党的十八大以来，在以习近平同志为核心的党中央坚强领导下，我们顺应新一轮…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154778.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.571Z"
+          }
+        },
+        {
+          "id": "people_daily:30154790",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "外交部发言人就东京审判开庭80周年答记者问",
+          "excerpt": "新华社北京5月3日电 外交部发言人3日就东京审判开庭80周年答记者问。 有记者问：今天是远东国际军事法庭（东京审判）开庭80周年纪念日。近期，中国、日本、国际社会都举行了一系列纪念活动，重温东京审判历史意义。请问中方对此有何评论？ 发言人说，1946年5月3日，根据日本无条件投降安排和盟军最高统帅颁布的《远东国际军事法庭宪章》，远东国际军事法庭正式开庭。这…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154790.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:19.574Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-04-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "坚持不懈，提升我国原始创新能力",
+          "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+          "excerpt": "立足“十五五”这一夯实基础、全面发力的关键时期，如何全面加强基础研究、提升我国原始创新能力？习近平总书记在加强基础研究座谈会上作出全面部署，强调“一体推进教育科技人才发展”“加强对基础研究的支持保障”“深化基础研究国际交流合作”。 原始创新是“从0到1”的创新，是科技创新的“源头活水”。党的十八大以来，在以习近平同志为核心的党中央坚强领导下，我们顺应新一轮…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.593Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-04-2-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "外交部发言人就东京审判开庭80周年答记者问",
+          "excerpt": "据新华社北京5月3日电 外交部发言人3日就东京审判开庭80周年答记者问。 有记者问：今天是远东国际军事法庭（东京审判）开庭80周年纪念日。近期，中国、日本、国际社会都举行了一系列纪念活动，重温东京审判历史意义。请问中方对此有何评论？ 发言人说，1946年5月3日，根据日本无条件投降安排和盟军最高统帅颁布的《远东国际军事法庭宪章》，远东国际军事法庭正式开庭。…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.593Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 坚持不懈，提升我国原始创新能力、使用工作提供了重要方法、制度保障和政策引导对基础研究产出的影、形成推动基础研究实现高质量发展的倍增。ナラティブ・LLMトピック束: 坚持不懈，提升我国原始创新能力、使用工作提供了重要方法、制度保障和政策引导对基础研究产出的影、形成推动基础研究实现高质量发展的倍增 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "制度保障和政策引导对基础研究产出的影",
+          "形成推动基础研究实现高质量发展的倍增",
+          "锚定2035年建成科技强国的战略目标",
+          "实现高质量发展",
+          "作出专门部署",
+          "出全面部署",
+          "科学研究向极宏观拓展",
+          "大力弘扬科学家精神"
+        ],
+        "plaDailyTerms": [
+          "理判定日本军国主义发动侵略战争严重违反国际法",
+          "根据日本无条件投降安排和盟军最高统帅",
+          "判定日本军国主义发动侵略战争",
+          "远东国际军事法庭正式开庭",
+          "今天是远东国际军事法庭",
+          "庭宪章远东国际军事法",
+          "日本军国主义遗毒未清",
+          "远东国际军事法庭宪章"
+        ],
+        "sharedTerms": [
+          "坚持不懈，提升我国原始创新能力",
+          "使用工作提供了重要方法",
+          "制度保障和政策引导对基础研究产出的影",
+          "形成推动基础研究实现高质量发展的倍增",
+          "锚定2035年建成科技强国的战略目标",
+          "实现高质量发展",
+          "作出专门部署",
+          "出全面部署",
+          "外交部发言人就东京审判开庭80周年答记者问",
+          "今天是远东国际军事法",
+          "远东国际军事法",
+          "这场历史性审判汇聚11国司法"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 92% / lexical 100% / narrative 87%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 87%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・LLMトピック束: 坚持不懈，提升我国原始创新能力、使用工作提供了重要方法、制度保障和政策引导对基础研究产出的影、形成推动基础研究实现高质量发展的倍增",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30154793:pla_daily:2026-05-04-2-6",
+      "issueDate": "2026-05-04",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154793",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中方在《开罗宣言》发表地建立纪念碑",
+          "excerpt": "本报开罗5月3日电 （记者黄培昭、沈小晓）《开罗宣言》为结束第二次世界大战作出重要贡献，是确认台湾作为中国不可分割领土的重要历史和法理依据，与之后重申《开罗宣言》规定的《波茨坦公告》等一系列具有法律效力的文件构成了二战后国际秩序的组成部分。为纪念《开罗…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154793.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:19.489Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-04-2-6",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中方在《开罗宣言》发表地建立纪念碑",
+          "excerpt": "新华社开罗5月3日电 据中国驻埃及使馆3日消息，为纪念《开罗宣言》在埃及米娜宫饭店达成，中方在米娜宫饭店建立纪念碑。当前，立碑区域正在修缮，完工后将向公众开放。 《开罗宣言》为结束第二次世界大战做出重要贡献，是确认台湾作为中国不可分割领土的重要历史和法理依据…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.593Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 中方在《开罗宣言》发表地建立纪念碑、是确认台湾作为中国不可分割领土的重要历史和法、等一系列具有法。ナラティブ・完全タイトル一致: 中方在《开罗宣言》发表地建立纪念碑、是确认台湾作为中国不可分割领土的重要历史和法、等一系列具有法 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "中方在《开罗宣言》发表地建立纪念碑",
+          "是确认台湾作为中国不可分割领土的重要历史和法",
+          "等一系列具有法"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 88% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 88% / ナラティブ類似 0%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 中方在《开罗宣言》发表地建立纪念碑、是确认台湾作为中国不可分割领土的重要历史和法、等一系列具有法",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30154796:pla_daily:2026-05-04-2-3",
+      "issueDate": "2026-05-04",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154796",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "截至2025年底全国共有共青团员7833.6万名",
+          "excerpt": "本报北京5月3日电 （记者杨昊）共青团中央5月3日发布数据显示，截至2025年12月底，全国共有共青团员7833.6万名，共青团组织515.0万个，分别比2024年底净增301.8万名、75.3万个。2025年共发展团员913.7万名。 其中，团的地方委员会0.3万个，基层团（工）委19.9万个，团总支部13.9万个，团支部480.9万个。学校团组织235…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154796.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:20.022Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-04-2-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "截至2025年底全国共有共青团员7833.6万名",
+          "excerpt": "新华社北京5月3日电 共青团中央3日发布数据显示，截至2025年12月底，全国共有共青团员7833.6万名，共青团组织515.0万个，分别比2024年底净增301.8万名、75.3万个。2025年共发展团员913.7万名。 其中，团的地方委员会0.3万个，基层团（工）委19.9万个，团总支部13.9万个，团支部480.9万个。学校团组织235.5万个，团员…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.593Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 截至2025年底全国共有共青团员7833.6万名。ナラティブ・完全タイトル一致: 截至2025年底全国共有共青团员7833.6万名 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "截至2025年底全国共有共青团员7833.6万名"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 95% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 95% / ナラティブ類似 0%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 截至2025年底全国共有共青团员7833.6万名",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30154788+people_daily:30154789:pla_daily:2026-05-04-4-2",
+      "issueDate": "2026-05-04",
+      "matchType": "matched",
+      "confidence": 0.75,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154788",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "红海畔，又添中国“大风车”（共建“一带一路”·第一现场）",
+          "author": "本报记者 沈小晓",
+          "excerpt": "巨型吊车将长约90米的风机叶片缓缓擎至百米高空，云朵低垂的天空映衬着中埃工人们忙碌的身影，重型卡车在临时道路上卷起阵阵沙尘……在埃及小镇拉斯加里卜附近，由中国电力建设集团承建的苏伊士湾1.1吉瓦风电项目正在进行风机吊装作业，一座现代化风电场正在沙漠与海岸的交界处拔地而起。红海的海风，即将变成绿电，谱写中埃绿色能源合作新篇章。 “这不仅是我个人事业的新起点，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154788.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:19.476Z"
+          }
+        },
+        {
+          "id": "people_daily:30154789",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "对非零关税政策为中非合作高质量发展注入新动能（国际论坛）",
+          "author": "徐永利",
+          "excerpt": "中国成为全球首个对非洲建交国实施全覆盖零关税的主要经济体，不仅为中非合作共赢开拓新维度、注入新动力，更向动荡世界展现开放包容、互利共赢的东方智慧 5月1日起，中国正式对53个非洲建交国全面实施零关税举措。这一制度性安排，使中国成为全球首个对非洲建交国实施全覆盖零关税的主要经济体，不仅为中非合作共赢开拓新维度、注入新动力，更向动荡世界展现开放包容、互利共赢的…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154789.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:19.483Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-04-4-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 4,
+          "pageName": "双拥视界",
+          "title": "军地鹊桥  缘聚军营",
+          "subtitle": "○四川省宜宾市组建“公益红娘”队伍<br>\n○江苏省江阴市打造高效婚恋服务平台",
+          "excerpt": "今年2月，中央军委政治工作部等6部门联合印发《关于做好边远艰苦地区和大龄未婚官兵婚恋服务工作的意见》（以下简称《意见》），明确提出构建全方位、多层次的婚恋服务体系，为军地各级解决官兵婚恋难题提供政策指引和行动遵循。 广大官兵常年驻守祖国海疆边关、扎根艰苦战位，却因任务繁重、驻地偏远、社交受限等，在婚恋问题上面临现实困难。《意见》印发以来，军地相关部门迅速响…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=04&articleid=2026-05-04-4-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.593Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 75%）。ナラティブ・LLMトピック束 / ナラティブ・LLM判定",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "1吉瓦风电项目契合埃及国家能源战略和",
+          "一座现代化风电场正在沙漠与海岸的交界",
+          "更加坚定了我们对项目高质量如期完成的",
+          "避免影响整体系统",
+          "在一座正在吊装的风机旁的观测点",
+          "中国拥有完备的产业体系和超大规模国内",
+          "对非零关税政策为中非合作高质量发展注",
+          "满足非洲国家工业化和民生改善的多样需"
+        ],
+        "plaDailyTerms": [
+          "一场温馨浪漫的军地联谊活动在四川省宜",
+          "为军地各级解决官兵婚恋难题提供政策指",
+          "关于做好边远艰苦地区和大龄未婚官兵婚",
+          "由江苏省江阴市双拥办主办的军地联谊活",
+          "驻军某部二级上士吴嘉伟认识了同在宜宾",
+          "中央军委政治工作部等6部门联合印发",
+          "努力为官兵打造更高效的婚恋服务平台",
+          "全面了解大龄青年官兵的个人情况"
+        ],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 75% / lexical 0% / narrative 16%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 16%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・LLMトピック束",
+        "ナラティブ・LLM判定"
+      ]
+    },
+    {
+      "id": "people_only:1:要闻",
+      "issueDate": "2026-05-04",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154779",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "努力实现“十五五”良好开局",
+          "subtitle": "——今年以来中国经济观察",
+          "author": "本报记者 武少民 吴秋余 葛孟超",
+          "excerpt": "“十五五”规划纲要恢宏起笔，神州大地涌动高质量发展勃勃生机。 春播春管从南向北有序开展，创新前沿捷报频传，重大工程接续发力……“十五五”首季国内生产总值实现5.0%的增长，为这个开局之年的春天，标注时代坐标的坚实一笔。 “努力实现‘十五五’良好开局”，习近平总书记高瞻远瞩、领航掌舵。 4月28日召开的中共中央政治局会议指出，我国经济起步有力，主要指标好于预…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154779.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.600Z"
+          }
+        },
+        {
+          "id": "people_daily:30154780",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "立足岗位作贡献 青春奋进勇担当",
+          "author": "本报记者",
+          "excerpt": "希望寄予青年，实干成就伟业。 在五四青年节到来之际，习近平总书记给中国青年五四奖章暨新时代青年先锋奖获奖者代表回信，向全国各族青年致以节日祝贺并提出殷切期望：“把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。” “五一”假期，神州大地上，坚守岗位、拼搏不息的身影中，不乏挺膺担当、实干奉献的青年，他们在推进中国式现代化的广阔舞…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154780.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.582Z"
+          }
+        },
+        {
+          "id": "people_daily:30154781",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "建功“十五五” 创造新业绩（今日谈）",
+          "author": "沈道民",
+          "excerpt": "“今年是‘十五五’开局之年，青年建功正当其时。”习近平总书记的殷切期望，激励广大青年立足各自岗位不断创造新业绩，在新征程上贡献青春力量。 青年向上，国家向前。人工智能创新突破，离不开一大批年轻科技工作者埋头攻关；乡村全面振兴扎实推进，见证着许多90后、00后新农人辛勤付出；千千万万青年志愿者将“小我”融入“大我”，在奉献人民、服务社会中锻炼成长；强军兴军战…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154781.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.641Z"
+          }
+        },
+        {
+          "id": "people_daily:30154782",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154782.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.572Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 4本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:2:要闻",
+      "issueDate": "2026-05-04",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154783",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "非遗鱼灯舞出山村魅力（经济新方位·聚焦假期消费）",
+          "author": "本报记者 罗阳奇",
+          "excerpt": "5月的皖南，山色青翠。从安徽歙县徽州古城驱车出发，不到半小时，便抵达了一座隐匿于群山之间的千年古村——歙县瞻淇村。村名取自《诗经》“瞻彼淇奥，绿竹猗猗”，一踏入村口，便似走进诗画之中。 一家鱼灯体验馆内，桌上放着几只尚未制作完成的鱼灯，竹篾为骨，白布为肤，红色的鳞片在灯光下泛着温润的光泽。游客正聚精会神地为鱼灯上色。 “瞻淇鱼灯起源于宋朝，有800多年历史…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154783.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.989Z"
+          }
+        },
+        {
+          "id": "people_daily:30154784",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“让‘中国算法’成为精准医疗的标配”（产业里的年轻人）",
+          "author": "本报记者 黄晓慧",
+          "excerpt": "“信噪比还是差一点，得调整一下参数。”算法研发负责人叶青紧盯着刚跑出来的重建图像，眉头微蹙。 上海联影医疗高级应用算法部，屏幕上跳动着正电子发射断层成像（PET）数据流，叶青正试图从海量噪声中算出更清晰的病灶轨迹。 1993年出生的叶青，是部门的技术骨干。她专攻参数成像重建、动态运动校正等关键技术，用一行行代码，给国产高端医疗器械装上“最强大脑”，不仅“看…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154784.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:19.082Z"
+          }
+        },
+        {
+          "id": "people_daily:30154785",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "青春书写创新答卷（编辑手记）",
+          "author": "祁嘉润",
+          "excerpt": "从求学时期见证中国首创亮相的惊艳，到连续攻关突破动态算法瓶颈的坚韧，再到面向未来许下要看得准更要治得准的雄心壮志……叶青成长的故事背后，是我国高端医疗器械产业从小到大、从弱到强的不凡历程，也彰显一代代中国青年科技工作者接续奋斗的荣光。 他们瞄准新领域、新课题，坚持啃硬骨头，用青春书写中国创新的能力与定力。他们的奋斗身影，也是我国高端医疗器械产业蓬勃发展的底…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154785.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:19.077Z"
+          }
+        },
+        {
+          "id": "people_daily:30154786",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "一键下单 农机到田（春耕里的新质生产力）",
+          "author": "本报记者 孙 超",
+          "excerpt": "一早，湖南安仁县植保机飞手卢亚龙点开手机里的“农机一键达”软件——“灵官镇种粮大户许柏林，预约100亩新插秧苗施肥”。跟随预约提示，卢亚龙动身前往灵官镇。软件上，往后半个月的日程，都排得明明白白。 到了许柏林的田边，卢亚龙核对信息、启动机器。旋翼轰鸣，药雾均匀洒下。100亩田，半天打完，高效又精准。 这给许柏林省了不少心。过去，他为了种好400亩流转地，光…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154786.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:19.080Z"
+          }
+        },
+        {
+          "id": "people_daily:30154787",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "努力实现“十五五”良好开局",
+          "subtitle": "——今年以来中国经济观察",
+          "author": "本报记者 武少民 吴秋余 葛孟超",
+          "excerpt": "“十五五”规划纲要恢宏起笔，神州大地涌动高质量发展勃勃生机。 春播春管从南向北有序开展，创新前沿捷报频传，重大工程接续发力……“十五五”首季国内生产总值实现5.0%的增长，为这个开局之年的春天，标注时代坐标的坚实一笔。 “努力实现‘十五五’良好开局”，习近平总书记高瞻远瞩、领航掌舵。 4月28日召开的中共中央政治局会议指出，我国经济起步有力，主要指标好于预…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154787.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:18.998Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:3:要闻",
+      "issueDate": "2026-05-04",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154791",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“为非洲经济发展注入动力”",
+          "subtitle": "——访加纳非中政策与咨询中心执行主任弗林蓬",
+          "author": "本报记者 邹 松",
+          "excerpt": "“中国对53个非洲建交国全面实施零关税举措，其意义远不止贸易层面，更在于为非洲经济转型与融入经济全球化提供了前所未有的战略机遇。”近日，加纳非中政策与咨询中心执行主任保罗·弗林蓬在接受本报记者专访时表示。 弗林蓬认为，中国对非零关税举措是对非洲经济未来投下的“信任票”。他表示，当前全球资本流动趋于谨慎，贸易体系呈现碎片化态势，许多国家对非洲市场持观望态度。…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154791.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:19.484Z"
+          }
+        },
+        {
+          "id": "people_daily:30154792",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“这是中国不断推进高水平对外开放的最好证明”（外媒记者看中国）",
+          "author": "本报记者 崔 寅 洪秋婷",
+          "excerpt": "日前，来自美国、英国、法国、俄罗斯等10多个国家和地区的近70名中外记者走访中国上海、广东，感受中国扩大高水平对外开放的实践成效。 在上海的采访中，外媒记者们围绕中国开放型经济如何提质增效频频提问：“外企在上海发展有哪些优势？”“外资呈现怎样新的趋势和特点？”“外企在中国发展的信心来自哪里？” “目前在沪外企近8万家，累计实际使用外资超3800亿美元，今年…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154792.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:19.531Z"
+          }
+        },
+        {
+          "id": "people_daily:30154794",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "乌兹别克斯坦总理阿里波夫将访华并举行中乌政府间合作委员会第八次会议",
+          "excerpt": "新华社北京5月3日电 外交部发言人3日宣布：应中国政府邀请，乌兹别克斯坦总理阿里波夫将于5月6日至7日访华，并同中共中央政治局委员、国务院…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154794.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:19.479Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 3本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:4:要闻",
+      "issueDate": "2026-05-04",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154795",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "交通更有序 出行更从容",
+          "subtitle": "——从三个场景看“五一”出行服务新升级",
+          "author": "本报记者 韩 鑫 李心萍 邱超奕",
+          "excerpt": "旅游、探亲、休闲叠加，“五一”假期，出行“热力”十足—— 陆上，铁路、公路迎来客流高峰；水上，珠江夜游、三峡游等特色项目不断升温；空中，旅游城市航线需求保持高位…… 交通运输部数据显示，“五一”假期，全社会跨区域人员流动量预计达15.2亿人次，日均超3亿人次，创历史同期新高。 出行热力映射发展活力、展现内需潜力。透过铁路、公路、民航3个场景，可以看到出行服…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154795.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:20.020Z"
+          }
+        },
+        {
+          "id": "people_daily:30154797",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "以实干担当书写无悔青春（人民论坛）",
+          "author": "盛玉雷",
+          "excerpt": "“以实干担当书写无悔青春”“在新征程上贡献青春力量”，在五四青年节到来之际，习近平总书记的勉励与期许，激励着广大青年立足各自岗位不断创造新业绩。 最近，李创业的“创业”故事引发网友关注。 这是他艰难的“行走”——因患小儿麻痹症，只能蹲在地上前行。 这是他挺拔的“站立”——从河南奔赴新疆开了家诊所，门口的灯24小时常亮，只要患者需要就上门出诊，对家境困难的还…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154797.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:20.021Z"
+          }
+        },
+        {
+          "id": "people_daily:30154798",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "5月3日，2026（第十九届）北京国际汽车展览会闭幕。本届车展以“领时代 智未来”为主题，首次采用双馆联动模式，总展览面积达38万平方米，规模跃居全球车展首位。本届车展展车总数1451辆，其中全球首发车181辆、概念车7…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154798.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:20.020Z"
+          }
+        },
+        {
+          "id": "people_daily:30154799",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "上海复兴岛吸引全球创客",
+          "author": "本报记者 姜泓冰 巨云鹏",
+          "excerpt": "5月1日到2日，一场音乐活动在上海市复兴岛举行。黄浦江畔，12万平方米公共空间里，上万名乐迷登岛感受音乐的魅力。 巨大的码头塔吊下，观众和江景合影打卡，形成一幅美妙的景观。 复兴岛位于上海市杨浦区，是黄浦江畔唯一的内陆岛屿，面积约1.3平方公里，曾是上海重要的工业基地和仓储区，是造船、燃料、仓储等产业的聚集地。 近年来，这些行业逐渐搬离市区，留下旧仓库、厂…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154799.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:20.032Z"
+          }
+        },
+        {
+          "id": "people_daily:30154800",
+          "source": "people_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "立足岗位作贡献 青春奋进勇担当",
+          "excerpt": "希望寄予青年，实干成就伟业。 在五四青年节到来之际，习近平总书记给中国青年五四奖章暨新时代青年先锋奖获奖者代表回信，向全国各族青年致以节日祝贺并提出殷切期望：“把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。” “五一”假期，神州大地上，坚守岗位、拼搏不息的身影中，不乏挺膺担当、实干奉献的青年，他们在推进中国式现代化的广阔舞…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/04/content_30154800.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:07:20.021Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:1:要闻",
+      "issueDate": "2026-05-04",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-04-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "谱写无愧于时代和人民的青春华章",
+          "subtitle": "——习近平总书记的回信激励广大青年和青年工作者努力拼搏、接续奋进",
+          "excerpt": "“希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。”五四青年节到来之际，习近平总书记回信勉励中国青年五四奖章暨新时代青年先锋奖获奖者代表，向全国各族青年致以节日祝贺并提出殷切期望。 殷殷期许，沁润心田。习近平总书记的回信令广大青年和青年工作者倍感振奋。大家表示，要以习近平总书记…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=01&articleid=2026-05-04-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.592Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-04-1-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "在强军新征程上贡献青春力量",
+          "excerpt": "“希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。”在五四青年节到来之际，习主席给中国青年五四奖章暨新时代青年先锋奖获奖者代表回信，向全国各族青年致以节日祝贺并提出殷切期望。这是对青年的嘱托，也是对奋斗的号召，必将激励广大青年官兵在强军新征程上挺膺担当、奋勇争先，为国防和军队现…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=01&articleid=2026-05-04-1-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.592Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-04-1-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "又见苦楝发新芽",
+          "excerpt": "海风轻拂，苍劲交错的深灰色树枝上，一串串金黄色的种子随风摇曳。 又是一个春天，黄海前哨，江苏省灌云县开山岛上的一株株苦楝树绽出新绿，去年冬天以来掉落在岛上的种子，正顽强地向石缝里扎根，努力发出新芽。 苦楝树，树皮、树叶、果实乃至根系均含有苦味物质‌，由此得名“苦楝”。近日，记者登上开山岛。站在苦楝树下，守岛英雄王继才的妻子王仕花深情地说，“苦楝”与“苦恋”…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=01&articleid=2026-05-04-1-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.592Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-04-1-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "拒绝“绕道走”  坚持“马上办”",
+          "excerpt": "“关于你反映的子女入学问题，已协调驻地教育部门解决。现对办理情况进行回访，请问你对结果是否满意……”春日的一天，火箭军某基地解难帮困领导小组办公室内，工作人员对照前期整理的问题台账，逐一进行电话回访，言语温和而亲切。 “政绩观是否端正，关键要看为官兵解决了多少实际问题。”该小组组长向记者介绍，基地建立“收集—办理—反馈”系统化解难帮困机制以来，党委机关解决…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=01&articleid=2026-05-04-1-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.592Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-04-1-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=01&articleid=2026-05-04-1-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.592Z"
+          }
+        }
+      ],
+      "reason": "81cn only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:2:要闻",
+      "issueDate": "2026-05-04",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-04-2-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "走好建设科技强国的必由之路",
+          "subtitle": "——新时代我国基础研究实现新飞跃",
+          "excerpt": "基础研究是科技创新的源头活水，决定着一个国家科技创新的底蕴和后劲。 4月30日，习近平总书记在加强基础研究座谈会上强调：“要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。” 党的十八大以来，以习近平同志为核心的党中央深入推动实施创新驱动发展战略，提出加快建设创新型国家的战略任务，确立2035年建成科技强国的奋斗目标。…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.593Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-04-2-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "谱写无愧于时代和人民的青春华章",
+          "subtitle": "——习近平总书记的回信激励广大青年和青年工作者努力拼搏、接续奋进",
+          "excerpt": "“希望你们胸怀远大理想，矢志拼搏奋斗，带动广大青年把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。”五四青年节到来之际，习近平总书记回信勉励中国青年五四奖章暨新时代青年先锋奖获奖者代表，向全国各族青年致以节日祝贺并提出殷切期望。 殷殷期许，沁润心田。习近平总书记的回信令广大青年和青年工作者倍感振奋。大家表示，要以习近平总书记…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.593Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-04-2-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "又见苦楝发新芽",
+          "excerpt": "海风轻拂，苍劲交错的深灰色树枝上，一串串金黄色的种子随风摇曳。 又是一个春天，黄海前哨，江苏省灌云县开山岛上的一株株苦楝树绽出新绿，去年冬天以来掉落在岛上的种子，正顽强地向石缝里扎根，努力发出新芽。 苦楝树，树皮、树叶、果实乃至根系均含有苦味物质‌，由此得名“苦楝”。近日，记者登上开山岛。站在苦楝树下，守岛英雄王继才的妻子王仕花深情地说，“苦楝”与“苦恋”…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=02&articleid=2026-05-04-2-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.593Z"
+          }
+        }
+      ],
+      "reason": "81cn only 3本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:3:专版",
+      "issueDate": "2026-05-04",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-04-3-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 3,
+          "pageName": "专版",
+          "title": "以实干实绩书写新时代青春答卷",
+          "subtitle": "——解放军和武警部队2026年度中国青年五四奖章暨新时代青年先锋奖部分获奖个人（集体）风采",
+          "excerpt": "75220部队42分队—— 十七勇士今犹在 ■贺文康 本报记者 陈典宏 春日岭南，75220部队42分队一场实战化战术训练拉开帷幕。面对“敌”渗透袭扰、炮火压制等特情，分队官兵临危不乱、高效处置，利用无人机直插“敌”纵深、履带式无人车突进破障，成功拔除“敌”火力点。 这一幕，与90多年前何其相似。彼时，分队前身部队17名勇士乘一叶孤舟，在激流中勇进，顶着炮…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=03&articleid=2026-05-04-3-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.593Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:4:双拥视界",
+      "issueDate": "2026-05-04",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-04-4-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 4,
+          "pageName": "双拥视界",
+          "title": "黔货进军营  消费助振兴",
+          "subtitle": "——贵州省军地携手开展“黔货出山进军营”行动",
+          "excerpt": "春染黔贵，万物勃发。一辆辆满载贵州特色农副产品的货车从群山环抱中的乡村出发，驶向座座军营。 山川秀美的多彩贵州，过去一度因地形复杂、交通不便，许多优质农产品面临“出山难”。军队参与脱贫攻坚和支持乡村振兴以来，立足自身职责使命，携手地方共同探索，开展“黔货出山进军营”行动。通过整合资源、搭建平台，双方创新构建“军地搭台、企业唱戏、群众受益”的长效帮扶机制，打…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=04&articleid=2026-05-04-4-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.593Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-04-4-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 4,
+          "pageName": "双拥视界",
+          "title": "红星闪闪照童心",
+          "excerpt": "周末，宁夏同心县中国工农红军西征纪念园内，稚嫩而坚定的童声在回荡。 “1936年，西征红军在同心建立了陕甘宁省豫海县回民自治政府，红军战士和回族群众亲如一家……”四年级学生苏凯宁站在小号手广场上，为往来游客进行义务讲解。 除了小号手广场，在红军西征纪念馆、陕甘宁省豫海县回民自治政府成立大会旧址等红色场馆，活跃着10余名像苏凯宁一样的小讲解员。他们深情讲述红…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=04&articleid=2026-05-04-4-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.593Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-04-4-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-04",
+          "pageNumber": 4,
+          "pageName": "双拥视界",
+          "title": "“暖心港湾”",
+          "excerpt": "清晨，河南省临颍县人民路上的“老兵文印”店早早开门迎客。 退役军人王昊民正在准备办理优待证的材料，看到这家店便走了进来：“老板，能复印资料吗？” 店主、退役军人夏占民笑着应承。接过王昊民的身份证、退役证明等材料，他一边操作复印机，一边指向店门口的“爱心服务公约”标牌：“面向退役军人、现役军人、革命伤残军人，免费提供打印复印、政策咨询、心理咨询服务。” 王昊…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-04&paperNumber=04&articleid=2026-05-04-4-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:07:19.593Z"
+          }
+        }
+      ],
+      "reason": "81cn only 3本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    }
+  ],
+  "counts": {
+    "peopleArticles": 24,
+    "plaArticles": 18,
+    "matchedGroups": 5,
+    "matchedPeopleArticles": 7,
+    "matchedPlaArticles": 6,
+    "peopleOnlyArticles": 17,
+    "plaOnlyArticles": 12
+  }
+}

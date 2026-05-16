@@ -1,0 +1,2193 @@
+{
+  "schemaVersion": 1,
+  "issueDate": "2026-05-13",
+  "generatedAt": "2026-05-16T09:09:40.553Z",
+  "retentionDays": 31,
+  "frontPages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "judge": {
+    "enabled": true,
+    "model": "gpt-4.1-nano"
+  },
+  "peopleIssue": {
+    "id": "people_daily:2026-05-13",
+    "source": "people_daily",
+    "issueDate": "2026-05-13",
+    "pages": [
+      {
+        "id": "people_daily:2026-05-13:p01",
+        "source": "people_daily",
+        "issueDate": "2026-05-13",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30156503",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平同塔吉克斯坦总统拉赫蒙会谈",
+            "excerpt": "新华社北京5月12日电 （记者温馨）5月12日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的塔吉克斯坦总统拉赫蒙举行会谈。 习近平祝贺塔吉克斯坦独立35周年并取得国家建设重大成就。习近平指出，相互坚定支持是中塔关系的核心要义。无论外部环境如何变化，中塔两国永远是守望相助的好邻居、坦诚互信的好朋友、携手发展的好伙伴。双方签署《中塔永久睦邻友好合作条…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156503.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:09.607Z"
+            }
+          },
+          {
+            "id": "people_daily:30156504",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平会见文莱王储比拉",
+            "excerpt": "新华社北京5月12日电 （记者温馨）5月12日下午，国家主席习近平在北京人民大会堂会见来华进行正式访问的文莱王储比拉。 习近平指出，中国和文莱是亲密邻邦，海上丝绸之路将两国紧紧联系在一起。中文合作不仅给两国人民带来实实在在利益，也树立了大小国家平等相待、合作共赢的典范。去年我同哈桑纳尔苏丹就构建中文命运共同体达成重要共识，开启双边关系崭新篇章。今年是中文建…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156504.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:09.526Z"
+            }
+          },
+          {
+            "id": "people_daily:30156505",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平会见联合国教科文组织总干事阿纳尼",
+            "excerpt": "新华社北京5月12日电 （记者温馨）5月12日下午，国家主席习近平在北京人民大会堂会见联合国教科文组织总干事阿纳尼。 习近平指出，联合国教科文组织为增进各国人民相互了解信任、推动不同文明交流互鉴作出了重要贡献，也为改革完善全球教育、科学、文化治理发挥了积极作用。中方积极支持联合国教科文组织工作，双方共同为维护世界和平、促进全球发展做了很多事情。中方愿同联合…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156505.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:09.609Z"
+            }
+          },
+          {
+            "id": "people_daily:30156506",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "李强赵乐际分别会见塔吉克斯坦总统拉赫蒙",
+            "excerpt": "新华社北京5月12日电 5月12日上午，国务院总理李强在北京人民大会堂会见来华进行国事访问的塔吉克斯坦总统拉赫蒙。 李强表示，当前，在两国元首战略引领下，双方正紧密协作，努力在更高水平上构建中塔命运共同体。习近平主席将同总统先生举行会晤，就持续深化中塔关系擘画新的蓝图。中方愿同塔方进一步筑牢政治互信，加大在涉及彼此核心利益问题上的相互支持，坚决反对任何外部…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156506.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:09.516Z"
+            }
+          },
+          {
+            "id": "people_daily:30156507",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "李强致电祝贺毛焦尔就任匈牙利总理",
+            "excerpt": "新华社北京5月12日电 5月12日，国务院总理李强致电毛焦尔·彼得，祝贺他就任匈牙利总理。 李强表示，中方始终视匈牙利为欧洲地区的重要伙伴，愿同匈方一道，传承传统友谊，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156507.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:09.602Z"
+            }
+          },
+          {
+            "id": "people_daily:30156508",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "韩正同文莱王储比拉举行会谈",
+            "excerpt": "新华社北京5月12日电 5月12日，国家副主席韩正在北京同文莱王储比拉举行会谈。 韩正表示，中文友谊根植于跨越千年的友好交往，是国家间平等相待、互利共赢的典范。去年习近平主席同哈桑纳尔苏丹就构建中文命运共同体达成重要共识，为中文关系发展擘画了新蓝图。习近平主席刚刚同你会见，就中文关系发展提出了重要意见。今年是中文建交35周年，中方愿同文方共同落实好两国元首…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156508.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:09.516Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/13/7d655986-d937-4969-b3e1-dcb45b1feeb6.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/13/484f3628-9a9f-450f-9e7d-37faaeada49f.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:09:09.609Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-13:p02",
+        "source": "people_daily",
+        "issueDate": "2026-05-13",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30156509",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中华人民共和国和塔吉克斯坦共和国永久睦邻友好合作条约",
+            "excerpt": "中华人民共和国与塔吉克斯坦共和国（以下简称“缔约双方”）， 秉承两国人民睦邻友好的历史传统， 认为2007年1月15日签署的《中华人民共和国和塔吉克斯坦共和国睦邻友好合作条约》具有重要意义， 重申恪守联合国宪章宗旨和原则以及其他公认的国际法原则和准则， 基于各自国内法律和双方利益， 重申坚定支持彼此国家独立、主权、领土完整以及边界不可侵犯的原则， 基于两国…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156509.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:09.929Z"
+            }
+          },
+          {
+            "id": "people_daily:30156510",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中华人民共和国和塔吉克斯坦共和国关于深化新时代全面战略合作伙伴关系的联合声明",
+            "excerpt": "应中华人民共和国主席习近平邀请，塔吉克斯坦共和国总统埃莫马利·拉赫蒙于2026年5月11日至14日对中华人民共和国进行国事访问。 两国元首在亲切友好的气氛中举行会谈，就中华人民共和国和塔吉克斯坦共和国（以下称“双方”）关系、深化全方位平等合作以及共同关心的国际和地区问题深入交换意见，达成广泛共识。 双方高度评价2024年7月《中华人民共和国和塔吉克斯坦共和…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156510.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:09.926Z"
+            }
+          },
+          {
+            "id": "people_daily:30156511",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "24项改革措施，推动综合保税区扩能提质（政策解读）",
+            "author": "本报记者 欧阳洁",
+            "excerpt": "不久前，《关于促进综合保税区扩能提质的若干措施》出台，提出24项改革措施。2025年，全国综合保税区实现进出口值7.2万亿元，占同期全国外贸进出口的比重达16%，有力促进了我国开放型经济发展。如何进一步发挥综合保税区作用？怎样推动各项改革措施落地见效？记者近日进行了采访。 近期，一辆悬挂GMS（大湄公河次区域）专用标识的国际运输车辆，在海关监管下驶出深圳前…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156511.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:09.984Z"
+            }
+          },
+          {
+            "id": "people_daily:30156512",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "王毅同巴基斯坦副总理兼外长达尔通电话",
+            "excerpt": "新华社北京5月12日电 中共中央政治局委员、外交部长王毅12日晚同巴基斯坦副总理兼外长达尔通电话。 达尔介绍了巴方斡旋伊朗与美国接谈近期情况，感谢中方支持巴方促谈努力，期待同中方加强协调配合，共同为维护地区和平稳定发挥积极作用。 王毅重申中方原则立场，赞赏巴方促成美伊谈判并延长临时停火，希望巴方保持信心、加大斡旋，为妥善解决霍尔木兹海峡开放问题、早日恢复地…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156512.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.021Z"
+            }
+          },
+          {
+            "id": "people_daily:30156513",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "李鸿忠会见汤加议会政府联合考察团",
+            "excerpt": "新华社北京5月12日电 中共中央政治局委员、全国人大常委会副委员长李鸿忠12日在京会见由汤加议长瓦伊阿率领的议会政府联合考察团。 李鸿忠表示，去年11月，习近平主席会见访华的图普六世国王，就深化中汤关系达成重要共识。中方愿同汤加一道，持续增强政治互信，深化共建“一带一路”等合作，增进人民相知相亲，推动中汤关系持…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156513.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:10.072Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/13/30cc1770-a4be-42e4-9671-7dca2fb3d64d.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/13/be5bc928-6162-4cb2-a6d2-5f343eb3c1e3.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:09:11.021Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-13:p03",
+        "source": "people_daily",
+        "issueDate": "2026-05-13",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30156515",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中美关系回不到过去，但能够有一个更好的未来",
+            "subtitle": "——写在中美元首会晤之际",
+            "author": "国纪平",
+            "excerpt": "应中国国家主席习近平邀请，美国总统特朗普将于5月13日至15日对中国进行国事访问。 历经波折起伏，中美关系已走到全新的历史方位。中美元首又一次握手，必将是一个具有里程碑意义的新起点。 回望来路，面对风云激荡，元首外交的领航把舵，一次次引领中美关系巨轮穿越急流险滩，重归正确航向。两国人民的双向奔赴，一次次为中美关系在低谷处蓄积希望，让宽广太平洋不再是天堑。…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156515.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.346Z"
+            }
+          },
+          {
+            "id": "people_daily:30156516",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "为中美关系发展打下更稳固基础",
+            "author": "本报记者 李志伟",
+            "excerpt": "推动中美关系稳定、健康、可持续发展，找到一条中美正确相处之道，是两国人民之愿，也是世界各国所盼。近日，来自美国各界的多名人士接受本报记者采访时表示，美中关系总体保持稳定，双方妥善处理分歧和摩擦，对世界和平与繁荣意义重大。元首外交始终是两国关系的“指南针”和“定盘星”，期待即将举行的两国元首会晤为两国关系发展打下更稳固基础，为世界和平与繁荣注入更大确定性和正…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156516.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.389Z"
+            }
+          },
+          {
+            "id": "people_daily:30156517",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "美国总统唐纳德·特朗普今起对我国进行国事访问",
+            "excerpt": "应国家主席习近平邀请，美国总统唐纳德·特朗普于5月13日至15日对中国进行国事访问。 特朗普1946年6月出生于美国纽约市，1968年获宾夕法尼亚大学沃顿商学院经济学学士学位，随后任职于房地产公司。 特朗普2016年11月当选美国第四十五任总统，2017年1月20日宣誓就职。2024年11月再次赢得总…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156517.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.343Z"
+            }
+          },
+          {
+            "id": "people_daily:30156518",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "郑建邦会见阿塞拜疆新阿塞拜疆党代表团",
+            "excerpt": "新华社北京5月12日电 5月12日，全国人大常委会副委员长郑建邦在北京会见由党的副主席兼中央办公厅主任布达戈夫率领的阿塞拜疆新阿塞拜疆党代表团。双方表示将…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156518.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.345Z"
+            }
+          },
+          {
+            "id": "people_daily:30156519",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "元首外交即将开启中美关系新篇章（国际论坛）",
+            "author": "章思远",
+            "excerpt": "应中国国家主席习近平邀请，美国总统特朗普将于5月13日至15日对中国进行国事访问。这是美国总统时隔9年再次访华，是特朗普总统第二个任期内首次访华，亦是今年以来中美元首首次面对面会晤。中美元首即将聚首北京，举世瞩目。此访对新时代中美关系发展具有重要历史意义。 今年中美两国各自都有不少重要议程。中国十四届全国人大四次会议审查批准了“十五五”规划纲要，为“十五五…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156519.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.342Z"
+            }
+          },
+          {
+            "id": "people_daily:30156520",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "塔吉克斯坦总统拉赫蒙向人民英雄纪念碑敬献花圈",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156520.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.347Z"
+            }
+          },
+          {
+            "id": "people_daily:30156521",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "韩正同文莱王储比拉举行会谈",
+            "excerpt": "新华社北京5月12日电 5月12日，国家副主席韩正在北京同文莱王储比拉举行会谈。 韩正表示，中文友谊根植于跨越千年的友好交往，是国家间平等相待、互利共赢的典范。去年习近平主席同哈桑纳尔苏丹就构建中文命运共同体达成重要共识，为中文关系发展擘画了新蓝图。习近平主席刚刚同你会见，就中文关系发展提出了重要意见。今年是中文建交35周年，中方愿同文方共同落实好两国元首…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156521.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.412Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/13/25fc8f4d-ca48-46e5-a9ae-8d0c3a8cecac.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/13/f306bd41-0453-4961-829f-4a8a9bac9ce4.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:09:11.412Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-13:p04",
+        "source": "people_daily",
+        "issueDate": "2026-05-13",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30156522",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "筑牢安全防线 守护万家灯火",
+            "author": "本报记者 刘温馨 王 浩",
+            "excerpt": "防灾减灾救灾，事关经济社会发展大局，事关千家万户的安居乐业。 4月28日，习近平总书记在主持中共中央政治局第二十五次集体学习时强调：“要站在统筹高质量发展和高水平安全的战略高度，充分认识做好防灾减灾救灾工作的重要性，着力提高防范应对自然灾害能力，切实维护人民群众生命财产安全。” 今年5月12日是第十八个全国防灾减灾日，5月11日至17日为防灾减灾宣传周。近…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156522.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.736Z"
+            }
+          },
+          {
+            "id": "people_daily:30156523",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "全国防灾减灾日暨防灾减灾宣传周主场活动举行",
+            "excerpt": "本报南昌5月12日电 （记者王丹、人民网记者郝萍）今年5月12日是第十八个全国防灾减灾日，主题是“人人讲安全、个个会应急——提高防灾减灾救灾能力”。国家防灾减灾救灾委员会办公室、应急管理部、中央广播电视总台、江西省人民政府于12日在江西省南昌市联合举行全国防灾减灾日暨防灾减灾宣传周主场活动。 本次活动以“一堂课、一场致敬、一次体验”为主线，通过开展全民安全…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156523.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.630Z"
+            }
+          },
+          {
+            "id": "people_daily:30156524",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "“防灾减灾：科技赋能安全，教育守护生命”主题活动举办",
+            "excerpt": "本报北京5月12日电 （记者刘温馨）11日，由中国公共关系协会、中国灾害防御协会联合主办，应急管理大学承办的“防灾减灾：科技赋能安全，教育守护生命”主题活动在应急管理大学举办。 来自应急管理、灾害防御、公共关系、高校智库、媒体、企业等领域的政府部门领导、业内专家学者、行业从业人员、社会组织代表等200余人齐聚现场，共话防灾减灾事业发展，共探科技赋能与安全教…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156524.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.734Z"
+            }
+          },
+          {
+            "id": "people_daily:30156525",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "切实保障残疾人平等权益 促进残疾人事业全面发展",
+            "excerpt": "本报北京5月12日电 （记者易舒冉）在第三十六个全国助残日即将到来之际，国务委员、国务院残疾人工作委员会主任谌贻琴在京调研残疾人工作，看望慰问残疾人。她强调，要深入学习贯彻习近平总书记关于对残疾人格外关心、格外关注的重要指示精神，按照党中央、国务院决策部署，切实保障残疾人平等权益，促进残疾人事业全面发展。 谌贻琴来到北京按摩医院，调研残疾人就业、技能培训、…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156525.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.809Z"
+            }
+          },
+          {
+            "id": "people_daily:30156526",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "以思想主动赢得发展主动（人民论坛）",
+            "author": "盛玉雷",
+            "excerpt": "传统认知里，地理位置是决定发展的关键因素。或通江达海，或咽喉要道，或区域重镇，位置越优越，越容易吸引资源汇聚、产业集聚，进而抢占发展先机。 那是不是意味着，没有先发优势的内陆腹地，就只能偏居一隅、难有作为？不妨先看这两个地方。 不沿边、不靠海，今年一季度外贸进出口总值达2215.5亿元，同比增长34.3%，创下历史同期和季度新高，这是重庆的势头。 秦岭深处…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156526.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.741Z"
+            }
+          },
+          {
+            "id": "people_daily:30156527",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "医用成像设备有了“医保身份码”",
+            "subtitle": "将进一步提升医疗影像调阅应用水平",
+            "excerpt": "本报北京5月12日电 （记者孙秀艳）国家医保局近日印发《医保医用设备（成像类）编码规则和方法》，为全国成像类医用设备建立统一“医保身份码”，标志着医用成像设备医保管理迈入标准化、精细化新阶段。 医用成像设备是临床诊疗的重要支撑，贯穿从常规体检到疾病诊断、治疗监测的全流程。成像类医用设备编码作为“医保影像云索引”的重要组成部分，直接关联影像文件生成设备。此前…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156527.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.798Z"
+            }
+          },
+          {
+            "id": "people_daily:30156528",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "是快递小哥，也是志愿者（在现场）",
+            "author": "本报记者 苏 滨",
+            "excerpt": "“哗啦，哗啦”，一大早，在贵州省贵阳市云岩区，一处快递营业点的卷帘门被拉开。快递员谭怀国弯着腰清点快件，扫码枪不时发出“嘀嘀”声。 分拣，交接，装车……8点10分，谭怀国如往常一样，启动电动三轮车，在纵横交错的街巷里穿梭。10分钟后，三轮车抵达中天世纪新城。谭怀国从车里抱出两摞提前分好的包裹，推着手推车进入单元门，和迎面碰上的居民打着招呼。 31楼，25楼…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156528.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.743Z"
+            }
+          },
+          {
+            "id": "people_daily:30156529",
+            "source": "people_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "李强赵乐际分别会见塔吉克斯坦总统拉赫蒙",
+            "excerpt": "新华社北京5月12日电 5月12日上午，国务院总理李强在北京人民大会堂会见来华进行国事访问的塔吉克斯坦总统拉赫蒙。 李强表示，当前，在两国元首战略引领下，双方正紧密协作，努力在更高水平上构建中塔命运共同体。习近平主席将同总统先生举行会晤，就持续深化中塔关系擘画新的蓝图。中方愿同塔方进一步筑牢政治互信，加大在涉及彼此核心利益问题上的相互支持，坚决反对任何外部…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156529.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:09:11.829Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/13/2e7a0f55-c3eb-4ee8-b403-8032e746b0b8.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/13/e240fe36-c108-4d73-b9d7-ac0acc05b15f.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:09:11.830Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "people-daily-html-v1",
+      "extractedAt": "2026-05-16T09:09:11.830Z"
+    }
+  },
+  "plaIssue": {
+    "id": "pla_daily:2026-05-13",
+    "source": "pla_daily",
+    "issueDate": "2026-05-13",
+    "pages": [
+      {
+        "id": "pla_daily:2026-05-13:p01",
+        "source": "pla_daily",
+        "issueDate": "2026-05-13",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-13-1-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平同塔吉克斯坦总统拉赫蒙会谈",
+            "excerpt": "新华社北京5月12日电（记者温馨）5月12日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的塔吉克斯坦总统拉赫蒙举行会谈。 习近平祝贺塔吉克斯坦独立35周年并取得国家建设重大成就。习近平指出，相互坚定支持是中塔关系的核心要义。无论外部环境如何变化，中塔两国永远是守望相助的好邻居、坦诚互信的好朋友、携手发展的好伙伴。双方签署《中塔永久睦邻友好合作条约…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=01&articleid=2026-05-13-1-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.846Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-1-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平会见文莱王储比拉",
+            "excerpt": "新华社北京5月12日电（记者温馨）5月12日下午，国家主席习近平在北京人民大会堂会见来华进行正式访问的文莱王储比拉。 习近平指出，中国和文莱是亲密邻邦，海上丝绸之路将两国紧紧联系在一起。中文合作不仅给两国人民带来实实在在利益，也树立了大小国家平等相待、合作共赢的典范。去年我同哈桑纳尔苏丹就构建中文命运共同体达成重要共识，开启双边关系崭新篇章。今年是中文建交…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=01&articleid=2026-05-13-1-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.846Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-1-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平会见联合国教科文组织总干事阿纳尼",
+            "excerpt": "新华社北京5月12日电（记者温馨）5月12日下午，国家主席习近平在北京人民大会堂会见联合国教科文组织总干事阿纳尼。 习近平指出，联合国教科文组织为增进各国人民相互了解信任、推动不同文明交流互鉴作出了重要贡献，也为改革完善全球教育、科学、文化治理发挥了积极作用。中方积极支持联合国教科文组织工作，双方共同为维护世界和平、促进全球发展做了很多事情。中方愿同联合国…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=01&articleid=2026-05-13-1-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.846Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-1-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "用群众的观点看政绩",
+            "excerpt": "习主席指出：“中国共产党把为民办事、为民造福作为最重要的政绩，把为老百姓办了多少好事实事作为检验政绩的重要标准。”当前，树立和践行正确政绩观学习教育正在深入扎实开展。军队党员干部要认真学习贯彻习主席重要讲话精神，用群众的观点看政绩，将官兵是否满意、是否拥护，作为衡量工作成效的标准，踏踏实实干事创业，努力创造经得起实践、人民、历史检验的实绩。 民心是最大的政…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=01&articleid=2026-05-13-1-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.846Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-1-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "我国成功发射千帆极轨09组卫星",
+            "excerpt": "本报太原5月12日电 李宸、记者刘丹报道：5月12日19时59分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将千帆极轨09组卫星发射升空，卫星顺利进入预定轨道，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=01&articleid=2026-05-13-1-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.846Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260513/fd1fec2f5ba2fe1cc325ab4ac78807b9.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260513/27b4f6b15125396c7ca117649cb49b72.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:09:09.846Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-13:p02",
+        "source": "pla_daily",
+        "issueDate": "2026-05-13",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-13-2-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中华人民共和国和塔吉克斯坦共和国永久睦邻友好合作条约",
+            "excerpt": "中华人民共和国与塔吉克斯坦共和国（以下简称“缔约双方”）， 秉承两国人民睦邻友好的历史传统， 认为2007年1月15日签署的《中华人民共和国和塔吉克斯坦共和国睦邻友好合作条约》具有重要意义， 重申恪守联合国宪章宗旨和原则以及其他公认的国际法原则和准则， 基于各自国内法律和双方利益， 重申坚定支持彼此国家独立、主权、领土完整以及边界不可侵犯的原则， 基于两国…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=02&articleid=2026-05-13-2-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.846Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-2-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中华人民共和国和塔吉克斯坦共和国关于深化新时代全面战略合作伙伴关系的联合声明",
+            "excerpt": "应中华人民共和国主席习近平邀请，塔吉克斯坦共和国总统埃莫马利·拉赫蒙于2026年5月11日至14日对中华人民共和国进行国事访问。 两国元首在亲切友好的气氛中举行会谈，就中华人民共和国和塔吉克斯坦共和国（以下称“双方”）关系、深化全方位平等合作以及共同关心的国际和地区问题深入交换意见，达成广泛共识。 双方高度评价2024年7月《中华人民共和国和塔吉克斯坦共和…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=02&articleid=2026-05-13-2-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-2-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "走出一条中美大国正确相处之道",
+            "excerpt": "应国家主席习近平邀请，美国总统特朗普将于5月13日至15日对中国进行国事访问。在世界百年变局加速演进、国际局势纷繁复杂的当下，中美元首这次会晤举世瞩目。人们期待，会晤将为中美关系稳健前行进一步校准航向、注入动力，为变乱交织的世界增添更多的稳定性与确定性。 元首外交始终是中美关系的“定盘星”。习近平主席始终从战略高度和长远角度看待和把握中美关系发展的大方向。…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=02&articleid=2026-05-13-2-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-2-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "5月11日，中国第3批赴阿卜耶伊维和快反分队官兵乘空军运输机出发，前往东非阿卜耶伊地区执行为期12个月的…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=02&articleid=2026-05-13-2-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260513/bc304adde63eafbdfcc8511362a8b01a.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260513/1fc10003ce75b4c6221ec2282bb4e39d.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:09:09.847Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-13:p03",
+        "source": "pla_daily",
+        "issueDate": "2026-05-13",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-13-3-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "备份号手补位打出“满堂彩”",
+            "excerpt": "4月底，火箭军某部野外驻训场，一场实战背景下的发射训练进入关键阶段。“5架主号手‘阵亡’，4架备份号手接替发射！”特情通报下达，备份号手彭峥快速就位。 尽管首次被正式编入发射架，而且面对全新发射编组，彭峥仍然很快进入情况，配合5架号手展开各项操作，顺利完成“点火”任务。备份号手跨架补位打出“满堂彩”，彭峥的表现得到导调组肯定。 “这得益于单位推行的‘四个随…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=03&articleid=2026-05-13-3-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-3-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "坚持一张蓝图绘到底",
+            "subtitle": "——树立和践行正确政绩观系列谈",
+            "excerpt": "政贵有恒，治须有常。 习主席强调，“坚持一张蓝图绘到底，对已有的部署和规划，只要是科学的、切合新的实践要求的、符合人民群众愿望的，就要坚持，一茬接着一茬干”。贯彻落实这一重要指示精神，要求党员干部锚定目标不放松，发扬钉钉子精神，以坚持不懈的韧劲，把确定的每件事都抓到底，一锤接着一锤敲，一年接着一年干，锲而不舍向前走。 “日日行，不怕千万里；常常做，不怕千万…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=03&articleid=2026-05-13-3-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-3-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "从“意见遇冷”到“件件必回”",
+            "subtitle": "——第77集团军某旅设置兵情意见箱畅通民主渠道的一段经历",
+            "excerpt": "近日，第77集团军某旅李干事打开兵情意见箱，发现从训练保障到教育管理，基层官兵提出了不少意见建议。经过梳理论证，10余条意见建议被机关列入工作清单，并由专人跟进。 李干事介绍，去年，为了畅通民主渠道，他们在营区多个点位设置兵情意见箱，鼓励官兵建言献策。刚开始，机关经常能收到基层提交的意见建议，然而，一段时间后，基层有效反馈越来越少。 一次，李干事在基层蹲点…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=03&articleid=2026-05-13-3-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-3-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "老兵寄语励后辈",
+            "excerpt": "本报讯 杨劲、特约通讯员王子杰报道：前不久，海军某部组织“学习英雄、争当英雄”故事会，专门邀请连队老兵朱志学视频连线讲述战斗故事。聆听朱老的讲述，现场官兵深受触动，纷纷表示要向先辈看齐、扎根军营建功。 “朱志学是我部老兵，曾和战友顽强坚守阵地38天，击毙敌人数百名。”该部领导介绍，部队诞生于抗日战争时期，在革命战争年代涌现出大批战斗英雄。他们充分发挥单位历…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=03&articleid=2026-05-13-3-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-3-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "滩头阵地设课堂",
+            "excerpt": "本报讯 李强云、特约记者杨开明报道：“一江山岛战役是我军历史上首次陆海空三军联合作战。登陆部队在空中、地面和海上火力的掩护下，从多个登陆地点实施登陆突击……”近日，陆军兵种大学南京校区组织百余名学员来到一江山岛，在当年登陆部队冲锋的滩头阵地展开现地教学。教员带领学员们重温先辈战斗事迹，现场对照战史资料分析地理环境对登陆作战的影响。 “把课堂设在当年的战场，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=03&articleid=2026-05-13-3-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-3-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=03&articleid=2026-05-13-3-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260513/27ed3382fb23e366ffd6dc136e456cfc.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260513/c9058e919be81f14ba8b5712dc6e7242.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:09:09.847Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-13:p04",
+        "source": "pla_daily",
+        "issueDate": "2026-05-13",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-13-4-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "“绝不能丢掉革命真理”",
+            "excerpt": "第五次反“围剿”失败后，中央红军被迫踏上漫漫征途。出发前，部队要求精简行囊、轻装前进。为此，王稼祥把暂时用不上的东西都扔掉了。当他把《两个策略》等几本马列书籍也扔掉后，很快又捡起来塞进挎包，并喃喃道：“扔不得，扔不得，把马列主义的书扔掉，就不是轻装，而是解除武装。” 长征路上，王稼祥问身旁的毛泽东：“你都轻什么装了？”毛泽东说：“我连饭锅、牙刷、牙粉都轻装…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-4-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "将内容标注设为短视频发布必经环节",
+            "excerpt": "新华社北京5月12日电 记者12日获悉，中央网信办近日部署指导网站平台规范短视频内容标注，明确必须设置的标签种类和标签位置，将内容标注设为短视频发布必经环节，发布者必须从“必选标签”中选择一项，才能发布短视频，并对存量短视频回溯和补充标注提出要求，推动发布者对自己的内容负责，进一步压实网站平台内容审核责任。 据了解，针对部分短视频内容来源不清、真假难辨、混…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-4-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "自来水普及率达到96%",
+            "excerpt": "农村供水事关人民福祉。水利部12日举办新闻发布会，介绍农村供水保障成效。 水利部副部长祖雷鸣介绍，“十四五”以来，水利部全面推行城乡供水一体化、集中供水规模化、小型供水规范化、县域统管专业化“3+1”标准化建设和管护模式，推动出台《供水条例》，农村供水保障程度显著提升。 截至2025年底，全国农村自来水普及率达到96%、规模化供水工程覆盖农村人口比例达到7…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-4-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "2026年中华民族共有精神家园建设主题文化活动走进河南",
+            "excerpt": "新华社郑州5月12日电（记者唐健辉）由国家民委组织的“中华民族共有精神家园建设主题文化活动·河南篇”5月12日在河南安阳启动。 本次活动以“同源·同园·同愿”为主题，以群众为主体，组织开展民俗展演、文化体验、遗址研学、主题教育等活动，展现河南省在推进中华民族共有精神家园建设方面的创新实践和丰硕成果。 国家民委有关负责人在启动仪式上表示，本次活动坚持铸牢中华…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-4-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "2026年全国防灾减灾日暨防灾减灾宣传周主场活动举行",
+            "excerpt": "新华社南昌5月12日电（记者黄韬铭、姚子云）今年5月12日是第18个全国防灾减灾日，主题是“人人讲安全、个个会应急——提高防灾减灾救灾能力”。记者从应急管理部获悉，全国防灾减灾日暨防灾减灾宣传周主场活动12日在江西省南昌市举行。 本次活动以“一堂课、一场致敬、一次体验”为主线，通过开展全民安全公开课、宣讲防灾避险感人事迹、模拟体验应急场景等形式，进一步普及…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-4-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "联勤保障部队第965医院联合驻地开展灾害救援演练",
+            "excerpt": "本报讯 邱焕仁、特约记者汪学潮报道：今年5月12日是第18个全国防灾减灾日。5月11日，联勤保障部队第965医院联合驻地相关部门和医院，开展灾害救援演练。军地双方通过应急指挥平台，同步接收灾情信息，联合调度救援力量，从事故报警、先期处置、伤员检伤到后送救治实现全链条衔接。 演练中，社区工作人员发现“某小区发生煤气泄漏情况”后，立即报警并协助疏散周边群众，消…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-4-6",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "我国多项成果亮相世界数字教育大会",
+            "excerpt": "据新华社杭州5月12日电（记者王鹏、俞菀）中国智慧教育公共服务平台全新升级，《中国智慧教育发展报告（2025—2026）》《人工智能教育伦理：参考框架》和人工智能教育杭州倡议等发布……5月12日，在浙江杭州举行的2026世界数字教育大会上，多项重要成果亮相。 据悉，中国智慧教育公共服务平台此次升级，主要更新三大板块面向全球开放，包括全球人工智能教育服务平台…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-4-7",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "五部门推进建设项目联合验收“一件事”",
+            "excerpt": "新华社北京5月11日电（记者王优玲）住房城乡建设部等五部门11日发布《关于深入推进建设项目联合验收“一件事”的实施意见》，以推动新建、改建（含装饰装修）、扩建的房屋建筑工程、市政基础设施工程等建设项目联合验收“一件事”高效办理。 实施意见要求，推动建设项目竣工验收备案、消防验收（备案）、规划核实和土地核验、人防工程竣工验收、建设工程档案验收、公众聚集场所投…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-7",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-4-8",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "短讯",
+            "excerpt": "■李强12日在京会见塔吉克斯坦总统拉赫蒙 ■李强12日致电祝贺毛焦尔就任匈牙利总理 ■赵乐际12日在京会见塔吉克斯坦总统拉赫蒙 ■…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-8",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-4-9",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "5月12日，DJ（动检）602次综合检测列车从西安东站平稳驶出，沿西十高铁正线穿越秦岭直达十堰东站，标志着西十高铁全线拉通试验正…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-9",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-13-4-10",
+            "source": "pla_daily",
+            "issueDate": "2026-05-13",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-10",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:09:09.847Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260513/a169c5907764bfb8002c2626a6eb466a.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260513/3cc7d6b7fcac56c5a7dd19a1a580fe5e.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:09:09.847Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "pla-daily-index-json-v1",
+      "extractedAt": "2026-05-16T09:09:09.850Z"
+    }
+  },
+  "matchGroups": [
+    {
+      "id": "matched:people_daily:30156503:pla_daily:2026-05-13-1-0",
+      "issueDate": "2026-05-13",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156503",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平同塔吉克斯坦总统拉赫蒙会谈",
+          "excerpt": "新华社北京5月12日电 （记者温馨）5月12日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的塔吉克斯坦总统拉赫蒙举行会谈。 习近平祝贺塔吉克斯坦独立35周年并取得国家建设重大成就。习近平指出，相互坚定支持是中塔关系的核心要义。无论外部环境如何变化，中塔两国永远是守望相助的好邻居、坦诚互信的好朋友、携手发展的好伙伴。双方签署《中塔永久睦邻友好合作条…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156503.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:09.607Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-13-1-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平同塔吉克斯坦总统拉赫蒙会谈",
+          "excerpt": "新华社北京5月12日电（记者温馨）5月12日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的塔吉克斯坦总统拉赫蒙举行会谈。 习近平祝贺塔吉克斯坦独立35周年并取得国家建设重大成就。习近平指出，相互坚定支持是中塔关系的核心要义。无论外部环境如何变化，中塔两国永远是守望相助的好邻居、坦诚互信的好朋友、携手发展的好伙伴。双方签署《中塔永久睦邻友好合作条约…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=01&articleid=2026-05-13-1-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.846Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 习近平同塔吉克斯坦总统拉赫蒙会谈、国家主席习近平在北京人民大会堂同来华进行国事访问、要加强执法、习近平主席提出全球治理倡议对世界具有。ナラティブ・完全タイトル一致: 习近平同塔吉克斯坦总统拉赫蒙会谈、国家主席习近平在北京人民大会堂同来华进行国事访问、要加强执法、习近平主席提出全球治理倡议对世界具有 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "习近平同塔吉克斯坦总统拉赫蒙会谈",
+          "国家主席习近平在北京人民大会堂同来华进行国事访问",
+          "要加强执法",
+          "习近平主席提出全球治理倡议对世界具有",
+          "新时代塔中全面战略合作伙伴关系正不断",
+          "深化新时代全面战略合作伙伴关系的联合",
+          "推动构建更加公正合理的全球治理体系",
+          "2030年前国家发展战略"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 100% / narrative 81%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 81%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 习近平同塔吉克斯坦总统拉赫蒙会谈、国家主席习近平在北京人民大会堂同来华进行国事访问、要加强执法、习近平主席提出全球治理倡议对世界具有",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30156504:pla_daily:2026-05-13-1-1",
+      "issueDate": "2026-05-13",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156504",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平会见文莱王储比拉",
+          "excerpt": "新华社北京5月12日电 （记者温馨）5月12日下午，国家主席习近平在北京人民大会堂会见来华进行正式访问的文莱王储比拉。 习近平指出，中国和文莱是亲密邻邦，海上丝绸之路将两国紧紧联系在一起。中文合作不仅给两国人民带来实实在在利益，也树立了大小国家平等相待、合作共赢的典范。去年我同哈桑纳尔苏丹就构建中文命运共同体达成重要共识，开启双边关系崭新篇章。今年是中文建…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156504.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:09.526Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-13-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平会见文莱王储比拉",
+          "excerpt": "新华社北京5月12日电（记者温馨）5月12日下午，国家主席习近平在北京人民大会堂会见来华进行正式访问的文莱王储比拉。 习近平指出，中国和文莱是亲密邻邦，海上丝绸之路将两国紧紧联系在一起。中文合作不仅给两国人民带来实实在在利益，也树立了大小国家平等相待、合作共赢的典范。去年我同哈桑纳尔苏丹就构建中文命运共同体达成重要共识，开启双边关系崭新篇章。今年是中文建交…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=01&articleid=2026-05-13-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.846Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 习近平会见文莱王储比拉、中国全面战略伙伴关系为地区带来福祉、命运共同体理念和全球治理倡议、一是要做高度互信的战略伙伴。ナラティブ・完全タイトル一致: 习近平会见文莱王储比拉、中国全面战略伙伴关系为地区带来福祉、命运共同体理念和全球治理倡议、一是要做高度互信的战略伙伴 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "习近平会见文莱王储比拉",
+          "中国全面战略伙伴关系为地区带来福祉",
+          "命运共同体理念和全球治理倡议",
+          "一是要做高度互信的战略伙伴",
+          "四是要做全球治理的合作伙伴",
+          "文方坚定奉行一个中国政策",
+          "深化战略合作伙伴关系",
+          "加强战略沟通"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 99% / narrative 76%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 99% / ナラティブ類似 76%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 习近平会见文莱王储比拉、中国全面战略伙伴关系为地区带来福祉、命运共同体理念和全球治理倡议、一是要做高度互信的战略伙伴",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30156505:pla_daily:2026-05-13-1-2",
+      "issueDate": "2026-05-13",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156505",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平会见联合国教科文组织总干事阿纳尼",
+          "excerpt": "新华社北京5月12日电 （记者温馨）5月12日下午，国家主席习近平在北京人民大会堂会见联合国教科文组织总干事阿纳尼。 习近平指出，联合国教科文组织为增进各国人民相互了解信任、推动不同文明交流互鉴作出了重要贡献，也为改革完善全球教育、科学、文化治理发挥了积极作用。中方积极支持联合国教科文组织工作，双方共同为维护世界和平、促进全球发展做了很多事情。中方愿同联合…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156505.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:09.609Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-13-1-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平会见联合国教科文组织总干事阿纳尼",
+          "excerpt": "新华社北京5月12日电（记者温馨）5月12日下午，国家主席习近平在北京人民大会堂会见联合国教科文组织总干事阿纳尼。 习近平指出，联合国教科文组织为增进各国人民相互了解信任、推动不同文明交流互鉴作出了重要贡献，也为改革完善全球教育、科学、文化治理发挥了积极作用。中方积极支持联合国教科文组织工作，双方共同为维护世界和平、促进全球发展做了很多事情。中方愿同联合国…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=01&articleid=2026-05-13-1-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.846Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 习近平会见联合国教科文组织总干事阿纳尼、中方愿同联合国教科文组织深化战略合作、支持联合国教科文组织在全球治理中发挥、全球治理走到新的十字路口。ナラティブ・完全タイトル一致: 习近平会见联合国教科文组织总干事阿纳尼、中方愿同联合国教科文组织深化战略合作、支持联合国教科文组织在全球治理中发挥、全球治理走到新的十字路口 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "习近平会见联合国教科文组织总干事阿纳尼",
+          "中方愿同联合国教科文组织深化战略合作",
+          "支持联合国教科文组织在全球治理中发挥",
+          "全球治理走到新的十字路口",
+          "文化治理发挥了积极作用",
+          "也为改革完善全球教育",
+          "习近平会见"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 100% / narrative 76%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 76%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 习近平会见联合国教科文组织总干事阿纳尼、中方愿同联合国教科文组织深化战略合作、支持联合国教科文组织在全球治理中发挥、全球治理走到新的十字路口",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30156509:pla_daily:2026-05-13-2-0",
+      "issueDate": "2026-05-13",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156509",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中华人民共和国和塔吉克斯坦共和国永久睦邻友好合作条约",
+          "excerpt": "中华人民共和国与塔吉克斯坦共和国（以下简称“缔约双方”）， 秉承两国人民睦邻友好的历史传统， 认为2007年1月15日签署的《中华人民共和国和塔吉克斯坦共和国睦邻友好合作条约》具有重要意义， 重申恪守联合国宪章宗旨和原则以及其他公认的国际法原则和准则， 基于各自国内法律和双方利益， 重申坚定支持彼此国家独立、主权、领土完整以及边界不可侵犯的原则， 基于两国…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156509.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:09.929Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-13-2-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中华人民共和国和塔吉克斯坦共和国永久睦邻友好合作条约",
+          "excerpt": "中华人民共和国与塔吉克斯坦共和国（以下简称“缔约双方”）， 秉承两国人民睦邻友好的历史传统， 认为2007年1月15日签署的《中华人民共和国和塔吉克斯坦共和国睦邻友好合作条约》具有重要意义， 重申恪守联合国宪章宗旨和原则以及其他公认的国际法原则和准则， 基于各自国内法律和双方利益， 重申坚定支持彼此国家独立、主权、领土完整以及边界不可侵犯的原则， 基于两国…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=02&articleid=2026-05-13-2-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.846Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 中华人民共和国和塔吉克斯坦共和国永久睦邻友好合作条约、重申恪守联合国宪章宗旨和原则以及其他公认的国际法、基于各自国内法、缔约双方根据公认的国际法。ナラティブ・完全タイトル一致: 中华人民共和国和塔吉克斯坦共和国永久睦邻友好合作条约、重申恪守联合国宪章宗旨和原则以及其他公认的国际法、基于各自国内法、缔约双方根据公认的国际法 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "中华人民共和国和塔吉克斯坦共和国永久睦邻友好合作条约",
+          "重申恪守联合国宪章宗旨和原则以及其他公认的国际法",
+          "基于各自国内法",
+          "缔约双方根据公认的国际法",
+          "中华人民共和国政府是代表全中国的唯一合法",
+          "缔约双方愿利用高层交往和各层级会晤",
+          "在国际舞台上协调立场等方式推动深化立法",
+          "缔约双方根据各自国家的法"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 100% / narrative 85%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 85%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 中华人民共和国和塔吉克斯坦共和国永久睦邻友好合作条约、重申恪守联合国宪章宗旨和原则以及其他公认的国际法、基于各自国内法、缔约双方根据公认的国际法",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30156510:pla_daily:2026-05-13-2-1",
+      "issueDate": "2026-05-13",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156510",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中华人民共和国和塔吉克斯坦共和国关于深化新时代全面战略合作伙伴关系的联合声明",
+          "excerpt": "应中华人民共和国主席习近平邀请，塔吉克斯坦共和国总统埃莫马利·拉赫蒙于2026年5月11日至14日对中华人民共和国进行国事访问。 两国元首在亲切友好的气氛中举行会谈，就中华人民共和国和塔吉克斯坦共和国（以下称“双方”）关系、深化全方位平等合作以及共同关心的国际和地区问题深入交换意见，达成广泛共识。 双方高度评价2024年7月《中华人民共和国和塔吉克斯坦共和…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156510.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:09.926Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-13-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中华人民共和国和塔吉克斯坦共和国关于深化新时代全面战略合作伙伴关系的联合声明",
+          "excerpt": "应中华人民共和国主席习近平邀请，塔吉克斯坦共和国总统埃莫马利·拉赫蒙于2026年5月11日至14日对中华人民共和国进行国事访问。 两国元首在亲切友好的气氛中举行会谈，就中华人民共和国和塔吉克斯坦共和国（以下称“双方”）关系、深化全方位平等合作以及共同关心的国际和地区问题深入交换意见，达成广泛共识。 双方高度评价2024年7月《中华人民共和国和塔吉克斯坦共和…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=02&articleid=2026-05-13-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 中华人民共和国和塔吉克斯坦共和国关于深化新时代全面战略合作伙伴关系的联合声明、中华人民共和国政府是代表全中国的唯一合法、跨境腐败和非法、建设好利用好中国-塔吉克斯坦安全生产法。ナラティブ・完全タイトル一致: 中华人民共和国和塔吉克斯坦共和国关于深化新时代全面战略合作伙伴关系的联合声明、中华人民共和国政府是代表全中国的唯一合法、跨境腐败和非法、建设好利用好中国-塔吉克斯坦安全生产法 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "中华人民共和国和塔吉克斯坦共和国关于深化新时代全面战略合作伙伴关系的联合声明",
+          "中华人民共和国政府是代表全中国的唯一合法",
+          "跨境腐败和非法",
+          "建设好利用好中国-塔吉克斯坦安全生产法",
+          "以国际法",
+          "中国正以中国式现代化全面推进中华民族",
+          "为两国共同培育新质生产力提供坚实支撑",
+          "共同推动两国科技进步与经济社会高质量"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 100% / narrative 87%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 87%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 中华人民共和国和塔吉克斯坦共和国关于深化新时代全面战略合作伙伴关系的联合声明、中华人民共和国政府是代表全中国的唯一合法、跨境腐败和非法、建设好利用好中国-塔吉克斯坦安全生产法",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30156515+people_daily:30156516+people_daily:30156517+people_daily:30156519:pla_daily:2026-05-13-2-2",
+      "issueDate": "2026-05-13",
+      "matchType": "matched",
+      "confidence": 0.84,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156515",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中美关系回不到过去，但能够有一个更好的未来",
+          "subtitle": "——写在中美元首会晤之际",
+          "author": "国纪平",
+          "excerpt": "应中国国家主席习近平邀请，美国总统特朗普将于5月13日至15日对中国进行国事访问。 历经波折起伏，中美关系已走到全新的历史方位。中美元首又一次握手，必将是一个具有里程碑意义的新起点。 回望来路，面对风云激荡，元首外交的领航把舵，一次次引领中美关系巨轮穿越急流险滩，重归正确航向。两国人民的双向奔赴，一次次为中美关系在低谷处蓄积希望，让宽广太平洋不再是天堑。…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156515.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.346Z"
+          }
+        },
+        {
+          "id": "people_daily:30156516",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "为中美关系发展打下更稳固基础",
+          "author": "本报记者 李志伟",
+          "excerpt": "推动中美关系稳定、健康、可持续发展，找到一条中美正确相处之道，是两国人民之愿，也是世界各国所盼。近日，来自美国各界的多名人士接受本报记者采访时表示，美中关系总体保持稳定，双方妥善处理分歧和摩擦，对世界和平与繁荣意义重大。元首外交始终是两国关系的“指南针”和“定盘星”，期待即将举行的两国元首会晤为两国关系发展打下更稳固基础，为世界和平与繁荣注入更大确定性和正…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156516.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.389Z"
+          }
+        },
+        {
+          "id": "people_daily:30156517",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "美国总统唐纳德·特朗普今起对我国进行国事访问",
+          "excerpt": "应国家主席习近平邀请，美国总统唐纳德·特朗普于5月13日至15日对中国进行国事访问。 特朗普1946年6月出生于美国纽约市，1968年获宾夕法尼亚大学沃顿商学院经济学学士学位，随后任职于房地产公司。 特朗普2016年11月当选美国第四十五任总统，2017年1月20日宣誓就职。2024年11月再次赢得总…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156517.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.343Z"
+          }
+        },
+        {
+          "id": "people_daily:30156519",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "元首外交即将开启中美关系新篇章（国际论坛）",
+          "author": "章思远",
+          "excerpt": "应中国国家主席习近平邀请，美国总统特朗普将于5月13日至15日对中国进行国事访问。这是美国总统时隔9年再次访华，是特朗普总统第二个任期内首次访华，亦是今年以来中美元首首次面对面会晤。中美元首即将聚首北京，举世瞩目。此访对新时代中美关系发展具有重要历史意义。 今年中美两国各自都有不少重要议程。中国十四届全国人大四次会议审查批准了“十五五”规划纲要，为“十五五…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156519.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.342Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-13-2-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "走出一条中美大国正确相处之道",
+          "excerpt": "应国家主席习近平邀请，美国总统特朗普将于5月13日至15日对中国进行国事访问。在世界百年变局加速演进、国际局势纷繁复杂的当下，中美元首这次会晤举世瞩目。人们期待，会晤将为中美关系稳健前行进一步校准航向、注入动力，为变乱交织的世界增添更多的稳定性与确定性。 元首外交始终是中美关系的“定盘星”。习近平主席始终从战略高度和长远角度看待和把握中美关系发展的大方向。…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=02&articleid=2026-05-13-2-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 84%）。共有語: 特朗普国事访问、中美经贸关系、中美元首会晤、正确相处之道。ナラティブ・アンカートピック束: 特朗普国事访问、中美经贸关系、中美元首会晤、正确相处之道 / ナラティブ・共有固有名/政策語",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "在于元首外交高瞻远瞩的战略引领",
+          "最重要的是树立正确的战略认知",
+          "积极推动探索构建具有战略性",
+          "已成为国际战略界的共识",
+          "不同制度",
+          "战略领航",
+          "互惠的精神相向而行",
+          "既源自对历史的观察"
+        ],
+        "plaDailyTerms": [
+          "习近平主席始终从战略高度和长远角度看",
+          "就必须坚持两国元首的战略引领不动摇",
+          "意味着尊重彼此社会制度和发展道路",
+          "在两国元首重要共识战略引领下",
+          "完善全球经济治理作出贡献",
+          "大战略对话",
+          "道路制度",
+          "为中美关系的未来发展绘制更清晰的路线"
+        ],
+        "sharedTerms": [
+          "特朗普国事访问",
+          "中美经贸关系",
+          "中美元首会晤",
+          "正确相处之道",
+          "中美关系",
+          "中美关系议题"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 84% / lexical 6% / narrative 36%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 6% / ナラティブ類似 36%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・アンカートピック束: 特朗普国事访问、中美经贸关系、中美元首会晤、正确相处之道",
+        "ナラティブ・共有固有名/政策語"
+      ]
+    },
+    {
+      "id": "people_only:1:要闻",
+      "issueDate": "2026-05-13",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156506",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "李强赵乐际分别会见塔吉克斯坦总统拉赫蒙",
+          "excerpt": "新华社北京5月12日电 5月12日上午，国务院总理李强在北京人民大会堂会见来华进行国事访问的塔吉克斯坦总统拉赫蒙。 李强表示，当前，在两国元首战略引领下，双方正紧密协作，努力在更高水平上构建中塔命运共同体。习近平主席将同总统先生举行会晤，就持续深化中塔关系擘画新的蓝图。中方愿同塔方进一步筑牢政治互信，加大在涉及彼此核心利益问题上的相互支持，坚决反对任何外部…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156506.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:09.516Z"
+          }
+        },
+        {
+          "id": "people_daily:30156507",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "李强致电祝贺毛焦尔就任匈牙利总理",
+          "excerpt": "新华社北京5月12日电 5月12日，国务院总理李强致电毛焦尔·彼得，祝贺他就任匈牙利总理。 李强表示，中方始终视匈牙利为欧洲地区的重要伙伴，愿同匈方一道，传承传统友谊，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156507.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:09.602Z"
+          }
+        },
+        {
+          "id": "people_daily:30156508",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "韩正同文莱王储比拉举行会谈",
+          "excerpt": "新华社北京5月12日电 5月12日，国家副主席韩正在北京同文莱王储比拉举行会谈。 韩正表示，中文友谊根植于跨越千年的友好交往，是国家间平等相待、互利共赢的典范。去年习近平主席同哈桑纳尔苏丹就构建中文命运共同体达成重要共识，为中文关系发展擘画了新蓝图。习近平主席刚刚同你会见，就中文关系发展提出了重要意见。今年是中文建交35周年，中方愿同文方共同落实好两国元首…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156508.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:09.516Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 3本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:2:要闻",
+      "issueDate": "2026-05-13",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156511",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "24项改革措施，推动综合保税区扩能提质（政策解读）",
+          "author": "本报记者 欧阳洁",
+          "excerpt": "不久前，《关于促进综合保税区扩能提质的若干措施》出台，提出24项改革措施。2025年，全国综合保税区实现进出口值7.2万亿元，占同期全国外贸进出口的比重达16%，有力促进了我国开放型经济发展。如何进一步发挥综合保税区作用？怎样推动各项改革措施落地见效？记者近日进行了采访。 近期，一辆悬挂GMS（大湄公河次区域）专用标识的国际运输车辆，在海关监管下驶出深圳前…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156511.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:09.984Z"
+          }
+        },
+        {
+          "id": "people_daily:30156512",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "王毅同巴基斯坦副总理兼外长达尔通电话",
+          "excerpt": "新华社北京5月12日电 中共中央政治局委员、外交部长王毅12日晚同巴基斯坦副总理兼外长达尔通电话。 达尔介绍了巴方斡旋伊朗与美国接谈近期情况，感谢中方支持巴方促谈努力，期待同中方加强协调配合，共同为维护地区和平稳定发挥积极作用。 王毅重申中方原则立场，赞赏巴方促成美伊谈判并延长临时停火，希望巴方保持信心、加大斡旋，为妥善解决霍尔木兹海峡开放问题、早日恢复地…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156512.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.021Z"
+          }
+        },
+        {
+          "id": "people_daily:30156513",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "李鸿忠会见汤加议会政府联合考察团",
+          "excerpt": "新华社北京5月12日电 中共中央政治局委员、全国人大常委会副委员长李鸿忠12日在京会见由汤加议长瓦伊阿率领的议会政府联合考察团。 李鸿忠表示，去年11月，习近平主席会见访华的图普六世国王，就深化中汤关系达成重要共识。中方愿同汤加一道，持续增强政治互信，深化共建“一带一路”等合作，增进人民相知相亲，推动中汤关系持…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156513.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:10.072Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 3本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:3:要闻",
+      "issueDate": "2026-05-13",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156518",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "郑建邦会见阿塞拜疆新阿塞拜疆党代表团",
+          "excerpt": "新华社北京5月12日电 5月12日，全国人大常委会副委员长郑建邦在北京会见由党的副主席兼中央办公厅主任布达戈夫率领的阿塞拜疆新阿塞拜疆党代表团。双方表示将…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156518.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.345Z"
+          }
+        },
+        {
+          "id": "people_daily:30156520",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "塔吉克斯坦总统拉赫蒙向人民英雄纪念碑敬献花圈",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156520.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.347Z"
+          }
+        },
+        {
+          "id": "people_daily:30156521",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "韩正同文莱王储比拉举行会谈",
+          "excerpt": "新华社北京5月12日电 5月12日，国家副主席韩正在北京同文莱王储比拉举行会谈。 韩正表示，中文友谊根植于跨越千年的友好交往，是国家间平等相待、互利共赢的典范。去年习近平主席同哈桑纳尔苏丹就构建中文命运共同体达成重要共识，为中文关系发展擘画了新蓝图。习近平主席刚刚同你会见，就中文关系发展提出了重要意见。今年是中文建交35周年，中方愿同文方共同落实好两国元首…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156521.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.412Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 3本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:4:要闻",
+      "issueDate": "2026-05-13",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156522",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "筑牢安全防线 守护万家灯火",
+          "author": "本报记者 刘温馨 王 浩",
+          "excerpt": "防灾减灾救灾，事关经济社会发展大局，事关千家万户的安居乐业。 4月28日，习近平总书记在主持中共中央政治局第二十五次集体学习时强调：“要站在统筹高质量发展和高水平安全的战略高度，充分认识做好防灾减灾救灾工作的重要性，着力提高防范应对自然灾害能力，切实维护人民群众生命财产安全。” 今年5月12日是第十八个全国防灾减灾日，5月11日至17日为防灾减灾宣传周。近…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156522.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.736Z"
+          }
+        },
+        {
+          "id": "people_daily:30156523",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "全国防灾减灾日暨防灾减灾宣传周主场活动举行",
+          "excerpt": "本报南昌5月12日电 （记者王丹、人民网记者郝萍）今年5月12日是第十八个全国防灾减灾日，主题是“人人讲安全、个个会应急——提高防灾减灾救灾能力”。国家防灾减灾救灾委员会办公室、应急管理部、中央广播电视总台、江西省人民政府于12日在江西省南昌市联合举行全国防灾减灾日暨防灾减灾宣传周主场活动。 本次活动以“一堂课、一场致敬、一次体验”为主线，通过开展全民安全…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156523.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.630Z"
+          }
+        },
+        {
+          "id": "people_daily:30156524",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "“防灾减灾：科技赋能安全，教育守护生命”主题活动举办",
+          "excerpt": "本报北京5月12日电 （记者刘温馨）11日，由中国公共关系协会、中国灾害防御协会联合主办，应急管理大学承办的“防灾减灾：科技赋能安全，教育守护生命”主题活动在应急管理大学举办。 来自应急管理、灾害防御、公共关系、高校智库、媒体、企业等领域的政府部门领导、业内专家学者、行业从业人员、社会组织代表等200余人齐聚现场，共话防灾减灾事业发展，共探科技赋能与安全教…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156524.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.734Z"
+          }
+        },
+        {
+          "id": "people_daily:30156525",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "切实保障残疾人平等权益 促进残疾人事业全面发展",
+          "excerpt": "本报北京5月12日电 （记者易舒冉）在第三十六个全国助残日即将到来之际，国务委员、国务院残疾人工作委员会主任谌贻琴在京调研残疾人工作，看望慰问残疾人。她强调，要深入学习贯彻习近平总书记关于对残疾人格外关心、格外关注的重要指示精神，按照党中央、国务院决策部署，切实保障残疾人平等权益，促进残疾人事业全面发展。 谌贻琴来到北京按摩医院，调研残疾人就业、技能培训、…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156525.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.809Z"
+          }
+        },
+        {
+          "id": "people_daily:30156526",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "以思想主动赢得发展主动（人民论坛）",
+          "author": "盛玉雷",
+          "excerpt": "传统认知里，地理位置是决定发展的关键因素。或通江达海，或咽喉要道，或区域重镇，位置越优越，越容易吸引资源汇聚、产业集聚，进而抢占发展先机。 那是不是意味着，没有先发优势的内陆腹地，就只能偏居一隅、难有作为？不妨先看这两个地方。 不沿边、不靠海，今年一季度外贸进出口总值达2215.5亿元，同比增长34.3%，创下历史同期和季度新高，这是重庆的势头。 秦岭深处…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156526.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.741Z"
+          }
+        },
+        {
+          "id": "people_daily:30156527",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "医用成像设备有了“医保身份码”",
+          "subtitle": "将进一步提升医疗影像调阅应用水平",
+          "excerpt": "本报北京5月12日电 （记者孙秀艳）国家医保局近日印发《医保医用设备（成像类）编码规则和方法》，为全国成像类医用设备建立统一“医保身份码”，标志着医用成像设备医保管理迈入标准化、精细化新阶段。 医用成像设备是临床诊疗的重要支撑，贯穿从常规体检到疾病诊断、治疗监测的全流程。成像类医用设备编码作为“医保影像云索引”的重要组成部分，直接关联影像文件生成设备。此前…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156527.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.798Z"
+          }
+        },
+        {
+          "id": "people_daily:30156528",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "是快递小哥，也是志愿者（在现场）",
+          "author": "本报记者 苏 滨",
+          "excerpt": "“哗啦，哗啦”，一大早，在贵州省贵阳市云岩区，一处快递营业点的卷帘门被拉开。快递员谭怀国弯着腰清点快件，扫码枪不时发出“嘀嘀”声。 分拣，交接，装车……8点10分，谭怀国如往常一样，启动电动三轮车，在纵横交错的街巷里穿梭。10分钟后，三轮车抵达中天世纪新城。谭怀国从车里抱出两摞提前分好的包裹，推着手推车进入单元门，和迎面碰上的居民打着招呼。 31楼，25楼…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156528.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.743Z"
+          }
+        },
+        {
+          "id": "people_daily:30156529",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "李强赵乐际分别会见塔吉克斯坦总统拉赫蒙",
+          "excerpt": "新华社北京5月12日电 5月12日上午，国务院总理李强在北京人民大会堂会见来华进行国事访问的塔吉克斯坦总统拉赫蒙。 李强表示，当前，在两国元首战略引领下，双方正紧密协作，努力在更高水平上构建中塔命运共同体。习近平主席将同总统先生举行会晤，就持续深化中塔关系擘画新的蓝图。中方愿同塔方进一步筑牢政治互信，加大在涉及彼此核心利益问题上的相互支持，坚决反对任何外部…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156529.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:09:11.829Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 8本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:1:要闻",
+      "issueDate": "2026-05-13",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-13-1-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "用群众的观点看政绩",
+          "excerpt": "习主席指出：“中国共产党把为民办事、为民造福作为最重要的政绩，把为老百姓办了多少好事实事作为检验政绩的重要标准。”当前，树立和践行正确政绩观学习教育正在深入扎实开展。军队党员干部要认真学习贯彻习主席重要讲话精神，用群众的观点看政绩，将官兵是否满意、是否拥护，作为衡量工作成效的标准，踏踏实实干事创业，努力创造经得起实践、人民、历史检验的实绩。 民心是最大的政…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=01&articleid=2026-05-13-1-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.846Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-1-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "我国成功发射千帆极轨09组卫星",
+          "excerpt": "本报太原5月12日电 李宸、记者刘丹报道：5月12日19时59分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将千帆极轨09组卫星发射升空，卫星顺利进入预定轨道，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=01&articleid=2026-05-13-1-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.846Z"
+          }
+        }
+      ],
+      "reason": "81cn only 2本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:2:要闻",
+      "issueDate": "2026-05-13",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-13-2-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "5月11日，中国第3批赴阿卜耶伊维和快反分队官兵乘空军运输机出发，前往东非阿卜耶伊地区执行为期12个月的…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=02&articleid=2026-05-13-2-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:3:要闻",
+      "issueDate": "2026-05-13",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-13-3-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "备份号手补位打出“满堂彩”",
+          "excerpt": "4月底，火箭军某部野外驻训场，一场实战背景下的发射训练进入关键阶段。“5架主号手‘阵亡’，4架备份号手接替发射！”特情通报下达，备份号手彭峥快速就位。 尽管首次被正式编入发射架，而且面对全新发射编组，彭峥仍然很快进入情况，配合5架号手展开各项操作，顺利完成“点火”任务。备份号手跨架补位打出“满堂彩”，彭峥的表现得到导调组肯定。 “这得益于单位推行的‘四个随…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=03&articleid=2026-05-13-3-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-3-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "坚持一张蓝图绘到底",
+          "subtitle": "——树立和践行正确政绩观系列谈",
+          "excerpt": "政贵有恒，治须有常。 习主席强调，“坚持一张蓝图绘到底，对已有的部署和规划，只要是科学的、切合新的实践要求的、符合人民群众愿望的，就要坚持，一茬接着一茬干”。贯彻落实这一重要指示精神，要求党员干部锚定目标不放松，发扬钉钉子精神，以坚持不懈的韧劲，把确定的每件事都抓到底，一锤接着一锤敲，一年接着一年干，锲而不舍向前走。 “日日行，不怕千万里；常常做，不怕千万…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=03&articleid=2026-05-13-3-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-3-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "从“意见遇冷”到“件件必回”",
+          "subtitle": "——第77集团军某旅设置兵情意见箱畅通民主渠道的一段经历",
+          "excerpt": "近日，第77集团军某旅李干事打开兵情意见箱，发现从训练保障到教育管理，基层官兵提出了不少意见建议。经过梳理论证，10余条意见建议被机关列入工作清单，并由专人跟进。 李干事介绍，去年，为了畅通民主渠道，他们在营区多个点位设置兵情意见箱，鼓励官兵建言献策。刚开始，机关经常能收到基层提交的意见建议，然而，一段时间后，基层有效反馈越来越少。 一次，李干事在基层蹲点…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=03&articleid=2026-05-13-3-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-3-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "老兵寄语励后辈",
+          "excerpt": "本报讯 杨劲、特约通讯员王子杰报道：前不久，海军某部组织“学习英雄、争当英雄”故事会，专门邀请连队老兵朱志学视频连线讲述战斗故事。聆听朱老的讲述，现场官兵深受触动，纷纷表示要向先辈看齐、扎根军营建功。 “朱志学是我部老兵，曾和战友顽强坚守阵地38天，击毙敌人数百名。”该部领导介绍，部队诞生于抗日战争时期，在革命战争年代涌现出大批战斗英雄。他们充分发挥单位历…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=03&articleid=2026-05-13-3-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-3-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "滩头阵地设课堂",
+          "excerpt": "本报讯 李强云、特约记者杨开明报道：“一江山岛战役是我军历史上首次陆海空三军联合作战。登陆部队在空中、地面和海上火力的掩护下，从多个登陆地点实施登陆突击……”近日，陆军兵种大学南京校区组织百余名学员来到一江山岛，在当年登陆部队冲锋的滩头阵地展开现地教学。教员带领学员们重温先辈战斗事迹，现场对照战史资料分析地理环境对登陆作战的影响。 “把课堂设在当年的战场，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=03&articleid=2026-05-13-3-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-3-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=03&articleid=2026-05-13-3-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        }
+      ],
+      "reason": "81cn only 6本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:4:要闻",
+      "issueDate": "2026-05-13",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-13-4-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "“绝不能丢掉革命真理”",
+          "excerpt": "第五次反“围剿”失败后，中央红军被迫踏上漫漫征途。出发前，部队要求精简行囊、轻装前进。为此，王稼祥把暂时用不上的东西都扔掉了。当他把《两个策略》等几本马列书籍也扔掉后，很快又捡起来塞进挎包，并喃喃道：“扔不得，扔不得，把马列主义的书扔掉，就不是轻装，而是解除武装。” 长征路上，王稼祥问身旁的毛泽东：“你都轻什么装了？”毛泽东说：“我连饭锅、牙刷、牙粉都轻装…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-4-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "将内容标注设为短视频发布必经环节",
+          "excerpt": "新华社北京5月12日电 记者12日获悉，中央网信办近日部署指导网站平台规范短视频内容标注，明确必须设置的标签种类和标签位置，将内容标注设为短视频发布必经环节，发布者必须从“必选标签”中选择一项，才能发布短视频，并对存量短视频回溯和补充标注提出要求，推动发布者对自己的内容负责，进一步压实网站平台内容审核责任。 据了解，针对部分短视频内容来源不清、真假难辨、混…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-4-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "自来水普及率达到96%",
+          "excerpt": "农村供水事关人民福祉。水利部12日举办新闻发布会，介绍农村供水保障成效。 水利部副部长祖雷鸣介绍，“十四五”以来，水利部全面推行城乡供水一体化、集中供水规模化、小型供水规范化、县域统管专业化“3+1”标准化建设和管护模式，推动出台《供水条例》，农村供水保障程度显著提升。 截至2025年底，全国农村自来水普及率达到96%、规模化供水工程覆盖农村人口比例达到7…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-4-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "2026年中华民族共有精神家园建设主题文化活动走进河南",
+          "excerpt": "新华社郑州5月12日电（记者唐健辉）由国家民委组织的“中华民族共有精神家园建设主题文化活动·河南篇”5月12日在河南安阳启动。 本次活动以“同源·同园·同愿”为主题，以群众为主体，组织开展民俗展演、文化体验、遗址研学、主题教育等活动，展现河南省在推进中华民族共有精神家园建设方面的创新实践和丰硕成果。 国家民委有关负责人在启动仪式上表示，本次活动坚持铸牢中华…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-4-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "2026年全国防灾减灾日暨防灾减灾宣传周主场活动举行",
+          "excerpt": "新华社南昌5月12日电（记者黄韬铭、姚子云）今年5月12日是第18个全国防灾减灾日，主题是“人人讲安全、个个会应急——提高防灾减灾救灾能力”。记者从应急管理部获悉，全国防灾减灾日暨防灾减灾宣传周主场活动12日在江西省南昌市举行。 本次活动以“一堂课、一场致敬、一次体验”为主线，通过开展全民安全公开课、宣讲防灾避险感人事迹、模拟体验应急场景等形式，进一步普及…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-4-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "联勤保障部队第965医院联合驻地开展灾害救援演练",
+          "excerpt": "本报讯 邱焕仁、特约记者汪学潮报道：今年5月12日是第18个全国防灾减灾日。5月11日，联勤保障部队第965医院联合驻地相关部门和医院，开展灾害救援演练。军地双方通过应急指挥平台，同步接收灾情信息，联合调度救援力量，从事故报警、先期处置、伤员检伤到后送救治实现全链条衔接。 演练中，社区工作人员发现“某小区发生煤气泄漏情况”后，立即报警并协助疏散周边群众，消…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-4-6",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "我国多项成果亮相世界数字教育大会",
+          "excerpt": "据新华社杭州5月12日电（记者王鹏、俞菀）中国智慧教育公共服务平台全新升级，《中国智慧教育发展报告（2025—2026）》《人工智能教育伦理：参考框架》和人工智能教育杭州倡议等发布……5月12日，在浙江杭州举行的2026世界数字教育大会上，多项重要成果亮相。 据悉，中国智慧教育公共服务平台此次升级，主要更新三大板块面向全球开放，包括全球人工智能教育服务平台…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-4-7",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "五部门推进建设项目联合验收“一件事”",
+          "excerpt": "新华社北京5月11日电（记者王优玲）住房城乡建设部等五部门11日发布《关于深入推进建设项目联合验收“一件事”的实施意见》，以推动新建、改建（含装饰装修）、扩建的房屋建筑工程、市政基础设施工程等建设项目联合验收“一件事”高效办理。 实施意见要求，推动建设项目竣工验收备案、消防验收（备案）、规划核实和土地核验、人防工程竣工验收、建设工程档案验收、公众聚集场所投…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-7",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-4-8",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "短讯",
+          "excerpt": "■李强12日在京会见塔吉克斯坦总统拉赫蒙 ■李强12日致电祝贺毛焦尔就任匈牙利总理 ■赵乐际12日在京会见塔吉克斯坦总统拉赫蒙 ■…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-8",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-4-9",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "5月12日，DJ（动检）602次综合检测列车从西安东站平稳驶出，沿西十高铁正线穿越秦岭直达十堰东站，标志着西十高铁全线拉通试验正…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-9",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-13-4-10",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-10",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:09:09.847Z"
+          }
+        }
+      ],
+      "reason": "81cn only 11本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    }
+  ],
+  "counts": {
+    "peopleArticles": 26,
+    "plaArticles": 26,
+    "matchedGroups": 6,
+    "matchedPeopleArticles": 9,
+    "matchedPlaArticles": 6,
+    "peopleOnlyArticles": 17,
+    "plaOnlyArticles": 20
+  }
+}

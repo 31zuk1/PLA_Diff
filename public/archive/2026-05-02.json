@@ -1,0 +1,1971 @@
+{
+  "schemaVersion": 1,
+  "issueDate": "2026-05-02",
+  "generatedAt": "2026-05-16T09:06:13.345Z",
+  "retentionDays": 31,
+  "frontPages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "judge": {
+    "enabled": true,
+    "model": "gpt-4.1-nano"
+  },
+  "peopleIssue": {
+    "id": "people_daily:2026-05-02",
+    "source": "people_daily",
+    "issueDate": "2026-05-02",
+    "pages": [
+      {
+        "id": "people_daily:2026-05-02:p01",
+        "source": "people_daily",
+        "issueDate": "2026-05-02",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154640",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "“大力弘扬劳模精神、劳动精神、工匠精神”（总书记的人民情怀）",
+            "author": "本报记者 宋 宇",
+            "excerpt": "“希望广大劳动群众大力弘扬劳模精神、劳动精神、工匠精神，苦干实干、敬业奉献，在推动经济社会高质量发展中发挥主力军作用、展现主人翁风采。”在今年“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问。 党的十八大以来，习近平总书记高度重视、深情礼赞劳动创造，强调：“劳模精神、劳动精神、工匠精神是以爱国主义为核心的民族精神和以改革创新…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154640.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.533Z"
+            }
+          },
+          {
+            "id": "people_daily:30154641",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "坚定信心，进一步打牢科技强国建设根基",
+            "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+            "author": "本报评论员",
+            "excerpt": "“基础研究是整个科学体系的源头，是所有技术问题的总机关。”加强基础研究，是实现高水平科技自立自强的迫切要求，是建设科技强国的必由之路。 4月30日，习近平总书记出席加强基础研究座谈会并发表重要讲话，充分肯定我国基础研究取得的成就，全面分析面临的新形势新挑战，对加强基础研究作出战略部署、提出明确要求，强调“要以更大力度、更实举措加强基础研究，提升我国原始创新…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154641.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.535Z"
+            }
+          },
+          {
+            "id": "people_daily:30154642",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "以更大力度更实举措加强基础研究",
+            "subtitle": "——与会代表谈贯彻落实加强基础研究座谈会精神",
+            "author": "本报记者 孙 振 李君强 杨翘楚",
+            "excerpt": "4月30日，加强基础研究座谈会在上海举行。习近平总书记出席座谈会并发表重要讲话强调：“基础研究是整个科学体系的源头，是所有技术问题的总机关。要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。” 会后，部分与会代表接受了本报记者采访。大家表示，要深学细悟习近平总书记重要讲话精神，准确把握党中央战略意图，增强紧迫感、责任感、…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154642.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.531Z"
+            }
+          },
+          {
+            "id": "people_daily:30154643",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "劳动光荣 创造伟大",
+            "subtitle": "——习近平总书记的节日祝贺和诚挚慰问激励广大劳动群众不懈奋斗",
+            "author": "本报记者 易舒冉",
+            "excerpt": "在今年“五一”国际劳动节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大劳动群众致以节日祝贺和诚挚慰问。 广大劳动群众表示，习近平总书记的话语情真意切，充分体现了对劳动群众的亲切关怀和深情厚谊。“十五五”开局之年，要以习近平新时代中国特色社会主义思想为指导，为梦想奋斗、为幸福打拼，在推动经济社会高质量发展中发挥主力军作用、展现主…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154643.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.536Z"
+            }
+          },
+          {
+            "id": "people_daily:30154644",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "加快推进水网建设 全面提升综合效益 为经济社会发展提供基础支撑和重要保障",
+            "excerpt": "新华社南宁5月1日电 （记者邹伟）中共中央政治局常委、国务院总理李强4月29日至5月1日在广西调研。他强调，要深入贯彻落实习近平总书记关于水网建设的重要论述和重要指示精神，坚持经济效益、社会效益、生态效益、安全效益相统一，加快构建国家水网主骨架，统筹规划建设各级水网工程，强化水资源综合利用，为经济社会发展提供基础支撑和重要保障。 在南宁市，李强先后来到郁江…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154644.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.534Z"
+            }
+          },
+          {
+            "id": "people_daily:30154645",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "一次握手 一份惦念",
+            "author": "本报记者 李昌禹 易舒冉",
+            "excerpt": "“五一”假期前夕，记者在北京西城区琉璃厂文化街见到快递员刘阔，他骑着电动三轮车穿梭街巷，车上的货物码得整整齐齐。 “这些货物多是游客购买的文创纪念品，得小心仔细些。”收件、打包、派送……忙了一早上，刘阔走进街头的“西城区全时驿站”歇歇脚。 “以前，累了只能靠在车上歇一会儿；现在，驿站里充电宝、饮水机、微波炉、医药箱一应俱全，就像在路上多了个‘家’，真好。”…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154645.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.529Z"
+            }
+          },
+          {
+            "id": "people_daily:30154646",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "彰显强大韧性和活力的中国经济",
+            "author": "金社平",
+            "excerpt": "4月28日，习近平总书记主持中共中央政治局会议，分析研究当前经济形势和经济工作。会议认为，今年以来，以习近平同志为核心的党中央加强对经济工作的全面领导，着眼全局、前瞻布局，各地区各部门靠前发力、综合施策，我国经济起步有力，主要指标好于预期，彰显强大韧性和活力。 这是一个奔跑的春天，这是一个坚韧的中国。 “让我们拿出跃马扬鞭的勇气，激发万马奔腾的活力，保持马…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154646.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.532Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/02/8dabd724-97a7-4094-802a-20b9ea2f485e.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/02/5e84b0ba-2a5d-4d87-a8db-05c65ca5c89e.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:06:02.536Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-02:p02",
+        "source": "people_daily",
+        "issueDate": "2026-05-02",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154647",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "全国首票进口货物在深圳通关",
+            "excerpt": "本报深圳5月1日电 （记者欧阳洁、李刚）5月1日零时，深圳湾口岸迎来我国对53个非洲建交国全面实施零关税举措后，首票进口通关货物。24吨产自南非的苹果，经深圳海关快速监管验放后驶离口岸，将分销至华南地区各大商超。 2月14日，习近平主席向第39届非洲联盟峰会致贺电强调，中方将于2026年5月1日起对53个非洲建交国全面实施零关税举措，同时继续推动商签共同发…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154647.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.882Z"
+            }
+          },
+          {
+            "id": "people_daily:30154648",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "为非洲农食产品开辟“绿色通道”（政策解读）",
+            "author": "本报记者 欧阳洁",
+            "excerpt": "5月1日起，我国对53个非洲建交国全面实施零关税举措，并通过升级“绿色通道”等进一步扩大非洲输华产品准入，这是全球首个主要经济体对非洲建交国实施全覆盖零关税。 配合政策实施，海关总署升级非洲农食产品“绿色通道”，优化进口食品境外生产企业注册举措，与非洲国家在“经认证的经营者”（AEO）互认、能力建设等领域积极合作，多渠道为非洲产品输华提供切实便利。 以落实…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154648.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.993Z"
+            }
+          },
+          {
+            "id": "people_daily:30154649",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "游山水，更懂山水（经济新方位·聚焦假期消费）",
+            "author": "本报记者 王欣悦",
+            "excerpt": "“老师，快看，白帝城在云里头！” 5月1日一早，一艘游船从重庆奉节忠义渡口起航。初二学生丁垚垚扒着船舷，声音里满是惊喜。 伴随着游船驶入瞿塘峡口，10元人民币背面的“夔门”图案，在她眼前展开：赤甲山、白盐山夹江而立，形成一道雄奇的水上门户。 “同学们，李白写‘朝辞白帝彩云间’，是夸张、还是写实？”船头，身穿橙红色冲锋衣的研学导师李燕波举起地图，把学生们召集…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154649.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.887Z"
+            }
+          },
+          {
+            "id": "people_daily:30154650",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "彰显强大韧性和活力的中国经济",
+            "author": "金社平",
+            "excerpt": "4月28日，习近平总书记主持中共中央政治局会议，分析研究当前经济形势和经济工作。会议认为，今年以来，以习近平同志为核心的党中央加强对经济工作的全面领导，着眼全局、前瞻布局，各地区各部门靠前发力、综合施策，我国经济起步有力，主要指标好于预期，彰显强大韧性和活力。 这是一个奔跑的春天，这是一个坚韧的中国。 “让我们拿出跃马扬鞭的勇气，激发万马奔腾的活力，保持马…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154650.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.883Z"
+            }
+          },
+          {
+            "id": "people_daily:30154651",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "一季度职工医保个人账户共济1.15亿人次",
+            "excerpt": "本报北京5月1日电 （记者孙秀艳）记者从国家医保局获悉：今年1—3月，职工医保个人账户共济1.15亿人次，金额153.24亿元。 职工医保个人账户共济通过即时调用被绑定人个人账户、医保钱包等方式实现。1—3月，通过即时调用被绑定人个人账户方式进行职工医保个人账户省内共济1.15亿人次，共济金额149.8亿元。同一统筹区（通常是同一个地市）内共济1.03亿人…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154651.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.874Z"
+            }
+          },
+          {
+            "id": "people_daily:30154652",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "劳动光荣 创造伟大",
+            "subtitle": "——习近平总书记的节日祝贺和诚挚慰问激励广大劳动群众不懈奋斗",
+            "author": "本报记者 易舒冉",
+            "excerpt": "在今年“五一”国际劳动节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大劳动群众致以节日祝贺和诚挚慰问。 广大劳动群众表示，习近平总书记的话语情真意切，充分体现了对劳动群众的亲切关怀和深情厚谊。“十五五”开局之年，要以习近平新时代中国特色社会主义思想为指导，为梦想奋斗、为幸福打拼，在推动经济社会高质量发展中发挥主力军作用、展现主…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154652.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:02.881Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/02/ced74dac-9478-44fb-be0a-44dd1994ad45.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/02/933adff4-ee9d-44ab-857b-fb919d5f1c48.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:06:02.994Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-02:p03",
+        "source": "people_daily",
+        "issueDate": "2026-05-02",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154653",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "畅游“宝藏城市” 品味多元中国（外国游客感受“中国之美”）",
+            "author": "本报记者 付明丽 郭晓龙 叶传增",
+            "excerpt": "中国国家移民管理局日前发布的数据显示，今年一季度，中国免签入境外国人831.5万人次，同比上升29.3%。除了数量上的增长，越来越多来华外国游客开始不再满足于“到此一游”，而是深入中国的历史文化腹地、工业城市、边境小城等，沉浸式体验中国的多元魅力，看见并融入一个更真实、立体、全面的中国。 山西大同—— 探访游戏取景地，沉浸式体验文化 “听讲解员说，这些佛像…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154653.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:03.377Z"
+            }
+          },
+          {
+            "id": "people_daily:30154654",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "零关税政策为非洲发展打开机遇之窗（国际论坛）",
+            "author": "拉萨纳·法蒂",
+            "excerpt": "零关税政策是中国扩大高水平对外开放的创新实践，彰显了中国的大国担当 中国于5月1日起对53个非洲建交国全面实施零关税举措。这不仅是非洲国家的重大经贸机遇，更是中国支持非洲改善民生、加快发展、推进减贫的务实举措，为非洲发展振兴打开了全新的机遇之窗。 早在2024年12月1日，中国就率先对包括几内亚比绍等33个非洲国家在内的所有同中国建交的最不发达国家实行10…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154654.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:03.362Z"
+            }
+          },
+          {
+            "id": "people_daily:30154655",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“让更多全球南方国家发展梦想变成现实”",
+            "author": "本报记者 王旭琛 李 琰",
+            "excerpt": "全球南方可持续发展论坛暨南南合作与发展学院（以下简称“南南学院”）成立10周年会议日前在北京大学举行。来自全球南方国家和外国驻华使馆代表等相聚未名湖畔，回顾学院10年发展历程，展望南南合作美好愿景。 10年来，南南学院从愿景走向行动，从课堂走向实践，从中国走向世界，为广大发展中国家培养高端人才，推动南南合作走深走实。截至目前已为80多个发展中国家培养了50…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154655.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:03.406Z"
+            }
+          },
+          {
+            "id": "people_daily:30154656",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "“推动非中合作结出更多硕果”",
+            "subtitle": "——访非洲联盟驻华代表巴赫",
+            "author": "本报记者 陈尚文",
+            "excerpt": "“非洲与中国虽远隔千山万水，却因坚持相互尊重、共同发展、践行全人类共同价值而紧密联系在一起。”非洲联盟驻华代表巴赫日前在接受本报记者采访时表示，非中友谊源远流长、历久弥坚，双方团结互信、守望相助，是彼此最可信的朋友、最可靠的伙伴。 5月1日起，中国对53个非洲建交国全面实施零关税措施。“这是推动中非合作论坛北京峰会成果进一步落地的体现，对非洲国家无疑是宝贵…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154656.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:03.378Z"
+            }
+          },
+          {
+            "id": "people_daily:30154657",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "何立峰会见比利时副首相兼外交大臣普雷沃",
+            "excerpt": "新华社北京5月1日电 中共中央政治局委员、国务院副总理何立峰4月30日下午在人民大会堂会见比利时副首相兼外交大臣普雷沃。 何立峰表示，中比建交55年来，两国建立了互利共赢的紧密合作关系。近年来，双方在医药、化工、金融、物流等领域开展了卓有成效的务实合作，助力两国关系向前发展。中比同为多边主义的维护者和开放型世界经济的支持者，应当延续互利共赢合作传统，促进中…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154657.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:03.380Z"
+            }
+          },
+          {
+            "id": "people_daily:30154658",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "第一期“Z青春”国际青年知行中国研学营暨共创工坊举行",
+            "excerpt": "本报成都5月1日电 （记者李凯旋）4月28日至30日，第一期“Z青春”国际青年知行中国研学营暨共创工坊在四川省成都市、阿坝藏族羌族自治州汶川县举行。 本次活动由中国国际青年交流中心主办、汶川县人民政府承办、世界青年科学家联合会全球学生发展工作委员会协办，以“人与自然和谐共生”为主题，设置国际青年共创工坊、中欧青年绿色科技与生态环保主题圆桌对话会等环节。来自…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154658.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:03.383Z"
+            }
+          },
+          {
+            "id": "people_daily:30154659",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "以更大力度更实举措加强基础研究",
+            "subtitle": "——与会代表谈贯彻落实加强基础研究座谈会精神",
+            "author": "本报记者 孙 振 李君强 杨翘楚",
+            "excerpt": "4月30日，加强基础研究座谈会在上海举行。习近平总书记出席座谈会并发表重要讲话强调：“基础研究是整个科学体系的源头，是所有技术问题的总机关。要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。” 会后，部分与会代表接受了本报记者采访。大家表示，要深学细悟习近平总书记重要讲话精神，准确把握党中央战略意图，增强紧迫感、责任感、…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154659.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:03.385Z"
+            }
+          },
+          {
+            "id": "people_daily:30154660",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "2026摩洛哥“中国电影周”在拉巴特开幕",
+            "excerpt": "本报迪拜5月1日电 （记者张志文）拉巴特消息：2026摩洛哥“中国电影周”4月29日在摩洛哥首都拉巴特开幕。中摩两国文化、艺术、媒体界嘉宾齐聚一堂，在流动的光影之间共同见证一场跨越时空的文明对话。 中国驻摩洛哥大使余劲松表示，电影是跨越国界与语言的艺术形式，是开启心灵对话的窗口，是感知不同文化的重要载体，期待摩洛哥朋友通过电影了解真实、立体、全面的中国，共…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154660.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:03.457Z"
+            }
+          },
+          {
+            "id": "people_daily:30154661",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "加快推进水网建设 全面提升综合效益 为经济社会发展提供基础支撑和重要保障",
+            "excerpt": "新华社南宁5月1日电 （记者邹伟）中共中央政治局常委、国务院总理李强4月29日至5月1日在广西调研。他强调，要深入贯彻落实习近平总书记关于水网建设的重要论述和重要指示精神，坚持经济效益、社会效益、生态效益、安全效益相统一，加快构建国家水网主骨架，统筹规划建设各级水网工程，强化水资源综合利用，为经济社会发展提供基础支撑和重要保障。 在南宁市，李强先后来到郁江…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154661.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:03.446Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/02/e21b5b6f-66b2-4947-ab85-db7866f38b12.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/02/8b0c4344-5767-4721-bbaf-a703d8b1a3a8.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:06:03.457Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-02:p04",
+        "source": "people_daily",
+        "issueDate": "2026-05-02",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30154662",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "“推动矿山生产更智慧更绿色”（劳动者之歌）",
+            "author": "本报记者 胡婧怡",
+            "excerpt": "辽宁省鞍山市南郊，东鞍山铁矿的露天采场层层错落，大型矿车往来穿梭，一车车矿石进入破碎机后，由传送带运至选矿厂……通过远程监控系统，整个过程在屏幕上实时呈现。鞍钢矿业东鞍山分公司检修作业区电气检修班班组长马志刚坐在屏幕前，认真查看设备运行的实时画面和数据情况。 从业30年，马志刚的日常工作是保障破碎机、胶带机等采矿设备的平稳运行。检修设备电气、管护高低压配电…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154662.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:04.059Z"
+            }
+          },
+          {
+            "id": "people_daily:30154663",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "“继续留在一线助力研发制造”（劳动者之歌）",
+            "author": "本报记者 付明丽",
+            "excerpt": "在中国船舶集团汾西重工有限责任公司，总装车间技术组组长薛宏宾是很多同事眼中的“怪人”。十几年前，他放弃公司研究所主任设计师岗位，选择到车间一线“自找苦吃”。 汾西重工是国家海洋工程装备重点供应商。2006年，在公司研究所从事机械总体设计的薛宏宾碰到一个难题：公司接到某新产品的生产任务，其中最重要的电动力推进系统，从设计到原理样机试制仅有半年时间。 薛宏宾毫…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154663.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:04.051Z"
+            }
+          },
+          {
+            "id": "people_daily:30154664",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "“为筑牢生态安全屏障出力”（劳动者之歌）",
+            "author": "本报记者 张 枨",
+            "excerpt": "紧盯林草遥感影像与“三北”工程核查图斑，同时对照台账资料，内蒙古自治区林业和草原监测规划院生态工程监测室主任弥宏卓，正忙着核对地块坐标、监测数据。 42岁的弥宏卓常年忙于案头与野外，实地核查苗木成活情况、测算植被覆盖实况，手把手指导基层人员规范作业，以严谨专业作风守住生态工程质量底线。“森林资源调查，重在摸清家底。树种、树龄、林地起源等基础信息，必须依靠实…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154664.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:04.124Z"
+            }
+          },
+          {
+            "id": "people_daily:30154665",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "全社会跨区域人员流动量预计超3.4亿人次",
+            "excerpt": "本报北京5月1日电 （记者韩鑫、李心萍、张天培）记者从交通运输部获悉：“五一”假期首日，全社会跨区域人员流动量预计34410万人次，同比增长3.4%，其中公路人员流动量31524万人次，水路客运量173万人次，民航客运量233万人次。 记者从中国国家铁路集团有限公司获悉：5月1日，全国铁路预计发送旅客2480万人次，计划加开旅客列车2070列。4月30日，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154665.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:04.061Z"
+            }
+          },
+          {
+            "id": "people_daily:30154666",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "第139届广交会第三期开幕",
+            "excerpt": "本报广州5月1日电 （记者李刚、洪秋婷）5月1日，第139届广交会第三期在广东广州开幕。本期广交会以“美好生活”为主题，展览面积51.5万平方米，展位2.5万个，共有1.2万家参展企业携智慧医疗、功能纺织、绿色材料等领域的前沿成果与会。 本期广交会，国家高新技术企业、专精特新“小巨人”企业、制造业单项冠军等优质企业突破3000家；“智慧医疗”专区扩容升级，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154666.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:04.087Z"
+            }
+          },
+          {
+            "id": "people_daily:30154667",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "驻澳门部队举行第二十次军营开放日活动",
+            "excerpt": "本报澳门5月1日电 （富子梅、郭锦翔）中国人民解放军驻澳门部队4月30日在氹仔军营举行第二十次军营开放日活动，连续3天面向澳门大中小学生和社会各界开放。 活动首日上午，庄严的升国旗仪式在军营广场举行，官兵与市民肃立注目、高唱国歌。综合格斗展示、抢险救灾演练、反恐行动演练等课目轮番上演，多维展现新时代练兵备战场景。参观者体验了装甲模拟射击、自救互救等，还走进…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154667.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:04.048Z"
+            }
+          },
+          {
+            "id": "people_daily:30154668",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "国家京剧院京剧诗乐《春·秋》首演",
+            "author": "本报记者 陈圆圆 曹怡晴",
+            "excerpt": "5月1日晚，北京梅兰芳大剧院，国家京剧院新创的京剧诗乐《春·秋》首次亮相。 “天初暖，日初长，好春光。”舞台上，二十四节气在光影中更迭，古典诗词被京腔京韵重新吟唱，民族管弦乐团从乐池移至台前。 2025年，国家京剧院建院70周年之际，习近平总书记给国家京剧院青年艺术工作者回信，强调“践行艺术为民，坚持崇德尚艺、守正创新，让京剧艺术持续焕发时代光彩”。 京剧…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154668.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:04.055Z"
+            }
+          },
+          {
+            "id": "people_daily:30154669",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "欢度假期",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154669.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:04.053Z"
+            }
+          },
+          {
+            "id": "people_daily:30154670",
+            "source": "people_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "一次握手 一份惦念",
+            "author": "本报记者 李昌禹 易舒冉",
+            "excerpt": "“五一”假期前夕，记者在北京西城区琉璃厂文化街见到快递员刘阔，他骑着电动三轮车穿梭街巷，车上的货物码得整整齐齐。 “这些货物多是游客购买的文创纪念品，得小心仔细些。”收件、打包、派送……忙了一早上，刘阔走进街头的“西城区全时驿站”歇歇脚。 “以前，累了只能靠在车上歇一会儿；现在，驿站里充电宝、饮水机、微波炉、医药箱一应俱全，就像在路上多了个‘家’，真好。”…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154670.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:06:04.049Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/02/7f1e5565-2885-4829-96d2-d1196f0a365b.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/02/33e2f66d-4d76-483b-b3de-3fe079171f5e.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:06:04.124Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "people-daily-html-v1",
+      "extractedAt": "2026-05-16T09:06:04.124Z"
+    }
+  },
+  "plaIssue": {
+    "id": "pla_daily:2026-05-02",
+    "source": "pla_daily",
+    "issueDate": "2026-05-02",
+    "pages": [
+      {
+        "id": "pla_daily:2026-05-02:p01",
+        "source": "pla_daily",
+        "issueDate": "2026-05-02",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-02-1-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "“浮动基地”向深蓝",
+            "subtitle": "——来自海军某作战支援舰支队的调查报告",
+            "excerpt": "夜幕低垂，海天墨染。微光条件下，海军某作战支援舰支队呼伦湖舰悄然启动夜间航行补给系统。随着指令下达，“油龙”在波峰浪谷间精准对接受补舰艇…… 补给舰是海上舰船的“浮动基地”。“保障打赢是唯一的真功夫、硬本事，是最根本的政绩。只有将日常训练与实战需求紧密对接，从难从严练兵，才能有效履行新时代使命任务。”该支队领导介绍，他们扎实开展树立和践行正确政绩观学习教育…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=01&articleid=2026-05-02-1-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.529Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-1-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "筑牢科技根基  勇攀科学高峰",
+            "subtitle": "——与会代表谈贯彻落实加强基础研究座谈会精神",
+            "excerpt": "4月30日上午，习近平总书记在上海出席加强基础研究座谈会并发表重要讲话。习近平总书记强调，要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。 座谈会后，部分与会代表接受了新华社记者采访。大家表示，习近平总书记的重要讲话高屋建瓴、内涵丰富，具有很强的政治性、思想性、指导性，为加强基础研究指明了前进方向、提供了根本遵循。要深…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=01&articleid=2026-05-02-1-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.529Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-1-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "全军院校作战指挥教学紧贴实战呈现新气象",
+            "excerpt": "本报讯 记者张琳报道：虚拟战场，学员运筹帷幄，指挥千军万马展开多轮高强度对抗；经典海战实景还原，炮火与波涛间，决策分秒必争……新学期以来，在各军种指挥院校，一幕幕实战味浓、对抗性强、科技感足的教学场景扑面而来，我军作战指挥教学紧贴实战呈现新气象。 走进陆军指挥学院兵棋推演大厅，学员围绕作战方案激辩正酣。“这是基于实战实案的对抗式教学。”该学院某教研室吕主任…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=01&articleid=2026-05-02-1-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.529Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-1-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "苦干实干  敬业奉献",
+            "excerpt": "劳动创造幸福，实干成就伟业。 在“五一”国际劳动节到来之际，习主席代表党中央，向全国广大劳动群众致以节日祝贺和诚挚慰问，强调“希望广大劳动群众大力弘扬劳模精神、劳动精神、工匠精神，苦干实干、敬业奉献”。广大青年官兵认真贯彻这一重要指示精神，就要知重负重、知责负责，苦练专业技能，锤炼打赢本领，在推进新时代强军事业中发挥主力军作用。 青年官兵是我军建设的主体，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=01&articleid=2026-05-02-1-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.529Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-1-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=01&articleid=2026-05-02-1-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.529Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260502/6666c9964ba7c6fb69bc69502063fea9.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260502/2eca2540200248c74fbfc7f0b0cc20f7.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:06:03.529Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-02:p02",
+        "source": "pla_daily",
+        "issueDate": "2026-05-02",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-02-2-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "坚定信心，进一步打牢科技强国建设根基",
+            "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+            "excerpt": "“基础研究是整个科学体系的源头，是所有技术问题的总机关。”加强基础研究，是实现高水平科技自立自强的迫切要求，是建设科技强国的必由之路。 4月30日，习近平总书记出席加强基础研究座谈会并发表重要讲话，充分肯定我国基础研究取得的成就，全面分析面临的新形势新挑战，对加强基础研究作出战略部署、提出明确要求，强调“要以更大力度、更实举措加强基础研究，提升我国原始创新…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.529Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-2-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "奋斗，共筑新时代美好生活",
+            "subtitle": "——写在二〇二六年“五一”国际劳动节之际",
+            "excerpt": "春光明媚，生机盎然，又一个属于劳动者的节日如约而至。这一刻，奋斗的荣光与激情同频激荡，拼搏的精神与梦想交相辉映。 4月30日，在“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问并指出：“在中国式现代化新征程上，广大劳动群众紧紧团结在党的周围，奋力拼搏进取，勇于创新创造，为党和国家事业发展作出了重要贡献。” 今年是中国共产党成…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.530Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-2-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "零关税开放之诺，促中非同心同行",
+            "excerpt": "2026年5月1日，中国对53个非洲建交国全面实施零关税举措。这是习近平主席亲自宣布的对非重大开放举措，在中非关系和国际关系史上具有划时代意义。 2024年9月，习近平主席在中非合作论坛北京峰会上宣布给予包括33个非洲国家在内的所有同中国建交的最不发达国家100%税目产品零关税待遇；2025年6月，在致中非合作论坛成果落实协调人部长级会议的贺信中，习近平主…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.530Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-2-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "俄海军舰艇编队结束技术停靠离开青岛",
+            "excerpt": "本报青岛4月30日电 记者钱晓虎、特约记者王冠彪报道：4月30日下午，由俄罗斯海军“响亮”号护卫舰、“堪察加彼得罗巴甫洛夫斯克”号潜艇以及“安德烈·斯捷潘诺夫”号拖船组成的舰艇编队，离开山东青岛某军港，结束为期4天的技术停靠。 技术停靠期间，俄海军官兵参观游览了青岛市区…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.530Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-2-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "美国防部与7家人工智能公司达成合作协议",
+            "excerpt": "据新华社华盛顿5月1日电 美国国防部5月1日宣布与7家领先的人工智能公司达成协议，旨在将这些公司先进的人工智能技术部署至国防部的机密网络中，用于合法的作战行动。 五角大楼当天发表声明说，国防部已与太空探索技术公司、开放人工智能研究中心、谷歌、英伟达等7家前沿人工智能公司达成协议。“…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.530Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-2-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "“浮动基地”向深蓝",
+            "subtitle": "——来自海军某作战支援舰支队的调查报告",
+            "excerpt": "夜幕低垂，海天墨染。微光条件下，海军某作战支援舰支队呼伦湖舰悄然启动夜间航行补给系统。随着指令下达，“油龙”在波峰浪谷间精准对接受补舰艇…… 补给舰是海上舰船的“浮动基地”。“保障打赢是唯一的真功夫、硬本事，是最根本的政绩。只有将日常训练与实战需求紧密对接，从难从严练兵，才能有效履行新时代使命任务。”该支队领导介绍，他们扎实开展树立和践行正确政绩观学习教育…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.530Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-2-6",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "短讯",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.530Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260502/d935a2d23ffd37cc2608552e9b999980.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260502/5ba9f248b5bffed7eadaf3c59b6e7be8.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:06:03.530Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-02:p03",
+        "source": "pla_daily",
+        "issueDate": "2026-05-02",
+        "pageNumber": 3,
+        "pageName": "光荣传统",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-02-3-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "光荣传统",
+            "title": "“念念念念”，道不尽的思念",
+            "excerpt": "家书节选 “这个小宝贝小天使我真是喜欢她。现在长得更大更强壮更活泼更漂亮，又能喊爸爸妈妈，又乖巧不顽皮，真是给我极多的想念与高兴。可惜天各一方不能看到她抱抱她。” “志兰！亲爱的：别时容易见时难，分离廿一个月了，何日相聚，念念念念。愿在党的整顿三风下各自努力力求进步吧！以进步来安慰自己，以进步来酬报别后衷情。” “志兰！亲爱的：别时容易见时难，分离廿一个月…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=03&articleid=2026-05-02-3-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.530Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-3-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "光荣传统",
+            "title": "“忙，就要忙出点名堂来”",
+            "excerpt": "前些日子，我在国家会议中心参加人工智能军事理论分论坛，遇到了老领导。他见了我很惊喜：“你怎么天南海北跑，又到北京来了？”我简单讲了近况，给他看了看去年以来的飞行记录。数万公里里程，密密麻麻的航线图，记录了我到新疆代职、又到国防大学学习的经历，想想真像我爱人说的：“结婚后，你在家的时间也只有几个月而已。” 因此，当读到左权将军写给妻子的家书，读到他只能通过书…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=03&articleid=2026-05-02-3-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.530Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-3-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "光荣传统",
+            "title": "我无名国有名  以无名铸威名",
+            "excerpt": "沿山路向大山深处进发，路旁枝头含翠，手机信号一格格减弱。直到信号彻底消失时，记者终于抵达了此行目的地——“红川”。 “红川”，一个在地图上找不到具体位置、却在人民军队的精神谱系中熠熠生辉的地方。 上世纪60年代，原第二炮兵某部受命进驻大山。在艰苦创业的年代，一批批官兵守寂寞、克险难，以战天斗地的决心意志，孕育出“居深山，不畏艰苦寂寞；护国宝，责任重于生命；…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=03&articleid=2026-05-02-3-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.530Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-3-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 3,
+            "pageName": "光荣传统",
+            "title": "“同一双”眼眸  同一片天空",
+            "excerpt": "黑白光影，定格了20世纪60年代末，驻守海岛的某部官兵相互托举、攀上钢梁的瞬间。查找、排障、加固……风雨中，他们在简易天线架上协力作业，一待就是几个小时。 夕阳西斜，勾勒着空军某部新时代官兵护卫雷达装备的身姿。在漫天霞光笼罩下，他们分工协作，指认点位，核对数据……电波流转间，一张精密天网悄然…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=03&articleid=2026-05-02-3-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.530Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260502/2449aa28057aaf99050bb77ef8684659.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260502/2b210572d3802d2aa46d17fc6deaa064.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:06:03.530Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-02:p04",
+        "source": "pla_daily",
+        "issueDate": "2026-05-02",
+        "pageNumber": 4,
+        "pageName": "沙场光影",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-02-4-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 4,
+            "pageName": "沙场光影",
+            "title": "深蓝航迹见证深情厚谊",
+            "subtitle": "——海军“丝路方舟”号医院船执行“和谐使命-2025”任务影像",
+            "excerpt": "4月26日，中国海军“丝路方舟”号医院船圆满完成“和谐使命-2025”任务，靠泊海南三亚某军港。这是该医院船入列以来，首次走出国门开展医疗援助与和平交流。 2025年9月5日，“丝路方舟”号医院船从福建泉州解缆启航，历时234天，先后到访瑙鲁、斐济、巴西、智利等国，总航程约3.6万海里。作为中国自主设计建造的第二艘万吨级制式远洋医院船，“丝路方舟”延续“和…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=04&articleid=2026-05-02-4-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.530Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-02-4-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-02",
+            "pageNumber": 4,
+            "pageName": "沙场光影",
+            "title": "淬炼“火力铁拳”",
+            "subtitle": "——陆军某旅实弹射击训练掠影",
+            "excerpt": "战斗警报响起，官兵快速出动，驾驶战车向预定地域疾驰而去……清晨，陆军某旅一场跨昼夜实弹射击训练在某训练场打响。 抵达目标地域后，侦察分队迅速潜入丛林，向“敌”阵地隐蔽机动。官兵综合运用多种观测、侦测手段，对目标实施立体侦察，实时向指挥所回传相关信息。 指挥车内，指挥员研判态势，迅速定下火力打击决心。各炮班快速完成弹药补给、装定诸元等工作。瞄准手凝神屏息，精…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=04&articleid=2026-05-02-4-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:06:03.530Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260502/b902e865d78346a599f6723cd91b9477.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260502/1d6007784b6e6d822d88a446323ef643.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:06:03.530Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "pla-daily-index-json-v1",
+      "extractedAt": "2026-05-16T09:06:03.530Z"
+    }
+  },
+  "matchGroups": [
+    {
+      "id": "matched:people_daily:30154641+people_daily:30154642:pla_daily:2026-05-02-2-0+pla_daily:2026-05-02-1-0",
+      "issueDate": "2026-05-02",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154641",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "坚定信心，进一步打牢科技强国建设根基",
+          "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+          "author": "本报评论员",
+          "excerpt": "“基础研究是整个科学体系的源头，是所有技术问题的总机关。”加强基础研究，是实现高水平科技自立自强的迫切要求，是建设科技强国的必由之路。 4月30日，习近平总书记出席加强基础研究座谈会并发表重要讲话，充分肯定我国基础研究取得的成就，全面分析面临的新形势新挑战，对加强基础研究作出战略部署、提出明确要求，强调“要以更大力度、更实举措加强基础研究，提升我国原始创新…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154641.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.535Z"
+          }
+        },
+        {
+          "id": "people_daily:30154642",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "以更大力度更实举措加强基础研究",
+          "subtitle": "——与会代表谈贯彻落实加强基础研究座谈会精神",
+          "author": "本报记者 孙 振 李君强 杨翘楚",
+          "excerpt": "4月30日，加强基础研究座谈会在上海举行。习近平总书记出席座谈会并发表重要讲话强调：“基础研究是整个科学体系的源头，是所有技术问题的总机关。要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。” 会后，部分与会代表接受了本报记者采访。大家表示，要深学细悟习近平总书记重要讲话精神，准确把握党中央战略意图，增强紧迫感、责任感、…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154642.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.531Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-02-1-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "“浮动基地”向深蓝",
+          "subtitle": "——来自海军某作战支援舰支队的调查报告",
+          "excerpt": "夜幕低垂，海天墨染。微光条件下，海军某作战支援舰支队呼伦湖舰悄然启动夜间航行补给系统。随着指令下达，“油龙”在波峰浪谷间精准对接受补舰艇…… 补给舰是海上舰船的“浮动基地”。“保障打赢是唯一的真功夫、硬本事，是最根本的政绩。只有将日常训练与实战需求紧密对接，从难从严练兵，才能有效履行新时代使命任务。”该支队领导介绍，他们扎实开展树立和践行正确政绩观学习教育…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=01&articleid=2026-05-02-1-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.529Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-2-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "坚定信心，进一步打牢科技强国建设根基",
+          "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+          "excerpt": "“基础研究是整个科学体系的源头，是所有技术问题的总机关。”加强基础研究，是实现高水平科技自立自强的迫切要求，是建设科技强国的必由之路。 4月30日，习近平总书记出席加强基础研究座谈会并发表重要讲话，充分肯定我国基础研究取得的成就，全面分析面临的新形势新挑战，对加强基础研究作出战略部署、提出明确要求，强调“要以更大力度、更实举措加强基础研究，提升我国原始创新…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.529Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 坚定信心，进一步打牢科技强国建设根基、指明了做好基础研究这篇大文章的方法、凸显了科技的战略先导地位和根本支撑作、我国制度优势不断转化为基础研究的强大。ナラティブ・LLMトピック束: 坚定信心，进一步打牢科技强国建设根基、指明了做好基础研究这篇大文章的方法、凸显了科技的战略先导地位和根本支撑作、我国制度优势不断转化为基础研究的强大 / ナラティブ・LLM判定",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "凸显了科技的战略先导地位和根本支撑作",
+          "我国制度优势不断转化为基础研究的强大",
+          "比全面建成社会主义现代化强国提前15",
+          "对全面提升基础研究水平作出系统部署",
+          "中国式现代化要靠科技现代化作支撑",
+          "基础研究是整个科学体系的源头",
+          "紧紧围绕党中央擘画的战略目标",
+          "对加强基础研究作出战略部署"
+        ],
+        "plaDailyTerms": [
+          "摸排梳理基础训练与实战化要求脱节的原",
+          "海军某作战支援舰支队呼伦湖舰悄然启动",
+          "这是呼伦湖舰融入航母编队体系作战的一",
+          "来自海军某作战支援舰支队的调查报告",
+          "只有将日常训练与实战需求紧密对接",
+          "将基础训练科目与作战场景一一对应",
+          "而是舰艇编队体系作战的重要一环",
+          "阵风干扰等要素纳入日常训练清单"
+        ],
+        "sharedTerms": [
+          "坚定信心，进一步打牢科技强国建设根基",
+          "指明了做好基础研究这篇大文章的方法",
+          "凸显了科技的战略先导地位和根本支撑作",
+          "我国制度优势不断转化为基础研究的强大",
+          "比全面建成社会主义现代化强国提前15",
+          "对全面提升基础研究水平作出系统部署",
+          "中国式现代化要靠科技现代化作支撑",
+          "基础研究是整个科学体系的源头",
+          "树立和践行正确政绩观"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 92% / lexical 100% / narrative 79%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 79%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・LLMトピック束: 坚定信心，进一步打牢科技强国建设根基、指明了做好基础研究这篇大文章的方法、凸显了科技的战略先导地位和根本支撑作、我国制度优势不断转化为基础研究的强大",
+        "ナラティブ・LLM判定"
+      ]
+    },
+    {
+      "id": "people_only:1:要闻",
+      "issueDate": "2026-05-02",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154640",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "“大力弘扬劳模精神、劳动精神、工匠精神”（总书记的人民情怀）",
+          "author": "本报记者 宋 宇",
+          "excerpt": "“希望广大劳动群众大力弘扬劳模精神、劳动精神、工匠精神，苦干实干、敬业奉献，在推动经济社会高质量发展中发挥主力军作用、展现主人翁风采。”在今年“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问。 党的十八大以来，习近平总书记高度重视、深情礼赞劳动创造，强调：“劳模精神、劳动精神、工匠精神是以爱国主义为核心的民族精神和以改革创新…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154640.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.533Z"
+          }
+        },
+        {
+          "id": "people_daily:30154643",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "劳动光荣 创造伟大",
+          "subtitle": "——习近平总书记的节日祝贺和诚挚慰问激励广大劳动群众不懈奋斗",
+          "author": "本报记者 易舒冉",
+          "excerpt": "在今年“五一”国际劳动节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大劳动群众致以节日祝贺和诚挚慰问。 广大劳动群众表示，习近平总书记的话语情真意切，充分体现了对劳动群众的亲切关怀和深情厚谊。“十五五”开局之年，要以习近平新时代中国特色社会主义思想为指导，为梦想奋斗、为幸福打拼，在推动经济社会高质量发展中发挥主力军作用、展现主…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154643.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.536Z"
+          }
+        },
+        {
+          "id": "people_daily:30154644",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "加快推进水网建设 全面提升综合效益 为经济社会发展提供基础支撑和重要保障",
+          "excerpt": "新华社南宁5月1日电 （记者邹伟）中共中央政治局常委、国务院总理李强4月29日至5月1日在广西调研。他强调，要深入贯彻落实习近平总书记关于水网建设的重要论述和重要指示精神，坚持经济效益、社会效益、生态效益、安全效益相统一，加快构建国家水网主骨架，统筹规划建设各级水网工程，强化水资源综合利用，为经济社会发展提供基础支撑和重要保障。 在南宁市，李强先后来到郁江…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154644.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.534Z"
+          }
+        },
+        {
+          "id": "people_daily:30154645",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "一次握手 一份惦念",
+          "author": "本报记者 李昌禹 易舒冉",
+          "excerpt": "“五一”假期前夕，记者在北京西城区琉璃厂文化街见到快递员刘阔，他骑着电动三轮车穿梭街巷，车上的货物码得整整齐齐。 “这些货物多是游客购买的文创纪念品，得小心仔细些。”收件、打包、派送……忙了一早上，刘阔走进街头的“西城区全时驿站”歇歇脚。 “以前，累了只能靠在车上歇一会儿；现在，驿站里充电宝、饮水机、微波炉、医药箱一应俱全，就像在路上多了个‘家’，真好。”…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154645.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.529Z"
+          }
+        },
+        {
+          "id": "people_daily:30154646",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "彰显强大韧性和活力的中国经济",
+          "author": "金社平",
+          "excerpt": "4月28日，习近平总书记主持中共中央政治局会议，分析研究当前经济形势和经济工作。会议认为，今年以来，以习近平同志为核心的党中央加强对经济工作的全面领导，着眼全局、前瞻布局，各地区各部门靠前发力、综合施策，我国经济起步有力，主要指标好于预期，彰显强大韧性和活力。 这是一个奔跑的春天，这是一个坚韧的中国。 “让我们拿出跃马扬鞭的勇气，激发万马奔腾的活力，保持马…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154646.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.532Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:2:要闻",
+      "issueDate": "2026-05-02",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154647",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "全国首票进口货物在深圳通关",
+          "excerpt": "本报深圳5月1日电 （记者欧阳洁、李刚）5月1日零时，深圳湾口岸迎来我国对53个非洲建交国全面实施零关税举措后，首票进口通关货物。24吨产自南非的苹果，经深圳海关快速监管验放后驶离口岸，将分销至华南地区各大商超。 2月14日，习近平主席向第39届非洲联盟峰会致贺电强调，中方将于2026年5月1日起对53个非洲建交国全面实施零关税举措，同时继续推动商签共同发…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154647.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.882Z"
+          }
+        },
+        {
+          "id": "people_daily:30154648",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "为非洲农食产品开辟“绿色通道”（政策解读）",
+          "author": "本报记者 欧阳洁",
+          "excerpt": "5月1日起，我国对53个非洲建交国全面实施零关税举措，并通过升级“绿色通道”等进一步扩大非洲输华产品准入，这是全球首个主要经济体对非洲建交国实施全覆盖零关税。 配合政策实施，海关总署升级非洲农食产品“绿色通道”，优化进口食品境外生产企业注册举措，与非洲国家在“经认证的经营者”（AEO）互认、能力建设等领域积极合作，多渠道为非洲产品输华提供切实便利。 以落实…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154648.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.993Z"
+          }
+        },
+        {
+          "id": "people_daily:30154649",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "游山水，更懂山水（经济新方位·聚焦假期消费）",
+          "author": "本报记者 王欣悦",
+          "excerpt": "“老师，快看，白帝城在云里头！” 5月1日一早，一艘游船从重庆奉节忠义渡口起航。初二学生丁垚垚扒着船舷，声音里满是惊喜。 伴随着游船驶入瞿塘峡口，10元人民币背面的“夔门”图案，在她眼前展开：赤甲山、白盐山夹江而立，形成一道雄奇的水上门户。 “同学们，李白写‘朝辞白帝彩云间’，是夸张、还是写实？”船头，身穿橙红色冲锋衣的研学导师李燕波举起地图，把学生们召集…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154649.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.887Z"
+          }
+        },
+        {
+          "id": "people_daily:30154650",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "彰显强大韧性和活力的中国经济",
+          "author": "金社平",
+          "excerpt": "4月28日，习近平总书记主持中共中央政治局会议，分析研究当前经济形势和经济工作。会议认为，今年以来，以习近平同志为核心的党中央加强对经济工作的全面领导，着眼全局、前瞻布局，各地区各部门靠前发力、综合施策，我国经济起步有力，主要指标好于预期，彰显强大韧性和活力。 这是一个奔跑的春天，这是一个坚韧的中国。 “让我们拿出跃马扬鞭的勇气，激发万马奔腾的活力，保持马…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154650.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.883Z"
+          }
+        },
+        {
+          "id": "people_daily:30154651",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "一季度职工医保个人账户共济1.15亿人次",
+          "excerpt": "本报北京5月1日电 （记者孙秀艳）记者从国家医保局获悉：今年1—3月，职工医保个人账户共济1.15亿人次，金额153.24亿元。 职工医保个人账户共济通过即时调用被绑定人个人账户、医保钱包等方式实现。1—3月，通过即时调用被绑定人个人账户方式进行职工医保个人账户省内共济1.15亿人次，共济金额149.8亿元。同一统筹区（通常是同一个地市）内共济1.03亿人…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154651.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.874Z"
+          }
+        },
+        {
+          "id": "people_daily:30154652",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "劳动光荣 创造伟大",
+          "subtitle": "——习近平总书记的节日祝贺和诚挚慰问激励广大劳动群众不懈奋斗",
+          "author": "本报记者 易舒冉",
+          "excerpt": "在今年“五一”国际劳动节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大劳动群众致以节日祝贺和诚挚慰问。 广大劳动群众表示，习近平总书记的话语情真意切，充分体现了对劳动群众的亲切关怀和深情厚谊。“十五五”开局之年，要以习近平新时代中国特色社会主义思想为指导，为梦想奋斗、为幸福打拼，在推动经济社会高质量发展中发挥主力军作用、展现主…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154652.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:02.881Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 6本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:3:要闻",
+      "issueDate": "2026-05-02",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154653",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "畅游“宝藏城市” 品味多元中国（外国游客感受“中国之美”）",
+          "author": "本报记者 付明丽 郭晓龙 叶传增",
+          "excerpt": "中国国家移民管理局日前发布的数据显示，今年一季度，中国免签入境外国人831.5万人次，同比上升29.3%。除了数量上的增长，越来越多来华外国游客开始不再满足于“到此一游”，而是深入中国的历史文化腹地、工业城市、边境小城等，沉浸式体验中国的多元魅力，看见并融入一个更真实、立体、全面的中国。 山西大同—— 探访游戏取景地，沉浸式体验文化 “听讲解员说，这些佛像…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154653.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:03.377Z"
+          }
+        },
+        {
+          "id": "people_daily:30154654",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "零关税政策为非洲发展打开机遇之窗（国际论坛）",
+          "author": "拉萨纳·法蒂",
+          "excerpt": "零关税政策是中国扩大高水平对外开放的创新实践，彰显了中国的大国担当 中国于5月1日起对53个非洲建交国全面实施零关税举措。这不仅是非洲国家的重大经贸机遇，更是中国支持非洲改善民生、加快发展、推进减贫的务实举措，为非洲发展振兴打开了全新的机遇之窗。 早在2024年12月1日，中国就率先对包括几内亚比绍等33个非洲国家在内的所有同中国建交的最不发达国家实行10…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154654.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:03.362Z"
+          }
+        },
+        {
+          "id": "people_daily:30154655",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“让更多全球南方国家发展梦想变成现实”",
+          "author": "本报记者 王旭琛 李 琰",
+          "excerpt": "全球南方可持续发展论坛暨南南合作与发展学院（以下简称“南南学院”）成立10周年会议日前在北京大学举行。来自全球南方国家和外国驻华使馆代表等相聚未名湖畔，回顾学院10年发展历程，展望南南合作美好愿景。 10年来，南南学院从愿景走向行动，从课堂走向实践，从中国走向世界，为广大发展中国家培养高端人才，推动南南合作走深走实。截至目前已为80多个发展中国家培养了50…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154655.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:03.406Z"
+          }
+        },
+        {
+          "id": "people_daily:30154656",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“推动非中合作结出更多硕果”",
+          "subtitle": "——访非洲联盟驻华代表巴赫",
+          "author": "本报记者 陈尚文",
+          "excerpt": "“非洲与中国虽远隔千山万水，却因坚持相互尊重、共同发展、践行全人类共同价值而紧密联系在一起。”非洲联盟驻华代表巴赫日前在接受本报记者采访时表示，非中友谊源远流长、历久弥坚，双方团结互信、守望相助，是彼此最可信的朋友、最可靠的伙伴。 5月1日起，中国对53个非洲建交国全面实施零关税措施。“这是推动中非合作论坛北京峰会成果进一步落地的体现，对非洲国家无疑是宝贵…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154656.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:03.378Z"
+          }
+        },
+        {
+          "id": "people_daily:30154657",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "何立峰会见比利时副首相兼外交大臣普雷沃",
+          "excerpt": "新华社北京5月1日电 中共中央政治局委员、国务院副总理何立峰4月30日下午在人民大会堂会见比利时副首相兼外交大臣普雷沃。 何立峰表示，中比建交55年来，两国建立了互利共赢的紧密合作关系。近年来，双方在医药、化工、金融、物流等领域开展了卓有成效的务实合作，助力两国关系向前发展。中比同为多边主义的维护者和开放型世界经济的支持者，应当延续互利共赢合作传统，促进中…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154657.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:03.380Z"
+          }
+        },
+        {
+          "id": "people_daily:30154658",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "第一期“Z青春”国际青年知行中国研学营暨共创工坊举行",
+          "excerpt": "本报成都5月1日电 （记者李凯旋）4月28日至30日，第一期“Z青春”国际青年知行中国研学营暨共创工坊在四川省成都市、阿坝藏族羌族自治州汶川县举行。 本次活动由中国国际青年交流中心主办、汶川县人民政府承办、世界青年科学家联合会全球学生发展工作委员会协办，以“人与自然和谐共生”为主题，设置国际青年共创工坊、中欧青年绿色科技与生态环保主题圆桌对话会等环节。来自…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154658.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:03.383Z"
+          }
+        },
+        {
+          "id": "people_daily:30154659",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "以更大力度更实举措加强基础研究",
+          "subtitle": "——与会代表谈贯彻落实加强基础研究座谈会精神",
+          "author": "本报记者 孙 振 李君强 杨翘楚",
+          "excerpt": "4月30日，加强基础研究座谈会在上海举行。习近平总书记出席座谈会并发表重要讲话强调：“基础研究是整个科学体系的源头，是所有技术问题的总机关。要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。” 会后，部分与会代表接受了本报记者采访。大家表示，要深学细悟习近平总书记重要讲话精神，准确把握党中央战略意图，增强紧迫感、责任感、…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154659.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:03.385Z"
+          }
+        },
+        {
+          "id": "people_daily:30154660",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "2026摩洛哥“中国电影周”在拉巴特开幕",
+          "excerpt": "本报迪拜5月1日电 （记者张志文）拉巴特消息：2026摩洛哥“中国电影周”4月29日在摩洛哥首都拉巴特开幕。中摩两国文化、艺术、媒体界嘉宾齐聚一堂，在流动的光影之间共同见证一场跨越时空的文明对话。 中国驻摩洛哥大使余劲松表示，电影是跨越国界与语言的艺术形式，是开启心灵对话的窗口，是感知不同文化的重要载体，期待摩洛哥朋友通过电影了解真实、立体、全面的中国，共…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154660.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:03.457Z"
+          }
+        },
+        {
+          "id": "people_daily:30154661",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "加快推进水网建设 全面提升综合效益 为经济社会发展提供基础支撑和重要保障",
+          "excerpt": "新华社南宁5月1日电 （记者邹伟）中共中央政治局常委、国务院总理李强4月29日至5月1日在广西调研。他强调，要深入贯彻落实习近平总书记关于水网建设的重要论述和重要指示精神，坚持经济效益、社会效益、生态效益、安全效益相统一，加快构建国家水网主骨架，统筹规划建设各级水网工程，强化水资源综合利用，为经济社会发展提供基础支撑和重要保障。 在南宁市，李强先后来到郁江…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154661.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:03.446Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 9本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:4:要闻",
+      "issueDate": "2026-05-02",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154662",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "“推动矿山生产更智慧更绿色”（劳动者之歌）",
+          "author": "本报记者 胡婧怡",
+          "excerpt": "辽宁省鞍山市南郊，东鞍山铁矿的露天采场层层错落，大型矿车往来穿梭，一车车矿石进入破碎机后，由传送带运至选矿厂……通过远程监控系统，整个过程在屏幕上实时呈现。鞍钢矿业东鞍山分公司检修作业区电气检修班班组长马志刚坐在屏幕前，认真查看设备运行的实时画面和数据情况。 从业30年，马志刚的日常工作是保障破碎机、胶带机等采矿设备的平稳运行。检修设备电气、管护高低压配电…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154662.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:04.059Z"
+          }
+        },
+        {
+          "id": "people_daily:30154663",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "“继续留在一线助力研发制造”（劳动者之歌）",
+          "author": "本报记者 付明丽",
+          "excerpt": "在中国船舶集团汾西重工有限责任公司，总装车间技术组组长薛宏宾是很多同事眼中的“怪人”。十几年前，他放弃公司研究所主任设计师岗位，选择到车间一线“自找苦吃”。 汾西重工是国家海洋工程装备重点供应商。2006年，在公司研究所从事机械总体设计的薛宏宾碰到一个难题：公司接到某新产品的生产任务，其中最重要的电动力推进系统，从设计到原理样机试制仅有半年时间。 薛宏宾毫…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154663.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:04.051Z"
+          }
+        },
+        {
+          "id": "people_daily:30154664",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "“为筑牢生态安全屏障出力”（劳动者之歌）",
+          "author": "本报记者 张 枨",
+          "excerpt": "紧盯林草遥感影像与“三北”工程核查图斑，同时对照台账资料，内蒙古自治区林业和草原监测规划院生态工程监测室主任弥宏卓，正忙着核对地块坐标、监测数据。 42岁的弥宏卓常年忙于案头与野外，实地核查苗木成活情况、测算植被覆盖实况，手把手指导基层人员规范作业，以严谨专业作风守住生态工程质量底线。“森林资源调查，重在摸清家底。树种、树龄、林地起源等基础信息，必须依靠实…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154664.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:04.124Z"
+          }
+        },
+        {
+          "id": "people_daily:30154665",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "全社会跨区域人员流动量预计超3.4亿人次",
+          "excerpt": "本报北京5月1日电 （记者韩鑫、李心萍、张天培）记者从交通运输部获悉：“五一”假期首日，全社会跨区域人员流动量预计34410万人次，同比增长3.4%，其中公路人员流动量31524万人次，水路客运量173万人次，民航客运量233万人次。 记者从中国国家铁路集团有限公司获悉：5月1日，全国铁路预计发送旅客2480万人次，计划加开旅客列车2070列。4月30日，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154665.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:04.061Z"
+          }
+        },
+        {
+          "id": "people_daily:30154666",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "第139届广交会第三期开幕",
+          "excerpt": "本报广州5月1日电 （记者李刚、洪秋婷）5月1日，第139届广交会第三期在广东广州开幕。本期广交会以“美好生活”为主题，展览面积51.5万平方米，展位2.5万个，共有1.2万家参展企业携智慧医疗、功能纺织、绿色材料等领域的前沿成果与会。 本期广交会，国家高新技术企业、专精特新“小巨人”企业、制造业单项冠军等优质企业突破3000家；“智慧医疗”专区扩容升级，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154666.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:04.087Z"
+          }
+        },
+        {
+          "id": "people_daily:30154667",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "驻澳门部队举行第二十次军营开放日活动",
+          "excerpt": "本报澳门5月1日电 （富子梅、郭锦翔）中国人民解放军驻澳门部队4月30日在氹仔军营举行第二十次军营开放日活动，连续3天面向澳门大中小学生和社会各界开放。 活动首日上午，庄严的升国旗仪式在军营广场举行，官兵与市民肃立注目、高唱国歌。综合格斗展示、抢险救灾演练、反恐行动演练等课目轮番上演，多维展现新时代练兵备战场景。参观者体验了装甲模拟射击、自救互救等，还走进…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154667.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:04.048Z"
+          }
+        },
+        {
+          "id": "people_daily:30154668",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "国家京剧院京剧诗乐《春·秋》首演",
+          "author": "本报记者 陈圆圆 曹怡晴",
+          "excerpt": "5月1日晚，北京梅兰芳大剧院，国家京剧院新创的京剧诗乐《春·秋》首次亮相。 “天初暖，日初长，好春光。”舞台上，二十四节气在光影中更迭，古典诗词被京腔京韵重新吟唱，民族管弦乐团从乐池移至台前。 2025年，国家京剧院建院70周年之际，习近平总书记给国家京剧院青年艺术工作者回信，强调“践行艺术为民，坚持崇德尚艺、守正创新，让京剧艺术持续焕发时代光彩”。 京剧…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154668.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:04.055Z"
+          }
+        },
+        {
+          "id": "people_daily:30154669",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "欢度假期",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154669.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:04.053Z"
+          }
+        },
+        {
+          "id": "people_daily:30154670",
+          "source": "people_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "一次握手 一份惦念",
+          "author": "本报记者 李昌禹 易舒冉",
+          "excerpt": "“五一”假期前夕，记者在北京西城区琉璃厂文化街见到快递员刘阔，他骑着电动三轮车穿梭街巷，车上的货物码得整整齐齐。 “这些货物多是游客购买的文创纪念品，得小心仔细些。”收件、打包、派送……忙了一早上，刘阔走进街头的“西城区全时驿站”歇歇脚。 “以前，累了只能靠在车上歇一会儿；现在，驿站里充电宝、饮水机、微波炉、医药箱一应俱全，就像在路上多了个‘家’，真好。”…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/02/content_30154670.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:06:04.049Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 9本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:1:要闻",
+      "issueDate": "2026-05-02",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-02-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "筑牢科技根基  勇攀科学高峰",
+          "subtitle": "——与会代表谈贯彻落实加强基础研究座谈会精神",
+          "excerpt": "4月30日上午，习近平总书记在上海出席加强基础研究座谈会并发表重要讲话。习近平总书记强调，要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。 座谈会后，部分与会代表接受了新华社记者采访。大家表示，习近平总书记的重要讲话高屋建瓴、内涵丰富，具有很强的政治性、思想性、指导性，为加强基础研究指明了前进方向、提供了根本遵循。要深…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=01&articleid=2026-05-02-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.529Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-1-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "全军院校作战指挥教学紧贴实战呈现新气象",
+          "excerpt": "本报讯 记者张琳报道：虚拟战场，学员运筹帷幄，指挥千军万马展开多轮高强度对抗；经典海战实景还原，炮火与波涛间，决策分秒必争……新学期以来，在各军种指挥院校，一幕幕实战味浓、对抗性强、科技感足的教学场景扑面而来，我军作战指挥教学紧贴实战呈现新气象。 走进陆军指挥学院兵棋推演大厅，学员围绕作战方案激辩正酣。“这是基于实战实案的对抗式教学。”该学院某教研室吕主任…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=01&articleid=2026-05-02-1-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.529Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-1-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "苦干实干  敬业奉献",
+          "excerpt": "劳动创造幸福，实干成就伟业。 在“五一”国际劳动节到来之际，习主席代表党中央，向全国广大劳动群众致以节日祝贺和诚挚慰问，强调“希望广大劳动群众大力弘扬劳模精神、劳动精神、工匠精神，苦干实干、敬业奉献”。广大青年官兵认真贯彻这一重要指示精神，就要知重负重、知责负责，苦练专业技能，锤炼打赢本领，在推进新时代强军事业中发挥主力军作用。 青年官兵是我军建设的主体，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=01&articleid=2026-05-02-1-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.529Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-1-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=01&articleid=2026-05-02-1-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.529Z"
+          }
+        }
+      ],
+      "reason": "81cn only 4本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:2:要闻",
+      "issueDate": "2026-05-02",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-02-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "奋斗，共筑新时代美好生活",
+          "subtitle": "——写在二〇二六年“五一”国际劳动节之际",
+          "excerpt": "春光明媚，生机盎然，又一个属于劳动者的节日如约而至。这一刻，奋斗的荣光与激情同频激荡，拼搏的精神与梦想交相辉映。 4月30日，在“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问并指出：“在中国式现代化新征程上，广大劳动群众紧紧团结在党的周围，奋力拼搏进取，勇于创新创造，为党和国家事业发展作出了重要贡献。” 今年是中国共产党成…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.530Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-2-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "零关税开放之诺，促中非同心同行",
+          "excerpt": "2026年5月1日，中国对53个非洲建交国全面实施零关税举措。这是习近平主席亲自宣布的对非重大开放举措，在中非关系和国际关系史上具有划时代意义。 2024年9月，习近平主席在中非合作论坛北京峰会上宣布给予包括33个非洲国家在内的所有同中国建交的最不发达国家100%税目产品零关税待遇；2025年6月，在致中非合作论坛成果落实协调人部长级会议的贺信中，习近平主…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.530Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-2-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "俄海军舰艇编队结束技术停靠离开青岛",
+          "excerpt": "本报青岛4月30日电 记者钱晓虎、特约记者王冠彪报道：4月30日下午，由俄罗斯海军“响亮”号护卫舰、“堪察加彼得罗巴甫洛夫斯克”号潜艇以及“安德烈·斯捷潘诺夫”号拖船组成的舰艇编队，离开山东青岛某军港，结束为期4天的技术停靠。 技术停靠期间，俄海军官兵参观游览了青岛市区…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.530Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-2-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "美国防部与7家人工智能公司达成合作协议",
+          "excerpt": "据新华社华盛顿5月1日电 美国国防部5月1日宣布与7家领先的人工智能公司达成协议，旨在将这些公司先进的人工智能技术部署至国防部的机密网络中，用于合法的作战行动。 五角大楼当天发表声明说，国防部已与太空探索技术公司、开放人工智能研究中心、谷歌、英伟达等7家前沿人工智能公司达成协议。“…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.530Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-2-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“浮动基地”向深蓝",
+          "subtitle": "——来自海军某作战支援舰支队的调查报告",
+          "excerpt": "夜幕低垂，海天墨染。微光条件下，海军某作战支援舰支队呼伦湖舰悄然启动夜间航行补给系统。随着指令下达，“油龙”在波峰浪谷间精准对接受补舰艇…… 补给舰是海上舰船的“浮动基地”。“保障打赢是唯一的真功夫、硬本事，是最根本的政绩。只有将日常训练与实战需求紧密对接，从难从严练兵，才能有效履行新时代使命任务。”该支队领导介绍，他们扎实开展树立和践行正确政绩观学习教育…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.530Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-2-6",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "短讯",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=02&articleid=2026-05-02-2-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.530Z"
+          }
+        }
+      ],
+      "reason": "81cn only 6本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:3:光荣传统",
+      "issueDate": "2026-05-02",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-02-3-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "光荣传统",
+          "title": "“念念念念”，道不尽的思念",
+          "excerpt": "家书节选 “这个小宝贝小天使我真是喜欢她。现在长得更大更强壮更活泼更漂亮，又能喊爸爸妈妈，又乖巧不顽皮，真是给我极多的想念与高兴。可惜天各一方不能看到她抱抱她。” “志兰！亲爱的：别时容易见时难，分离廿一个月了，何日相聚，念念念念。愿在党的整顿三风下各自努力力求进步吧！以进步来安慰自己，以进步来酬报别后衷情。” “志兰！亲爱的：别时容易见时难，分离廿一个月…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=03&articleid=2026-05-02-3-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.530Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-3-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "光荣传统",
+          "title": "“忙，就要忙出点名堂来”",
+          "excerpt": "前些日子，我在国家会议中心参加人工智能军事理论分论坛，遇到了老领导。他见了我很惊喜：“你怎么天南海北跑，又到北京来了？”我简单讲了近况，给他看了看去年以来的飞行记录。数万公里里程，密密麻麻的航线图，记录了我到新疆代职、又到国防大学学习的经历，想想真像我爱人说的：“结婚后，你在家的时间也只有几个月而已。” 因此，当读到左权将军写给妻子的家书，读到他只能通过书…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=03&articleid=2026-05-02-3-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.530Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-3-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "光荣传统",
+          "title": "我无名国有名  以无名铸威名",
+          "excerpt": "沿山路向大山深处进发，路旁枝头含翠，手机信号一格格减弱。直到信号彻底消失时，记者终于抵达了此行目的地——“红川”。 “红川”，一个在地图上找不到具体位置、却在人民军队的精神谱系中熠熠生辉的地方。 上世纪60年代，原第二炮兵某部受命进驻大山。在艰苦创业的年代，一批批官兵守寂寞、克险难，以战天斗地的决心意志，孕育出“居深山，不畏艰苦寂寞；护国宝，责任重于生命；…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=03&articleid=2026-05-02-3-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.530Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-3-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 3,
+          "pageName": "光荣传统",
+          "title": "“同一双”眼眸  同一片天空",
+          "excerpt": "黑白光影，定格了20世纪60年代末，驻守海岛的某部官兵相互托举、攀上钢梁的瞬间。查找、排障、加固……风雨中，他们在简易天线架上协力作业，一待就是几个小时。 夕阳西斜，勾勒着空军某部新时代官兵护卫雷达装备的身姿。在漫天霞光笼罩下，他们分工协作，指认点位，核对数据……电波流转间，一张精密天网悄然…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=03&articleid=2026-05-02-3-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.530Z"
+          }
+        }
+      ],
+      "reason": "81cn only 4本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:4:沙场光影",
+      "issueDate": "2026-05-02",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-02-4-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 4,
+          "pageName": "沙场光影",
+          "title": "深蓝航迹见证深情厚谊",
+          "subtitle": "——海军“丝路方舟”号医院船执行“和谐使命-2025”任务影像",
+          "excerpt": "4月26日，中国海军“丝路方舟”号医院船圆满完成“和谐使命-2025”任务，靠泊海南三亚某军港。这是该医院船入列以来，首次走出国门开展医疗援助与和平交流。 2025年9月5日，“丝路方舟”号医院船从福建泉州解缆启航，历时234天，先后到访瑙鲁、斐济、巴西、智利等国，总航程约3.6万海里。作为中国自主设计建造的第二艘万吨级制式远洋医院船，“丝路方舟”延续“和…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=04&articleid=2026-05-02-4-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.530Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-02-4-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-02",
+          "pageNumber": 4,
+          "pageName": "沙场光影",
+          "title": "淬炼“火力铁拳”",
+          "subtitle": "——陆军某旅实弹射击训练掠影",
+          "excerpt": "战斗警报响起，官兵快速出动，驾驶战车向预定地域疾驰而去……清晨，陆军某旅一场跨昼夜实弹射击训练在某训练场打响。 抵达目标地域后，侦察分队迅速潜入丛林，向“敌”阵地隐蔽机动。官兵综合运用多种观测、侦测手段，对目标实施立体侦察，实时向指挥所回传相关信息。 指挥车内，指挥员研判态势，迅速定下火力打击决心。各炮班快速完成弹药补给、装定诸元等工作。瞄准手凝神屏息，精…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-02&paperNumber=04&articleid=2026-05-02-4-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:06:03.530Z"
+          }
+        }
+      ],
+      "reason": "81cn only 2本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    }
+  ],
+  "counts": {
+    "peopleArticles": 31,
+    "plaArticles": 18,
+    "matchedGroups": 1,
+    "matchedPeopleArticles": 2,
+    "matchedPlaArticles": 2,
+    "peopleOnlyArticles": 29,
+    "plaOnlyArticles": 16
+  }
+}

@@ -1,0 +1,2153 @@
+{
+  "schemaVersion": 1,
+  "issueDate": "2026-04-18",
+  "generatedAt": "2026-05-16T09:03:43.509Z",
+  "retentionDays": 31,
+  "frontPages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "judge": {
+    "enabled": true,
+    "model": "gpt-4.1-nano"
+  },
+  "peopleIssue": {
+    "id": "people_daily:2026-04-18",
+    "source": "people_daily",
+    "issueDate": "2026-04-18",
+    "pages": [
+      {
+        "id": "people_daily:2026-04-18:p01",
+        "source": "people_daily",
+        "issueDate": "2026-04-18",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30151748",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "青海因地制宜做强高原特色农业（“十五五”开好局起好步）",
+            "author": "本报记者 龚仕建 乔 栋",
+            "excerpt": "高原春耕，来得稍晚一些。4月中旬，平均海拔3100米的青海都兰县，21万余亩枸杞进入剪枝、松土和施肥的时间窗口。 “以前晒干了卖，现在进超市当鲜果卖。”春风送爽，种植户张彦孝忙得欢实。 销售方式之变，折射产业发展之变。2025年，都兰县枸杞鲜果产值达4127万元，按统计口径测算同比增长578.11%。 不只是枸杞，越来越多的青海绿色有机农畜产品，正以更鲜美…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151748.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.406Z"
+            }
+          },
+          {
+            "id": "people_daily:30151749",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平致电祝贺盖莱当选连任吉布提总统",
+            "excerpt": "新华社北京4月17日电 4月17日，国家主席习近平致电伊斯梅尔·奥马尔·盖莱，祝贺他当选连任吉布提共和国总统。 习近平指出，中国和吉布提传统友谊深厚。近年来，双方政治互信日益巩固，务实合作成果丰硕。盖莱总统长期致力于促进中吉友好和各领域交流合作，我对此表示赞赏。我高度重视中吉关系发展，愿同盖莱总统一道努力，继续在涉及…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151749.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.404Z"
+            }
+          },
+          {
+            "id": "people_daily:30151750",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "中国创新正在全方位加速突破",
+            "subtitle": "——“十五五”首季中国经济观察之二",
+            "author": "本报记者 王 浩",
+            "excerpt": "“不能光看国内生产总值增长，现在增长的是硬实力，追求的是发展新质生产力。经过不断转型升级、提质换代，一步一步往上走。”习近平总书记谋深思远。 好于预期的“一季报”，有一个突出亮点，就是中国创新正在全方位加速突破，向新向优发展动能持续增强。 高端制造一马当先：规上高技术制造业增加值同比增长12.5%，占规上工业增加值比重提高到16.9%，拉动规上工业增长2个…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151750.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.466Z"
+            }
+          },
+          {
+            "id": "people_daily:30151751",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "李强主持召开国务院常务会议",
+            "subtitle": "听取自由贸易试验区建设情况汇报，审议通过《中华人民共和国行政复议法实施条例（修订草案）》",
+            "excerpt": "新华社北京4月17日电 国务院总理李强4月17日主持召开国务院常务会议，听取自由贸易试验区建设情况汇报，审议通过《中华人民共和国行政复议法实施条例（修订草案）》。 会议指出，党的十八大以来，各自贸试验区在深化改革、扩大开放、促进发展等方面积极探索，取得一系列突破性、引领性成果，有效发挥了综合试验平台作用。面对新形势新任务，要深入实施自由贸易试验区提升战略，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151751.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.405Z"
+            }
+          },
+          {
+            "id": "people_daily:30151752",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "王沪宁出席第七届台胞社团论坛开幕式",
+            "excerpt": "本报北京4月17日电 （记者张烁）第七届台胞社团论坛17日在京举行。中共中央政治局常委、全国政协主席王沪宁出席开幕式并讲话。 王沪宁表示，4月10日，习近平总书记就两岸关系发展提出坚持以正确认同促进心灵契合、坚持以和平发展守护共同家园、坚持以交流融合增进民生福祉、坚持以团结奋斗实现中华民族伟大复兴的重要主张，必将激励两岸同胞同心共创祖国统一、民族复兴的光明…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151752.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.412Z"
+            }
+          },
+          {
+            "id": "people_daily:30151753",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "紧抓快干 巩固拓展好势头（今日谈）",
+            "author": "桂从路",
+            "excerpt": "在外部形势更加复杂多变的背景下，一季度我国经济实现良好开局，主要宏观指标增速回升。这是各地区各部门狠抓落实的结果，充分证明了党中央决策部署的科学性，体现了我国发展的韧性和活力。 当前，如何巩固拓展经济稳中向好态势？一要坚定信心，二要紧抓快干。 内在驱动力强，稳中向好才能有支撑、可持续。一季度，高技术制造业增加值同比增长12.5%，见证新质生产力加快成长；社…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151753.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.420Z"
+            }
+          },
+          {
+            "id": "people_daily:30151754",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "第139届中国进出口商品交易会（广交会）参展企业数量创新高。本届广交会设立服务机器人专区，汇聚数十家行业优质企业，集中呈现中国服务机器人领域的技术创新与全场景应用能…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151754.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.443Z"
+            }
+          },
+          {
+            "id": "people_daily:30151755",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "我国核电装机规模居全球第一",
+            "subtitle": "核电主设备实现百分之百国产化",
+            "excerpt": "本报北京4月17日电 （记者谷业凯）记者从中国核能行业协会获悉：截至目前，我国大陆地区在运和核准在建核电机组共112台，装机容量1.25亿千瓦，核电装机规模居世界第一；其中在运机组60台，装机6369万千瓦，居世界第三。 “十四五”时期，我国核电累计发电量超过2万亿千瓦时，等效减排二氧化碳超15.3亿吨。核电生产运行始终坚持“安全第一、质量第一”。我国自主…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151755.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.439Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202604/18/b0af6420-1b90-4378-92c1-8b574a169bdf.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202604/18/64c4c860-9c24-4831-912e-33069f92f259.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:03:33.466Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-04-18:p02",
+        "source": "people_daily",
+        "issueDate": "2026-04-18",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30151756",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明",
+            "excerpt": "一、应中国共产党中央委员会总书记、中华人民共和国主席习近平邀请，越南共产党中央委员会总书记、越南社会主义共和国主席苏林于2026年4月14日至17日对中华人民共和国进行国事访问。 访问期间，中共中央总书记、国家主席习近平同苏林总书记、国家主席举行会谈，国务院总理李强、全国人大常委会委员长赵乐际、全国政协主席王沪宁分别会见苏林总书记、国家主席。在各场会谈、会…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151756.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.794Z"
+            }
+          },
+          {
+            "id": "people_daily:30151757",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中越签署一系列合作文件",
+            "excerpt": "4月14日至17日，越共中央总书记、国家主席苏林对中国进行国事访问，中共中央总书记、国家主席习近平同苏林举行会谈。访问期间，双方有关部门和地方签署了以下合作文件： 1.《中国共产党和越南共产党合作计划（2026—2030年）》 2.《中共中央组织部与越共中央组织部合作谅解备忘录（2026—2030年）》 3.《中共中央对外联络部与越南外交部合作协议》 4.…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151757.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.786Z"
+            }
+          },
+          {
+            "id": "people_daily:30151758",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "​中国经济良好开局提振世界信心（和音）",
+            "excerpt": "中国经济稳定增长，是“十五五”开好局、起好步的坚实基础，更是全球经济穿越风浪的稳定之锚，不断为全球发展注入持久信心与强劲动力 中国经济2026年“首季报”日前出炉：国内生产总值334193亿元，同比增长5.0%（按不变价格计算），比上年四季度快了0.5个百分点。国际社会高度关注，普遍认为在全球经济前景不确定性加大的背景下，中国经济彰显发展韧性和活力，为世界…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151758.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.803Z"
+            }
+          },
+          {
+            "id": "people_daily:30151759",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "王毅同纳米比亚外长穆萨维伊会谈",
+            "excerpt": "新华社北京4月17日电 （记者万倩仪）中共中央政治局委员、外交部长王毅17日在北京同纳米比亚外长穆萨维伊举行会谈。 王毅表示，发展深化中纳合作符合两国人民期待，顺应中非关系发展大势，更是全球南方联合自强的体现。中方愿同纳方一道，落实好两国元首重要共识，加强发展战略对接，用好中方零关税政策红利，推进农业、民生、青年等重点领域项目。 穆萨维伊表示，纳中两国…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151759.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.785Z"
+            }
+          },
+          {
+            "id": "people_daily:30151760",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中华人民共和国和纳米比亚共和国外长会谈共同新闻公报",
+            "excerpt": "应中共中央政治局委员、中华人民共和国外交部长王毅邀请，纳米比亚国际关系与贸易部部长穆萨维伊于2026年4月11日至18日对中国进行正式访问。两国外长就中纳关系及共同关心的国际地区问题举行了深入友好会谈并达成重要共识。 双方重申坚定致力于多边主义，特别是促进国际合作及加强全球治理，强调全球性挑战应通过包容性集体对话而非单边应对。双方承诺聚焦共同关心领域深化在…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151760.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:33.791Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202604/18/927345aa-596d-439c-97df-dd922c3b0f1c.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202604/18/012d7f9b-1e00-418b-a8dc-2f325dadd137.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:03:33.804Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-04-18:p03",
+        "source": "people_daily",
+        "issueDate": "2026-04-18",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30151761",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "凝聚各方力量 抓好落地实施（权威发布·开局起步“十五五”）",
+            "author": "本报记者 刘志强 王云杉",
+            "excerpt": "4月17日，国务院新闻办举行开局起步“十五五”系列主题首场新闻发布会，国家发展改革委副主任王昌林等介绍了“十五五”时期推动经济社会高质量发展有关情况。 提前储备一批综合性政策措施，根据需要及时出台 “十五五”首季中国经济成绩单日前发布，彰显中国经济强大韧性和底气，好于国内外许多机构和专家学者预期。 “取得这样的成绩实属不易，这是在外部冲击挑战加大、国内两难…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151761.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.172Z"
+            }
+          },
+          {
+            "id": "people_daily:30151762",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "夯实基础 全面发力（快评）",
+            "author": "刘志强",
+            "excerpt": "“十五五”时期，夯实基础、全面发力的关键时期。透过“十五五”首季经济起步有力、开局良好的表现，可以更加深刻理解其重要意义。 夯实基础，方能使发展根基更稳、韧性更强。 “十五五”时期，战略机遇和风险挑战并存，不确定难预料因素增多。我们必须更加关注高水平科技自立自强、粮食安全、能源安全等对发展和安全具有基础性影响的事，多措并举强优势、破瓶颈、补短板，在风云变幻…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151762.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.224Z"
+            }
+          },
+          {
+            "id": "people_daily:30151763",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "加快建设黄河流域生态保护和高质量发展先行区（开局起步“十五五”·专题新闻发布）",
+            "author": "本报记者 张 文",
+            "excerpt": "4月17日，开局起步“十五五”宁夏专场新闻发布会在宁夏银川举行。宁夏回族自治区党委副书记、自治区人民政府主席张雨浦表示，宁夏坚定不移贯彻新发展理念、融入新发展格局，推动经济提质增效，紧紧围绕经济繁荣、民族团结、环境优美、人民富裕的主要目标任务，加快建设黄河流域生态保护和高质量发展先行区，奋力谱写中国式现代化宁夏篇章。 统筹布局，建设现代化产业体系 产业是高…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151763.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.174Z"
+            }
+          },
+          {
+            "id": "people_daily:30151764",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "7家电商平台被罚没35.97亿元",
+            "excerpt": "本报北京4月17日电 （记者林丽鹂）市场监管总局17日依法对上海寻梦信息技术有限公司（拼多多）、北京三快科技有限公司（美团）、北京京东叁佰陆拾度电子商务有限公司（京东）、上海拉扎斯信息科技有限公司（原饿了么，现淘宝闪购）、北京抖音科技有限公司（抖音）、浙江淘宝网络有限公司（淘宝）、浙江天猫网络有限公司（天猫）等7家电商平台“幽灵外卖”系列案，依据《中华人民…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151764.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.065Z"
+            }
+          },
+          {
+            "id": "people_daily:30151765",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "推动高校毕业生与专精特新中小企业精准对接",
+            "excerpt": "本报北京4月17日电 （记者刘温馨）工业和信息化部、教育部近日组织开展2026年“优企进校 招才引智”专项行动，进一步推动高校毕业生与专精特新中小企业精准对接。 结合高校毕业生求职特点，专项行动第一阶段为4月至6月，第二阶段为10月至12月，服务对象为以专精特新中小企业为重点的中小企业和以2026届高校毕业生为重点的高校毕业生。 专项行动将开展专精特新中小…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151765.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.293Z"
+            }
+          },
+          {
+            "id": "people_daily:30151766",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "4月16日，黑龙江省黑河·爱辉国际大夜市，小朋友在家长的陪伴下购买美食。近日，黑河市的国际大夜市焕新迎客，集赏、游、购、娱、食于一体，带来一站式夜间消费新体验，也成为中俄双向免签政策下俄罗斯…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151766.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.160Z"
+            }
+          },
+          {
+            "id": "people_daily:30151767",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中央企业已研发百余种低空航空器",
+            "excerpt": "本报北京4月17日电 （记者李心萍）国资委日前发布的《中央企业低空经济产业发展白皮书》显示：截至目前，有30余家中央企业研发了百余种型号低空航空器，涵盖传统通航飞机、工业级无人机、电动垂直起降航空器等。 例如，航空工业集团推出的九天无人机具备大载重、宽速域、短起降、高智能等特点；航天科技彩虹系列无人机形成了大、中、小型匹配，远、中、近相协同的产品谱系；兵器…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151767.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.180Z"
+            }
+          },
+          {
+            "id": "people_daily:30151768",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "一季度长三角地区进出口总值达4.49万亿元",
+            "excerpt": "本报北京4月17日电 （记者欧阳洁）记者从南京海关获悉：今年一季度长三角地区进出口总值达4.49万亿元，规模创历史新高，同比增长15.8%，占全国进出口总值的比重提升至37.9%。 外贸大省勇挑大梁。一季度，江苏、浙江、上海进出口同比分别增长17.2%、7.1%、21.9%。安徽进出口增速亮眼，同比增长31.6%。 外贸“朋友圈”更加多元。长三角地区对东盟…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151768.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.180Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202604/18/c2427c81-1762-421d-90a7-46e761ee05b4.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202604/18/28a2d9f7-a7d6-4158-a30f-96cf6dda7fd8.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:03:34.293Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-04-18:p04",
+        "source": "people_daily",
+        "issueDate": "2026-04-18",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30151769",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "屯里来了“AI社工”（奋进“十五五”·一线见闻）",
+            "author": "本报记者 张云河",
+            "excerpt": "加强人工智能同科技创新、产业发展、文化建设、民生保障、社会治理相结合。 ——摘自“十五五”规划纲要 走进广西壮族自治区贵港市东津镇石连村冲口屯老年食堂，电视屏幕里有个系着头巾、穿着荷花裙的小姑娘，叫“桂小社”，是一名“AI（人工智能）社工”，能够实时互动。 “村道晚上很黑，如何装路灯，让走夜路更安全？”村民姜亚福亮开嗓子问。“您可以向政府申请项目，但需要村…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151769.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.623Z"
+            }
+          },
+          {
+            "id": "people_daily:30151770",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "抓住真需求 解决真问题（编辑手记）",
+            "author": "刘静文",
+            "excerpt": "AI与社会治理应当怎样结合？无论何种形式，都得遵循一个“真”字。广西贵港东津镇石连村冲口屯的“桂小社”就是一个鲜活的案例。 找切入口，要抓住真需求。冲口屯的基层治理，曾存在咨询需求多与基层社工负担重的矛盾。24小时不打烊的“桂小社”，精准破解了这一痛点。它既能秒回政策疑问，也能收集村民诉求，还能完成帮写村民议事会召集通知等，帮了“老社工”大忙。 深耕落地，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151770.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.622Z"
+            }
+          },
+          {
+            "id": "people_daily:30151771",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "“白色污染”变“绿色资源”（厉行节约 反对浪费）",
+            "author": "本报记者 赵景锋",
+            "excerpt": "正值春耕备耕关键时节，上午9点，内蒙古巴彦淖尔市磴口县巴彦高勒镇北粮台村，“积分超市”前聚起了人。 “废旧地膜有27.8公斤，换算成积分是28分，您一共有108分，想兑换什么？”北粮台村党支部书记田学军问。 “一个保温壶、两桶洗衣液，剩下的换成抽纸！”仔细对照积分兑换表，村民郭炳龙盘算一番，说出需求。一旁，工作人员将称重后的废旧地膜暂存在村里的临时堆放点。…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151771.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.638Z"
+            }
+          },
+          {
+            "id": "people_daily:30151772",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "水利部安排部署水库安全度汛",
+            "excerpt": "本报北京4月17日电 （记者邓剑洋）4月17日，水利部召开水库安全度汛视频会议，安排部署今年水库安全度汛工作。 会议要求，要压紧压实水库安全管理责任，逐库完善汛期调度运用方案、水库大坝安全管理（防汛）应急预案和险情处置方案，强化关键部位风险隐患排查治理，加强水库防洪库容管理，确保在关键时刻发挥关键作用。要加强水库监测预报预警，深化雨水情监测预报“三道防线”…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151772.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.620Z"
+            }
+          },
+          {
+            "id": "people_daily:30151773",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片报道",
+            "excerpt": "随着气温逐渐回升，新疆生产建设兵团第六师奇台农场种植户抢抓农时，开展玉米、葵花等农作物的播种作业。 图为4月16日，奇台农…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151773.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.622Z"
+            }
+          },
+          {
+            "id": "people_daily:30151774",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "让更多基层群众在家门口享受优质医疗（深阅读·稳步推进基本公共服务均等化）",
+            "author": "本报记者 王欣悦 靳 博 姚雪青",
+            "excerpt": "“十五五”规划纲要提出，“促进优质医疗资源扩容下沉和区域均衡布局”。多地持续推进优质医疗资源扩容下沉，让更多基层群众在家门口享受优质医疗服务。 医疗资源更好下沉基层 “从家到卫生院，骑摩托只需不到10分钟，再也不用凌晨4点就起床赶路做透析了。”在重庆市黔江区金溪镇卫生院血液透析室里，55岁的王友贤感叹道。 王友贤是金溪镇的一名尿毒症患者。8年来，他饱受透析…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151774.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.713Z"
+            }
+          },
+          {
+            "id": "people_daily:30151775",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "多地举办总体国家安全观高校学术研讨会",
+            "excerpt": "本报北京4月17日电 （记者吴丹）今年4月15日是第十一个全民国家安全教育日，教育部指导多地举办总体国家安全观高校学术研讨会，推动国家安全学自主知识体系建设持续深化。 中共北京市委国家安全委员会办公室、首都师范大学、国际关系学院联合主办第三届北京市总体国家安全观理论研讨会。与会专家系统解读“十五五”时期我国国家安全面临的形势与重点任务，围绕国家安全体系和能…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151775.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.617Z"
+            }
+          },
+          {
+            "id": "people_daily:30151776",
+            "source": "people_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "专家学者共话高校国家安全学课程建设与实践育人工作",
+            "excerpt": "本报北京4月17日电 （记者吴丹）记者从教育部获悉：高校国家安全学毕业生工作座谈会日前在北京召开。全国学校国家安全教育指导委员会委员、高校相关学院负责人等专家，围绕完善课程体系、强化实践教学、整合校外优质资源等，交流研讨高校国家安全学学生培养有益途径。 2020年，国务院学位委员会、教育部决定设置国家安全学一级学科。与会专家认为，国家安全学人才培养应以政治…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151776.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-16T09:03:34.621Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202604/18/88952b8e-5be6-44d8-aa50-1e4315967b01.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202604/18/e68bd864-e95a-48ea-9e1a-83af4b75bb25.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-16T09:03:34.714Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "people-daily-html-v1",
+      "extractedAt": "2026-05-16T09:03:34.714Z"
+    }
+  },
+  "plaIssue": {
+    "id": "pla_daily:2026-04-18",
+    "source": "pla_daily",
+    "issueDate": "2026-04-18",
+    "pages": [
+      {
+        "id": "pla_daily:2026-04-18:p01",
+        "source": "pla_daily",
+        "issueDate": "2026-04-18",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-04-18-1-0",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "习近平致电祝贺盖莱当选连任吉布提总统",
+            "excerpt": "新华社北京4月17日电 4月17日，国家主席习近平致电伊斯梅尔·奥马尔·盖莱，祝贺他当选连任吉布提共和国总统。 习近平指出，中国和吉布提传统友谊深厚。近年来，双方政治互信日益巩固，务实合作成果丰硕。盖莱总统长期致力于促进中吉友好和各领域交流合作，我对此表示赞赏。我高度重视中吉关系发展，愿同盖莱总统一道努力，继续在涉及…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.168Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-1-1",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "多军兵种“数据流”汇入同一训练场",
+            "excerpt": "编者按 习主席强调，要紧盯科技之变、战争之变、对手之变，大力推进战训耦合，大力推进体系练兵，大力推进科技练兵，全面推进军事训练转型升级，练就能战善战的精兵劲旅。西部战区空军某部联合信息支援部队某部、陆军某防空旅、空军雷达某旅等多家单位，共同探索建立多军兵种作战信息共享机制，高质量推动体系作战能力加速提升。 “无人机飞行轨迹异常！”高原某地，西部战区空军某部…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.169Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-1-2",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "全军财务部门以职业道德规范为牵引聚力服务练兵备战",
+            "excerpt": "本报讯 王磊、记者孙兴维报道：近日，中央军委后勤保障部修订出台涵盖财务等重点行业领域的从业人员职业道德规范，从思想源头上正本清源、荡涤不正之风。全军各级财务部门以此为契机，将规范要求内化于心、外化于行，聚焦为部队服务、为基层赋能，推出提高经费审批权限、调整军人退役养老保险转接方式、优化报销流程等一系列举措，将践行职业道德规范转化为服务练兵备战的扎实行动。…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.169Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-1-3",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "不争彩头  只求实效",
+            "excerpt": "走进武警第二机动总队某支队机关办公楼长廊里，笔者发现，曾经贴满各种研究成果的展板悄然换新。取而代之的，是基层单位提报给机关的意见建议，还有几篇训练形势分析报告。 “过去，展板上张贴的部分研究成果华而不实，甚至有争彩头、博眼球之嫌。”该支队某干部坦言，“前不久，我们重新组织审定，让部分问题分析不透、措施不实的研究成果‘回炉’。这不是吹毛求疵，而是对战斗力负责…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.169Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-1-4",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "让新风正气在部队更加充盈",
+            "excerpt": "习主席在全军高级干部培训班开班式上发表重要讲话强调，“要带头恢复和弘扬我党我军优良传统，放下官架子、回归革命军人本色，让新风正气在部队更加充盈”。贯彻这一重要讲话精神，军队领导干部要自觉锤炼党性、砥砺作风，以一身正气树标杆、作表率，带动部队营造和维护风清气正的政治生态。 “教者，效也，上为之，下效之。”部队的新风正气是抓出来的，也是带出来的。领导干部特别是…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.169Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-1-5",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.169Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-1-6",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.169Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260418/577524b90a8480031c038686654fdd28.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260418/2f0e297663bdf0da72c004072962ded6.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:03:34.169Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-04-18:p02",
+        "source": "pla_daily",
+        "issueDate": "2026-04-18",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-04-18-2-0",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明",
+            "excerpt": "一、应中国共产党中央委员会总书记、中华人民共和国主席习近平邀请，越南共产党中央委员会总书记、越南社会主义共和国主席苏林于2026年4月14日至17日对中华人民共和国进行国事访问。 访问期间，中共中央总书记、国家主席习近平同苏林总书记、国家主席举行会谈，国务院总理李强、全国人大常委会委员长赵乐际、全国政协主席王沪宁分别会见苏林总书记、国家主席。在各场会谈、会…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=02&articleid=2026-04-18-2-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.169Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-2-1",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "中越签署一系列合作文件",
+            "excerpt": "新华社北京4月17日电 4月14日至17日，越共中央总书记、国家主席苏林对中国进行国事访问，中共中央总书记、国家主席习近平同苏林举行会谈。访问期间，双方有关部门和地方签署了以下合作文件： 1.《中国共产党和越南共产党合作计划（2026－2030年）》 2.《中共中央组织部与越共中央组织部合作谅解备忘录（2026－2030年）》 3.《中共中央对外联络部与越…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=02&articleid=2026-04-18-2-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.169Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260418/5242fa554809a8a011a1b70a536c8624.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260418/923057a717c7c3a28a622d348b641ef9.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:03:34.169Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-04-18:p03",
+        "source": "pla_daily",
+        "issueDate": "2026-04-18",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-04-18-3-0",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "心中有颗“定盘星”",
+            "excerpt": "什么是共产党人正确的政绩观？黄克诚同志用一生讲党性、说真话、干实事给出了答案。 1930年7月27日，红三军团攻克长沙。这是土地革命战争时期红军攻占的唯一一座省会城市。官兵振奋，群情激昂，“会师武汉”“饮马长江”的口号响彻云霄。然而，有一个人的观点，却与当时的“主流看法”大相径庭。他就是红三军团第三纵队第二支队政委黄克诚。 在军团前委与省委、特委联席会上，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.169Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-3-1",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "国防部新闻发言人答记者问",
+            "excerpt": "本报北京4月17日电 窦天阳、记者张丹报道：17日，国防部新闻发言人张晓刚就近期涉军问题发布消息并答记者问。 全军深入学习贯彻习主席在全军高级干部培训班开班式上重要讲话精神 有记者问，近日，习主席出席全军高级干部培训班开班式并发表重要讲话，强调要以崭新政治面貌迎接建军一百周年。请问发言人对此有何评论？ 张晓刚表示，在以中国式现代化全面推进强国建设、民族复兴…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.169Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-3-2",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "巩固拓展经济稳中向好态势",
+            "subtitle": "——国家发展改革委介绍“十五五”时期推动经济社会高质量发展有关情况",
+            "excerpt": "国新办17日举行“开局起步‘十五五’”系列主题新闻发布会，国家发展改革委相关负责人介绍“十五五”时期推动经济社会高质量发展有关情况。 在外部冲击挑战加大、国内两难多难问题交织叠加的复杂形势下，首季经济实现平稳良好开局。国家发展改革委副主任王昌林介绍，确保“十五五”开好局起好步，下一步要突出抓好五方面的工作—— 一是打好宏观政策“组合拳”，提前储备一批综合性…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.170Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-3-3",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "第十一个“中国航天日”主场活动将在成都举办",
+            "excerpt": "据新华社北京4月17日电（记者宋晨、李力可）第十一个“中国航天日”主场活动将于4月24日在四川省成都市举办，主题为“七秩问天路 携手探九霄”，本次主场活动主要包括启动仪式、航天科普系列展览、航天文化艺术论坛等。这是记者当日在国家航天局召开的2026年“中国航天日”新闻发布会上了解到的信息。 回望2025年，中国共执行92次航天发射任务，朱雀三号、长征十二号…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.170Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-3-4",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "2026年“新时代·好记者”全国巡讲活动在京启动",
+            "excerpt": "新华社北京4月17日电 中国记协、全国三教办16日至17日在京启动2026年“新时代·好记者”全国巡讲活动。“全国十佳新闻工作者”代表、“好记者讲好故事”优秀选手和“新春走基层”活动优秀记者代表共27人，分别走进在京宣传思想文化单位和高校开展巡回演讲。 据中国记协介绍，巡讲团成员在长期新闻实践中，用笔和镜头记录下时代变迁和百姓心声，用优秀作品证明脚力、眼力…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.170Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-3-5",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "不争彩头  只求实效",
+            "excerpt": "走进武警第二机动总队某支队机关办公楼长廊里，笔者发现，曾经贴满各种研究成果的展板悄然换新。取而代之的，是基层单位提报给机关的意见建议，还有几篇训练形势分析报告。 “过去，展板上张贴的部分研究成果华而不实，甚至有争彩头、博眼球之嫌。”该支队某干部坦言，“前不久，我们重新组织审定，让部分问题分析不透、措施不实的研究成果‘回炉’。这不是吹毛求疵，而是对战斗力负责…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.170Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-3-6",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "日方派自卫队舰艇进入台湾海峡耀武扬威、蓄意挑衅是错上加错",
+            "excerpt": "新华社北京4月17日电（记者马卓言、吴梦桐）就一艘日本自卫队舰艇进入台湾海峡，外交部发言人郭嘉昆17日在例行记者会上答问时表示，日方派自卫队舰艇进入台湾海峡耀武扬威、蓄意挑衅，是错上加错，再次暴露日方一些人企图武力介入台海、破坏台海和平稳定的危险图谋。 “日本自卫队舰艇进入台湾海峡活动，中国军队已依法依规处置。”郭嘉昆说，日本首相高市早苗发表涉台错误言论，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.170Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-3-7",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "我国成功发射高精度温室气体综合探测卫星",
+            "excerpt": "本报酒泉4月17日电 王晨宇、记者朱柏妍报道：4月17日12时10分，我国在酒泉卫星发射中心使用长征四号丙运载火箭，成功将高精度温室气体综合探测卫星发射升空，卫星顺利进入预定轨道…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-7",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.170Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-3-8",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "短讯",
+            "excerpt": "■李强17日在京主持召开国务院常务会议，听取自由贸易试验区建设情况汇报，审议通过《中华人民共和国行政复议法实施条例（修订草案）》 ■王沪宁…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-8",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.170Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260418/f8fcf6418b5fce84a38b3adee0856ef0.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260418/9714c5ec36d85e2025f308a4b78f810d.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:03:34.170Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-04-18:p04",
+        "source": "pla_daily",
+        "issueDate": "2026-04-18",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-04-18-4-0",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "为“驭鹰手”撑开成长空间",
+            "excerpt": "定点悬停、循迹飞行、急速俯冲……4月上旬，第75集团军某旅组织无人机考核，中士丁哲枫凭借过硬素质，顺利完成多个高难度课目。 “综合评定优秀！”成绩传来，丁哲枫满脸喜悦。然而就在几个月前，面对同样的课目，他却顾虑重重，放不开手脚。 “无人机构造精密、反应灵敏，操作不慎很容易造成机体受损甚至坠毁。一旦发生事故，后续修理需要上报审批，流程繁琐，不仅影响训练进度，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=04&articleid=2026-04-18-4-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.170Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-4-1",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "让指挥素养跟上现代战争演变",
+            "excerpt": "军队能打仗、打胜仗，指挥是一个决定性因素。指挥能力强不强，取决于指挥员综合指挥素养的高低。 《六韬》有言：兵者，国之大事，存亡之道，命在于将。指挥员的指挥素养，关乎作战能力，关乎战场胜负。指挥员的指挥素养必须跟上现代战争演变，真正做到战争形态发展到哪一步，指挥素养就跟进到哪一步。 与以往相比，现代战争形态加速演变，对指挥员指挥能力的要求越来越高。在科学技术…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=04&articleid=2026-04-18-4-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.170Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-4-2",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "暗夜云端“穿针引线”",
+            "subtitle": "——空军某部跨昼夜空中加油训练见闻",
+            "excerpt": "暮春，夕阳西沉，空军某部机场引擎轰鸣。随着塔台下达指令，数架战机依次滑出、呼啸升空，一场跨昼夜空中加油训练随即拉开帷幕。 云端之上，战鹰列阵。“保持速度差”“修正飞行姿态”“准备对接”……抵达加油机所在空域后，塔台连续下达多道指令。 飞行员紧盯加油机锥套，在颠簸气流中持续调整飞行参数，精细修正飞行姿态，稳稳操控战机保持最佳高度与速度。当受油探头与锥套完成精…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=04&articleid=2026-04-18-4-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.170Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-4-3",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "“水兵讲堂”好课连台",
+            "excerpt": "“岛上常年湿热、毒虫肆虐、环境恶劣，我和战友们心往一处想、劲往一处使，一心扑在任务上……”暮春时节，海军勤务学院某学兵大队最新一期“水兵讲堂”如期开讲。学兵党海林登台分享了他在原单位的经历，台下学兵们听得津津有味，不时报以热烈掌声。这是该大队发挥学兵能动性，提升教育质效的典型事例。 “学兵们都来自基层部队，其中不乏多次参加大项任务的精武尖子。”该大队领导介…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=04&articleid=2026-04-18-4-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.170Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-04-18-4-4",
+            "source": "pla_daily",
+            "issueDate": "2026-04-18",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=04&articleid=2026-04-18-4-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T09:03:34.170Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260418/f085852feb92b6b7ffe9344312255da5.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260418/665ace4e50623cd06558e9fe8c1e35e5.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T09:03:34.170Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "pla-daily-index-json-v1",
+      "extractedAt": "2026-05-16T09:03:34.172Z"
+    }
+  },
+  "matchGroups": [
+    {
+      "id": "matched:people_daily:30151749:pla_daily:2026-04-18-1-0",
+      "issueDate": "2026-04-18",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151749",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平致电祝贺盖莱当选连任吉布提总统",
+          "excerpt": "新华社北京4月17日电 4月17日，国家主席习近平致电伊斯梅尔·奥马尔·盖莱，祝贺他当选连任吉布提共和国总统。 习近平指出，中国和吉布提传统友谊深厚。近年来，双方政治互信日益巩固，务实合作成果丰硕。盖莱总统长期致力于促进中吉友好和各领域交流合作，我对此表示赞赏。我高度重视中吉关系发展，愿同盖莱总统一道努力，继续在涉及…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151749.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.404Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-18-1-0",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "习近平致电祝贺盖莱当选连任吉布提总统",
+          "excerpt": "新华社北京4月17日电 4月17日，国家主席习近平致电伊斯梅尔·奥马尔·盖莱，祝贺他当选连任吉布提共和国总统。 习近平指出，中国和吉布提传统友谊深厚。近年来，双方政治互信日益巩固，务实合作成果丰硕。盖莱总统长期致力于促进中吉友好和各领域交流合作，我对此表示赞赏。我高度重视中吉关系发展，愿同盖莱总统一道努力，继续在涉及…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.168Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 习近平致电祝贺盖莱当选连任吉布提总统、落实好中非合作论坛、不断丰富中吉全面战略伙伴关系内涵。ナラティブ・完全タイトル一致: 习近平致电祝贺盖莱当选连任吉布提总统、落实好中非合作论坛、不断丰富中吉全面战略伙伴关系内涵 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "习近平致电祝贺盖莱当选连任吉布提总统",
+          "落实好中非合作论坛",
+          "不断丰富中吉全面战略伙伴关系内涵"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 100% / narrative 18%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 18%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 习近平致电祝贺盖莱当选连任吉布提总统、落实好中非合作论坛、不断丰富中吉全面战略伙伴关系内涵",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30151756+people_daily:30151758:pla_daily:2026-04-18-2-0+pla_daily:2026-04-18-1-2",
+      "issueDate": "2026-04-18",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151756",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明",
+          "excerpt": "一、应中国共产党中央委员会总书记、中华人民共和国主席习近平邀请，越南共产党中央委员会总书记、越南社会主义共和国主席苏林于2026年4月14日至17日对中华人民共和国进行国事访问。 访问期间，中共中央总书记、国家主席习近平同苏林总书记、国家主席举行会谈，国务院总理李强、全国人大常委会委员长赵乐际、全国政协主席王沪宁分别会见苏林总书记、国家主席。在各场会谈、会…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151756.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.794Z"
+          }
+        },
+        {
+          "id": "people_daily:30151758",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "​中国经济良好开局提振世界信心（和音）",
+          "excerpt": "中国经济稳定增长，是“十五五”开好局、起好步的坚实基础，更是全球经济穿越风浪的稳定之锚，不断为全球发展注入持久信心与强劲动力 中国经济2026年“首季报”日前出炉：国内生产总值334193亿元，同比增长5.0%（按不变价格计算），比上年四季度快了0.5个百分点。国际社会高度关注，普遍认为在全球经济前景不确定性加大的背景下，中国经济彰显发展韧性和活力，为世界…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151758.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.803Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-18-1-2",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "全军财务部门以职业道德规范为牵引聚力服务练兵备战",
+          "excerpt": "本报讯 王磊、记者孙兴维报道：近日，中央军委后勤保障部修订出台涵盖财务等重点行业领域的从业人员职业道德规范，从思想源头上正本清源、荡涤不正之风。全军各级财务部门以此为契机，将规范要求内化于心、外化于行，聚焦为部队服务、为基层赋能，推出提高经费审批权限、调整军人退役养老保险转接方式、优化报销流程等一系列举措，将践行职业道德规范转化为服务练兵备战的扎实行动。…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.169Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-2-0",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明",
+          "excerpt": "一、应中国共产党中央委员会总书记、中华人民共和国主席习近平邀请，越南共产党中央委员会总书记、越南社会主义共和国主席苏林于2026年4月14日至17日对中华人民共和国进行国事访问。 访问期间，中共中央总书记、国家主席习近平同苏林总书记、国家主席举行会谈，国务院总理李强、全国人大常委会委员长赵乐际、全国政协主席王沪宁分别会见苏林总书记、国家主席。在各场会谈、会…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=02&articleid=2026-04-18-2-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.169Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明、年度会晤、发挥好两党高层会晤、中华人民共和国政府是代表全中国的唯一合法。ナラティブ・LLMトピック束: 中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明、年度会晤、发挥好两党高层会晤、中华人民共和国政府是代表全中国的唯一合法 / ナラティブ・LLM判定",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "中越全面战略合作伙伴关系健康稳定发展",
+          "于在新时期持续深化全面战略合作伙伴关",
+          "从战略高度和长远角度引领和指导新时代",
+          "向世界昭示了社会主义制度的强大生命力",
+          "坚持从战略高度和长远角度看待和发展中",
+          "对两党两国关系发展具有至关重要的战略",
+          "彰显了中国社会主义现代化和越南革新事",
+          "推动具有战略意义的中越命运共同体建设"
+        ],
+        "plaDailyTerms": [
+          "中央军委后勤保障部修订出台涵盖财务等",
+          "中央军委后勤保障部财务局有关负责人表",
+          "全军各级财务部门将持续深化行业风气建",
+          "全军各级财务部门注重夯实从业人员专业",
+          "全军各级财务部门紧盯影响基层备战打仗",
+          "全军财务部门以职业道德规范为牵引聚力",
+          "将践行职业道德规范转化为服务练兵备战",
+          "建立优惠的军人住房专属商业贷款制度"
+        ],
+        "sharedTerms": [
+          "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明",
+          "年度会晤",
+          "发挥好两党高层会晤",
+          "中华人民共和国政府是代表全中国的唯一合法",
+          "进一步加强和深化两国执法",
+          "打击偷渡违法",
+          "打击商业瞒骗与非法跨境运输货物执法",
+          "越方将以成员国身份正式加入澜沧江-湄公河综合执法"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 92% / lexical 100% / narrative 90%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 90%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・LLMトピック束: 中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明、年度会晤、发挥好两党高层会晤、中华人民共和国政府是代表全中国的唯一合法",
+        "ナラティブ・LLM判定"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30151757:pla_daily:2026-04-18-2-1",
+      "issueDate": "2026-04-18",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151757",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中越签署一系列合作文件",
+          "excerpt": "4月14日至17日，越共中央总书记、国家主席苏林对中国进行国事访问，中共中央总书记、国家主席习近平同苏林举行会谈。访问期间，双方有关部门和地方签署了以下合作文件： 1.《中国共产党和越南共产党合作计划（2026—2030年）》 2.《中共中央组织部与越共中央组织部合作谅解备忘录（2026—2030年）》 3.《中共中央对外联络部与越南外交部合作协议》 4.…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151757.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.786Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-18-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中越签署一系列合作文件",
+          "excerpt": "新华社北京4月17日电 4月14日至17日，越共中央总书记、国家主席苏林对中国进行国事访问，中共中央总书记、国家主席习近平同苏林举行会谈。访问期间，双方有关部门和地方签署了以下合作文件： 1.《中国共产党和越南共产党合作计划（2026－2030年）》 2.《中共中央组织部与越共中央组织部合作谅解备忘录（2026－2030年）》 3.《中共中央对外联络部与越…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=02&articleid=2026-04-18-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.169Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 中越签署一系列合作文件、国家主席苏林对中国进行国事访问、中华人民共和国司法部与越南社会主义共和国司法、媒体智库高端论坛。ナラティブ・完全タイトル一致: 中越签署一系列合作文件、国家主席苏林对中国进行国事访问、中华人民共和国司法部与越南社会主义共和国司法、媒体智库高端论坛 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "中越签署一系列合作文件",
+          "国家主席苏林对中国进行国事访问",
+          "中华人民共和国司法部与越南社会主义共和国司法",
+          "媒体智库高端论坛",
+          "中华人民共和国国家发展和改革委员会与",
+          "中共中央总书记国家主席习近平同苏林举行会谈访问",
+          "部与越南社会主义共和国司法"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 98% / narrative 33%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 98% / ナラティブ類似 33%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 中越签署一系列合作文件、国家主席苏林对中国进行国事访问、中华人民共和国司法部与越南社会主义共和国司法、媒体智库高端论坛",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30151751:pla_daily:2026-04-18-3-8",
+      "issueDate": "2026-04-18",
+      "matchType": "matched",
+      "confidence": 0.84,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151751",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "李强主持召开国务院常务会议",
+          "subtitle": "听取自由贸易试验区建设情况汇报，审议通过《中华人民共和国行政复议法实施条例（修订草案）》",
+          "excerpt": "新华社北京4月17日电 国务院总理李强4月17日主持召开国务院常务会议，听取自由贸易试验区建设情况汇报，审议通过《中华人民共和国行政复议法实施条例（修订草案）》。 会议指出，党的十八大以来，各自贸试验区在深化改革、扩大开放、促进发展等方面积极探索，取得一系列突破性、引领性成果，有效发挥了综合试验平台作用。面对新形势新任务，要深入实施自由贸易试验区提升战略，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151751.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.405Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-18-3-8",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "短讯",
+          "excerpt": "■李强17日在京主持召开国务院常务会议，听取自由贸易试验区建设情况汇报，审议通过《中华人民共和国行政复议法实施条例（修订草案）》 ■王沪宁…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-8",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.170Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 84%）。共有語: 中华人民共和国行政复议法、中华人民共和国行政复议法实施条例。ナラティブ・強いタイトル/政策語一致: 中华人民共和国行政复议法、中华人民共和国行政复议法实施条例 / メタデータ・日付・版面",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "权益的重要制度新修订的条例进一步细化行政复议法",
+          "保障群众和企业合法权益的重要制度",
+          "要深入实施自由贸易试验区提升战略",
+          "不断提升政府治理能力和公信力",
+          "主动对接国际高标准经贸规则",
+          "推动自贸试验区高质量发展",
+          "各自贸试验区在深化改革",
+          "实施条例修订草案会议"
+        ],
+        "plaDailyTerms": [
+          "王沪宁17日在京出席第七届台胞社团论坛",
+          "李强17日在京主持召开国务院常务会议"
+        ],
+        "sharedTerms": [
+          "中华人民共和国行政复议法",
+          "中华人民共和国行政复议法实施条例"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "strong-title phrase match",
+        "message": "高信頼 84% / lexical 4% / narrative 24%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 4% / ナラティブ類似 24%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・強いタイトル/政策語一致: 中华人民共和国行政复议法、中华人民共和国行政复议法实施条例",
+        "メタデータ・日付・版面"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30151750:pla_daily:2026-04-18-4-0+pla_daily:2026-04-18-4-2",
+      "issueDate": "2026-04-18",
+      "matchType": "matched",
+      "confidence": 0.75,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151750",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "中国创新正在全方位加速突破",
+          "subtitle": "——“十五五”首季中国经济观察之二",
+          "author": "本报记者 王 浩",
+          "excerpt": "“不能光看国内生产总值增长，现在增长的是硬实力，追求的是发展新质生产力。经过不断转型升级、提质换代，一步一步往上走。”习近平总书记谋深思远。 好于预期的“一季报”，有一个突出亮点，就是中国创新正在全方位加速突破，向新向优发展动能持续增强。 高端制造一马当先：规上高技术制造业增加值同比增长12.5%，占规上工业增加值比重提高到16.9%，拉动规上工业增长2个…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151750.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.466Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-18-4-0",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "为“驭鹰手”撑开成长空间",
+          "excerpt": "定点悬停、循迹飞行、急速俯冲……4月上旬，第75集团军某旅组织无人机考核，中士丁哲枫凭借过硬素质，顺利完成多个高难度课目。 “综合评定优秀！”成绩传来，丁哲枫满脸喜悦。然而就在几个月前，面对同样的课目，他却顾虑重重，放不开手脚。 “无人机构造精密、反应灵敏，操作不慎很容易造成机体受损甚至坠毁。一旦发生事故，后续修理需要上报审批，流程繁琐，不仅影响训练进度，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=04&articleid=2026-04-18-4-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.170Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-4-2",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "暗夜云端“穿针引线”",
+          "subtitle": "——空军某部跨昼夜空中加油训练见闻",
+          "excerpt": "暮春，夕阳西沉，空军某部机场引擎轰鸣。随着塔台下达指令，数架战机依次滑出、呼啸升空，一场跨昼夜空中加油训练随即拉开帷幕。 云端之上，战鹰列阵。“保持速度差”“修正飞行姿态”“准备对接”……抵达加油机所在空域后，塔台连续下达多道指令。 飞行员紧盯加油机锥套，在颠簸气流中持续调整飞行参数，精细修正飞行姿态，稳稳操控战机保持最佳高度与速度。当受油探头与锥套完成精…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=04&articleid=2026-04-18-4-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.170Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 75%）。ナラティブ・LLMトピック束 / ナラティブ・LLM判定",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "发展新质生产力对于推动高质量发展",
+          "习近平总书记作出战略擘画",
+          "创业板增设第四套上市标准",
+          "因地制宜发展新质生产力",
+          "追求的是发展新质生产力",
+          "围绕发展新质生产力",
+          "新质生产力加快发展",
+          "聚焦发展新质生产力"
+        ],
+        "plaDailyTerms": [
+          "会造成旅队无人机训练水平在低层次徘徊",
+          "大家挑战高难度课目的训练积极性空前高",
+          "满濠林以为是训练强度加大后的正常现象",
+          "对训练成绩突出的官兵及时表彰奖励",
+          "帮助官兵一步一个脚印扎实提高本领",
+          "第75集团军某旅组织无人机考核",
+          "组织官兵在虚拟空间练习飞行动作",
+          "全而降低训练难度和标准的现象"
+        ],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "topic-cluster match",
+        "message": "高信頼 75% / lexical 0% / narrative 16%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 16%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・LLMトピック束",
+        "ナラティブ・LLM判定"
+      ]
+    },
+    {
+      "id": "people_only:1:要闻",
+      "issueDate": "2026-04-18",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151748",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "青海因地制宜做强高原特色农业（“十五五”开好局起好步）",
+          "author": "本报记者 龚仕建 乔 栋",
+          "excerpt": "高原春耕，来得稍晚一些。4月中旬，平均海拔3100米的青海都兰县，21万余亩枸杞进入剪枝、松土和施肥的时间窗口。 “以前晒干了卖，现在进超市当鲜果卖。”春风送爽，种植户张彦孝忙得欢实。 销售方式之变，折射产业发展之变。2025年，都兰县枸杞鲜果产值达4127万元，按统计口径测算同比增长578.11%。 不只是枸杞，越来越多的青海绿色有机农畜产品，正以更鲜美…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151748.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.406Z"
+          }
+        },
+        {
+          "id": "people_daily:30151752",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "王沪宁出席第七届台胞社团论坛开幕式",
+          "excerpt": "本报北京4月17日电 （记者张烁）第七届台胞社团论坛17日在京举行。中共中央政治局常委、全国政协主席王沪宁出席开幕式并讲话。 王沪宁表示，4月10日，习近平总书记就两岸关系发展提出坚持以正确认同促进心灵契合、坚持以和平发展守护共同家园、坚持以交流融合增进民生福祉、坚持以团结奋斗实现中华民族伟大复兴的重要主张，必将激励两岸同胞同心共创祖国统一、民族复兴的光明…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151752.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.412Z"
+          }
+        },
+        {
+          "id": "people_daily:30151753",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "紧抓快干 巩固拓展好势头（今日谈）",
+          "author": "桂从路",
+          "excerpt": "在外部形势更加复杂多变的背景下，一季度我国经济实现良好开局，主要宏观指标增速回升。这是各地区各部门狠抓落实的结果，充分证明了党中央决策部署的科学性，体现了我国发展的韧性和活力。 当前，如何巩固拓展经济稳中向好态势？一要坚定信心，二要紧抓快干。 内在驱动力强，稳中向好才能有支撑、可持续。一季度，高技术制造业增加值同比增长12.5%，见证新质生产力加快成长；社…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151753.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.420Z"
+          }
+        },
+        {
+          "id": "people_daily:30151754",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "第139届中国进出口商品交易会（广交会）参展企业数量创新高。本届广交会设立服务机器人专区，汇聚数十家行业优质企业，集中呈现中国服务机器人领域的技术创新与全场景应用能…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151754.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.443Z"
+          }
+        },
+        {
+          "id": "people_daily:30151755",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "我国核电装机规模居全球第一",
+          "subtitle": "核电主设备实现百分之百国产化",
+          "excerpt": "本报北京4月17日电 （记者谷业凯）记者从中国核能行业协会获悉：截至目前，我国大陆地区在运和核准在建核电机组共112台，装机容量1.25亿千瓦，核电装机规模居世界第一；其中在运机组60台，装机6369万千瓦，居世界第三。 “十四五”时期，我国核电累计发电量超过2万亿千瓦时，等效减排二氧化碳超15.3亿吨。核电生产运行始终坚持“安全第一、质量第一”。我国自主…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151755.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.439Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:2:要闻",
+      "issueDate": "2026-04-18",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151759",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "王毅同纳米比亚外长穆萨维伊会谈",
+          "excerpt": "新华社北京4月17日电 （记者万倩仪）中共中央政治局委员、外交部长王毅17日在北京同纳米比亚外长穆萨维伊举行会谈。 王毅表示，发展深化中纳合作符合两国人民期待，顺应中非关系发展大势，更是全球南方联合自强的体现。中方愿同纳方一道，落实好两国元首重要共识，加强发展战略对接，用好中方零关税政策红利，推进农业、民生、青年等重点领域项目。 穆萨维伊表示，纳中两国…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151759.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.785Z"
+          }
+        },
+        {
+          "id": "people_daily:30151760",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "中华人民共和国和纳米比亚共和国外长会谈共同新闻公报",
+          "excerpt": "应中共中央政治局委员、中华人民共和国外交部长王毅邀请，纳米比亚国际关系与贸易部部长穆萨维伊于2026年4月11日至18日对中国进行正式访问。两国外长就中纳关系及共同关心的国际地区问题举行了深入友好会谈并达成重要共识。 双方重申坚定致力于多边主义，特别是促进国际合作及加强全球治理，强调全球性挑战应通过包容性集体对话而非单边应对。双方承诺聚焦共同关心领域深化在…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151760.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:33.791Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 2本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:3:要闻",
+      "issueDate": "2026-04-18",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151761",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "凝聚各方力量 抓好落地实施（权威发布·开局起步“十五五”）",
+          "author": "本报记者 刘志强 王云杉",
+          "excerpt": "4月17日，国务院新闻办举行开局起步“十五五”系列主题首场新闻发布会，国家发展改革委副主任王昌林等介绍了“十五五”时期推动经济社会高质量发展有关情况。 提前储备一批综合性政策措施，根据需要及时出台 “十五五”首季中国经济成绩单日前发布，彰显中国经济强大韧性和底气，好于国内外许多机构和专家学者预期。 “取得这样的成绩实属不易，这是在外部冲击挑战加大、国内两难…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151761.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.172Z"
+          }
+        },
+        {
+          "id": "people_daily:30151762",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "夯实基础 全面发力（快评）",
+          "author": "刘志强",
+          "excerpt": "“十五五”时期，夯实基础、全面发力的关键时期。透过“十五五”首季经济起步有力、开局良好的表现，可以更加深刻理解其重要意义。 夯实基础，方能使发展根基更稳、韧性更强。 “十五五”时期，战略机遇和风险挑战并存，不确定难预料因素增多。我们必须更加关注高水平科技自立自强、粮食安全、能源安全等对发展和安全具有基础性影响的事，多措并举强优势、破瓶颈、补短板，在风云变幻…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151762.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.224Z"
+          }
+        },
+        {
+          "id": "people_daily:30151763",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "加快建设黄河流域生态保护和高质量发展先行区（开局起步“十五五”·专题新闻发布）",
+          "author": "本报记者 张 文",
+          "excerpt": "4月17日，开局起步“十五五”宁夏专场新闻发布会在宁夏银川举行。宁夏回族自治区党委副书记、自治区人民政府主席张雨浦表示，宁夏坚定不移贯彻新发展理念、融入新发展格局，推动经济提质增效，紧紧围绕经济繁荣、民族团结、环境优美、人民富裕的主要目标任务，加快建设黄河流域生态保护和高质量发展先行区，奋力谱写中国式现代化宁夏篇章。 统筹布局，建设现代化产业体系 产业是高…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151763.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.174Z"
+          }
+        },
+        {
+          "id": "people_daily:30151764",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "7家电商平台被罚没35.97亿元",
+          "excerpt": "本报北京4月17日电 （记者林丽鹂）市场监管总局17日依法对上海寻梦信息技术有限公司（拼多多）、北京三快科技有限公司（美团）、北京京东叁佰陆拾度电子商务有限公司（京东）、上海拉扎斯信息科技有限公司（原饿了么，现淘宝闪购）、北京抖音科技有限公司（抖音）、浙江淘宝网络有限公司（淘宝）、浙江天猫网络有限公司（天猫）等7家电商平台“幽灵外卖”系列案，依据《中华人民…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151764.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.065Z"
+          }
+        },
+        {
+          "id": "people_daily:30151765",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "推动高校毕业生与专精特新中小企业精准对接",
+          "excerpt": "本报北京4月17日电 （记者刘温馨）工业和信息化部、教育部近日组织开展2026年“优企进校 招才引智”专项行动，进一步推动高校毕业生与专精特新中小企业精准对接。 结合高校毕业生求职特点，专项行动第一阶段为4月至6月，第二阶段为10月至12月，服务对象为以专精特新中小企业为重点的中小企业和以2026届高校毕业生为重点的高校毕业生。 专项行动将开展专精特新中小…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151765.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.293Z"
+          }
+        },
+        {
+          "id": "people_daily:30151766",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "4月16日，黑龙江省黑河·爱辉国际大夜市，小朋友在家长的陪伴下购买美食。近日，黑河市的国际大夜市焕新迎客，集赏、游、购、娱、食于一体，带来一站式夜间消费新体验，也成为中俄双向免签政策下俄罗斯…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151766.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.160Z"
+          }
+        },
+        {
+          "id": "people_daily:30151767",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中央企业已研发百余种低空航空器",
+          "excerpt": "本报北京4月17日电 （记者李心萍）国资委日前发布的《中央企业低空经济产业发展白皮书》显示：截至目前，有30余家中央企业研发了百余种型号低空航空器，涵盖传统通航飞机、工业级无人机、电动垂直起降航空器等。 例如，航空工业集团推出的九天无人机具备大载重、宽速域、短起降、高智能等特点；航天科技彩虹系列无人机形成了大、中、小型匹配，远、中、近相协同的产品谱系；兵器…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151767.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.180Z"
+          }
+        },
+        {
+          "id": "people_daily:30151768",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "一季度长三角地区进出口总值达4.49万亿元",
+          "excerpt": "本报北京4月17日电 （记者欧阳洁）记者从南京海关获悉：今年一季度长三角地区进出口总值达4.49万亿元，规模创历史新高，同比增长15.8%，占全国进出口总值的比重提升至37.9%。 外贸大省勇挑大梁。一季度，江苏、浙江、上海进出口同比分别增长17.2%、7.1%、21.9%。安徽进出口增速亮眼，同比增长31.6%。 外贸“朋友圈”更加多元。长三角地区对东盟…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151768.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.180Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 8本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:4:要闻",
+      "issueDate": "2026-04-18",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30151769",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "屯里来了“AI社工”（奋进“十五五”·一线见闻）",
+          "author": "本报记者 张云河",
+          "excerpt": "加强人工智能同科技创新、产业发展、文化建设、民生保障、社会治理相结合。 ——摘自“十五五”规划纲要 走进广西壮族自治区贵港市东津镇石连村冲口屯老年食堂，电视屏幕里有个系着头巾、穿着荷花裙的小姑娘，叫“桂小社”，是一名“AI（人工智能）社工”，能够实时互动。 “村道晚上很黑，如何装路灯，让走夜路更安全？”村民姜亚福亮开嗓子问。“您可以向政府申请项目，但需要村…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151769.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.623Z"
+          }
+        },
+        {
+          "id": "people_daily:30151770",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "抓住真需求 解决真问题（编辑手记）",
+          "author": "刘静文",
+          "excerpt": "AI与社会治理应当怎样结合？无论何种形式，都得遵循一个“真”字。广西贵港东津镇石连村冲口屯的“桂小社”就是一个鲜活的案例。 找切入口，要抓住真需求。冲口屯的基层治理，曾存在咨询需求多与基层社工负担重的矛盾。24小时不打烊的“桂小社”，精准破解了这一痛点。它既能秒回政策疑问，也能收集村民诉求，还能完成帮写村民议事会召集通知等，帮了“老社工”大忙。 深耕落地，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151770.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.622Z"
+          }
+        },
+        {
+          "id": "people_daily:30151771",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "“白色污染”变“绿色资源”（厉行节约 反对浪费）",
+          "author": "本报记者 赵景锋",
+          "excerpt": "正值春耕备耕关键时节，上午9点，内蒙古巴彦淖尔市磴口县巴彦高勒镇北粮台村，“积分超市”前聚起了人。 “废旧地膜有27.8公斤，换算成积分是28分，您一共有108分，想兑换什么？”北粮台村党支部书记田学军问。 “一个保温壶、两桶洗衣液，剩下的换成抽纸！”仔细对照积分兑换表，村民郭炳龙盘算一番，说出需求。一旁，工作人员将称重后的废旧地膜暂存在村里的临时堆放点。…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151771.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.638Z"
+          }
+        },
+        {
+          "id": "people_daily:30151772",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "水利部安排部署水库安全度汛",
+          "excerpt": "本报北京4月17日电 （记者邓剑洋）4月17日，水利部召开水库安全度汛视频会议，安排部署今年水库安全度汛工作。 会议要求，要压紧压实水库安全管理责任，逐库完善汛期调度运用方案、水库大坝安全管理（防汛）应急预案和险情处置方案，强化关键部位风险隐患排查治理，加强水库防洪库容管理，确保在关键时刻发挥关键作用。要加强水库监测预报预警，深化雨水情监测预报“三道防线”…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151772.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.620Z"
+          }
+        },
+        {
+          "id": "people_daily:30151773",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "随着气温逐渐回升，新疆生产建设兵团第六师奇台农场种植户抢抓农时，开展玉米、葵花等农作物的播种作业。 图为4月16日，奇台农…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151773.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.622Z"
+          }
+        },
+        {
+          "id": "people_daily:30151774",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "让更多基层群众在家门口享受优质医疗（深阅读·稳步推进基本公共服务均等化）",
+          "author": "本报记者 王欣悦 靳 博 姚雪青",
+          "excerpt": "“十五五”规划纲要提出，“促进优质医疗资源扩容下沉和区域均衡布局”。多地持续推进优质医疗资源扩容下沉，让更多基层群众在家门口享受优质医疗服务。 医疗资源更好下沉基层 “从家到卫生院，骑摩托只需不到10分钟，再也不用凌晨4点就起床赶路做透析了。”在重庆市黔江区金溪镇卫生院血液透析室里，55岁的王友贤感叹道。 王友贤是金溪镇的一名尿毒症患者。8年来，他饱受透析…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151774.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.713Z"
+          }
+        },
+        {
+          "id": "people_daily:30151775",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "多地举办总体国家安全观高校学术研讨会",
+          "excerpt": "本报北京4月17日电 （记者吴丹）今年4月15日是第十一个全民国家安全教育日，教育部指导多地举办总体国家安全观高校学术研讨会，推动国家安全学自主知识体系建设持续深化。 中共北京市委国家安全委员会办公室、首都师范大学、国际关系学院联合主办第三届北京市总体国家安全观理论研讨会。与会专家系统解读“十五五”时期我国国家安全面临的形势与重点任务，围绕国家安全体系和能…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151775.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.617Z"
+          }
+        },
+        {
+          "id": "people_daily:30151776",
+          "source": "people_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "专家学者共话高校国家安全学课程建设与实践育人工作",
+          "excerpt": "本报北京4月17日电 （记者吴丹）记者从教育部获悉：高校国家安全学毕业生工作座谈会日前在北京召开。全国学校国家安全教育指导委员会委员、高校相关学院负责人等专家，围绕完善课程体系、强化实践教学、整合校外优质资源等，交流研讨高校国家安全学学生培养有益途径。 2020年，国务院学位委员会、教育部决定设置国家安全学一级学科。与会专家认为，国家安全学人才培养应以政治…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202604/18/content_30151776.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T09:03:34.621Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 8本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:1:要闻",
+      "issueDate": "2026-04-18",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-18-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "多军兵种“数据流”汇入同一训练场",
+          "excerpt": "编者按 习主席强调，要紧盯科技之变、战争之变、对手之变，大力推进战训耦合，大力推进体系练兵，大力推进科技练兵，全面推进军事训练转型升级，练就能战善战的精兵劲旅。西部战区空军某部联合信息支援部队某部、陆军某防空旅、空军雷达某旅等多家单位，共同探索建立多军兵种作战信息共享机制，高质量推动体系作战能力加速提升。 “无人机飞行轨迹异常！”高原某地，西部战区空军某部…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.169Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-1-3",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "不争彩头  只求实效",
+          "excerpt": "走进武警第二机动总队某支队机关办公楼长廊里，笔者发现，曾经贴满各种研究成果的展板悄然换新。取而代之的，是基层单位提报给机关的意见建议，还有几篇训练形势分析报告。 “过去，展板上张贴的部分研究成果华而不实，甚至有争彩头、博眼球之嫌。”该支队某干部坦言，“前不久，我们重新组织审定，让部分问题分析不透、措施不实的研究成果‘回炉’。这不是吹毛求疵，而是对战斗力负责…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.169Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-1-4",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "让新风正气在部队更加充盈",
+          "excerpt": "习主席在全军高级干部培训班开班式上发表重要讲话强调，“要带头恢复和弘扬我党我军优良传统，放下官架子、回归革命军人本色，让新风正气在部队更加充盈”。贯彻这一重要讲话精神，军队领导干部要自觉锤炼党性、砥砺作风，以一身正气树标杆、作表率，带动部队营造和维护风清气正的政治生态。 “教者，效也，上为之，下效之。”部队的新风正气是抓出来的，也是带出来的。领导干部特别是…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.169Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-1-5",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.169Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-1-6",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=01&articleid=2026-04-18-1-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.169Z"
+          }
+        }
+      ],
+      "reason": "81cn only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:3:要闻",
+      "issueDate": "2026-04-18",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-18-3-0",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "心中有颗“定盘星”",
+          "excerpt": "什么是共产党人正确的政绩观？黄克诚同志用一生讲党性、说真话、干实事给出了答案。 1930年7月27日，红三军团攻克长沙。这是土地革命战争时期红军攻占的唯一一座省会城市。官兵振奋，群情激昂，“会师武汉”“饮马长江”的口号响彻云霄。然而，有一个人的观点，却与当时的“主流看法”大相径庭。他就是红三军团第三纵队第二支队政委黄克诚。 在军团前委与省委、特委联席会上，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.169Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-3-1",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "国防部新闻发言人答记者问",
+          "excerpt": "本报北京4月17日电 窦天阳、记者张丹报道：17日，国防部新闻发言人张晓刚就近期涉军问题发布消息并答记者问。 全军深入学习贯彻习主席在全军高级干部培训班开班式上重要讲话精神 有记者问，近日，习主席出席全军高级干部培训班开班式并发表重要讲话，强调要以崭新政治面貌迎接建军一百周年。请问发言人对此有何评论？ 张晓刚表示，在以中国式现代化全面推进强国建设、民族复兴…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.169Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-3-2",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "巩固拓展经济稳中向好态势",
+          "subtitle": "——国家发展改革委介绍“十五五”时期推动经济社会高质量发展有关情况",
+          "excerpt": "国新办17日举行“开局起步‘十五五’”系列主题新闻发布会，国家发展改革委相关负责人介绍“十五五”时期推动经济社会高质量发展有关情况。 在外部冲击挑战加大、国内两难多难问题交织叠加的复杂形势下，首季经济实现平稳良好开局。国家发展改革委副主任王昌林介绍，确保“十五五”开好局起好步，下一步要突出抓好五方面的工作—— 一是打好宏观政策“组合拳”，提前储备一批综合性…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.170Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-3-3",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "第十一个“中国航天日”主场活动将在成都举办",
+          "excerpt": "据新华社北京4月17日电（记者宋晨、李力可）第十一个“中国航天日”主场活动将于4月24日在四川省成都市举办，主题为“七秩问天路 携手探九霄”，本次主场活动主要包括启动仪式、航天科普系列展览、航天文化艺术论坛等。这是记者当日在国家航天局召开的2026年“中国航天日”新闻发布会上了解到的信息。 回望2025年，中国共执行92次航天发射任务，朱雀三号、长征十二号…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.170Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-3-4",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "2026年“新时代·好记者”全国巡讲活动在京启动",
+          "excerpt": "新华社北京4月17日电 中国记协、全国三教办16日至17日在京启动2026年“新时代·好记者”全国巡讲活动。“全国十佳新闻工作者”代表、“好记者讲好故事”优秀选手和“新春走基层”活动优秀记者代表共27人，分别走进在京宣传思想文化单位和高校开展巡回演讲。 据中国记协介绍，巡讲团成员在长期新闻实践中，用笔和镜头记录下时代变迁和百姓心声，用优秀作品证明脚力、眼力…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.170Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-3-5",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "不争彩头  只求实效",
+          "excerpt": "走进武警第二机动总队某支队机关办公楼长廊里，笔者发现，曾经贴满各种研究成果的展板悄然换新。取而代之的，是基层单位提报给机关的意见建议，还有几篇训练形势分析报告。 “过去，展板上张贴的部分研究成果华而不实，甚至有争彩头、博眼球之嫌。”该支队某干部坦言，“前不久，我们重新组织审定，让部分问题分析不透、措施不实的研究成果‘回炉’。这不是吹毛求疵，而是对战斗力负责…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.170Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-3-6",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "日方派自卫队舰艇进入台湾海峡耀武扬威、蓄意挑衅是错上加错",
+          "excerpt": "新华社北京4月17日电（记者马卓言、吴梦桐）就一艘日本自卫队舰艇进入台湾海峡，外交部发言人郭嘉昆17日在例行记者会上答问时表示，日方派自卫队舰艇进入台湾海峡耀武扬威、蓄意挑衅，是错上加错，再次暴露日方一些人企图武力介入台海、破坏台海和平稳定的危险图谋。 “日本自卫队舰艇进入台湾海峡活动，中国军队已依法依规处置。”郭嘉昆说，日本首相高市早苗发表涉台错误言论，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.170Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-3-7",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "我国成功发射高精度温室气体综合探测卫星",
+          "excerpt": "本报酒泉4月17日电 王晨宇、记者朱柏妍报道：4月17日12时10分，我国在酒泉卫星发射中心使用长征四号丙运载火箭，成功将高精度温室气体综合探测卫星发射升空，卫星顺利进入预定轨道…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=03&articleid=2026-04-18-3-7",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.170Z"
+          }
+        }
+      ],
+      "reason": "81cn only 8本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:4:要闻",
+      "issueDate": "2026-04-18",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-04-18-4-1",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "让指挥素养跟上现代战争演变",
+          "excerpt": "军队能打仗、打胜仗，指挥是一个决定性因素。指挥能力强不强，取决于指挥员综合指挥素养的高低。 《六韬》有言：兵者，国之大事，存亡之道，命在于将。指挥员的指挥素养，关乎作战能力，关乎战场胜负。指挥员的指挥素养必须跟上现代战争演变，真正做到战争形态发展到哪一步，指挥素养就跟进到哪一步。 与以往相比，现代战争形态加速演变，对指挥员指挥能力的要求越来越高。在科学技术…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=04&articleid=2026-04-18-4-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.170Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-4-3",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "“水兵讲堂”好课连台",
+          "excerpt": "“岛上常年湿热、毒虫肆虐、环境恶劣，我和战友们心往一处想、劲往一处使，一心扑在任务上……”暮春时节，海军勤务学院某学兵大队最新一期“水兵讲堂”如期开讲。学兵党海林登台分享了他在原单位的经历，台下学兵们听得津津有味，不时报以热烈掌声。这是该大队发挥学兵能动性，提升教育质效的典型事例。 “学兵们都来自基层部队，其中不乏多次参加大项任务的精武尖子。”该大队领导介…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=04&articleid=2026-04-18-4-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.170Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-04-18-4-4",
+          "source": "pla_daily",
+          "issueDate": "2026-04-18",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-04-18&paperNumber=04&articleid=2026-04-18-4-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T09:03:34.170Z"
+          }
+        }
+      ],
+      "reason": "81cn only 3本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    }
+  ],
+  "counts": {
+    "peopleArticles": 29,
+    "plaArticles": 23,
+    "matchedGroups": 5,
+    "matchedPeopleArticles": 6,
+    "matchedPlaArticles": 7,
+    "peopleOnlyArticles": 23,
+    "plaOnlyArticles": 16
+  }
+}
