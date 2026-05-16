@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "issueDate": "2026-05-13",
-  "generatedAt": "2026-05-16T20:22:49.045Z",
+  "generatedAt": "2026-05-16T22:14:11.108Z",
   "retentionDays": null,
   "frontPages": [
     1,
@@ -37,7 +37,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:41.930Z"
+              "extractedAt": "2026-05-16T22:14:04.623Z"
             }
           },
           {
@@ -52,7 +52,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:41.883Z"
+              "extractedAt": "2026-05-16T22:14:04.646Z"
             }
           },
           {
@@ -67,7 +67,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:41.920Z"
+              "extractedAt": "2026-05-16T22:14:04.632Z"
             }
           },
           {
@@ -82,7 +82,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:41.961Z"
+              "extractedAt": "2026-05-16T22:14:04.679Z"
             }
           },
           {
@@ -97,7 +97,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:41.910Z"
+              "extractedAt": "2026-05-16T22:14:04.628Z"
             }
           },
           {
@@ -112,7 +112,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:41.951Z"
+              "extractedAt": "2026-05-16T22:14:04.635Z"
             }
           }
         ],
@@ -121,7 +121,7 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T20:22:41.961Z"
+          "extractedAt": "2026-05-16T22:14:04.679Z"
         }
       },
       {
@@ -143,7 +143,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.272Z"
+              "extractedAt": "2026-05-16T22:14:04.996Z"
             }
           },
           {
@@ -158,7 +158,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.274Z"
+              "extractedAt": "2026-05-16T22:14:05.004Z"
             }
           },
           {
@@ -174,7 +174,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.261Z"
+              "extractedAt": "2026-05-16T22:14:05.053Z"
             }
           },
           {
@@ -189,7 +189,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.268Z"
+              "extractedAt": "2026-05-16T22:14:04.994Z"
             }
           },
           {
@@ -204,7 +204,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.273Z"
+              "extractedAt": "2026-05-16T22:14:04.997Z"
             }
           }
         ],
@@ -213,7 +213,7 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T20:22:42.275Z"
+          "extractedAt": "2026-05-16T22:14:05.053Z"
         }
       },
       {
@@ -237,7 +237,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.548Z"
+              "extractedAt": "2026-05-16T22:14:05.319Z"
             }
           },
           {
@@ -253,7 +253,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.534Z"
+              "extractedAt": "2026-05-16T22:14:05.215Z"
             }
           },
           {
@@ -268,7 +268,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.550Z"
+              "extractedAt": "2026-05-16T22:14:05.324Z"
             }
           },
           {
@@ -283,7 +283,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.533Z"
+              "extractedAt": "2026-05-16T22:14:05.270Z"
             }
           },
           {
@@ -299,7 +299,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.559Z"
+              "extractedAt": "2026-05-16T22:14:05.326Z"
             }
           },
           {
@@ -314,7 +314,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.552Z"
+              "extractedAt": "2026-05-16T22:14:05.324Z"
             }
           },
           {
@@ -329,7 +329,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.642Z"
+              "extractedAt": "2026-05-16T22:14:05.505Z"
             }
           }
         ],
@@ -338,7 +338,7 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T20:22:42.642Z"
+          "extractedAt": "2026-05-16T22:14:05.505Z"
         }
       },
       {
@@ -361,7 +361,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.922Z"
+              "extractedAt": "2026-05-16T22:14:05.813Z"
             }
           },
           {
@@ -376,7 +376,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.974Z"
+              "extractedAt": "2026-05-16T22:14:05.815Z"
             }
           },
           {
@@ -391,7 +391,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.964Z"
+              "extractedAt": "2026-05-16T22:14:05.828Z"
             }
           },
           {
@@ -406,7 +406,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.946Z"
+              "extractedAt": "2026-05-16T22:14:05.771Z"
             }
           },
           {
@@ -422,7 +422,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.972Z"
+              "extractedAt": "2026-05-16T22:14:05.830Z"
             }
           },
           {
@@ -438,7 +438,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:42.968Z"
+              "extractedAt": "2026-05-16T22:14:05.822Z"
             }
           },
           {
@@ -454,7 +454,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:43.026Z"
+              "extractedAt": "2026-05-16T22:14:05.988Z"
             }
           },
           {
@@ -469,7 +469,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:22:43.055Z"
+              "extractedAt": "2026-05-16T22:14:05.899Z"
             }
           }
         ],
@@ -478,14 +478,14 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T20:22:43.055Z"
+          "extractedAt": "2026-05-16T22:14:05.988Z"
         }
       }
     ],
     "extraction": {
       "status": "success",
       "method": "people-daily-html-v1",
-      "extractedAt": "2026-05-16T20:22:43.055Z"
+      "extractedAt": "2026-05-16T22:14:05.988Z"
     }
   },
   "plaIssue": {
@@ -512,7 +512,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.096Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -527,7 +527,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.096Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -542,7 +542,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.096Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -557,7 +557,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.096Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -572,7 +572,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.096Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           }
         ],
@@ -581,7 +581,7 @@
         "extraction": {
           "status": "success",
           "method": "pla-daily-index-json-v1",
-          "extractedAt": "2026-05-16T20:22:42.096Z"
+          "extractedAt": "2026-05-16T22:14:05.044Z"
         }
       },
       {
@@ -603,7 +603,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.096Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -618,7 +618,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.096Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -633,7 +633,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -648,7 +648,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           }
         ],
@@ -657,7 +657,7 @@
         "extraction": {
           "status": "success",
           "method": "pla-daily-index-json-v1",
-          "extractedAt": "2026-05-16T20:22:42.097Z"
+          "extractedAt": "2026-05-16T22:14:05.044Z"
         }
       },
       {
@@ -679,7 +679,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -695,7 +695,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -711,7 +711,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -726,7 +726,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -741,7 +741,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -756,7 +756,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           }
         ],
@@ -765,7 +765,7 @@
         "extraction": {
           "status": "success",
           "method": "pla-daily-index-json-v1",
-          "extractedAt": "2026-05-16T20:22:42.097Z"
+          "extractedAt": "2026-05-16T22:14:05.044Z"
         }
       },
       {
@@ -787,7 +787,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.044Z"
             }
           },
           {
@@ -802,7 +802,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.045Z"
             }
           },
           {
@@ -817,7 +817,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.045Z"
             }
           },
           {
@@ -832,7 +832,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.045Z"
             }
           },
           {
@@ -847,7 +847,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.045Z"
             }
           },
           {
@@ -862,7 +862,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.045Z"
             }
           },
           {
@@ -877,7 +877,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.045Z"
             }
           },
           {
@@ -892,7 +892,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.045Z"
             }
           },
           {
@@ -907,7 +907,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.045Z"
             }
           },
           {
@@ -922,7 +922,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.045Z"
             }
           },
           {
@@ -937,7 +937,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:22:42.097Z"
+              "extractedAt": "2026-05-16T22:14:05.045Z"
             }
           }
         ],
@@ -946,14 +946,14 @@
         "extraction": {
           "status": "success",
           "method": "pla-daily-index-json-v1",
-          "extractedAt": "2026-05-16T20:22:42.097Z"
+          "extractedAt": "2026-05-16T22:14:05.045Z"
         }
       }
     ],
     "extraction": {
       "status": "success",
       "method": "pla-daily-index-json-v1",
-      "extractedAt": "2026-05-16T20:22:42.100Z"
+      "extractedAt": "2026-05-16T22:14:05.047Z"
     }
   },
   "matchGroups": [
@@ -975,7 +975,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:41.930Z"
+            "extractedAt": "2026-05-16T22:14:04.623Z"
           }
         }
       ],
@@ -992,7 +992,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.096Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -1041,7 +1041,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:41.883Z"
+            "extractedAt": "2026-05-16T22:14:04.646Z"
           }
         }
       ],
@@ -1058,7 +1058,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.096Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -1107,7 +1107,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:41.920Z"
+            "extractedAt": "2026-05-16T22:14:04.632Z"
           }
         }
       ],
@@ -1124,7 +1124,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.096Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -1172,7 +1172,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.272Z"
+            "extractedAt": "2026-05-16T22:14:04.996Z"
           }
         }
       ],
@@ -1189,7 +1189,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.096Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -1238,7 +1238,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.274Z"
+            "extractedAt": "2026-05-16T22:14:05.004Z"
           }
         }
       ],
@@ -1255,7 +1255,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.096Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -1287,6 +1287,67 @@
       ]
     },
     {
+      "id": "matched:people_daily:30156523:pla_daily:2026-05-13-4-4",
+      "issueDate": "2026-05-13",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156523",
+          "source": "people_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "全国防灾减灾日暨防灾减灾宣传周主场活动举行",
+          "excerpt": "本报南昌5月12日电 （记者王丹、人民网记者郝萍）今年5月12日是第十八个全国防灾减灾日，主题是“人人讲安全、个个会应急——提高防灾减灾救灾能力”。国家防灾减灾救灾委员会办公室、应急管理部、中央广播电视总台、江西省人民政府于12日在江西省南昌市联合举行全国防灾减灾日暨防灾减灾宣传周主场活动。 本次活动以“一堂课、一场致敬、一次体验”为主线，通过开展全民安全…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156523.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T22:14:05.815Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-13-4-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-13",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "2026年全国防灾减灾日暨防灾减灾宣传周主场活动举行",
+          "excerpt": "新华社南昌5月12日电（记者黄韬铭、姚子云）今年5月12日是第18个全国防灾减灾日，主题是“人人讲安全、个个会应急——提高防灾减灾救灾能力”。记者从应急管理部获悉，全国防灾减灾日暨防灾减灾宣传周主场活动12日在江西省南昌市举行。 本次活动以“一堂课、一场致敬、一次体验”为主线，通过开展全民安全公开课、宣讲防灾避险感人事迹、模拟体验应急场景等形式，进一步普及…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T22:14:05.045Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 全国防灾减灾日暨防灾减灾宣传周主场活动举行。ナラティブ・完全タイトル一致: 全国防灾减灾日暨防灾减灾宣传周主场活动举行 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "为观众呈现了一堂"
+        ],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "全国防灾减灾日暨防灾减灾宣传周主场活动举行"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 61% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 61% / ナラティブ類似 0%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 全国防灾减灾日暨防灾减灾宣传周主场活动举行",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
       "id": "people_only:people_daily:30156506",
       "issueDate": "2026-05-13",
       "matchType": "people_only",
@@ -1304,7 +1365,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:41.961Z"
+            "extractedAt": "2026-05-16T22:14:04.679Z"
           }
         }
       ],
@@ -1344,7 +1405,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:41.910Z"
+            "extractedAt": "2026-05-16T22:14:04.628Z"
           }
         }
       ],
@@ -1384,7 +1445,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:41.951Z"
+            "extractedAt": "2026-05-16T22:14:04.635Z"
           }
         }
       ],
@@ -1425,7 +1486,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.261Z"
+            "extractedAt": "2026-05-16T22:14:05.053Z"
           }
         }
       ],
@@ -1465,7 +1526,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.268Z"
+            "extractedAt": "2026-05-16T22:14:04.994Z"
           }
         }
       ],
@@ -1505,7 +1566,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.273Z"
+            "extractedAt": "2026-05-16T22:14:04.997Z"
           }
         }
       ],
@@ -1547,7 +1608,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.548Z"
+            "extractedAt": "2026-05-16T22:14:05.319Z"
           }
         }
       ],
@@ -1588,7 +1649,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.534Z"
+            "extractedAt": "2026-05-16T22:14:05.215Z"
           }
         }
       ],
@@ -1628,7 +1689,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.550Z"
+            "extractedAt": "2026-05-16T22:14:05.324Z"
           }
         }
       ],
@@ -1668,7 +1729,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.533Z"
+            "extractedAt": "2026-05-16T22:14:05.270Z"
           }
         }
       ],
@@ -1709,7 +1770,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.559Z"
+            "extractedAt": "2026-05-16T22:14:05.326Z"
           }
         }
       ],
@@ -1749,7 +1810,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.552Z"
+            "extractedAt": "2026-05-16T22:14:05.324Z"
           }
         }
       ],
@@ -1789,7 +1850,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.642Z"
+            "extractedAt": "2026-05-16T22:14:05.505Z"
           }
         }
       ],
@@ -1830,47 +1891,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.922Z"
-          }
-        }
-      ],
-      "plaArticles": [],
-      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
-      "lexicalContrast": {
-        "peopleDailyTerms": [],
-        "plaDailyTerms": [],
-        "sharedTerms": []
-      },
-      "extraction": {
-        "status": "success",
-        "method": "not matched after adjudication",
-        "message": "未照合 / lexical 0% / narrative 0%"
-      },
-      "uncertaintyNotes": [
-        "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
-        "メタデータ・MATCHED非採用"
-      ]
-    },
-    {
-      "id": "people_only:people_daily:30156523",
-      "issueDate": "2026-05-13",
-      "matchType": "people_only",
-      "confidence": 0,
-      "peopleArticles": [
-        {
-          "id": "people_daily:30156523",
-          "source": "people_daily",
-          "issueDate": "2026-05-13",
-          "pageNumber": 4,
-          "pageName": "要闻",
-          "title": "全国防灾减灾日暨防灾减灾宣传周主场活动举行",
-          "excerpt": "本报南昌5月12日电 （记者王丹、人民网记者郝萍）今年5月12日是第十八个全国防灾减灾日，主题是“人人讲安全、个个会应急——提高防灾减灾救灾能力”。国家防灾减灾救灾委员会办公室、应急管理部、中央广播电视总台、江西省人民政府于12日在江西省南昌市联合举行全国防灾减灾日暨防灾减灾宣传周主场活动。 本次活动以“一堂课、一场致敬、一次体验”为主线，通过开展全民安全…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/13/content_30156523.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.974Z"
+            "extractedAt": "2026-05-16T22:14:05.813Z"
           }
         }
       ],
@@ -1910,7 +1931,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.964Z"
+            "extractedAt": "2026-05-16T22:14:05.828Z"
           }
         }
       ],
@@ -1950,7 +1971,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.946Z"
+            "extractedAt": "2026-05-16T22:14:05.771Z"
           }
         }
       ],
@@ -1991,7 +2012,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.972Z"
+            "extractedAt": "2026-05-16T22:14:05.830Z"
           }
         }
       ],
@@ -2032,7 +2053,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:42.968Z"
+            "extractedAt": "2026-05-16T22:14:05.822Z"
           }
         }
       ],
@@ -2073,7 +2094,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:43.026Z"
+            "extractedAt": "2026-05-16T22:14:05.988Z"
           }
         }
       ],
@@ -2113,7 +2134,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:22:43.055Z"
+            "extractedAt": "2026-05-16T22:14:05.899Z"
           }
         }
       ],
@@ -2154,7 +2175,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.096Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -2194,7 +2215,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.096Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -2234,7 +2255,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -2274,7 +2295,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -2314,7 +2335,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -2355,7 +2376,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -2396,7 +2417,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -2436,7 +2457,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -2476,7 +2497,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -2516,7 +2537,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -2556,7 +2577,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.044Z"
           }
         }
       ],
@@ -2596,7 +2617,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.045Z"
           }
         }
       ],
@@ -2636,7 +2657,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.045Z"
           }
         }
       ],
@@ -2676,7 +2697,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.045Z"
           }
         }
       ],
@@ -2716,47 +2737,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
-          }
-        }
-      ],
-      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
-      "lexicalContrast": {
-        "peopleDailyTerms": [],
-        "plaDailyTerms": [],
-        "sharedTerms": []
-      },
-      "extraction": {
-        "status": "success",
-        "method": "not matched after adjudication",
-        "message": "未照合 / lexical 0% / narrative 0%"
-      },
-      "uncertaintyNotes": [
-        "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
-        "メタデータ・MATCHED非採用"
-      ]
-    },
-    {
-      "id": "pla_only:pla_daily:2026-05-13-4-4",
-      "issueDate": "2026-05-13",
-      "matchType": "pla_only",
-      "confidence": 0,
-      "peopleArticles": [],
-      "plaArticles": [
-        {
-          "id": "pla_daily:2026-05-13-4-4",
-          "source": "pla_daily",
-          "issueDate": "2026-05-13",
-          "pageNumber": 4,
-          "pageName": "要闻",
-          "title": "2026年全国防灾减灾日暨防灾减灾宣传周主场活动举行",
-          "excerpt": "新华社南昌5月12日电（记者黄韬铭、姚子云）今年5月12日是第18个全国防灾减灾日，主题是“人人讲安全、个个会应急——提高防灾减灾救灾能力”。记者从应急管理部获悉，全国防灾减灾日暨防灾减灾宣传周主场活动12日在江西省南昌市举行。 本次活动以“一堂课、一场致敬、一次体验”为主线，通过开展全民安全公开课、宣讲防灾避险感人事迹、模拟体验应急场景等形式，进一步普及…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-13&paperNumber=04&articleid=2026-05-13-4-4",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.045Z"
           }
         }
       ],
@@ -2796,7 +2777,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.045Z"
           }
         }
       ],
@@ -2836,7 +2817,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.045Z"
           }
         }
       ],
@@ -2876,7 +2857,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.045Z"
           }
         }
       ],
@@ -2916,7 +2897,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.045Z"
           }
         }
       ],
@@ -2956,7 +2937,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:22:42.097Z"
+            "extractedAt": "2026-05-16T22:14:05.045Z"
           }
         }
       ],
@@ -2981,10 +2962,10 @@
   "counts": {
     "peopleArticles": 26,
     "plaArticles": 26,
-    "matchedGroups": 5,
-    "matchedPeopleArticles": 5,
-    "matchedPlaArticles": 5,
-    "peopleOnlyArticles": 21,
-    "plaOnlyArticles": 21
+    "matchedGroups": 6,
+    "matchedPeopleArticles": 6,
+    "matchedPlaArticles": 6,
+    "peopleOnlyArticles": 20,
+    "plaOnlyArticles": 20
   }
 }

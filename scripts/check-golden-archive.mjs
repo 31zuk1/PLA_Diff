@@ -7,7 +7,25 @@ const DEFAULT_ARCHIVE_DIR = path.join("public", "archive");
 const GLOBAL_MAX_MATCHED_GROUP_TOTAL = 4;
 const GLOBAL_MAX_MATCHED_SIDE_TOTAL = 2;
 
+const globalForbiddenMatchedPairs = [
+  {
+    label: "generic image-only card",
+    peopleAny: ["图片报道"],
+    plaAny: ["图片"],
+  },
+];
+
 const goldenDates = [
+  {
+    date: "2026-04-17",
+    groups: [
+      {
+        label: "Correct performance view learning education",
+        people: ["树立和践行正确政绩观"],
+        pla: ["以坚强党性涵养正确政绩观"],
+      },
+    ],
+  },
   {
     date: "2026-04-22",
     matchedGroups: 6,
@@ -42,6 +60,96 @@ const goldenDates = [
         label: "Yasukuni Shrine criticism",
         people: ["靖国神社献祭品"],
         pla: ["靖国神社"],
+      },
+    ],
+  },
+  {
+    date: "2026-04-23",
+    groups: [
+      {
+        label: "Volunteer remains return",
+        people: ["第十三批在韩中国人民志愿军烈士遗骸回国"],
+        pla: ["第十三批在韩中国人民志愿军烈士遗骸回国"],
+      },
+    ],
+  },
+  {
+    date: "2026-05-01",
+    groups: [
+      {
+        label: "Basic research foundation",
+        people: ["以更大力度更实举措加强基础研究"],
+        pla: ["以更大力度更实举措加强基础研究"],
+      },
+      {
+        label: "May Day editorial",
+        people: ["在新征程上团结奋斗不懈奋斗"],
+        pla: ["在新征程上团结奋斗不懈奋斗"],
+      },
+      {
+        label: "Most beautiful workers release",
+        people: ["联合发布2026年“最美职工”"],
+        pla: ["中央宣传部、全国总工会联合发布2026年“最美职工”"],
+      },
+    ],
+  },
+  {
+    date: "2026-05-03",
+    forbiddenPairs: [
+      {
+        label: "generic strong-country/struggle overlap",
+        peopleAny: ["怀爱国之心", "以不懈奋斗书写青春华章"],
+        plaAny: ["科技强国努力奋斗", "强国强军靠奋斗", "强国强军的时代洪流"],
+      },
+    ],
+  },
+  {
+    date: "2026-05-05",
+    groups: [
+      {
+        label: "Major country benefits the world",
+        people: ["大国之大利天下"],
+        pla: ["大国之大利天下"],
+      },
+      {
+        label: "May Fourth theme league day",
+        people: ["各地广泛开展五四主题团日活动"],
+        pla: ["五四主题团日活动"],
+      },
+    ],
+  },
+  {
+    date: "2026-05-10",
+    groups: [
+      {
+        label: "AI ethics review pilot",
+        people: ["人工智能科技伦理审查与服务先导计划启动"],
+        pla: ["工信部启动人工智能科技伦理审查与服务先导计划"],
+      },
+      {
+        label: "Shipbuilding industry statistics",
+        people: ["我国造船完工量同比增46%"],
+        pla: ["一季度我国造船三大指标全面增长"],
+      },
+    ],
+  },
+  {
+    date: "2026-05-13",
+    groups: [
+      {
+        label: "Disaster prevention week",
+        people: ["全国防灾减灾日暨防灾减灾宣传周主场活动举行"],
+        pla: ["2026年全国防灾减灾日暨防灾减灾宣传周主场活动举行"],
+      },
+    ],
+  },
+  {
+    date: "2026-05-14",
+    forbiddenPairs: [
+      {
+        label: "US-China people exchange vs China-Latin America community",
+        peopleAny: ["推动中美两国民间交往走深走实"],
+        plaAny: ["中国将不断推动共建中拉命运共同体五大工程走深走实"],
       },
     ],
   },
@@ -184,6 +292,7 @@ function readSnapshots(archiveDir) {
 
 function checkGlobalInvariants(snapshot, failures) {
   const matchedGroups = matched(snapshot);
+  const articleGroups = new Map();
 
   for (const group of matchedGroups) {
     const total = articles(group, "people").length + articles(group, "pla").length;
@@ -197,6 +306,26 @@ function checkGlobalInvariants(snapshot, failures) {
     if (people > GLOBAL_MAX_MATCHED_SIDE_TOTAL || pla > GLOBAL_MAX_MATCHED_SIDE_TOTAL) {
       failures.push(`${snapshot.issueDate}: matched group ${group.id} has side counts ${people}+${pla}.`);
     }
+
+    for (const side of ["people", "pla"]) {
+      for (const article of articles(group, side)) {
+        const articleId = articleKey(article);
+
+        if (!articleId) {
+          continue;
+        }
+
+        const key = `${side}:${articleId}`;
+        const groups = articleGroups.get(key) ?? {
+          side,
+          articleId,
+          title: stringOrUndefined(article.title || article.headline) ?? "(untitled)",
+          groupIds: [],
+        };
+        groups.groupIds.push(group.id);
+        articleGroups.set(key, groups);
+      }
+    }
   }
 
   const countedMatchedGroups = numberOrUndefined(snapshot.counts?.matchedGroups);
@@ -206,6 +335,20 @@ function checkGlobalInvariants(snapshot, failures) {
       `${snapshot.issueDate}: counts.matchedGroups=${countedMatchedGroups}, actual=${matchedGroups.length}.`,
     );
   }
+
+  for (const article of articleGroups.values()) {
+    const uniqueGroupIds = [...new Set(article.groupIds)];
+
+    if (uniqueGroupIds.length > 1) {
+      failures.push(
+        `${snapshot.issueDate}: ${article.side} article ${article.articleId} is reused across matched groups ${uniqueGroupIds.join(
+          ", ",
+        )} (${article.title}). Merge or choose the strongest relation.`,
+      );
+    }
+  }
+
+  checkForbiddenPairs(snapshot, globalForbiddenMatchedPairs, failures);
 }
 
 function checkGoldenDate(snapshot, expectation, failures) {
@@ -215,21 +358,25 @@ function checkGoldenDate(snapshot, expectation, failures) {
     ...matchedGroups.map((group) => articles(group, "people").length + articles(group, "pla").length),
   );
 
-  if (matchedGroups.length !== expectation.matchedGroups) {
+  if (expectation.matchedGroups !== undefined && matchedGroups.length !== expectation.matchedGroups) {
     failures.push(
       `${expectation.date}: expected ${expectation.matchedGroups} matched groups, got ${matchedGroups.length}.`,
     );
   }
 
-  if (maxGroupTotal > expectation.maxGroupTotal) {
+  if (expectation.maxGroupTotal !== undefined && maxGroupTotal > expectation.maxGroupTotal) {
     failures.push(
       `${expectation.date}: expected max matched group size <= ${expectation.maxGroupTotal}, got ${maxGroupTotal}.`,
     );
   }
 
-  for (const expectedGroup of expectation.groups) {
+  for (const expectedGroup of expectation.groups ?? []) {
     if (!findGroup(matchedGroups, expectedGroup)) {
-      failures.push(`${expectation.date}: missing golden group "${expectedGroup.label}".`);
+      failures.push(
+        `${expectation.date}: missing golden group "${expectedGroup.label}" (people: ${expectedGroup.people.join(
+          " / ",
+        )}; 81cn: ${expectedGroup.pla.join(" / ")}).`,
+      );
     }
   }
 
@@ -242,6 +389,8 @@ function checkGoldenDate(snapshot, expectation, failures) {
       failures.push(`${expectation.date}: forbidden term "${forbiddenTerm}" appears in matched group ${forbiddenGroup.id}.`);
     }
   }
+
+  checkForbiddenPairs(snapshot, expectation.forbiddenPairs ?? [], failures);
 }
 
 function findGroup(groups, expectedGroup) {
@@ -249,6 +398,39 @@ function findGroup(groups, expectedGroup) {
     expectedGroup.people.every((term) => titles(group, "people").some((title) => title.includes(term))) &&
     expectedGroup.pla.every((term) => titles(group, "pla").some((title) => title.includes(term))),
   );
+}
+
+function checkForbiddenPairs(snapshot, forbiddenPairs, failures) {
+  if (forbiddenPairs.length === 0) {
+    return;
+  }
+
+  const matchedGroups = matched(snapshot);
+
+  for (const forbiddenPair of forbiddenPairs) {
+    const forbiddenGroup = matchedGroups.find(
+      (group) =>
+        hasAnyTitle(group, "people", forbiddenPair.peopleAny) && hasAnyTitle(group, "pla", forbiddenPair.plaAny),
+    );
+
+    if (forbiddenGroup) {
+      failures.push(
+        `${snapshot.issueDate}: forbidden match "${forbiddenPair.label}" appears in group ${
+          forbiddenGroup.id
+        } (${describeGroupTitles(forbiddenGroup)}).`,
+      );
+    }
+  }
+}
+
+function hasAnyTitle(group, side, terms) {
+  return terms.some((term) => titles(group, side).some((title) => title.includes(term)));
+}
+
+function describeGroupTitles(group) {
+  const peopleTitles = titles(group, "people").join(" | ") || "no People's articles";
+  const plaTitles = titles(group, "pla").join(" | ") || "no 81cn articles";
+  return `People: ${peopleTitles}; 81cn: ${plaTitles}`;
 }
 
 function matched(snapshot) {
@@ -266,12 +448,30 @@ function articles(group, side) {
   return side === "people" ? asArray(group.peopleArticles) : asArray(group.plaArticles);
 }
 
+function articleKey(article) {
+  return (
+    stringOrUndefined(article.id) ??
+    stringOrUndefined(article.sourceArticleId) ??
+    stringOrUndefined(article.extraction?.sourceArticleId) ??
+    [
+      article.source ?? "article",
+      article.issueDate ?? article.date ?? "unknown",
+      article.pageNumber ?? article.page ?? "x",
+      article.title ?? article.headline ?? "(untitled)",
+    ].join(":")
+  );
+}
+
 function asArray(value) {
   return Array.isArray(value) ? value : [];
 }
 
 function numberOrUndefined(value) {
   return typeof value === "number" && Number.isFinite(value) ? value : undefined;
+}
+
+function stringOrUndefined(value) {
+  return typeof value === "string" && value.trim() ? value : undefined;
 }
 
 function printHelp() {

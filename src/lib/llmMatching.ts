@@ -2,6 +2,7 @@ import {
   compareMatchGroupsForDisplay,
   scoreArticlePair,
   type ArticleMatchGroup,
+  type ArticleMatchType,
   type ArticlePairScore,
   type MatchReason,
   type MatchableArticle,
@@ -16,6 +17,10 @@ import {
   isStrongShortAnchorTerm,
   type TopicFamily,
 } from "./llmMatching/anchors";
+import {
+  canonicalTitleForExactMatch,
+  canonicalTitleInfoForExactMatch,
+} from "./llmMatching/titleNormalization";
 
 export interface BuildJudgedMatchGroupsOptions {
   aggregateUnmatched?: boolean;
@@ -33,6 +38,8 @@ interface CandidatePair<TArticle extends MatchableArticle> {
   clusterKey?: string;
   topicFamily?: TopicFamily;
   titleMatchKind?: "exact" | "strong_phrase";
+  canonicalPeopleTitle: string;
+  canonicalPlaTitle: string;
 }
 
 interface LlmPairDecision {
@@ -53,6 +60,21 @@ const DEFAULT_CANDIDATE_LIMIT = 72;
 const DEFAULT_MIN_CANDIDATE_CONFIDENCE = 0.12;
 const DEFAULT_MIN_LLM_CONFIDENCE = 70;
 const OPENAI_CHAT_COMPLETIONS_URL = "https://api.openai.com/v1/chat/completions";
+const MAX_BOUNDED_MERGE_ARTICLES_PER_SIDE = 2;
+const MAX_BOUNDED_MERGE_TOTAL_ARTICLES = 4;
+const MAX_BOUNDED_MERGE_CANDIDATES = 8;
+
+interface MatchedPairComponentSummary {
+  peopleKeys: Set<string>;
+  plaKeys: Set<string>;
+  articleKeys: Set<string>;
+  peopleTitleKeys: Set<string>;
+  plaTitleKeys: Set<string>;
+  exactTitleKeys: Set<string>;
+  specificAnchorTerms: Set<string>;
+  hasExactTitleAnchor: boolean;
+  hasSpecificTitleAnchor: boolean;
+}
 
 declare global {
   var __PLA_DIFF_LLM_MATCH_CACHE__: Map<string, LlmBatchResult> | undefined;
@@ -152,10 +174,13 @@ function candidateFromPair<TArticle extends MatchableArticle>(
   ].filter(uniqueTerm).slice(0, 8);
   const anchorScore = sharedAnchorScore(directAnchorTerms);
   const titleMatchKind = titleMatchKindForPair(pair, directAnchorTerms);
+  const canonicalPeopleTitle = canonicalTitleForMatch(pair.peopleArticle);
+  const canonicalPlaTitle = canonicalTitleForMatch(pair.plaArticle);
   const clusterKey =
     titleMatchKind === "exact"
       ? exactTitleClusterKey(pair.peopleArticle, pair.plaArticle)
-      : clusterKeyForSharedTerms(directAnchorTerms);
+      : clusterKeyForSharedTerms(directAnchorTerms) ??
+        repeatedTitleClusterKey(canonicalPeopleTitle, canonicalPlaTitle);
 
   if (!topicFamily && !titleMatchKind && usefulSharedTerms.length === 0 && pair.confidence < 0.2) {
     return undefined;
@@ -169,6 +194,8 @@ function candidateFromPair<TArticle extends MatchableArticle>(
     clusterKey,
     topicFamily,
     titleMatchKind,
+    canonicalPeopleTitle,
+    canonicalPlaTitle,
   };
 }
 
@@ -401,7 +428,7 @@ function selectMatchedPairs<TArticle extends MatchableArticle>(
   llmResult: LlmBatchResult | undefined,
   minLlmConfidence: number,
   forceLocal: boolean,
-) {
+): CandidatePair<TArticle>[] {
   const decisionsByPairId = new Map((llmResult?.decisions ?? []).map((decision) => [decision.pairId, decision]));
   const selected: CandidatePair<TArticle>[] = [];
   const rankedCandidates = [...candidates].sort((left, right) => {
@@ -434,13 +461,44 @@ function selectMatchedPairs<TArticle extends MatchableArticle>(
     selected.push(candidate);
   }
 
-  return selected;
+  return pruneCrossExactTitleBridges(uniqueCandidates(selected));
+}
+
+function pruneCrossExactTitleBridges<TArticle extends MatchableArticle>(
+  candidates: CandidatePair<TArticle>[],
+): CandidatePair<TArticle>[] {
+  const exactTitleByArticleKey = new Map<string, string>();
+
+  for (const candidate of candidates) {
+    if (
+      candidate.titleMatchKind === "exact" &&
+      candidate.canonicalPeopleTitle &&
+      candidate.canonicalPeopleTitle === candidate.canonicalPlaTitle
+    ) {
+      exactTitleByArticleKey.set(
+        articleKey(candidate.pair.peopleArticle),
+        candidate.canonicalPeopleTitle,
+      );
+      exactTitleByArticleKey.set(articleKey(candidate.pair.plaArticle), candidate.canonicalPlaTitle);
+    }
+  }
+
+  return candidates.filter((candidate) => {
+    if (candidate.titleMatchKind === "exact") {
+      return true;
+    }
+
+    const peopleExactTitle = exactTitleByArticleKey.get(articleKey(candidate.pair.peopleArticle));
+    const plaExactTitle = exactTitleByArticleKey.get(articleKey(candidate.pair.plaArticle));
+
+    return !peopleExactTitle || !plaExactTitle || peopleExactTitle === plaExactTitle;
+  });
 }
 
 function buildMatchedGroupsFromPairs<TArticle extends MatchableArticle>(
   candidates: CandidatePair<TArticle>[],
   llmResult: LlmBatchResult | undefined,
-) {
+): ArticleMatchGroup<TArticle>[] {
   if (candidates.length === 0) {
     return [];
   }
@@ -456,16 +514,421 @@ function buildMatchedGroupsFromPairs<TArticle extends MatchableArticle>(
     groupedPairs.set(key, group);
   }
 
-  return [...groupedPairs.values()].map((pairs) =>
-    componentToMatchedGroup(
-      pairs.sort(
-        (left, right) =>
-          acceptedPairConfidence(right, decisionsByPairId.get(right.id)) -
-            acceptedPairConfidence(left, decisionsByPairId.get(left.id)) ||
-          left.id.localeCompare(right.id),
-      ),
-      decisionsByPairId,
+  const seedComponents = [...groupedPairs.values()].flatMap((pairs) =>
+    splitMatchedPairSeedComponent(pairs, decisionsByPairId),
+  );
+  const mergedComponents = boundedMergeMatchedPairComponents(seedComponents, decisionsByPairId);
+  const resolvedComponents = resolveOverlappingMatchedPairComponents(
+    mergedComponents,
+    decisionsByPairId,
+  );
+
+  return resolvedComponents.map((pairs) => componentToMatchedGroup(pairs, decisionsByPairId));
+}
+
+function splitMatchedPairSeedComponent<TArticle extends MatchableArticle>(
+  candidates: CandidatePair<TArticle>[],
+  decisionsByPairId: Map<string, LlmPairDecision>,
+): CandidatePair<TArticle>[][] {
+  const connectedComponents = splitCandidatesByArticleOverlap(candidates, decisionsByPairId);
+
+  return connectedComponents.flatMap((component) =>
+    splitOversizedMatchedPairComponent(component, decisionsByPairId),
+  );
+}
+
+function splitCandidatesByArticleOverlap<TArticle extends MatchableArticle>(
+  candidates: CandidatePair<TArticle>[],
+  decisionsByPairId: Map<string, LlmPairDecision>,
+): CandidatePair<TArticle>[][] {
+  const components: CandidatePair<TArticle>[][] = [];
+
+  for (const candidate of sortMatchedPairComponent(uniqueCandidates(candidates), decisionsByPairId)) {
+    const candidateArticleKeys = candidateArticleKeySet(candidate);
+    const overlappingIndexes: number[] = [];
+
+    for (let index = 0; index < components.length; index += 1) {
+      const componentArticleKeys = summarizeMatchedPairComponent(components[index]).articleKeys;
+
+      if (hasSharedValue(candidateArticleKeys, componentArticleKeys)) {
+        overlappingIndexes.push(index);
+      }
+    }
+
+    if (overlappingIndexes.length === 0) {
+      components.push([candidate]);
+      continue;
+    }
+
+    const [targetIndex, ...mergeIndexes] = overlappingIndexes;
+    components[targetIndex].push(candidate);
+
+    for (const index of mergeIndexes.reverse()) {
+      components[targetIndex].push(...components[index]);
+      components.splice(index, 1);
+    }
+  }
+
+  return components.map((component) => sortMatchedPairComponent(component, decisionsByPairId));
+}
+
+function splitOversizedMatchedPairComponent<TArticle extends MatchableArticle>(
+  candidates: CandidatePair<TArticle>[],
+  decisionsByPairId: Map<string, LlmPairDecision>,
+): CandidatePair<TArticle>[][] {
+  if (isMatchedPairComponentWithinBounds(candidates)) {
+    return [sortMatchedPairComponent(candidates, decisionsByPairId)];
+  }
+
+  const components: CandidatePair<TArticle>[][] = [];
+
+  for (const candidate of sortMatchedPairComponent(candidates, decisionsByPairId)) {
+    const targetComponent = components.find((component) =>
+      canAddCandidateToComponent(component, candidate),
+    );
+
+    if (targetComponent) {
+      targetComponent.push(candidate);
+    } else {
+      components.push([candidate]);
+    }
+  }
+
+  return components.map((component) => sortMatchedPairComponent(component, decisionsByPairId));
+}
+
+function canAddCandidateToComponent<TArticle extends MatchableArticle>(
+  component: CandidatePair<TArticle>[],
+  candidate: CandidatePair<TArticle>,
+) {
+  const candidateKeys = candidateArticleKeySet(candidate);
+  const summary = summarizeMatchedPairComponent(component);
+  const combined = [...component, candidate];
+
+  return (
+    hasSharedValue(candidateKeys, summary.articleKeys) &&
+    isMatchedPairComponentWithinBounds(combined)
+  );
+}
+
+function resolveOverlappingMatchedPairComponents<TArticle extends MatchableArticle>(
+  components: CandidatePair<TArticle>[][],
+  decisionsByPairId: Map<string, LlmPairDecision>,
+): CandidatePair<TArticle>[][] {
+  const kept: CandidatePair<TArticle>[][] = [];
+  const usedArticleKeys = new Set<string>();
+  const rankedComponents = components
+    .filter((component) => component.length > 0)
+    .map((component) => sortMatchedPairComponent(uniqueCandidates(component), decisionsByPairId))
+    .sort(
+      (left, right) =>
+        matchedPairComponentSelectionScore(right, decisionsByPairId) -
+          matchedPairComponentSelectionScore(left, decisionsByPairId) ||
+        (left[0]?.id ?? "").localeCompare(right[0]?.id ?? ""),
+    );
+
+  for (const component of rankedComponents) {
+    const articleKeys = summarizeMatchedPairComponent(component).articleKeys;
+
+    if (hasSharedValue(articleKeys, usedArticleKeys)) {
+      continue;
+    }
+
+    kept.push(component);
+
+    for (const articleKeyValue of articleKeys) {
+      usedArticleKeys.add(articleKeyValue);
+    }
+  }
+
+  return kept;
+}
+
+function boundedMergeMatchedPairComponents<TArticle extends MatchableArticle>(
+  components: CandidatePair<TArticle>[][],
+  decisionsByPairId: Map<string, LlmPairDecision>,
+): CandidatePair<TArticle>[][] {
+  const merged = components
+    .map((component) => sortMatchedPairComponent(component, decisionsByPairId))
+    .sort(
+      (left, right) =>
+        matchedPairComponentPriority(right, decisionsByPairId) -
+          matchedPairComponentPriority(left, decisionsByPairId) ||
+        (left[0]?.id ?? "").localeCompare(right[0]?.id ?? ""),
+    );
+  let changed = true;
+
+  while (changed) {
+    changed = false;
+
+    for (let leftIndex = 0; leftIndex < merged.length; leftIndex += 1) {
+      for (let rightIndex = leftIndex + 1; rightIndex < merged.length; rightIndex += 1) {
+        if (!shouldBoundedMergeComponents(merged[leftIndex], merged[rightIndex])) {
+          continue;
+        }
+
+        merged[leftIndex] = sortMatchedPairComponent(
+          uniqueCandidates([...merged[leftIndex], ...merged[rightIndex]]),
+          decisionsByPairId,
+        );
+        merged.splice(rightIndex, 1);
+        changed = true;
+        break;
+      }
+
+      if (changed) {
+        break;
+      }
+    }
+  }
+
+  return merged;
+}
+
+function shouldBoundedMergeComponents<TArticle extends MatchableArticle>(
+  leftComponent: CandidatePair<TArticle>[],
+  rightComponent: CandidatePair<TArticle>[],
+) {
+  const left = summarizeMatchedPairComponent(leftComponent);
+  const right = summarizeMatchedPairComponent(rightComponent);
+
+  if (!isBoundedMergedComponentSize(left, right, leftComponent.length + rightComponent.length)) {
+    return false;
+  }
+
+  if (hasSharedExactTitleKey(left, right)) {
+    return true;
+  }
+
+  if (hasDuplicateTitleWithSharedCounterpart(left, right)) {
+    return true;
+  }
+
+  if (
+    hasSharedValue(left.articleKeys, right.articleKeys) &&
+    hasSharedValue(left.specificAnchorTerms, right.specificAnchorTerms)
+  ) {
+    return true;
+  }
+
+  return (
+    hasSharedValue(left.articleKeys, right.articleKeys) &&
+    (left.hasExactTitleAnchor || right.hasExactTitleAnchor) &&
+    (left.hasSpecificTitleAnchor || right.hasSpecificTitleAnchor)
+  );
+}
+
+function summarizeMatchedPairComponent<TArticle extends MatchableArticle>(
+  component: CandidatePair<TArticle>[],
+): MatchedPairComponentSummary {
+  const summary: MatchedPairComponentSummary = {
+    peopleKeys: new Set(),
+    plaKeys: new Set(),
+    articleKeys: new Set(),
+    peopleTitleKeys: new Set(),
+    plaTitleKeys: new Set(),
+    exactTitleKeys: new Set(),
+    specificAnchorTerms: new Set(),
+    hasExactTitleAnchor: false,
+    hasSpecificTitleAnchor: false,
+  };
+
+  for (const candidate of component) {
+    const peopleKey = articleKey(candidate.pair.peopleArticle);
+    const plaKey = articleKey(candidate.pair.plaArticle);
+
+    summary.peopleKeys.add(peopleKey);
+    summary.plaKeys.add(plaKey);
+    summary.articleKeys.add(peopleKey);
+    summary.articleKeys.add(plaKey);
+    addOptionalSetValue(summary.peopleTitleKeys, candidate.canonicalPeopleTitle);
+    addOptionalSetValue(summary.plaTitleKeys, candidate.canonicalPlaTitle);
+
+    if (
+      candidate.titleMatchKind === "exact" &&
+      candidate.canonicalPeopleTitle &&
+      candidate.canonicalPeopleTitle === candidate.canonicalPlaTitle
+    ) {
+      summary.exactTitleKeys.add(candidate.canonicalPeopleTitle);
+      summary.hasExactTitleAnchor = true;
+      summary.hasSpecificTitleAnchor = true;
+      continue;
+    }
+
+    for (const term of candidate.usefulSharedTerms) {
+      if (isSpecificMergeAnchorTerm(term)) {
+        summary.specificAnchorTerms.add(term);
+      }
+    }
+
+    if (hasConcreteMergeSignal(candidate)) {
+      summary.hasSpecificTitleAnchor = true;
+    }
+  }
+
+  return summary;
+}
+
+function isMatchedPairComponentWithinBounds<TArticle extends MatchableArticle>(
+  component: CandidatePair<TArticle>[],
+) {
+  const summary = summarizeMatchedPairComponent(component);
+
+  return (
+    summary.peopleKeys.size <= MAX_BOUNDED_MERGE_ARTICLES_PER_SIDE &&
+    summary.plaKeys.size <= MAX_BOUNDED_MERGE_ARTICLES_PER_SIDE &&
+    summary.peopleKeys.size + summary.plaKeys.size <= MAX_BOUNDED_MERGE_TOTAL_ARTICLES &&
+    component.length <= MAX_BOUNDED_MERGE_CANDIDATES
+  );
+}
+
+function isBoundedMergedComponentSize(
+  left: MatchedPairComponentSummary,
+  right: MatchedPairComponentSummary,
+  candidateCount: number,
+) {
+  const peopleCount = unionSize(left.peopleKeys, right.peopleKeys);
+  const plaCount = unionSize(left.plaKeys, right.plaKeys);
+
+  return (
+    peopleCount <= MAX_BOUNDED_MERGE_ARTICLES_PER_SIDE &&
+    plaCount <= MAX_BOUNDED_MERGE_ARTICLES_PER_SIDE &&
+    peopleCount + plaCount <= MAX_BOUNDED_MERGE_TOTAL_ARTICLES &&
+    candidateCount <= MAX_BOUNDED_MERGE_CANDIDATES
+  );
+}
+
+function hasSharedExactTitleKey(
+  left: MatchedPairComponentSummary,
+  right: MatchedPairComponentSummary,
+) {
+  return hasSharedValue(left.exactTitleKeys, right.exactTitleKeys);
+}
+
+function hasDuplicateTitleWithSharedCounterpart(
+  left: MatchedPairComponentSummary,
+  right: MatchedPairComponentSummary,
+) {
+  return (
+    (hasSharedValue(left.plaKeys, right.plaKeys) &&
+      hasSharedSpecificTitleValue(left.peopleTitleKeys, right.peopleTitleKeys)) ||
+    (hasSharedValue(left.peopleKeys, right.peopleKeys) &&
+      hasSharedSpecificTitleValue(left.plaTitleKeys, right.plaTitleKeys))
+  );
+}
+
+function hasConcreteMergeSignal<TArticle extends MatchableArticle>(
+  candidate: CandidatePair<TArticle>,
+) {
+  return (
+    candidate.titleMatchKind === "exact" ||
+    candidate.usefulSharedTerms.some(isSpecificMergeAnchorTerm) ||
+    candidate.usefulSharedTerms.some(isStrongShortAnchorTerm)
+  );
+}
+
+function isSpecificMergeAnchorTerm(term: string) {
+  return CLUSTERABLE_ANCHOR_TERMS.has(term) && !GENERIC_JUDGE_TERMS.has(term);
+}
+
+function hasSharedSpecificTitleValue(left: Set<string>, right: Set<string>) {
+  for (const value of left) {
+    if (right.has(value) && isSpecificMergeTitleKey(value)) {
+      return true;
+    }
+  }
+
+  return false;
+}
+
+function isSpecificMergeTitleKey(value: string) {
+  return value.length >= 8 && !GENERIC_JUDGE_TERMS.has(value);
+}
+
+function hasSharedValue<TValue>(left: Set<TValue>, right: Set<TValue>) {
+  for (const value of left) {
+    if (right.has(value)) {
+      return true;
+    }
+  }
+
+  return false;
+}
+
+function unionSize<TValue>(left: Set<TValue>, right: Set<TValue>) {
+  const union = new Set(left);
+
+  for (const value of right) {
+    union.add(value);
+  }
+
+  return union.size;
+}
+
+function addOptionalSetValue(target: Set<string>, value: string | undefined) {
+  if (value) {
+    target.add(value);
+  }
+}
+
+function candidateArticleKeySet<TArticle extends MatchableArticle>(
+  candidate: CandidatePair<TArticle>,
+) {
+  return new Set([
+    articleKey(candidate.pair.peopleArticle),
+    articleKey(candidate.pair.plaArticle),
+  ]);
+}
+
+function uniqueCandidates<TArticle extends MatchableArticle>(
+  candidates: CandidatePair<TArticle>[],
+) {
+  const byId = new Map<string, CandidatePair<TArticle>>();
+
+  for (const candidate of candidates) {
+    byId.set(candidate.id, candidate);
+  }
+
+  return [...byId.values()];
+}
+
+function sortMatchedPairComponent<TArticle extends MatchableArticle>(
+  component: CandidatePair<TArticle>[],
+  decisionsByPairId: Map<string, LlmPairDecision>,
+) {
+  return [...component].sort(
+    (left, right) =>
+      acceptedPairConfidence(right, decisionsByPairId.get(right.id)) -
+        acceptedPairConfidence(left, decisionsByPairId.get(left.id)) ||
+      left.id.localeCompare(right.id),
+  );
+}
+
+function matchedPairComponentPriority<TArticle extends MatchableArticle>(
+  component: CandidatePair<TArticle>[],
+  decisionsByPairId: Map<string, LlmPairDecision>,
+) {
+  return Math.max(
+    ...component.map((candidate) =>
+      acceptedPairConfidence(candidate, decisionsByPairId.get(candidate.id)),
     ),
+  );
+}
+
+function matchedPairComponentSelectionScore<TArticle extends MatchableArticle>(
+  component: CandidatePair<TArticle>[],
+  decisionsByPairId: Map<string, LlmPairDecision>,
+) {
+  const summary = summarizeMatchedPairComponent(component);
+  const exactBoost = summary.hasExactTitleAnchor ? 0.08 : 0;
+  const specificBoost = summary.hasSpecificTitleAnchor ? 0.03 : 0;
+  const boundedNToMBoost = component.length > 1 && isMatchedPairComponentWithinBounds(component) ? 0.02 : 0;
+
+  return (
+    matchedPairComponentPriority(component, decisionsByPairId) +
+    exactBoost +
+    specificBoost +
+    boundedNToMBoost
   );
 }
 
@@ -515,7 +978,7 @@ function componentToMatchedGroup<TArticle extends MatchableArticle>(
 
   return {
     id: `matched:${uniqueArticles(candidates.map((candidate) => candidate.pair.peopleArticle)).map(articleKey).join("+")}:${uniqueArticles(candidates.map((candidate) => candidate.pair.plaArticle)).map(articleKey).join("+")}`,
-    matchType: topCandidate.pair.matchType,
+    matchType: inferredMatchedGroupType(candidates),
     confidence,
     lexicalSimilarity: Math.max(...candidates.map((candidate) => candidate.pair.lexicalSimilarity)),
     narrativeSimilarity: Math.max(...candidates.map((candidate) => candidate.pair.narrativeSimilarity)),
@@ -530,6 +993,34 @@ function componentToMatchedGroup<TArticle extends MatchableArticle>(
     peopleOnlyTerms: candidates.flatMap((candidate) => candidate.pair.peopleOnlyTerms).filter(uniqueTerm).slice(0, 8),
     plaOnlyTerms: candidates.flatMap((candidate) => candidate.pair.plaOnlyTerms).filter(uniqueTerm).slice(0, 8),
   };
+}
+
+function inferredMatchedGroupType<TArticle extends MatchableArticle>(
+  candidates: CandidatePair<TArticle>[],
+): ArticleMatchType {
+  const topCandidate = candidates[0];
+
+  if (!topCandidate) {
+    return "uncertain";
+  }
+
+  if (candidates.some((candidate) => candidate.titleMatchKind === "exact")) {
+    return "same_event";
+  }
+
+  if (candidates.some((candidate) => candidate.topicFamily === "food_security_law")) {
+    return "same_policy";
+  }
+
+  if (candidates.some((candidate) => candidate.titleMatchKind === "strong_phrase")) {
+    return "same_event";
+  }
+
+  if (topCandidate.pair.matchType === "people_only" || topCandidate.pair.matchType === "pla_only") {
+    return "uncertain";
+  }
+
+  return topCandidate.pair.matchType;
 }
 
 function matchedPairReasons<TArticle extends MatchableArticle>(
@@ -686,7 +1177,7 @@ function llmCacheKey<TArticle extends MatchableArticle>(
   candidates: CandidatePair<TArticle>[],
 ) {
   return [
-    "peoplepla-match-v3-specific-target",
+    "peoplepla-match-v4-specific-target",
     model,
     candidates
       .map(
@@ -709,14 +1200,16 @@ function isUsefulJudgeTerm(term: string) {
 }
 
 function sharedTitleTerms(left: MatchableArticle, right: MatchableArticle) {
-  const leftTitle = normalizeTitleForMatch(articleTitle(left));
-  const rightTitle = normalizeTitleForMatch(articleTitle(right));
+  const leftTitleInfo = canonicalTitleInfoForMatch(left);
+  const rightTitleInfo = canonicalTitleInfoForMatch(right);
+  const leftTitle = leftTitleInfo.title;
+  const rightTitle = rightTitleInfo.title;
 
   if (!leftTitle || !rightTitle) {
     return [];
   }
 
-  if (leftTitle === rightTitle) {
+  if (leftTitle === rightTitle && !hasConflictingLeadingYear(leftTitleInfo, rightTitleInfo)) {
     return [articleTitle(left).trim()];
   }
 
@@ -791,14 +1284,40 @@ function clusterKeyForSharedTerms(terms: string[]) {
 }
 
 function exactTitleClusterKey(left: MatchableArticle, right: MatchableArticle) {
-  const leftTitle = normalizeTitleForMatch(articleTitle(left));
-  const rightTitle = normalizeTitleForMatch(articleTitle(right));
+  const leftTitleInfo = canonicalTitleInfoForMatch(left);
+  const rightTitleInfo = canonicalTitleInfoForMatch(right);
 
-  if (!leftTitle || leftTitle !== rightTitle) {
+  if (
+    !leftTitleInfo.title ||
+    leftTitleInfo.title !== rightTitleInfo.title ||
+    hasConflictingLeadingYear(leftTitleInfo, rightTitleInfo)
+  ) {
     return undefined;
   }
 
-  return `exact-title:${leftTitle}`;
+  return `exact-title:${leftTitleInfo.title}`;
+}
+
+function repeatedTitleClusterKey(
+  peopleTitle: string,
+  plaTitle: string,
+) {
+  const hasSpecificPeopleTitle = isSpecificMergeTitleKey(peopleTitle);
+  const hasSpecificPlaTitle = isSpecificMergeTitleKey(plaTitle);
+
+  if (hasSpecificPeopleTitle && hasSpecificPlaTitle) {
+    return `title-pair:${peopleTitle}:${plaTitle}`;
+  }
+
+  if (hasSpecificPlaTitle) {
+    return `pla-title:${plaTitle}`;
+  }
+
+  if (hasSpecificPeopleTitle) {
+    return `people-title:${peopleTitle}`;
+  }
+
+  return undefined;
 }
 
 function sharedTopicFamily(left: MatchableArticle, right: MatchableArticle): TopicFamily | undefined {
@@ -827,6 +1346,18 @@ function articleTopicFamilies(article: MatchableArticle) {
     families.add("correct_political_achievement");
   }
 
+  if (/五四主题团日活动/.test(text)) {
+    families.add("youth_day_league_activity");
+  }
+
+  if (/人工智能科技伦理审查与服务先导计划/.test(text)) {
+    families.add("ai_ethics_review");
+  }
+
+  if (/造船/.test(text) && /完工量|新接订单量|手持订单量|三大指标|同比增|全面增长/.test(text)) {
+    families.add("shipbuilding_industry_stats");
+  }
+
   if (
     /中美|美中/.test(text) &&
     /关系|经贸|民间|人文|青年|友谊|正确相处之道|特朗普|美国企业|加州|经贸磋商|元首会晤|访华|国事访问|匹克球/.test(
@@ -843,11 +1374,14 @@ function titleMatchKindForPair<TArticle extends MatchableArticle>(
   pair: ArticlePairScore<TArticle>,
   usefulSharedTerms: string[],
 ): CandidatePair<TArticle>["titleMatchKind"] {
-  if (isExactUsefulTitleMatch(pair.peopleArticle, pair.plaArticle)) {
+  if (isExactUsefulTitleMatch(pair)) {
     return "exact";
   }
 
-  const strongestTerm = usefulSharedTerms[0] ?? "";
+  const strongestTerm =
+    [...usefulSharedTerms].sort(
+      (left, right) => anchorTermScore(right) - anchorTermScore(left) || right.length - left.length,
+    )[0] ?? "";
 
   if (
     (strongestTerm.length >= 6 || isStrongShortAnchorTerm(strongestTerm)) &&
@@ -860,15 +1394,30 @@ function titleMatchKindForPair<TArticle extends MatchableArticle>(
   return undefined;
 }
 
-function isExactUsefulTitleMatch(left: MatchableArticle, right: MatchableArticle) {
-  const leftTitle = normalizeTitleForMatch(articleTitle(left));
-  const rightTitle = normalizeTitleForMatch(articleTitle(right));
+function isExactUsefulTitleMatch<TArticle extends MatchableArticle>(
+  pair: ArticlePairScore<TArticle>,
+) {
+  const leftTitleInfo = canonicalTitleInfoForMatch(pair.peopleArticle);
+  const rightTitleInfo = canonicalTitleInfoForMatch(pair.plaArticle);
 
-  return leftTitle.length >= 8 && leftTitle === rightTitle;
+  if (
+    !leftTitleInfo.title ||
+    leftTitleInfo.title !== rightTitleInfo.title ||
+    hasConflictingLeadingYear(leftTitleInfo, rightTitleInfo)
+  ) {
+    return false;
+  }
+
+  return (
+    leftTitleInfo.title.length >= 8 ||
+    (leftTitleInfo.title.length >= 6 &&
+      pair.lexicalSimilarity >= 0.82 &&
+      pair.metadataScore >= 0.72)
+  );
 }
 
 function isIgnorableArticleTitle(article: MatchableArticle) {
-  const normalized = normalizeTitleForMatch(articleTitle(article));
+  const normalized = canonicalTitleForMatch(article);
 
   return (
     normalized === "图片" ||
@@ -882,10 +1431,23 @@ function cleanSharedTitleTerm(value: string) {
   return value.replace(/^动(?=.{5,})/, "").trim();
 }
 
+function canonicalTitleForMatch(article: MatchableArticle) {
+  return normalizeTitleForMatch(articleTitle(article));
+}
+
+function canonicalTitleInfoForMatch(article: MatchableArticle) {
+  return canonicalTitleInfoForExactMatch(articleTitle(article));
+}
+
 function normalizeTitleForMatch(value: string) {
-  return value
-    .replace(/[\s\-—–·・:：,，.。"'“”‘’（）()《》【】、]/g, "")
-    .trim();
+  return canonicalTitleForExactMatch(value);
+}
+
+function hasConflictingLeadingYear(
+  left: { leadingYear?: string },
+  right: { leadingYear?: string },
+) {
+  return Boolean(left.leadingYear && right.leadingYear && left.leadingYear !== right.leadingYear);
 }
 
 function longestCommonSubstring(left: string, right: string) {

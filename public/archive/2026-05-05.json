@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "issueDate": "2026-05-05",
-  "generatedAt": "2026-05-16T20:21:19.136Z",
+  "generatedAt": "2026-05-16T22:28:27.313Z",
   "retentionDays": null,
   "frontPages": [
     1,
@@ -38,7 +38,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:11.627Z"
+              "extractedAt": "2026-05-16T22:28:21.142Z"
             }
           },
           {
@@ -55,7 +55,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:11.630Z"
+              "extractedAt": "2026-05-16T22:28:21.177Z"
             }
           },
           {
@@ -72,7 +72,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:11.585Z"
+              "extractedAt": "2026-05-16T22:28:21.151Z"
             }
           },
           {
@@ -88,7 +88,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:11.607Z"
+              "extractedAt": "2026-05-16T22:28:21.113Z"
             }
           },
           {
@@ -103,7 +103,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:11.631Z"
+              "extractedAt": "2026-05-16T22:28:21.246Z"
             }
           },
           {
@@ -119,7 +119,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:11.609Z"
+              "extractedAt": "2026-05-16T22:28:21.147Z"
             }
           },
           {
@@ -135,7 +135,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:11.612Z"
+              "extractedAt": "2026-05-16T22:28:21.146Z"
             }
           }
         ],
@@ -144,7 +144,7 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T20:21:11.631Z"
+          "extractedAt": "2026-05-16T22:28:21.246Z"
         }
       },
       {
@@ -167,7 +167,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:11.943Z"
+              "extractedAt": "2026-05-16T22:28:21.691Z"
             }
           },
           {
@@ -183,7 +183,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:11.915Z"
+              "extractedAt": "2026-05-16T22:28:21.630Z"
             }
           },
           {
@@ -199,7 +199,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:11.940Z"
+              "extractedAt": "2026-05-16T22:28:21.792Z"
             }
           },
           {
@@ -215,7 +215,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.046Z"
+              "extractedAt": "2026-05-16T22:28:21.679Z"
             }
           },
           {
@@ -232,7 +232,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:11.887Z"
+              "extractedAt": "2026-05-16T22:28:21.627Z"
             }
           }
         ],
@@ -241,7 +241,7 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T20:21:12.046Z"
+          "extractedAt": "2026-05-16T22:28:21.792Z"
         }
       },
       {
@@ -264,7 +264,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.311Z"
+              "extractedAt": "2026-05-16T22:28:22.027Z"
             }
           },
           {
@@ -280,7 +280,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.346Z"
+              "extractedAt": "2026-05-16T22:28:22.057Z"
             }
           },
           {
@@ -297,7 +297,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.343Z"
+              "extractedAt": "2026-05-16T22:28:22.059Z"
             }
           },
           {
@@ -312,7 +312,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.339Z"
+              "extractedAt": "2026-05-16T22:28:22.053Z"
             }
           },
           {
@@ -327,7 +327,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.341Z"
+              "extractedAt": "2026-05-16T22:28:22.062Z"
             }
           },
           {
@@ -343,7 +343,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.341Z"
+              "extractedAt": "2026-05-16T22:28:22.025Z"
             }
           },
           {
@@ -358,7 +358,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.347Z"
+              "extractedAt": "2026-05-16T22:28:22.063Z"
             }
           },
           {
@@ -373,7 +373,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.385Z"
+              "extractedAt": "2026-05-16T22:28:22.104Z"
             }
           },
           {
@@ -388,7 +388,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.402Z"
+              "extractedAt": "2026-05-16T22:28:22.125Z"
             }
           }
         ],
@@ -397,7 +397,7 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T20:21:12.402Z"
+          "extractedAt": "2026-05-16T22:28:22.125Z"
         }
       },
       {
@@ -419,7 +419,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.665Z"
+              "extractedAt": "2026-05-16T22:28:22.341Z"
             }
           },
           {
@@ -435,7 +435,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.696Z"
+              "extractedAt": "2026-05-16T22:28:22.398Z"
             }
           },
           {
@@ -451,7 +451,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.641Z"
+              "extractedAt": "2026-05-16T22:28:22.368Z"
             }
           },
           {
@@ -467,7 +467,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.687Z"
+              "extractedAt": "2026-05-16T22:28:22.395Z"
             }
           },
           {
@@ -483,7 +483,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.691Z"
+              "extractedAt": "2026-05-16T22:28:22.395Z"
             }
           },
           {
@@ -498,7 +498,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.666Z"
+              "extractedAt": "2026-05-16T22:28:22.367Z"
             }
           },
           {
@@ -513,7 +513,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.686Z"
+              "extractedAt": "2026-05-16T22:28:22.396Z"
             }
           },
           {
@@ -529,7 +529,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T20:21:12.672Z"
+              "extractedAt": "2026-05-16T22:28:22.372Z"
             }
           }
         ],
@@ -538,14 +538,14 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T20:21:12.696Z"
+          "extractedAt": "2026-05-16T22:28:22.398Z"
         }
       }
     ],
     "extraction": {
       "status": "success",
       "method": "people-daily-html-v1",
-      "extractedAt": "2026-05-16T20:21:12.696Z"
+      "extractedAt": "2026-05-16T22:28:22.399Z"
     }
   },
   "plaIssue": {
@@ -573,7 +573,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.953Z"
+              "extractedAt": "2026-05-16T22:28:21.393Z"
             }
           },
           {
@@ -589,7 +589,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.953Z"
+              "extractedAt": "2026-05-16T22:28:21.393Z"
             }
           },
           {
@@ -605,7 +605,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.953Z"
+              "extractedAt": "2026-05-16T22:28:21.393Z"
             }
           },
           {
@@ -620,7 +620,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.953Z"
+              "extractedAt": "2026-05-16T22:28:21.394Z"
             }
           },
           {
@@ -635,7 +635,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.953Z"
+              "extractedAt": "2026-05-16T22:28:21.394Z"
             }
           }
         ],
@@ -644,7 +644,7 @@
         "extraction": {
           "status": "success",
           "method": "pla-daily-index-json-v1",
-          "extractedAt": "2026-05-16T20:21:11.953Z"
+          "extractedAt": "2026-05-16T22:28:21.394Z"
         }
       },
       {
@@ -666,7 +666,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.953Z"
+              "extractedAt": "2026-05-16T22:28:21.394Z"
             }
           },
           {
@@ -681,7 +681,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.953Z"
+              "extractedAt": "2026-05-16T22:28:21.394Z"
             }
           },
           {
@@ -697,7 +697,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.953Z"
+              "extractedAt": "2026-05-16T22:28:21.394Z"
             }
           },
           {
@@ -713,7 +713,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.394Z"
             }
           },
           {
@@ -728,7 +728,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.394Z"
             }
           },
           {
@@ -743,7 +743,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.394Z"
             }
           }
         ],
@@ -752,7 +752,7 @@
         "extraction": {
           "status": "success",
           "method": "pla-daily-index-json-v1",
-          "extractedAt": "2026-05-16T20:21:11.954Z"
+          "extractedAt": "2026-05-16T22:28:21.394Z"
         }
       },
       {
@@ -774,7 +774,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.394Z"
             }
           },
           {
@@ -789,7 +789,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.395Z"
             }
           },
           {
@@ -804,7 +804,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.395Z"
             }
           }
         ],
@@ -813,7 +813,7 @@
         "extraction": {
           "status": "success",
           "method": "pla-daily-index-json-v1",
-          "extractedAt": "2026-05-16T20:21:11.954Z"
+          "extractedAt": "2026-05-16T22:28:21.395Z"
         }
       },
       {
@@ -835,7 +835,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.395Z"
             }
           },
           {
@@ -850,7 +850,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.395Z"
             }
           },
           {
@@ -865,7 +865,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.395Z"
             }
           },
           {
@@ -880,7 +880,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.395Z"
             }
           },
           {
@@ -895,7 +895,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.395Z"
             }
           },
           {
@@ -910,7 +910,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.395Z"
             }
           },
           {
@@ -925,7 +925,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.395Z"
             }
           },
           {
@@ -940,7 +940,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.395Z"
             }
           },
           {
@@ -955,7 +955,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T20:21:11.954Z"
+              "extractedAt": "2026-05-16T22:28:21.395Z"
             }
           }
         ],
@@ -964,14 +964,14 @@
         "extraction": {
           "status": "success",
           "method": "pla-daily-index-json-v1",
-          "extractedAt": "2026-05-16T20:21:11.954Z"
+          "extractedAt": "2026-05-16T22:28:21.395Z"
         }
       }
     ],
     "extraction": {
       "status": "success",
       "method": "pla-daily-index-json-v1",
-      "extractedAt": "2026-05-16T20:21:11.954Z"
+      "extractedAt": "2026-05-16T22:28:21.395Z"
     }
   },
   "matchGroups": [
@@ -994,7 +994,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:11.627Z"
+            "extractedAt": "2026-05-16T22:28:21.142Z"
           }
         }
       ],
@@ -1012,7 +1012,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.953Z"
+            "extractedAt": "2026-05-16T22:28:21.393Z"
           }
         }
       ],
@@ -1038,6 +1038,109 @@
       ]
     },
     {
+      "id": "matched:people_daily:30154849+people_daily:30154862:pla_daily:2026-05-05-1-1+pla_daily:2026-05-05-2-2",
+      "issueDate": "2026-05-05",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154849",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "大国之大利天下",
+          "subtitle": "——二〇二六年春季中国元首外交纪事",
+          "author": "新华社记者",
+          "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154849.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T22:28:21.177Z"
+          }
+        },
+        {
+          "id": "people_daily:30154862",
+          "source": "people_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "大国之大利天下",
+          "subtitle": "——二〇二六年春季中国元首外交纪事",
+          "author": "新华社记者",
+          "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154862.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T22:28:22.059Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-05-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "大国之大利天下",
+          "subtitle": "——二〇二六年春季中国元首外交纪事",
+          "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=01&articleid=2026-05-05-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T22:28:21.393Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-05-2-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "大国之大利天下",
+          "subtitle": "——二〇二六年春季中国元首外交纪事",
+          "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T22:28:21.394Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 大国之大利天下、莫桑比克查波会谈、查波会谈、坚持国际法。ナラティブ・アンカートピック束: 大国之大利天下、莫桑比克查波会谈、查波会谈、坚持国际法 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "大国之大利天下",
+          "莫桑比克查波会谈",
+          "查波会谈",
+          "坚持国际法",
+          "让世界重回丛林法",
+          "联合声明",
+          "习近平主席亲自擘画指挥中国特色大国外",
+          "今年是中俄战略协作伙伴关系建立30周"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "N-to-M match",
+        "message": "高信頼 92% / lexical 100% / narrative 89%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 89%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対MのMATCHEDグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・アンカートピック束: 大国之大利天下、莫桑比克查波会谈、查波会谈、坚持国际法",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
       "id": "matched:people_daily:30154850+people_daily:30154859:pla_daily:2026-05-05-1-2",
       "issueDate": "2026-05-05",
       "matchType": "matched",
@@ -1057,7 +1160,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:11.585Z"
+            "extractedAt": "2026-05-16T22:28:21.151Z"
           }
         },
         {
@@ -1074,7 +1177,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:11.887Z"
+            "extractedAt": "2026-05-16T22:28:21.627Z"
           }
         }
       ],
@@ -1092,7 +1195,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.953Z"
+            "extractedAt": "2026-05-16T22:28:21.393Z"
           }
         }
       ],
@@ -1133,45 +1236,78 @@
       ]
     },
     {
-      "id": "people_only:people_daily:30154849",
+      "id": "matched:people_daily:30154869:pla_daily:2026-05-05-2-1",
       "issueDate": "2026-05-05",
-      "matchType": "people_only",
-      "confidence": 0,
+      "matchType": "matched",
+      "confidence": 0.84,
       "peopleArticles": [
         {
-          "id": "people_daily:30154849",
+          "id": "people_daily:30154869",
           "source": "people_daily",
           "issueDate": "2026-05-05",
-          "pageNumber": 1,
+          "pageNumber": 4,
           "pageName": "要闻",
-          "title": "大国之大利天下",
-          "subtitle": "——二〇二六年春季中国元首外交纪事",
-          "author": "新华社记者",
-          "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154849.html",
+          "title": "各地广泛开展五四主题团日活动",
+          "excerpt": "本报北京5月4日电 （记者杨昊）今年五四青年节期间，全国各地共青团组织深入学习贯彻习近平总书记给中国青年五四奖章暨新时代青年先锋奖获奖者代表的重要回信精神，围绕“青年大学习 建功‘十五五’”开展系列主题团日活动，引导广大团员青年胸怀远大理想，矢志拼搏奋斗，把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。 各级团组织深化理论武…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154869.html",
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:11.630Z"
+            "extractedAt": "2026-05-16T22:28:22.341Z"
           }
         }
       ],
-      "plaArticles": [],
-      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-05-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-05",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "各地广泛开展“青年大学习 建功‘十五五’”五四主题团日活动",
+          "excerpt": "新华社北京5月4日电 （记者王明玉）今年五四青年节期间，各级共青团组织围绕“青年大学习 建功‘十五五’”主题，广泛开展内容丰富、形式新颖、贴近青年的五四主题团日活动，引导广大团员青年胸怀远大理想，矢志拼搏奋斗，把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。 在理论学习中“铸魂”。各级团组织通过主题宣讲、系列团课等形式，讲好…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T22:28:21.394Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 84%）。共有語: 五四主题团日活动、青春为中国式现代化挺膺担当、精神根脉。ナラティブ・強いタイトル/政策語一致: 五四主题团日活动、青春为中国式现代化挺膺担当、精神根脉 / 語彙・タイトル一致",
       "lexicalContrast": {
-        "peopleDailyTerms": [],
-        "plaDailyTerms": [],
-        "sharedTerms": []
+        "peopleDailyTerms": [
+          "技能提升等方面打造全方位青年服务体系",
+          "红军长征胜利90周年红色徒步活动",
+          "服务国家重大战略主题活动",
+          "大战略实施",
+          "先锋奖获奖者代表的重要回信精神",
+          "让团员在行走中感悟革命精神"
+        ],
+        "plaDailyTerms": [
+          "打造全方位青年服务体系",
+          "以沉浸式宣讲让红船精神扎根青年心中",
+          "在行走中传承革命精神",
+          "昂扬奋进的精神风貌",
+          "让五四精神落地生根",
+          "激发奋斗精神"
+        ],
+        "sharedTerms": [
+          "五四主题团日活动",
+          "青春为中国式现代化挺膺担当",
+          "精神根脉"
+        ]
       },
       "extraction": {
         "status": "success",
-        "method": "not matched after adjudication",
-        "message": "未照合 / lexical 0% / narrative 0%"
+        "method": "strong-title phrase match",
+        "message": "高信頼 84% / lexical 47% / narrative 32%"
       },
       "uncertaintyNotes": [
-        "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
-        "メタデータ・MATCHED非採用"
+        "語彙類似 47% / ナラティブ類似 32%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・強いタイトル/政策語一致: 五四主题团日活动、青春为中国式现代化挺膺担当、精神根脉",
+        "語彙・タイトル一致"
       ]
     },
     {
@@ -1193,7 +1329,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:11.607Z"
+            "extractedAt": "2026-05-16T22:28:21.113Z"
           }
         }
       ],
@@ -1233,7 +1369,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:11.631Z"
+            "extractedAt": "2026-05-16T22:28:21.246Z"
           }
         }
       ],
@@ -1274,7 +1410,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:11.609Z"
+            "extractedAt": "2026-05-16T22:28:21.147Z"
           }
         }
       ],
@@ -1315,7 +1451,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:11.612Z"
+            "extractedAt": "2026-05-16T22:28:21.146Z"
           }
         }
       ],
@@ -1356,7 +1492,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:11.943Z"
+            "extractedAt": "2026-05-16T22:28:21.691Z"
           }
         }
       ],
@@ -1397,7 +1533,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:11.915Z"
+            "extractedAt": "2026-05-16T22:28:21.630Z"
           }
         }
       ],
@@ -1438,7 +1574,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:11.940Z"
+            "extractedAt": "2026-05-16T22:28:21.792Z"
           }
         }
       ],
@@ -1479,7 +1615,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.046Z"
+            "extractedAt": "2026-05-16T22:28:21.679Z"
           }
         }
       ],
@@ -1520,7 +1656,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.311Z"
+            "extractedAt": "2026-05-16T22:28:22.027Z"
           }
         }
       ],
@@ -1561,49 +1697,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.346Z"
-          }
-        }
-      ],
-      "plaArticles": [],
-      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
-      "lexicalContrast": {
-        "peopleDailyTerms": [],
-        "plaDailyTerms": [],
-        "sharedTerms": []
-      },
-      "extraction": {
-        "status": "success",
-        "method": "not matched after adjudication",
-        "message": "未照合 / lexical 0% / narrative 0%"
-      },
-      "uncertaintyNotes": [
-        "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
-        "メタデータ・MATCHED非採用"
-      ]
-    },
-    {
-      "id": "people_only:people_daily:30154862",
-      "issueDate": "2026-05-05",
-      "matchType": "people_only",
-      "confidence": 0,
-      "peopleArticles": [
-        {
-          "id": "people_daily:30154862",
-          "source": "people_daily",
-          "issueDate": "2026-05-05",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "大国之大利天下",
-          "subtitle": "——二〇二六年春季中国元首外交纪事",
-          "author": "新华社记者",
-          "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154862.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.343Z"
+            "extractedAt": "2026-05-16T22:28:22.057Z"
           }
         }
       ],
@@ -1643,7 +1737,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.339Z"
+            "extractedAt": "2026-05-16T22:28:22.053Z"
           }
         }
       ],
@@ -1683,7 +1777,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.341Z"
+            "extractedAt": "2026-05-16T22:28:22.062Z"
           }
         }
       ],
@@ -1724,7 +1818,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.341Z"
+            "extractedAt": "2026-05-16T22:28:22.025Z"
           }
         }
       ],
@@ -1764,7 +1858,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.347Z"
+            "extractedAt": "2026-05-16T22:28:22.063Z"
           }
         }
       ],
@@ -1804,7 +1898,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.385Z"
+            "extractedAt": "2026-05-16T22:28:22.104Z"
           }
         }
       ],
@@ -1844,47 +1938,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.402Z"
-          }
-        }
-      ],
-      "plaArticles": [],
-      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
-      "lexicalContrast": {
-        "peopleDailyTerms": [],
-        "plaDailyTerms": [],
-        "sharedTerms": []
-      },
-      "extraction": {
-        "status": "success",
-        "method": "not matched after adjudication",
-        "message": "未照合 / lexical 0% / narrative 0%"
-      },
-      "uncertaintyNotes": [
-        "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
-        "メタデータ・MATCHED非採用"
-      ]
-    },
-    {
-      "id": "people_only:people_daily:30154869",
-      "issueDate": "2026-05-05",
-      "matchType": "people_only",
-      "confidence": 0,
-      "peopleArticles": [
-        {
-          "id": "people_daily:30154869",
-          "source": "people_daily",
-          "issueDate": "2026-05-05",
-          "pageNumber": 4,
-          "pageName": "要闻",
-          "title": "各地广泛开展五四主题团日活动",
-          "excerpt": "本报北京5月4日电 （记者杨昊）今年五四青年节期间，全国各地共青团组织深入学习贯彻习近平总书记给中国青年五四奖章暨新时代青年先锋奖获奖者代表的重要回信精神，围绕“青年大学习 建功‘十五五’”开展系列主题团日活动，引导广大团员青年胸怀远大理想，矢志拼搏奋斗，把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。 各级团组织深化理论武…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/05/content_30154869.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.665Z"
+            "extractedAt": "2026-05-16T22:28:22.125Z"
           }
         }
       ],
@@ -1925,7 +1979,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.696Z"
+            "extractedAt": "2026-05-16T22:28:22.398Z"
           }
         }
       ],
@@ -1966,7 +2020,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.641Z"
+            "extractedAt": "2026-05-16T22:28:22.368Z"
           }
         }
       ],
@@ -2007,7 +2061,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.687Z"
+            "extractedAt": "2026-05-16T22:28:22.395Z"
           }
         }
       ],
@@ -2048,7 +2102,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.691Z"
+            "extractedAt": "2026-05-16T22:28:22.395Z"
           }
         }
       ],
@@ -2088,7 +2142,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.666Z"
+            "extractedAt": "2026-05-16T22:28:22.367Z"
           }
         }
       ],
@@ -2128,7 +2182,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.686Z"
+            "extractedAt": "2026-05-16T22:28:22.396Z"
           }
         }
       ],
@@ -2169,53 +2223,12 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T20:21:12.672Z"
+            "extractedAt": "2026-05-16T22:28:22.372Z"
           }
         }
       ],
       "plaArticles": [],
       "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
-      "lexicalContrast": {
-        "peopleDailyTerms": [],
-        "plaDailyTerms": [],
-        "sharedTerms": []
-      },
-      "extraction": {
-        "status": "success",
-        "method": "not matched after adjudication",
-        "message": "未照合 / lexical 0% / narrative 0%"
-      },
-      "uncertaintyNotes": [
-        "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
-        "メタデータ・MATCHED非採用"
-      ]
-    },
-    {
-      "id": "pla_only:pla_daily:2026-05-05-1-1",
-      "issueDate": "2026-05-05",
-      "matchType": "pla_only",
-      "confidence": 0,
-      "peopleArticles": [],
-      "plaArticles": [
-        {
-          "id": "pla_daily:2026-05-05-1-1",
-          "source": "pla_daily",
-          "issueDate": "2026-05-05",
-          "pageNumber": 1,
-          "pageName": "要闻",
-          "title": "大国之大利天下",
-          "subtitle": "——二〇二六年春季中国元首外交纪事",
-          "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=01&articleid=2026-05-05-1-1",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.953Z"
-          }
-        }
-      ],
-      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -2251,7 +2264,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.953Z"
+            "extractedAt": "2026-05-16T22:28:21.394Z"
           }
         }
       ],
@@ -2291,7 +2304,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.953Z"
+            "extractedAt": "2026-05-16T22:28:21.394Z"
           }
         }
       ],
@@ -2331,88 +2344,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.953Z"
-          }
-        }
-      ],
-      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
-      "lexicalContrast": {
-        "peopleDailyTerms": [],
-        "plaDailyTerms": [],
-        "sharedTerms": []
-      },
-      "extraction": {
-        "status": "success",
-        "method": "not matched after adjudication",
-        "message": "未照合 / lexical 0% / narrative 0%"
-      },
-      "uncertaintyNotes": [
-        "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
-        "メタデータ・MATCHED非採用"
-      ]
-    },
-    {
-      "id": "pla_only:pla_daily:2026-05-05-2-1",
-      "issueDate": "2026-05-05",
-      "matchType": "pla_only",
-      "confidence": 0,
-      "peopleArticles": [],
-      "plaArticles": [
-        {
-          "id": "pla_daily:2026-05-05-2-1",
-          "source": "pla_daily",
-          "issueDate": "2026-05-05",
-          "pageNumber": 2,
-          "pageName": "要闻",
-          "title": "各地广泛开展“青年大学习 建功‘十五五’”五四主题团日活动",
-          "excerpt": "新华社北京5月4日电 （记者王明玉）今年五四青年节期间，各级共青团组织围绕“青年大学习 建功‘十五五’”主题，广泛开展内容丰富、形式新颖、贴近青年的五四主题团日活动，引导广大团员青年胸怀远大理想，矢志拼搏奋斗，把个人追求融入国家发展大局，立足各自岗位不断创造新业绩，在新征程上贡献青春力量。 在理论学习中“铸魂”。各级团组织通过主题宣讲、系列团课等形式，讲好…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-1",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.953Z"
-          }
-        }
-      ],
-      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
-      "lexicalContrast": {
-        "peopleDailyTerms": [],
-        "plaDailyTerms": [],
-        "sharedTerms": []
-      },
-      "extraction": {
-        "status": "success",
-        "method": "not matched after adjudication",
-        "message": "未照合 / lexical 0% / narrative 0%"
-      },
-      "uncertaintyNotes": [
-        "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
-        "メタデータ・MATCHED非採用"
-      ]
-    },
-    {
-      "id": "pla_only:pla_daily:2026-05-05-2-2",
-      "issueDate": "2026-05-05",
-      "matchType": "pla_only",
-      "confidence": 0,
-      "peopleArticles": [],
-      "plaArticles": [
-        {
-          "id": "pla_daily:2026-05-05-2-2",
-          "source": "pla_daily",
-          "issueDate": "2026-05-05",
-          "pageNumber": 2,
-          "pageName": "要闻",
-          "title": "大国之大利天下",
-          "subtitle": "——二〇二六年春季中国元首外交纪事",
-          "excerpt": "“很高兴结识查波总统先生。欢迎你对中国进行国事访问，也欢迎你带来的代表团和各位部长。你就任总统以来，莫桑比克经济社会发展取得新成就，我向你表示祝贺。” 四月北京，春和景明。21日下午，人民大会堂华灯璀璨，国家主席习近平热情欢迎今年首位访华的非洲国家元首莫桑比克总统查波。这是一周多来，习近平主席在北京会晤的第六位外国客人。 这个春天，来自世界各地的领导人密集…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-05&paperNumber=02&articleid=2026-05-05-2-2",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.953Z"
+            "extractedAt": "2026-05-16T22:28:21.394Z"
           }
         }
       ],
@@ -2453,7 +2385,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.394Z"
           }
         }
       ],
@@ -2493,7 +2425,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.394Z"
           }
         }
       ],
@@ -2533,7 +2465,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.394Z"
           }
         }
       ],
@@ -2573,7 +2505,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.394Z"
           }
         }
       ],
@@ -2613,7 +2545,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.395Z"
           }
         }
       ],
@@ -2653,7 +2585,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.395Z"
           }
         }
       ],
@@ -2693,7 +2625,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.395Z"
           }
         }
       ],
@@ -2733,7 +2665,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.395Z"
           }
         }
       ],
@@ -2773,7 +2705,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.395Z"
           }
         }
       ],
@@ -2813,7 +2745,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.395Z"
           }
         }
       ],
@@ -2853,7 +2785,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.395Z"
           }
         }
       ],
@@ -2893,7 +2825,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.395Z"
           }
         }
       ],
@@ -2933,7 +2865,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.395Z"
           }
         }
       ],
@@ -2973,7 +2905,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.395Z"
           }
         }
       ],
@@ -3013,7 +2945,7 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T20:21:11.954Z"
+            "extractedAt": "2026-05-16T22:28:21.395Z"
           }
         }
       ],
@@ -3038,10 +2970,10 @@
   "counts": {
     "peopleArticles": 29,
     "plaArticles": 23,
-    "matchedGroups": 2,
-    "matchedPeopleArticles": 3,
-    "matchedPlaArticles": 2,
-    "peopleOnlyArticles": 26,
-    "plaOnlyArticles": 21
+    "matchedGroups": 4,
+    "matchedPeopleArticles": 6,
+    "matchedPlaArticles": 5,
+    "peopleOnlyArticles": 23,
+    "plaOnlyArticles": 18
   }
 }

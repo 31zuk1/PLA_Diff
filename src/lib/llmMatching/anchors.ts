@@ -1,7 +1,10 @@
 export type TopicFamily =
   | "china_us_relations"
   | "food_security_law"
-  | "correct_political_achievement";
+  | "correct_political_achievement"
+  | "youth_day_league_activity"
+  | "ai_ethics_review"
+  | "shipbuilding_industry_stats";
 
 export interface AnchorPattern {
   canonical: string;
@@ -59,6 +62,17 @@ export const HIGH_VALUE_ANCHOR_PATTERNS: readonly AnchorPattern[] = [
   { canonical: "树立和践行正确政绩观", pattern: /树立和践行正确政绩观|正确政绩观/g, score: 0.86, headlineOnly: true },
   { canonical: "形式主义基层减负", pattern: /形式主义.{0,14}基层减负|基层减负.{0,14}形式主义/g, score: 0.8, headlineOnly: true },
   { canonical: "干事创业", pattern: /干事创业/g, score: 0.64, headlineOnly: true },
+  { canonical: "五四主题团日活动", pattern: /五四主题团日活动/g, score: 0.9 },
+  {
+    canonical: "人工智能科技伦理审查与服务先导计划",
+    pattern: /人工智能科技伦理审查与服务先导计划/g,
+    score: 0.96,
+  },
+  {
+    canonical: "造船统计发布",
+    pattern: /造船.{0,16}(完工量|新接订单量|手持订单量|三大指标|同比增|全面增长)/g,
+    score: 0.92,
+  },
 ];
 
 export const CLUSTERABLE_ANCHOR_TERMS: ReadonlySet<string> = new Set([
@@ -72,12 +86,18 @@ export const CLUSTERABLE_ANCHOR_TERMS: ReadonlySet<string> = new Set([
   "老挝沙伦赛会见",
   "沙伦赛会见",
   "向新向好稳中有进",
+  "五四主题团日活动",
+  "人工智能科技伦理审查与服务先导计划",
+  "造船统计发布",
 ]);
 
 export const TOPIC_FAMILY_LABELS: Record<TopicFamily, string> = {
   china_us_relations: "中美关系议题",
   food_security_law: "粮食安全保障法议题",
   correct_political_achievement: "正确政绩观议题",
+  youth_day_league_activity: "五四主题团日活动",
+  ai_ethics_review: "人工智能科技伦理审查先导计划",
+  shipbuilding_industry_stats: "造船统计发布",
 };
 
 export function anchorTermScore(term: string) {
@@ -87,7 +107,7 @@ export function anchorTermScore(term: string) {
     return configured.score;
   }
 
-  if (/法|执法检查|经贸磋商|经贸论坛|论坛|专项行动|正确政绩观/.test(term)) {
+  if (/法|执法检查|经贸磋商|经贸论坛|论坛|专项行动|正确政绩观|主题团日|科技伦理|造船统计/.test(term)) {
     return 0.78;
   }
 

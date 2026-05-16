@@ -50,6 +50,7 @@ The live PoC uses:
 - `src/lib/scrapers/plaDaily.ts` for 解放軍報 `index.json`
 - `src/lib/matching.ts` for lightweight candidate scoring and concrete event/policy anchor extraction
 - `src/lib/llmMatching.ts` for high-precision anchor candidate adjudication and N-to-M group construction
+- `src/lib/llmMatching/titleNormalization.ts` for conservative title canonicalization before exact-title matching
 - `src/lib/issueGraph.ts` to derive display-safe graph nodes and MACHED group review links from saved snapshots
 - `src/lib/issueComparison.ts` to strip server-only analysis text before rendering
 - `src/lib/dailySnapshot.ts` to build one display-safe daily snapshot
@@ -73,6 +74,7 @@ Older topic-cluster mock data still lives in `src/data/mockData.ts`.
 - Narrative dimensions are scaffolded for review, not yet automatically extracted
 - `MACHED` precision is intentionally favored over recall; weak shared-word overlaps, broad diplomatic moments, and generic official slogans remain in `People's only` / `81cn only`
 - Group counts and article counts differ: one `MACHED` topic group may contain several People’s Daily articles and several PLA Daily articles.
+- Exact-title matching normalizes common edition artifacts such as leading one-sided years, short editorial labels, line breaks, and publisher prefixes, but refuses conflicting years and still caps merged `MACHED` groups to prevent giant topic clusters.
 - The public page only shows already-generated snapshots. Run the cron endpoint to create or refresh a date.
 
 ## Future Pipeline Plan
@@ -146,7 +148,7 @@ For manual static archive refreshes, use the local backfill script. It defaults 
 
 ```bash
 npm run archive:backfill -- --date 2026-04-22
-npm run archive:backfill -- --from 2026-04-16 --days 7 --write
+npm run archive:backfill -- --from 2026-04-16 --days 31 --write --retention-days permanent
 npm run archive:backfill -- --index-only --write
 ```
 

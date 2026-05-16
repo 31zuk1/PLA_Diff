@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-16T20:23:10.428Z",
+  "updatedAt": "2026-05-16T22:28:33.405Z",
   "retentionDays": null,
   "entries": [
     {
       "issueDate": "2026-05-16",
-      "generatedAt": "2026-05-16T20:23:10.428Z",
+      "generatedAt": "2026-05-16T22:14:42.176Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-16.json",
@@ -29,7 +29,7 @@
     },
     {
       "issueDate": "2026-05-15",
-      "generatedAt": "2026-05-16T20:23:03.867Z",
+      "generatedAt": "2026-05-16T22:14:35.950Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-15.json",
@@ -53,7 +53,7 @@
     },
     {
       "issueDate": "2026-05-14",
-      "generatedAt": "2026-05-16T20:22:56.105Z",
+      "generatedAt": "2026-05-16T22:14:22.443Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-14.json",
@@ -65,11 +65,11 @@
         "plaNodes": 32,
         "matchedNodes": 9,
         "isolatedNodes": 53,
-        "matchedGroups": 5
+        "matchedGroups": 4
       },
       "peopleArticles": 30,
       "plaArticles": 32,
-      "matchedGroups": 5,
+      "matchedGroups": 4,
       "matchedPeopleArticles": 5,
       "matchedPlaArticles": 4,
       "peopleOnlyArticles": 25,
@@ -77,31 +77,31 @@
     },
     {
       "issueDate": "2026-05-13",
-      "generatedAt": "2026-05-16T20:22:49.045Z",
+      "generatedAt": "2026-05-16T22:14:11.108Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-13.json",
       "status": "success",
       "graphMetrics": {
         "nodes": 52,
-        "links": 5,
+        "links": 6,
         "peopleNodes": 26,
         "plaNodes": 26,
-        "matchedNodes": 10,
-        "isolatedNodes": 42,
-        "matchedGroups": 5
+        "matchedNodes": 12,
+        "isolatedNodes": 40,
+        "matchedGroups": 6
       },
       "peopleArticles": 26,
       "plaArticles": 26,
-      "matchedGroups": 5,
-      "matchedPeopleArticles": 5,
-      "matchedPlaArticles": 5,
-      "peopleOnlyArticles": 21,
-      "plaOnlyArticles": 21
+      "matchedGroups": 6,
+      "matchedPeopleArticles": 6,
+      "matchedPlaArticles": 6,
+      "peopleOnlyArticles": 20,
+      "plaOnlyArticles": 20
     },
     {
       "issueDate": "2026-05-12",
-      "generatedAt": "2026-05-16T20:22:41.444Z",
+      "generatedAt": "2026-05-16T22:14:04.158Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-12.json",
@@ -125,7 +125,7 @@
     },
     {
       "issueDate": "2026-05-11",
-      "generatedAt": "2026-05-16T20:22:33.148Z",
+      "generatedAt": "2026-05-16T22:13:55.575Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-11.json",
@@ -149,31 +149,31 @@
     },
     {
       "issueDate": "2026-05-10",
-      "generatedAt": "2026-05-16T20:22:22.805Z",
+      "generatedAt": "2026-05-16T22:28:33.405Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-10.json",
       "status": "partial",
       "graphMetrics": {
         "nodes": 62,
-        "links": 2,
+        "links": 4,
         "peopleNodes": 33,
         "plaNodes": 29,
-        "matchedNodes": 4,
-        "isolatedNodes": 58,
-        "matchedGroups": 2
+        "matchedNodes": 8,
+        "isolatedNodes": 54,
+        "matchedGroups": 4
       },
       "peopleArticles": 33,
       "plaArticles": 29,
-      "matchedGroups": 2,
-      "matchedPeopleArticles": 2,
-      "matchedPlaArticles": 2,
-      "peopleOnlyArticles": 31,
-      "plaOnlyArticles": 27
+      "matchedGroups": 4,
+      "matchedPeopleArticles": 4,
+      "matchedPlaArticles": 4,
+      "peopleOnlyArticles": 29,
+      "plaOnlyArticles": 25
     },
     {
       "issueDate": "2026-05-09",
-      "generatedAt": "2026-05-16T20:22:11.420Z",
+      "generatedAt": "2026-05-16T22:13:38.020Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-09.json",
@@ -197,7 +197,7 @@
     },
     {
       "issueDate": "2026-05-08",
-      "generatedAt": "2026-05-16T20:21:57.413Z",
+      "generatedAt": "2026-05-16T22:13:21.693Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-08.json",
@@ -209,11 +209,11 @@
         "plaNodes": 27,
         "matchedNodes": 5,
         "isolatedNodes": 52,
-        "matchedGroups": 3
+        "matchedGroups": 2
       },
       "peopleArticles": 30,
       "plaArticles": 27,
-      "matchedGroups": 3,
+      "matchedGroups": 2,
       "matchedPeopleArticles": 3,
       "matchedPlaArticles": 2,
       "peopleOnlyArticles": 27,
@@ -221,7 +221,7 @@
     },
     {
       "issueDate": "2026-05-07",
-      "generatedAt": "2026-05-16T20:21:40.758Z",
+      "generatedAt": "2026-05-16T22:13:11.681Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-07.json",
@@ -245,7 +245,7 @@
     },
     {
       "issueDate": "2026-05-06",
-      "generatedAt": "2026-05-16T20:21:29.731Z",
+      "generatedAt": "2026-05-16T22:13:00.014Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-06.json",
@@ -269,31 +269,31 @@
     },
     {
       "issueDate": "2026-05-05",
-      "generatedAt": "2026-05-16T20:21:19.136Z",
+      "generatedAt": "2026-05-16T22:28:27.313Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-05.json",
       "status": "success",
       "graphMetrics": {
         "nodes": 52,
-        "links": 3,
+        "links": 8,
         "peopleNodes": 29,
         "plaNodes": 23,
-        "matchedNodes": 5,
-        "isolatedNodes": 47,
-        "matchedGroups": 2
+        "matchedNodes": 11,
+        "isolatedNodes": 41,
+        "matchedGroups": 4
       },
       "peopleArticles": 29,
       "plaArticles": 23,
-      "matchedGroups": 2,
-      "matchedPeopleArticles": 3,
-      "matchedPlaArticles": 2,
-      "peopleOnlyArticles": 26,
-      "plaOnlyArticles": 21
+      "matchedGroups": 4,
+      "matchedPeopleArticles": 6,
+      "matchedPlaArticles": 5,
+      "peopleOnlyArticles": 23,
+      "plaOnlyArticles": 18
     },
     {
       "issueDate": "2026-05-04",
-      "generatedAt": "2026-05-16T20:21:11.307Z",
+      "generatedAt": "2026-05-16T22:12:42.739Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-04.json",
@@ -317,7 +317,7 @@
     },
     {
       "issueDate": "2026-05-03",
-      "generatedAt": "2026-05-16T20:21:06.571Z",
+      "generatedAt": "2026-05-16T22:12:33.088Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-03.json",
@@ -341,7 +341,7 @@
     },
     {
       "issueDate": "2026-05-02",
-      "generatedAt": "2026-05-16T20:20:58.017Z",
+      "generatedAt": "2026-05-16T22:12:23.739Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-02.json",
@@ -365,55 +365,55 @@
     },
     {
       "issueDate": "2026-05-01",
-      "generatedAt": "2026-05-16T20:20:49.639Z",
+      "generatedAt": "2026-05-16T22:12:14.076Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-01.json",
       "status": "partial",
       "graphMetrics": {
         "nodes": 57,
-        "links": 14,
+        "links": 15,
         "peopleNodes": 34,
         "plaNodes": 23,
-        "matchedNodes": 18,
-        "isolatedNodes": 39,
-        "matchedGroups": 8
+        "matchedNodes": 22,
+        "isolatedNodes": 35,
+        "matchedGroups": 9
       },
       "peopleArticles": 34,
       "plaArticles": 23,
-      "matchedGroups": 8,
-      "matchedPeopleArticles": 10,
-      "matchedPlaArticles": 8,
-      "peopleOnlyArticles": 24,
-      "plaOnlyArticles": 15
+      "matchedGroups": 9,
+      "matchedPeopleArticles": 11,
+      "matchedPlaArticles": 11,
+      "peopleOnlyArticles": 23,
+      "plaOnlyArticles": 12
     },
     {
       "issueDate": "2026-04-30",
-      "generatedAt": "2026-05-16T20:20:38.052Z",
+      "generatedAt": "2026-05-16T22:12:03.772Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-30.json",
       "status": "success",
       "graphMetrics": {
         "nodes": 56,
-        "links": 5,
+        "links": 4,
         "peopleNodes": 30,
         "plaNodes": 26,
-        "matchedNodes": 8,
-        "isolatedNodes": 48,
-        "matchedGroups": 5
+        "matchedNodes": 7,
+        "isolatedNodes": 49,
+        "matchedGroups": 3
       },
       "peopleArticles": 30,
       "plaArticles": 26,
-      "matchedGroups": 5,
+      "matchedGroups": 3,
       "matchedPeopleArticles": 3,
-      "matchedPlaArticles": 5,
+      "matchedPlaArticles": 4,
       "peopleOnlyArticles": 27,
-      "plaOnlyArticles": 21
+      "plaOnlyArticles": 22
     },
     {
       "issueDate": "2026-04-29",
-      "generatedAt": "2026-05-16T20:20:18.901Z",
+      "generatedAt": "2026-05-16T22:11:53.594Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-29.json",
@@ -425,11 +425,11 @@
         "plaNodes": 29,
         "matchedNodes": 15,
         "isolatedNodes": 45,
-        "matchedGroups": 8
+        "matchedGroups": 7
       },
       "peopleArticles": 31,
       "plaArticles": 29,
-      "matchedGroups": 8,
+      "matchedGroups": 7,
       "matchedPeopleArticles": 8,
       "matchedPlaArticles": 7,
       "peopleOnlyArticles": 23,
@@ -437,7 +437,7 @@
     },
     {
       "issueDate": "2026-04-28",
-      "generatedAt": "2026-05-16T20:20:12.653Z",
+      "generatedAt": "2026-05-16T22:11:43.458Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-28.json",
@@ -461,7 +461,7 @@
     },
     {
       "issueDate": "2026-04-27",
-      "generatedAt": "2026-05-16T20:20:00.878Z",
+      "generatedAt": "2026-05-16T22:11:35.360Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-27.json",
@@ -485,7 +485,7 @@
     },
     {
       "issueDate": "2026-04-26",
-      "generatedAt": "2026-05-16T20:19:51.866Z",
+      "generatedAt": "2026-05-16T22:11:22.772Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-26.json",
@@ -509,7 +509,7 @@
     },
     {
       "issueDate": "2026-04-25",
-      "generatedAt": "2026-05-16T20:19:41.372Z",
+      "generatedAt": "2026-05-16T22:11:12.737Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-25.json",
@@ -533,7 +533,7 @@
     },
     {
       "issueDate": "2026-04-24",
-      "generatedAt": "2026-05-16T20:19:29.862Z",
+      "generatedAt": "2026-05-16T22:11:01.995Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-24.json",
@@ -557,23 +557,23 @@
     },
     {
       "issueDate": "2026-04-23",
-      "generatedAt": "2026-05-16T20:19:20.108Z",
+      "generatedAt": "2026-05-16T22:28:20.666Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-23.json",
       "status": "success",
       "graphMetrics": {
         "nodes": 53,
-        "links": 11,
+        "links": 10,
         "peopleNodes": 27,
         "plaNodes": 26,
         "matchedNodes": 14,
         "isolatedNodes": 39,
-        "matchedGroups": 6
+        "matchedGroups": 5
       },
       "peopleArticles": 27,
       "plaArticles": 26,
-      "matchedGroups": 6,
+      "matchedGroups": 5,
       "matchedPeopleArticles": 6,
       "matchedPlaArticles": 8,
       "peopleOnlyArticles": 21,
@@ -581,7 +581,7 @@
     },
     {
       "issueDate": "2026-04-22",
-      "generatedAt": "2026-05-16T20:19:10.293Z",
+      "generatedAt": "2026-05-16T22:10:35.054Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-22.json",
@@ -605,7 +605,7 @@
     },
     {
       "issueDate": "2026-04-21",
-      "generatedAt": "2026-05-16T20:18:53.809Z",
+      "generatedAt": "2026-05-16T22:10:24.556Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-21.json",
@@ -629,7 +629,7 @@
     },
     {
       "issueDate": "2026-04-20",
-      "generatedAt": "2026-05-16T20:18:45.102Z",
+      "generatedAt": "2026-05-16T22:10:17.190Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-20.json",
@@ -641,11 +641,11 @@
         "plaNodes": 19,
         "matchedNodes": 3,
         "isolatedNodes": 43,
-        "matchedGroups": 2
+        "matchedGroups": 1
       },
       "peopleArticles": 27,
       "plaArticles": 19,
-      "matchedGroups": 2,
+      "matchedGroups": 1,
       "matchedPeopleArticles": 2,
       "matchedPlaArticles": 1,
       "peopleOnlyArticles": 25,
@@ -653,7 +653,7 @@
     },
     {
       "issueDate": "2026-04-19",
-      "generatedAt": "2026-05-16T20:18:34.830Z",
+      "generatedAt": "2026-05-16T22:10:09.230Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-19.json",
@@ -677,7 +677,7 @@
     },
     {
       "issueDate": "2026-04-18",
-      "generatedAt": "2026-05-16T20:18:27.491Z",
+      "generatedAt": "2026-05-16T22:10:01.172Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-18.json",
@@ -701,31 +701,31 @@
     },
     {
       "issueDate": "2026-04-17",
-      "generatedAt": "2026-05-16T20:18:13.537Z",
+      "generatedAt": "2026-05-16T22:28:11.290Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-17.json",
       "status": "partial",
       "graphMetrics": {
         "nodes": 57,
-        "links": 0,
+        "links": 2,
         "peopleNodes": 30,
         "plaNodes": 27,
-        "matchedNodes": 0,
-        "isolatedNodes": 57,
-        "matchedGroups": 0
+        "matchedNodes": 3,
+        "isolatedNodes": 54,
+        "matchedGroups": 1
       },
       "peopleArticles": 30,
       "plaArticles": 27,
-      "matchedGroups": 0,
-      "matchedPeopleArticles": 0,
-      "matchedPlaArticles": 0,
-      "peopleOnlyArticles": 30,
-      "plaOnlyArticles": 27
+      "matchedGroups": 1,
+      "matchedPeopleArticles": 2,
+      "matchedPlaArticles": 1,
+      "peopleOnlyArticles": 28,
+      "plaOnlyArticles": 26
     },
     {
       "issueDate": "2026-04-16",
-      "generatedAt": "2026-05-16T20:18:07.015Z",
+      "generatedAt": "2026-05-16T22:09:41.141Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-16.json",
