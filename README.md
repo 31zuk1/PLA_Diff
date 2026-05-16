@@ -21,7 +21,7 @@ The current PoC focuses on:
 - a collapsible per-date article graph that treats same-day articles as nodes and expands `MACHED` groups into lightweight review links
 - page/PDF/image source links for audit
 - short excerpts only, with outbound article links
-- daily cached snapshots, capped to a one-month rolling archive
+- daily cached snapshots, retained permanently
 
 The UI intentionally avoids reproducing full article bodies. Fetched full text is used only server-side during the scheduled snapshot job for extraction and lightweight matching; the browser receives saved short excerpts and metadata. Public page views do not trigger scraping or OpenAI calls.
 
@@ -118,7 +118,7 @@ node scripts/diagnose-match-groups.mjs --from 2026-04-16 --days 31
 
 ## Snapshot Updates
 
-The public page reads saved snapshots from the rolling archive. It does not scrape sources or call OpenAI during normal viewing.
+The public page reads saved snapshots from the archive. It does not scrape sources or call OpenAI during normal viewing.
 
 Local development uses `.cache/peoplepla-diff` when `BLOB_READ_WRITE_TOKEN` is not set:
 
@@ -135,7 +135,7 @@ curl -H "Authorization: Bearer $CRON_SECRET" \
 
 Production uses Vercel Cron. The included `vercel.json` runs `/api/cron/daily-issue` once per day at `02:00 UTC`, which is `11:00 JST` / `10:00 China time`. Hobby plans may invoke within the specified hour.
 
-If Vercel Blob cannot serve stored objects, the app falls back to checked-in static JSON under `public/archive`. That fallback is read-only and keeps the public site usable for the bundled one-month archive, but scheduled updates still require a writable Blob store or another persistent storage backend.
+If Vercel Blob cannot serve stored objects, the app falls back to checked-in static JSON under `public/archive`. That fallback is read-only and keeps the public site usable for the bundled archive, but scheduled updates still require a writable Blob store or another persistent storage backend.
 
 Recommended Vercel environment variables:
 
@@ -144,7 +144,6 @@ Recommended Vercel environment variables:
 - `OPENAI_API_KEY`: optional, used only by the snapshot job
 - `OPENAI_MODEL`: optional, defaults to `gpt-4o-mini`
 - `ENABLE_LLM_JUDGE`: optional; set `false` to force local heuristics
-- `SNAPSHOT_RETENTION_DAYS`: optional; defaults to `31`
 - `PLA_DIFF_STORAGE=file`: optional local/debug override to avoid Blob even when a token is present
 - `PLA_DIFF_BLOB_ACCESS`: optional; set `private` if the configured Blob store is private, otherwise defaults to `public`
 - `PLA_DIFF_STATIC_ARCHIVE=false`: optional; disables the checked-in static archive fallback

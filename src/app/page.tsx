@@ -7,7 +7,7 @@ import { buildIssueGraph } from "@/lib/issueGraph";
 import {
   issueDateInChinaTime,
   normalizeIssueDate,
-  snapshotRetentionDays,
+  snapshotRetentionLabel,
 } from "@/lib/snapshotConfig";
 import { readDailyIssueSnapshot, readSnapshotIndex, storageDriverLabel } from "@/lib/snapshotStorage";
 import type { ArticleMatchGroup } from "@/components/IssueComparisonTypes";
@@ -331,7 +331,7 @@ function SnapshotArchiveNotice({
           保存済み: {retainedDateLabel}
         </p>
         <p>
-          retention {snapshotRetentionDays()}日 / LLM更新{" "}
+          保存期間 {snapshotRetentionLabel()} / LLM更新{" "}
           {canUseLlmJudge() ? "有効" : "無効"}
         </p>
       </div>

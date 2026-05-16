@@ -1,7 +1,9 @@
 export const snapshotSchemaVersion = 1;
 export const snapshotArchivePrefix = "archive";
 export const snapshotIndexPath = `${snapshotArchivePrefix}/index.json`;
-export const defaultSnapshotRetentionDays = 31;
+export type SnapshotRetentionDays = number | null;
+
+export const defaultSnapshotRetentionDays: SnapshotRetentionDays = null;
 export const frontPageNumbers = [1, 2, 3, 4] as const;
 
 export function normalizeIssueDate(value: string | undefined | null) {
@@ -30,12 +32,10 @@ export function issueDateInChinaTime(now = new Date()) {
   return `${part("year")}-${part("month")}-${part("day")}`;
 }
 
-export function snapshotRetentionDays() {
-  const value = Number.parseInt(process.env.SNAPSHOT_RETENTION_DAYS ?? "", 10);
-
-  if (Number.isFinite(value) && value > 0) {
-    return value;
-  }
-
+export function snapshotRetentionDays(): SnapshotRetentionDays {
   return defaultSnapshotRetentionDays;
+}
+
+export function snapshotRetentionLabel(retentionDays = snapshotRetentionDays()) {
+  return retentionDays === null ? "永続" : `${retentionDays}日`;
 }

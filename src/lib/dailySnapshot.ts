@@ -9,6 +9,7 @@ import {
   defaultSnapshotRetentionDays,
   frontPageNumbers,
   snapshotPathForDate,
+  type SnapshotRetentionDays,
   snapshotSchemaVersion,
 } from "./snapshotConfig";
 
@@ -16,7 +17,7 @@ export interface DailyIssueSnapshot {
   schemaVersion: typeof snapshotSchemaVersion;
   issueDate: string;
   generatedAt: string;
-  retentionDays: number;
+  retentionDays: SnapshotRetentionDays;
   frontPages: number[];
   judge: {
     enabled: boolean;
@@ -41,7 +42,7 @@ export interface SnapshotCounts {
 export interface SnapshotIndex {
   schemaVersion: typeof snapshotSchemaVersion;
   updatedAt: string;
-  retentionDays: number;
+  retentionDays: SnapshotRetentionDays;
   entries: SnapshotIndexEntry[];
 }
 
@@ -57,7 +58,7 @@ export interface SnapshotIndexEntry extends SnapshotCounts {
 export async function buildDailyIssueSnapshot(
   issueDate: string,
   options: {
-    retentionDays?: number;
+    retentionDays?: SnapshotRetentionDays;
   } = {},
 ): Promise<DailyIssueSnapshot> {
   const [peopleIssue, plaIssue] = await Promise.all([

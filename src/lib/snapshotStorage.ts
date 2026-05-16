@@ -1,4 +1,4 @@
-import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import type { DailyIssueSnapshot, SnapshotIndex } from "./dailySnapshot";
 import { emptySnapshotIndex, toSnapshotIndexEntry } from "./dailySnapshot";
@@ -6,6 +6,7 @@ import {
   snapshotIndexPath,
   snapshotPathForDate,
   snapshotRetentionDays,
+  type SnapshotRetentionDays,
   snapshotSchemaVersion,
 } from "./snapshotConfig";
 
@@ -41,32 +42,23 @@ export async function writeDailyIssueSnapshot(
 
   if (shouldUseBlobStorage()) {
     const nextIndex = await buildBlobSnapshotIndex(entry, retentionDays, snapshot.generatedAt);
-    const retainedPaths = new Set(nextIndex.entries.map((candidate) => candidate.path));
-    const obsoletePaths = await listBlobSnapshotPaths((pathname) => !retainedPaths.has(pathname));
 
     await writeJson(snapshotIndexPath, nextIndex);
-    await deleteJsonFiles(obsoletePaths);
 
     return nextIndex;
   }
 
   const previousIndex = await readSnapshotIndex();
   const entries = [entry, ...previousIndex.entries.filter((candidate) => candidate.issueDate !== snapshot.issueDate)]
-    .sort(compareIndexEntries)
-    .slice(0, retentionDays);
-  const retainedPaths = new Set(entries.map((candidate) => candidate.path));
-  const obsoletePaths = previousIndex.entries
-    .filter((candidate) => !retainedPaths.has(candidate.path))
-    .map((candidate) => candidate.path);
+    .sort(compareIndexEntries);
   const nextIndex: SnapshotIndex = {
     schemaVersion: snapshot.schemaVersion,
     updatedAt: snapshot.generatedAt,
     retentionDays,
-    entries,
+    entries: applyRetentionLimit(entries, retentionDays),
   };
 
   await writeJson(snapshotIndexPath, nextIndex);
-  await deleteJsonFiles(obsoletePaths);
 
   return nextIndex;
 }
@@ -115,24 +107,6 @@ async function writeJson(pathname: string, value: unknown) {
   await writeFile(filePath, serialized, "utf8");
 }
 
-async function deleteJsonFiles(pathnames: string[]) {
-  if (pathnames.length === 0) {
-    return;
-  }
-
-  if (shouldUseBlobStorage()) {
-    const { del } = await loadBlobSdk();
-    await del(pathnames);
-    return;
-  }
-
-  await Promise.all(
-    pathnames.map(async (pathname) => {
-      await rm(localPath(pathname), { force: true });
-    }),
-  );
-}
-
 async function readBlobJson<T>(pathname: string): Promise<T | undefined> {
   if (blobReadsUnavailable) {
     return undefined;
@@ -168,15 +142,17 @@ async function readBlobJson<T>(pathname: string): Promise<T | undefined> {
 
 async function buildBlobSnapshotIndex(
   currentEntry: ReturnType<typeof toSnapshotIndexEntry>,
-  retentionDays: number,
+  retentionDays: SnapshotRetentionDays,
   updatedAt: string,
 ): Promise<SnapshotIndex> {
   const { list } = await loadBlobSdk();
   const { blobs } = await list({ limit: 1000, prefix: "archive/" });
-  const snapshotBlobs = blobs
-    .filter((blob) => /^\d{4}-\d{2}-\d{2}\.json$/.test(blob.pathname.replace("archive/", "")))
-    .sort((left, right) => right.pathname.localeCompare(left.pathname))
-    .slice(0, retentionDays);
+  const snapshotBlobs = applyRetentionLimit(
+    blobs
+      .filter((blob) => /^\d{4}-\d{2}-\d{2}\.json$/.test(blob.pathname.replace("archive/", "")))
+      .sort((left, right) => right.pathname.localeCompare(left.pathname)),
+    retentionDays,
+  );
   const entries = (
     await Promise.all(
       snapshotBlobs.map(async (blob) => {
@@ -198,16 +174,6 @@ async function buildBlobSnapshotIndex(
     retentionDays,
     entries,
   };
-}
-
-async function listBlobSnapshotPaths(predicate: (pathname: string) => boolean) {
-  const { list } = await loadBlobSdk();
-  const { blobs } = await list({ limit: 1000, prefix: "archive/" });
-
-  return blobs
-    .map((blob) => blob.pathname)
-    .filter((pathname) => /^\d{4}-\d{2}-\d{2}\.json$/.test(pathname.replace("archive/", "")))
-    .filter(predicate);
 }
 
 async function readLocalJson<T>(pathname: string): Promise<T | undefined> {
@@ -314,6 +280,10 @@ function normalizeOrigin(value: string) {
 
 function compareIndexEntries(left: { issueDate: string }, right: { issueDate: string }) {
   return right.issueDate.localeCompare(left.issueDate);
+}
+
+function applyRetentionLimit<T>(items: T[], retentionDays: SnapshotRetentionDays) {
+  return retentionDays === null ? items : items.slice(0, retentionDays);
 }
 
 function isMissingBlobRead(error: unknown) {

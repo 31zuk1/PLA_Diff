@@ -3,7 +3,6 @@ import { buildDailyIssueSnapshot } from "@/lib/dailySnapshot";
 import {
   issueDateInChinaTime,
   normalizeIssueDate,
-  snapshotRetentionDays,
 } from "@/lib/snapshotConfig";
 import { storageDriverLabel, writeDailyIssueSnapshot } from "@/lib/snapshotStorage";
 
@@ -18,8 +17,7 @@ export async function GET(request: NextRequest) {
 
   const issueDate =
     normalizeIssueDate(request.nextUrl.searchParams.get("date")) ?? issueDateInChinaTime();
-  const retentionDays = snapshotRetentionDays();
-  const snapshot = await buildDailyIssueSnapshot(issueDate, { retentionDays });
+  const snapshot = await buildDailyIssueSnapshot(issueDate);
   const index = await writeDailyIssueSnapshot(snapshot);
 
   return Response.json({
