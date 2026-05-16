@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "issueDate": "2026-05-03",
-  "generatedAt": "2026-05-16T09:07:18.252Z",
+  "generatedAt": "2026-05-16T20:21:06.571Z",
   "retentionDays": 31,
   "frontPages": [
     1,
@@ -38,7 +38,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:06:13.840Z"
+              "extractedAt": "2026-05-16T20:20:58.627Z"
             }
           },
           {
@@ -55,7 +55,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:06:13.855Z"
+              "extractedAt": "2026-05-16T20:20:58.470Z"
             }
           },
           {
@@ -72,7 +72,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:06:13.841Z"
+              "extractedAt": "2026-05-16T20:20:58.628Z"
             }
           },
           {
@@ -89,7 +89,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:06:13.839Z"
+              "extractedAt": "2026-05-16T20:20:58.626Z"
             }
           },
           {
@@ -104,7 +104,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:06:13.823Z"
+              "extractedAt": "2026-05-16T20:20:58.541Z"
             }
           },
           {
@@ -120,7 +120,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:06:13.825Z"
+              "extractedAt": "2026-05-16T20:20:58.629Z"
             }
           },
           {
@@ -135,7 +135,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:06:13.837Z"
+              "extractedAt": "2026-05-16T20:20:58.539Z"
             }
           }
         ],
@@ -144,7 +144,7 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T09:06:13.855Z"
+          "extractedAt": "2026-05-16T20:20:58.629Z"
         }
       },
       {
@@ -161,13 +161,13 @@
             "pageNumber": 2,
             "pageName": "要闻",
             "title": "中国游中国购热情持续高涨（经济新方位·聚焦假期消费）",
-            "excerpt": "",
+            "author": "本报记者 李家鼎 申智林 贾丰丰",
+            "excerpt": "“购在中国”活动正如火如荼开展。各地围绕扩大优质商品和服务供给、创新多元化消费场景、促进商旅文体健深度融合、建设国际化消费环境等方面发力，创新培育了一批品质优、信誉好的中国消费名品，形成一批高水平、高能级的文化演出、文博展览和体育赛事矩阵，打造出一批多元业态融合、优质资源集聚的特色商圈和街区。 “五一”假期，丰富多彩的活动和质优价美的产品供给，不仅满足了国…",
             "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154679.html",
             "extraction": {
-              "status": "failed",
+              "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:16.780Z",
-              "message": "This operation was aborted"
+              "extractedAt": "2026-05-16T20:20:58.937Z"
             }
           },
           {
@@ -177,13 +177,13 @@
             "pageNumber": 2,
             "pageName": "要闻",
             "title": "推广粉用稻 专供螺蛳粉（春耕里的新质生产力）",
-            "excerpt": "",
+            "author": "本报记者 李维俊",
+            "excerpt": "“怎样的米粉才算好？” 没到饭点，广西柳州市鱼峰区的一家螺蛳粉店已坐满食客。记者一问，几桌人接话： “要有嚼劲，不能软塌塌的。” “一口能吸溜进去的才好。” 说话间，几名食客夹起粉嗍了起来。大家的意见逐渐统一：爽滑、有弹性的粉，才能越吃越香。 这样的粉怎么来？记者从餐桌向田间溯源。 鱼峰区里雍镇龙江村粉用稻产业融合示范基地，上百亩稻田刚灌过水。龙江村岩口组…",
             "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154680.html",
             "extraction": {
-              "status": "failed",
+              "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:16.780Z",
-              "message": "This operation was aborted"
+              "extractedAt": "2026-05-16T20:20:58.878Z"
             }
           },
           {
@@ -193,13 +193,13 @@
             "pageNumber": 2,
             "pageName": "要闻",
             "title": "良种配良法 小麦长势好（春耕里的新质生产力）",
-            "excerpt": "",
+            "author": "本报记者 邓剑洋",
+            "excerpt": "江苏省东台市五烈镇东里村，种植户孙锦平正在进行无人机飞防作业，将药剂均匀洒向麦地。 “虽然迟播了20天，但对冬小麦产量影响不大。多亏了种子好、管护精心。”孙锦平种了约390亩“扬麦25”，这是耐迟播高产新品种。 “稻麦轮作茬口衔接紧张、秋播连续阴雨等因素，会推迟长江中下游麦区小麦播种时间。”江苏里下河地区农业科学研究所研究员高德荣介绍，由该所培育的“扬麦2…",
             "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154681.html",
             "extraction": {
-              "status": "failed",
+              "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:16.780Z",
-              "message": "This operation was aborted"
+              "extractedAt": "2026-05-16T20:20:58.927Z"
             }
           },
           {
@@ -209,13 +209,12 @@
             "pageNumber": 2,
             "pageName": "要闻",
             "title": "一季度贷款支持科创企业力度较大",
-            "excerpt": "",
+            "excerpt": "本报北京5月2日电 （记者吴秋余）中国人民银行发布的2026年一季度金融机构贷款投向统计报告显示：截至今年一季度末，我国本外币绿色贷款余额48.1万亿元，同比增长17.6%，一季度增加3.29万亿元。 分用途看，基础设施绿色升级贷款、能源绿色低碳转型贷款、生态保护修复和利用贷款余额分别为21.53万亿元、8.74万亿元、5.4万亿元。分行业看，电力、热力、…",
             "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154682.html",
             "extraction": {
-              "status": "failed",
+              "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:16.781Z",
-              "message": "This operation was aborted"
+              "extractedAt": "2026-05-16T20:20:58.947Z"
             }
           },
           {
@@ -225,13 +224,14 @@
             "pageNumber": 2,
             "pageName": "要闻",
             "title": "持续抓下去，不断抓出新成效",
-            "excerpt": "",
+            "subtitle": "——与会代表谈贯彻落实加强基础研究座谈会精神",
+            "author": "本报记者 李君强 孙 振 杨翘楚",
+            "excerpt": "基础研究是整个科学体系的源头，是所有技术问题的总机关。党的十八大以来，以习近平同志为核心的党中央高度重视基础研究，通过优化科研布局、加大投入保障、创新体制机制等，推动我国基础研究水平显著提升。 当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。4月30日，习近平总书记出席加强基础研究座谈会并发表重要…",
             "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154683.html",
             "extraction": {
-              "status": "failed",
+              "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:16.781Z",
-              "message": "This operation was aborted"
+              "extractedAt": "2026-05-16T20:20:58.951Z"
             }
           },
           {
@@ -241,23 +241,22 @@
             "pageNumber": 2,
             "pageName": "要闻",
             "title": "全年煤炭市场供需预计总体平衡",
-            "excerpt": "",
+            "subtitle": "供给保持较高水平",
+            "excerpt": "本报北京5月2日电 （记者丁怡婷）目前，我国能源消费总量中煤炭兜底保障作用较强，占比超过五成。一季度，原煤生产在去年同期较高基数基础上保持平稳，规上工业原煤产量同比增长0.1%。 中国煤炭工业协会发布的《2025煤炭行业发展年度报告》显示，“十四五”时期，煤炭供给能力持续提升，全国建成年产千万吨级煤矿91处、产能达到15.3亿吨/年，比2020年增加39处…",
             "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154684.html",
             "extraction": {
-              "status": "failed",
+              "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:16.781Z",
-              "message": "This operation was aborted"
+              "extractedAt": "2026-05-16T20:20:58.880Z"
             }
           }
         ],
         "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/03/fa3d44eb-7430-4853-929a-4558d160a711.pdf",
         "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/03/bd5e3880-62db-4b40-9347-b9885026bc01.jpg.2",
         "extraction": {
-          "status": "partial",
+          "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T09:07:16.781Z",
-          "message": "This operation was aborted"
+          "extractedAt": "2026-05-16T20:20:58.951Z"
         }
       },
       {
@@ -280,7 +279,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:17.757Z"
+              "extractedAt": "2026-05-16T20:20:59.255Z"
             }
           },
           {
@@ -296,7 +295,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:17.766Z"
+              "extractedAt": "2026-05-16T20:20:59.265Z"
             }
           },
           {
@@ -312,7 +311,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:17.749Z"
+              "extractedAt": "2026-05-16T20:20:59.262Z"
             }
           },
           {
@@ -329,7 +328,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:17.744Z"
+              "extractedAt": "2026-05-16T20:20:59.213Z"
             }
           },
           {
@@ -344,7 +343,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:17.808Z"
+              "extractedAt": "2026-05-16T20:20:59.261Z"
             }
           },
           {
@@ -359,7 +358,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:17.740Z"
+              "extractedAt": "2026-05-16T20:20:59.270Z"
             }
           },
           {
@@ -374,7 +373,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:17.875Z"
+              "extractedAt": "2026-05-16T20:20:59.274Z"
             }
           },
           {
@@ -389,7 +388,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:17.876Z"
+              "extractedAt": "2026-05-16T20:20:59.306Z"
             }
           },
           {
@@ -404,7 +403,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:17.871Z"
+              "extractedAt": "2026-05-16T20:20:59.328Z"
             }
           },
           {
@@ -419,7 +418,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:17.927Z"
+              "extractedAt": "2026-05-16T20:20:59.317Z"
             }
           }
         ],
@@ -428,7 +427,7 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T09:07:17.927Z"
+          "extractedAt": "2026-05-16T20:20:59.328Z"
         }
       },
       {
@@ -452,7 +451,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:18.247Z"
+              "extractedAt": "2026-05-16T20:20:59.591Z"
             }
           },
           {
@@ -469,7 +468,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:18.251Z"
+              "extractedAt": "2026-05-16T20:20:59.634Z"
             }
           },
           {
@@ -485,7 +484,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:18.245Z"
+              "extractedAt": "2026-05-16T20:20:59.590Z"
             }
           },
           {
@@ -500,7 +499,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:18.246Z"
+              "extractedAt": "2026-05-16T20:20:59.642Z"
             }
           },
           {
@@ -517,7 +516,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:07:18.250Z"
+              "extractedAt": "2026-05-16T20:20:59.645Z"
             }
           }
         ],
@@ -526,32 +525,426 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T09:07:18.251Z"
+          "extractedAt": "2026-05-16T20:20:59.645Z"
         }
       }
     ],
     "extraction": {
-      "status": "partial",
+      "status": "success",
       "method": "people-daily-html-v1",
-      "extractedAt": "2026-05-16T09:07:18.251Z",
-      "message": "This operation was aborted"
+      "extractedAt": "2026-05-16T20:20:59.645Z"
     }
   },
   "plaIssue": {
     "id": "pla_daily:2026-05-03",
     "source": "pla_daily",
     "issueDate": "2026-05-03",
-    "pages": [],
+    "pages": [
+      {
+        "id": "pla_daily:2026-05-03:p01",
+        "source": "pla_daily",
+        "issueDate": "2026-05-03",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-03-1-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "“用青春的智慧和汗水打拼出一个更加美好的中国”",
+            "subtitle": "——习近平总书记关于青年工作的重要思想引领青年志愿者挺膺担当、矢志奋斗",
+            "excerpt": "“青春孕育无限希望，青年创造美好明天”“希望你们弘扬奉献、友爱、互助、进步的志愿精神，坚持与祖国同行、为人民奉献”。 对于青年，对于青年志愿者，习近平总书记总是给予深切关怀、殷殷厚望。一封封回信、一次次交流、一声声关切，礼赞青春、启迪青年，如春风、似雨露，沁润心田。 响应习近平总书记号召，千千万万青年志愿者在强国建设、民族复兴的壮阔征程上，拼搏奉献、接续奋…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=01&articleid=2026-05-03-1-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.901Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-1-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "为实现高水平科技自立自强、建设科技强国努力奋斗",
+            "subtitle": "——与会代表谈贯彻落实加强基础研究座谈会精神",
+            "excerpt": "4月30日上午，习近平总书记在上海出席加强基础研究座谈会并发表重要讲话。习近平总书记指出，我们要抓住机遇、应对挑战，切实把基础研究工作摆上重要日程，持续抓下去，不断抓出新成效。 座谈会后，部分与会代表接受了新华社记者采访。大家表示，此次会议在“十五五”开局之年召开，充分彰显了以习近平同志为核心的党中央统筹国内国际两个大局、高度重视基础研究工作、全面推进科技…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=01&articleid=2026-05-03-1-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.901Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-1-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "强国强军靠奋斗",
+            "excerpt": "“一心向党，矢志报国！”五四青年节来临之际，全军各部队组织青年官兵以多种形式开展团日活动。广大青年官兵纷纷表示，要大力弘扬五四精神，把爱国落实到岗位职责中。 习主席指出，“新时代中国青年要热爱伟大祖国”。伟大五四精神，其核心是爱国主义精神。对青年官兵来说，本职岗位既是追求梦想、实现价值的个人舞台，也是爱国奉献、以身报国的最佳平台。马少利以奋斗书写军旅人生、…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=01&articleid=2026-05-03-1-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.901Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-1-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "强军擎旗有来人",
+            "subtitle": "——全军青年官兵凝心铸魂勇担时代重任",
+            "excerpt": "国家的希望在青年，民族的未来在青年。推进强军事业，需要一批又一批有志青年接续奋斗。 “习主席对广大青年念兹在兹，寄予厚望。奋进新征程，我们青年官兵生逢其时、重任在肩，誓用热血赤诚守卫大好河山。”雪域高原，青春戍边。海拔5100多米的“党旗山”前，年轻的边防官兵挺立如山，忠诚的誓言久久回荡。 “奔赴梦想的路，要用奋斗去抵达。唯有开足马力拼出来，乘风破浪闯出来…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=01&articleid=2026-05-03-1-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.901Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-1-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=01&articleid=2026-05-03-1-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.901Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260503/54523c548959f992c59e507ed95eddf4.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260503/6069ad1e7dea9c2168d6f5ddabff1877.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T20:20:58.901Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-03:p02",
+        "source": "pla_daily",
+        "issueDate": "2026-05-03",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-03-2-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "抓住机遇，以更大力度更实举措加强基础研究",
+            "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+            "excerpt": "科技兴则民族兴，科技强则国家强。在加强基础研究座谈会上，习近平总书记从统筹两个大局的战略高度，全面分析面临的新形势新挑战，强调“我们要抓住机遇、应对挑战”“以更大力度、更实举措加强基础研究”。 “当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。” 从机遇来看，世界已经进入大科学时代，技术创新进入前…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=02&articleid=2026-05-03-2-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.901Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-2-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "“用青春的智慧和汗水打拼出一个更加美好的中国”",
+            "subtitle": "——习近平总书记关于青年工作的重要思想引领青年志愿者挺膺担当、矢志奋斗",
+            "excerpt": "“青春孕育无限希望，青年创造美好明天”“希望你们弘扬奉献、友爱、互助、进步的志愿精神，坚持与祖国同行、为人民奉献”。 对于青年，对于青年志愿者，习近平总书记总是给予深切关怀、殷殷厚望。一封封回信、一次次交流、一声声关切，礼赞青春、启迪青年，如春风、似雨露，沁润心田。 响应习近平总书记号召，千千万万青年志愿者在强国建设、民族复兴的壮阔征程上，拼搏奉献、接续奋…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=02&articleid=2026-05-03-2-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.902Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-2-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "强军擎旗有来人",
+            "subtitle": "——全军青年官兵凝心铸魂勇担时代重任",
+            "excerpt": "国家的希望在青年，民族的未来在青年。推进强军事业，需要一批又一批有志青年接续奋斗。 “习主席对广大青年念兹在兹，寄予厚望。奋进新征程，我们青年官兵生逢其时、重任在肩，誓用热血赤诚守卫大好河山。”雪域高原，青春戍边。海拔5100多米的“党旗山”前，年轻的边防官兵挺立如山，忠诚的誓言久久回荡。 “奔赴梦想的路，要用奋斗去抵达。唯有开足马力拼出来，乘风破浪闯出来…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=02&articleid=2026-05-03-2-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.902Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260503/bc90f476cb32101dc2476c77d01b0f20.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260503/5eb7e2faa8affc7e2ac448b4013241ff.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T20:20:58.902Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-03:p03",
+        "source": "pla_daily",
+        "issueDate": "2026-05-03",
+        "pageNumber": 3,
+        "pageName": "强军之声",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-03-3-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "强军之声",
+            "title": "让青春融入强国强军的时代洪流",
+            "excerpt": "“我们是五月的花海，用青春拥抱时代。” 神州大地，草木葳蕤、生机盎然，又到一年“五四”时。前几天，2026年度中国青年五四奖章暨新时代青年先锋奖评选结果揭晓。作为当代青年的杰出代表，获奖者用热血担当使命，用岁月书写无悔，为强国建设、民族复兴奏响嘹亮的青春之歌。致敬青春的五月，聆听梦想渐行渐近的脚步，感受时代强劲有力的脉搏，我们不禁自问：中国青年将成就怎样的…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=03&articleid=2026-05-03-3-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.902Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-3-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "强军之声",
+            "title": "从“鸡毛换糖”到“世界超市”的启示",
+            "excerpt": "习主席近日作出重要指示强调，要结合开展树立和践行正确政绩观学习教育，把“义乌发展经验”进一步总结好、运用好，引导各地区立足自身资源禀赋，尊重基层和群众首创精神，改革创新、真抓实干、久久为功，探索走出符合各自实际的高质量发展之路，更好服务和融入全国发展大局。 群众是真正的英雄。人民群众是社会实践的主体，对社会实践体验最直接，对发展问题认知最准确，对民生需求感…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=03&articleid=2026-05-03-3-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.902Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-3-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "强军之声",
+            "title": "练兵比武，多些“全员赛”",
+            "excerpt": "“谁英雄谁好汉，训练场上比比看！”近段时间，不少单位组织群众性练兵比武活动，不拉班子拼尖子、不搞比武“专业户”，实现练兵比武从“精英赛”向“全员赛”转变，扎扎实实在全面提高部队整体战斗力上下功夫。 习主席强调，抓好群众性练兵比武，把每一个单兵、每一型装备、每一类作战要素训到位，夯实打胜仗能力基础。群众性练兵比武，顾名思义，关键词是群众性，即面向所有部队、所…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=03&articleid=2026-05-03-3-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.902Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-3-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "强军之声",
+            "title": "“吐槽墙”也是“连心桥”",
+            "excerpt": "“跑三圈太多了！少跑一点吧，建议做操。”“共享体育器材建议多一点。”近日，云南省红河州石屏县第一中学的一面“吐槽墙”火了，在“吐槽墙”上，学生想吐槽啥就写啥。不仅如此，每周一清晨，校领导还会到墙边开办公会，一条条念，一条条解决。“吐槽墙”成了“连心桥”，此举也在网上引发公众热议。 为何要在校园设置一面“吐槽墙”？石屏一中曾设置过“校长信箱”，因用语“太过正…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=03&articleid=2026-05-03-3-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.902Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-3-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 3,
+            "pageName": "强军之声",
+            "title": "常怀敬畏之心",
+            "excerpt": "“畏则不敢肆而德以成，无畏则从其所欲而及于祸”。党员干部特别是领导干部应常怀敬畏之心，主动在思想上划出红线、在行为上明确界限。正如习主席反复强调的：“各级领导干部要牢固树立正确权力观，保持高尚精神追求，敬畏人民、敬畏组织、敬畏法纪，做到公正用权、依法用权、为民用权、廉洁用权，永葆共产党人拒腐蚀、永不沾的政治本色。” 邓小平同志曾讲：“共产党员谨小慎微不好，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=03&articleid=2026-05-03-3-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.902Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260503/739c6daf1e00056f46641d7adbf39a8c.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260503/b7b83597124a7d7423feec486ce6eed5.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T20:20:58.902Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-03:p04",
+        "source": "pla_daily",
+        "issueDate": "2026-05-03",
+        "pageNumber": 4,
+        "pageName": "烽火影视",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-03-4-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 4,
+            "pageName": "烽火影视",
+            "title": "太空叙事见证星海征程",
+            "subtitle": "——中国航天题材影片概览",
+            "excerpt": "1956年，钱学森向党中央提交了《建立我国国防航空工业意见书》。同年，国防部第五研究院正式成立，我国航天事业由此起步。70年来，一代代中国航天工作者在勇攀航天科技高峰的征途上不懈奋斗。这一波澜壮阔的历史征程，同样在中国电影的银幕上留下了深刻印记。 电影《圣地额济纳》以1958年内蒙古额济纳旗土尔扈特牧民，将5万平方公里牧场奉献给国家航天基地建设的真实事件为…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=04&articleid=2026-05-03-4-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.902Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-4-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 4,
+            "pageName": "烽火影视",
+            "title": "抗战岁月中的命运沉浮",
+            "excerpt": "近期，电视剧《八千里路云和月》在央视电视剧频道热播。该剧以9个中秋节为时间刻度，横跨8年烽烟，聚焦多个人物的命运沉浮，以小见大，全景式展现中国军民抗战岁月。电视剧揭示了在民族危亡时刻，唯有中国共产党领导的抗日民族统一战线，才能凝聚起四万万同胞，筑成钢铁长城。 电视剧出现“家书”“月亮”等意象，代表了中国人民在烽火岁月中的深切思念与坚定信念。“亲爱的月明，你…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=04&articleid=2026-05-03-4-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.902Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-4-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 4,
+            "pageName": "烽火影视",
+            "title": "跟随航天员沉浸式遨游太空",
+            "excerpt": "仰望星空，我们不仅在寻找远方，也在确认归途。纪录电影《窗外是蓝星》正是这样一次具有诗意的回望——它不只记录了中国航天员在太空中的历史性驻留，更以细腻的笔触，勾勒出人类与宇宙之间那根看不见却紧紧相连的情感纽带。纪录电影《窗外是蓝星》，由神舟十三号航天员翟志刚、王亚平、叶光富执镜，在距地400公里的中国空间站中实景拍摄，为我们带来了一场视觉盛宴。 作为中国第一…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=04&articleid=2026-05-03-4-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.902Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-03-4-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-03",
+            "pageNumber": 4,
+            "pageName": "烽火影视",
+            "title": "跨越海峡的大义与温情",
+            "excerpt": "去年，电视剧《沉默的荣耀》让观众透过荧屏认识了吴石等多名隐蔽战线上的无名英雄。今年4月15日，是我国第11个国家安全日。带着对隐蔽战线英雄的敬意，央视国防军事频道《军迷行天下》栏目组专程奔赴湖南衡阳，拍摄《衡阳归园行》，讲述衡阳“一门四忠烈”的故事。 拍摄前一日，我们抵达衡阳，见到了62岁的段有慧。她谈吐温和，眉眼间带着学者的温婉。她的爷爷段沄、叔爷爷段复…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=04&articleid=2026-05-03-4-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-16T20:20:58.902Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260503/7af1b8fc16cec18db42b745e515a1571.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260503/dc972827217d929798209765c64c0e6e.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-16T20:20:58.902Z"
+        }
+      }
+    ],
     "extraction": {
-      "status": "failed",
+      "status": "success",
       "method": "pla-daily-index-json-v1",
-      "extractedAt": "2026-05-16T09:07:16.780Z",
-      "message": "This operation was aborted"
+      "extractedAt": "2026-05-16T20:20:58.903Z"
     }
   },
   "matchGroups": [
     {
-      "id": "people_only:1:要闻",
+      "id": "matched:people_daily:30154673:pla_daily:2026-05-03-2-0",
+      "issueDate": "2026-05-03",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154673",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "抓住机遇，以更大力度更实举措加强基础研究",
+          "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+          "author": "本报评论员",
+          "excerpt": "科技兴则民族兴，科技强则国家强。在加强基础研究座谈会上，习近平总书记从统筹两个大局的战略高度，全面分析面临的新形势新挑战，强调“我们要抓住机遇、应对挑战”“以更大力度、更实举措加强基础研究”。 “当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。” 从机遇来看，世界已经进入大科学时代，技术创新进入前…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154673.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:20:58.470Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-2-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "抓住机遇，以更大力度更实举措加强基础研究",
+          "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
+          "excerpt": "科技兴则民族兴，科技强则国家强。在加强基础研究座谈会上，习近平总书记从统筹两个大局的战略高度，全面分析面临的新形势新挑战，强调“我们要抓住机遇、应对挑战”“以更大力度、更实举措加强基础研究”。 “当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。” 从机遇来看，世界已经进入大科学时代，技术创新进入前…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=02&articleid=2026-05-03-2-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.901Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 抓住机遇，以更大力度更实举措加强基础研究、习近平总书记从统筹两个大局的战略高度、我国基础研究已经进入高质量发展的加速、把世界科技前沿同国家重大战略需求和经。ナラティブ・完全タイトル一致: 抓住机遇，以更大力度更实举措加强基础研究、习近平总书记从统筹两个大局的战略高度、我国基础研究已经进入高质量发展的加速、把世界科技前沿同国家重大战略需求和经 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "抓住机遇，以更大力度更实举措加强基础研究",
+          "习近平总书记从统筹两个大局的战略高度",
+          "我国基础研究已经进入高质量发展的加速",
+          "把世界科技前沿同国家重大战略需求和经",
+          "方能走稳走好基础研究高质量发展之路",
+          "从国家战略需求中凝练重大科技问题",
+          "提升国家创新体系整体效能是关键",
+          "一个重要原因就在于发挥好制度"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 100% / narrative 83%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 83%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 抓住机遇，以更大力度更实举措加强基础研究、习近平总书记从统筹两个大局的战略高度、我国基础研究已经进入高质量发展的加速、把世界科技前沿同国家重大战略需求和经",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154672",
       "issueDate": "2026-05-03",
       "matchType": "people_only",
       "confidence": 0,
@@ -569,26 +962,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:06:13.840Z"
+            "extractedAt": "2026-05-16T20:20:58.627Z"
           }
-        },
-        {
-          "id": "people_daily:30154673",
-          "source": "people_daily",
-          "issueDate": "2026-05-03",
-          "pageNumber": 1,
-          "pageName": "要闻",
-          "title": "抓住机遇，以更大力度更实举措加强基础研究",
-          "subtitle": "——论学习贯彻习近平总书记在加强基础研究座谈会上重要讲话",
-          "author": "本报评论员",
-          "excerpt": "科技兴则民族兴，科技强则国家强。在加强基础研究座谈会上，习近平总书记从统筹两个大局的战略高度，全面分析面临的新形势新挑战，强调“我们要抓住机遇、应对挑战”“以更大力度、更实举措加强基础研究”。 “当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。” 从机遇来看，世界已经进入大科学时代，技术创新进入前…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154673.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:06:13.855Z"
-          }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154674",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30154674",
           "source": "people_daily",
@@ -603,9 +1004,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:06:13.841Z"
+            "extractedAt": "2026-05-16T20:20:58.628Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154675",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30154675",
           "source": "people_daily",
@@ -620,9 +1046,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:06:13.839Z"
+            "extractedAt": "2026-05-16T20:20:58.626Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154676",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30154676",
           "source": "people_daily",
@@ -635,9 +1086,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:06:13.823Z"
+            "extractedAt": "2026-05-16T20:20:58.541Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154677",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30154677",
           "source": "people_daily",
@@ -651,9 +1127,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:06:13.825Z"
+            "extractedAt": "2026-05-16T20:20:58.629Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154678",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30154678",
           "source": "people_daily",
@@ -666,12 +1167,12 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:06:13.837Z"
+            "extractedAt": "2026-05-16T20:20:58.539Z"
           }
         }
       ],
       "plaArticles": [],
-      "reason": "People's only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -684,12 +1185,12 @@
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
         "メタデータ・MATCHED非採用"
       ]
     },
     {
-      "id": "people_only:2:要闻",
+      "id": "people_only:people_daily:30154679",
       "issueDate": "2026-05-03",
       "matchType": "people_only",
       "confidence": 0,
@@ -701,98 +1202,18 @@
           "pageNumber": 2,
           "pageName": "要闻",
           "title": "中国游中国购热情持续高涨（经济新方位·聚焦假期消费）",
-          "excerpt": "",
+          "author": "本报记者 李家鼎 申智林 贾丰丰",
+          "excerpt": "“购在中国”活动正如火如荼开展。各地围绕扩大优质商品和服务供给、创新多元化消费场景、促进商旅文体健深度融合、建设国际化消费环境等方面发力，创新培育了一批品质优、信誉好的中国消费名品，形成一批高水平、高能级的文化演出、文博展览和体育赛事矩阵，打造出一批多元业态融合、优质资源集聚的特色商圈和街区。 “五一”假期，丰富多彩的活动和质优价美的产品供给，不仅满足了国…",
           "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154679.html",
           "extraction": {
-            "status": "failed",
+            "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:16.780Z",
-            "message": "This operation was aborted"
-          }
-        },
-        {
-          "id": "people_daily:30154680",
-          "source": "people_daily",
-          "issueDate": "2026-05-03",
-          "pageNumber": 2,
-          "pageName": "要闻",
-          "title": "推广粉用稻 专供螺蛳粉（春耕里的新质生产力）",
-          "excerpt": "",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154680.html",
-          "extraction": {
-            "status": "failed",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:16.780Z",
-            "message": "This operation was aborted"
-          }
-        },
-        {
-          "id": "people_daily:30154681",
-          "source": "people_daily",
-          "issueDate": "2026-05-03",
-          "pageNumber": 2,
-          "pageName": "要闻",
-          "title": "良种配良法 小麦长势好（春耕里的新质生产力）",
-          "excerpt": "",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154681.html",
-          "extraction": {
-            "status": "failed",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:16.780Z",
-            "message": "This operation was aborted"
-          }
-        },
-        {
-          "id": "people_daily:30154682",
-          "source": "people_daily",
-          "issueDate": "2026-05-03",
-          "pageNumber": 2,
-          "pageName": "要闻",
-          "title": "一季度贷款支持科创企业力度较大",
-          "excerpt": "",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154682.html",
-          "extraction": {
-            "status": "failed",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:16.781Z",
-            "message": "This operation was aborted"
-          }
-        },
-        {
-          "id": "people_daily:30154683",
-          "source": "people_daily",
-          "issueDate": "2026-05-03",
-          "pageNumber": 2,
-          "pageName": "要闻",
-          "title": "持续抓下去，不断抓出新成效",
-          "excerpt": "",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154683.html",
-          "extraction": {
-            "status": "failed",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:16.781Z",
-            "message": "This operation was aborted"
-          }
-        },
-        {
-          "id": "people_daily:30154684",
-          "source": "people_daily",
-          "issueDate": "2026-05-03",
-          "pageNumber": 2,
-          "pageName": "要闻",
-          "title": "全年煤炭市场供需预计总体平衡",
-          "excerpt": "",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154684.html",
-          "extraction": {
-            "status": "failed",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:16.781Z",
-            "message": "This operation was aborted"
+            "extractedAt": "2026-05-16T20:20:58.937Z"
           }
         }
       ],
       "plaArticles": [],
-      "reason": "People's only 6本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -805,12 +1226,217 @@
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
         "メタデータ・MATCHED非採用"
       ]
     },
     {
-      "id": "people_only:3:要闻",
+      "id": "people_only:people_daily:30154680",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154680",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "推广粉用稻 专供螺蛳粉（春耕里的新质生产力）",
+          "author": "本报记者 李维俊",
+          "excerpt": "“怎样的米粉才算好？” 没到饭点，广西柳州市鱼峰区的一家螺蛳粉店已坐满食客。记者一问，几桌人接话： “要有嚼劲，不能软塌塌的。” “一口能吸溜进去的才好。” 说话间，几名食客夹起粉嗍了起来。大家的意见逐渐统一：爽滑、有弹性的粉，才能越吃越香。 这样的粉怎么来？记者从餐桌向田间溯源。 鱼峰区里雍镇龙江村粉用稻产业融合示范基地，上百亩稻田刚灌过水。龙江村岩口组…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154680.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:20:58.878Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154681",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154681",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "良种配良法 小麦长势好（春耕里的新质生产力）",
+          "author": "本报记者 邓剑洋",
+          "excerpt": "江苏省东台市五烈镇东里村，种植户孙锦平正在进行无人机飞防作业，将药剂均匀洒向麦地。 “虽然迟播了20天，但对冬小麦产量影响不大。多亏了种子好、管护精心。”孙锦平种了约390亩“扬麦25”，这是耐迟播高产新品种。 “稻麦轮作茬口衔接紧张、秋播连续阴雨等因素，会推迟长江中下游麦区小麦播种时间。”江苏里下河地区农业科学研究所研究员高德荣介绍，由该所培育的“扬麦2…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154681.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:20:58.927Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154682",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154682",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "一季度贷款支持科创企业力度较大",
+          "excerpt": "本报北京5月2日电 （记者吴秋余）中国人民银行发布的2026年一季度金融机构贷款投向统计报告显示：截至今年一季度末，我国本外币绿色贷款余额48.1万亿元，同比增长17.6%，一季度增加3.29万亿元。 分用途看，基础设施绿色升级贷款、能源绿色低碳转型贷款、生态保护修复和利用贷款余额分别为21.53万亿元、8.74万亿元、5.4万亿元。分行业看，电力、热力、…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154682.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:20:58.947Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154683",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154683",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "持续抓下去，不断抓出新成效",
+          "subtitle": "——与会代表谈贯彻落实加强基础研究座谈会精神",
+          "author": "本报记者 李君强 孙 振 杨翘楚",
+          "excerpt": "基础研究是整个科学体系的源头，是所有技术问题的总机关。党的十八大以来，以习近平同志为核心的党中央高度重视基础研究，通过优化科研布局、加大投入保障、创新体制机制等，推动我国基础研究水平显著提升。 当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。4月30日，习近平总书记出席加强基础研究座谈会并发表重要…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154683.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:20:58.951Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154684",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154684",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "全年煤炭市场供需预计总体平衡",
+          "subtitle": "供给保持较高水平",
+          "excerpt": "本报北京5月2日电 （记者丁怡婷）目前，我国能源消费总量中煤炭兜底保障作用较强，占比超过五成。一季度，原煤生产在去年同期较高基数基础上保持平稳，规上工业原煤产量同比增长0.1%。 中国煤炭工业协会发布的《2025煤炭行业发展年度报告》显示，“十四五”时期，煤炭供给能力持续提升，全国建成年产千万吨级煤矿91处、产能达到15.3亿吨/年，比2020年增加39处…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154684.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:20:58.880Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154685",
       "issueDate": "2026-05-03",
       "matchType": "people_only",
       "confidence": 0,
@@ -828,9 +1454,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:17.757Z"
+            "extractedAt": "2026-05-16T20:20:59.255Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154686",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30154686",
           "source": "people_daily",
@@ -844,9 +1495,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:17.766Z"
+            "extractedAt": "2026-05-16T20:20:59.265Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154687",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30154687",
           "source": "people_daily",
@@ -860,9 +1536,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:17.749Z"
+            "extractedAt": "2026-05-16T20:20:59.262Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154688",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30154688",
           "source": "people_daily",
@@ -877,102 +1578,12 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:17.744Z"
-          }
-        },
-        {
-          "id": "people_daily:30154689",
-          "source": "people_daily",
-          "issueDate": "2026-05-03",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "excerpt": "本报北京5月2日电 （记者罗珊珊）商务部2日发布阻断禁令，阻断美国以参与涉伊朗石油交易为由，对恒力石化（大连）炼化有限公司、山东寿光鲁清石化有限公司、山东金诚石化集团有限公司、河北鑫海化工集团有限公司、山东胜星化工有限公司等5家企业采取的列入“特别指定国民清单”（SDN清单）、实施冻结资产和禁止交易制裁措施。 商务部新闻发言人当天对此回应表示，2025年以…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154689.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:17.808Z"
-          }
-        },
-        {
-          "id": "people_daily:30154690",
-          "source": "people_daily",
-          "issueDate": "2026-05-03",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "中国担任安理会5月轮值主席",
-          "excerpt": "本报联合国5月2日电 （记者李志伟）中国1日开始担任联合国安理会当月轮值主席。中国常驻联合国代表傅聪在当天举行的记者会上介绍，安理会本月将聚焦三项重点：重振《联合国宪章》权威和联合国作用、推动中东问题政治解决、支持非洲国家稳定发展。 傅聪表示，近年来，国际局势动荡加剧，冲突对抗日益增多，多边体系和国际法治遭受严重冲击。国际社会迫切需要采取行动，重振《联合国…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154690.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:17.740Z"
-          }
-        },
-        {
-          "id": "people_daily:30154691",
-          "source": "people_daily",
-          "issueDate": "2026-05-03",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "多国学员实地了解中国式现代化实践经验",
-          "excerpt": "本报上海5月2日电 （记者崔寅）北京大学“东方奖学金”治国理政研修班学员代表团日前到访上海，感受上海经济社会发展、城市治理、科创成果，多角度、立体化了解中国式现代化的实践经验。 代表团由57个国家和地区的学员组成，先后走访了中共一大会址、洋山港四期码头、漕河泾开发区人形机器人孵化器、上海基层社区街道等，还在上海市委党校与国内高校学者开展座谈交流。 学员们认…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154691.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:17.875Z"
-          }
-        },
-        {
-          "id": "people_daily:30154692",
-          "source": "people_daily",
-          "issueDate": "2026-05-03",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "外交部发言人就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问",
-          "excerpt": "新华社北京5月2日电 外交部发言人2日就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问。 有记者问：据报道，台湾地区领导人赖清德已于5月2日搭乘斯威士兰国王的“私人飞机”抵斯。请问中方对此有何评论？ 发言人说，赖清德在宜兰发生地震后仅几小时，弃岛内民生于不顾，偷偷钻进一架外国飞机溜出台湾，大肆挥霍公帑，上演“偷渡式”外窜闹剧，沦为国际笑柄，拉长“台独”丑行…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154692.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:17.876Z"
-          }
-        },
-        {
-          "id": "people_daily:30154694",
-          "source": "people_daily",
-          "issueDate": "2026-05-03",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "国台办：玩弄伎俩、贻笑天下",
-          "excerpt": "新华社北京5月2日电 国务院台办发言人陈斌华2日答记者问表示，此前因有关国家坚持一个中国原则，赖清德企图乘包机窜访斯威士兰被迫取消，但其不甘失败，竟然不顾颜面，以偷鸡摸狗的方式外窜至斯。当前岛内正遭遇地震，赖清德不管不顾。由此可见其对岛内民众冷血无情，“台独”立场顽固，是彻头彻尾的“麻烦制造者”。 有记者问：赖清德此前因有关国家拒绝发放包机飞行许可，窜访斯…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154694.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:17.871Z"
-          }
-        },
-        {
-          "id": "people_daily:30154693",
-          "source": "people_daily",
-          "issueDate": "2026-05-03",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "中国—东盟灾害管理合作项目启动",
-          "excerpt": "本报雅加达5月2日电 （记者曹师韵）中国—东盟灾害管理合作项目启动仪式日前在位于印度尼西亚雅加达的东盟秘书处举行。东盟秘书长高金洪、中国驻东盟大使王擎、东盟灾害管理委员会官员以及东盟各国常驻代表等出席活动。 2026年是“中国—东盟建立全面战略伙伴关系5周年”主题年。中国—东盟灾害管理合作项目启动实施，旨在通过为东盟开展人力资源培…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154693.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:17.927Z"
+            "extractedAt": "2026-05-16T20:20:59.213Z"
           }
         }
       ],
       "plaArticles": [],
-      "reason": "People's only 10本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -985,12 +1596,252 @@
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
         "メタデータ・MATCHED非採用"
       ]
     },
     {
-      "id": "people_only:4:要闻",
+      "id": "people_only:people_daily:30154689",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154689",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "excerpt": "本报北京5月2日电 （记者罗珊珊）商务部2日发布阻断禁令，阻断美国以参与涉伊朗石油交易为由，对恒力石化（大连）炼化有限公司、山东寿光鲁清石化有限公司、山东金诚石化集团有限公司、河北鑫海化工集团有限公司、山东胜星化工有限公司等5家企业采取的列入“特别指定国民清单”（SDN清单）、实施冻结资产和禁止交易制裁措施。 商务部新闻发言人当天对此回应表示，2025年以…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154689.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:20:59.261Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154690",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154690",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中国担任安理会5月轮值主席",
+          "excerpt": "本报联合国5月2日电 （记者李志伟）中国1日开始担任联合国安理会当月轮值主席。中国常驻联合国代表傅聪在当天举行的记者会上介绍，安理会本月将聚焦三项重点：重振《联合国宪章》权威和联合国作用、推动中东问题政治解决、支持非洲国家稳定发展。 傅聪表示，近年来，国际局势动荡加剧，冲突对抗日益增多，多边体系和国际法治遭受严重冲击。国际社会迫切需要采取行动，重振《联合国…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154690.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:20:59.270Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154691",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154691",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "多国学员实地了解中国式现代化实践经验",
+          "excerpt": "本报上海5月2日电 （记者崔寅）北京大学“东方奖学金”治国理政研修班学员代表团日前到访上海，感受上海经济社会发展、城市治理、科创成果，多角度、立体化了解中国式现代化的实践经验。 代表团由57个国家和地区的学员组成，先后走访了中共一大会址、洋山港四期码头、漕河泾开发区人形机器人孵化器、上海基层社区街道等，还在上海市委党校与国内高校学者开展座谈交流。 学员们认…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154691.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:20:59.274Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154692",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154692",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "外交部发言人就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问",
+          "excerpt": "新华社北京5月2日电 外交部发言人2日就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问。 有记者问：据报道，台湾地区领导人赖清德已于5月2日搭乘斯威士兰国王的“私人飞机”抵斯。请问中方对此有何评论？ 发言人说，赖清德在宜兰发生地震后仅几小时，弃岛内民生于不顾，偷偷钻进一架外国飞机溜出台湾，大肆挥霍公帑，上演“偷渡式”外窜闹剧，沦为国际笑柄，拉长“台独”丑行…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154692.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:20:59.306Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154693",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154693",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中国—东盟灾害管理合作项目启动",
+          "excerpt": "本报雅加达5月2日电 （记者曹师韵）中国—东盟灾害管理合作项目启动仪式日前在位于印度尼西亚雅加达的东盟秘书处举行。东盟秘书长高金洪、中国驻东盟大使王擎、东盟灾害管理委员会官员以及东盟各国常驻代表等出席活动。 2026年是“中国—东盟建立全面战略伙伴关系5周年”主题年。中国—东盟灾害管理合作项目启动实施，旨在通过为东盟开展人力资源培…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154693.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:20:59.317Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154694",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30154694",
+          "source": "people_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "国台办：玩弄伎俩、贻笑天下",
+          "excerpt": "新华社北京5月2日电 国务院台办发言人陈斌华2日答记者问表示，此前因有关国家坚持一个中国原则，赖清德企图乘包机窜访斯威士兰被迫取消，但其不甘失败，竟然不顾颜面，以偷鸡摸狗的方式外窜至斯。当前岛内正遭遇地震，赖清德不管不顾。由此可见其对岛内民众冷血无情，“台独”立场顽固，是彻头彻尾的“麻烦制造者”。 有记者问：赖清德此前因有关国家拒绝发放包机飞行许可，窜访斯…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/03/content_30154694.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:20:59.328Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154695",
       "issueDate": "2026-05-03",
       "matchType": "people_only",
       "confidence": 0,
@@ -1009,9 +1860,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:18.247Z"
+            "extractedAt": "2026-05-16T20:20:59.591Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154696",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30154696",
           "source": "people_daily",
@@ -1026,9 +1902,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:18.251Z"
+            "extractedAt": "2026-05-16T20:20:59.634Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154697",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30154697",
           "source": "people_daily",
@@ -1042,9 +1943,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:18.245Z"
+            "extractedAt": "2026-05-16T20:20:59.590Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154698",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30154698",
           "source": "people_daily",
@@ -1057,9 +1983,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:18.246Z"
+            "extractedAt": "2026-05-16T20:20:59.642Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30154699",
+      "issueDate": "2026-05-03",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30154699",
           "source": "people_daily",
@@ -1074,12 +2025,12 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:07:18.250Z"
+            "extractedAt": "2026-05-16T20:20:59.645Z"
           }
         }
       ],
       "plaArticles": [],
-      "reason": "People's only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -1092,18 +2043,664 @@
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-1-0",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-1-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "“用青春的智慧和汗水打拼出一个更加美好的中国”",
+          "subtitle": "——习近平总书记关于青年工作的重要思想引领青年志愿者挺膺担当、矢志奋斗",
+          "excerpt": "“青春孕育无限希望，青年创造美好明天”“希望你们弘扬奉献、友爱、互助、进步的志愿精神，坚持与祖国同行、为人民奉献”。 对于青年，对于青年志愿者，习近平总书记总是给予深切关怀、殷殷厚望。一封封回信、一次次交流、一声声关切，礼赞青春、启迪青年，如春风、似雨露，沁润心田。 响应习近平总书记号召，千千万万青年志愿者在强国建设、民族复兴的壮阔征程上，拼搏奉献、接续奋…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=01&articleid=2026-05-03-1-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.901Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-1-1",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "为实现高水平科技自立自强、建设科技强国努力奋斗",
+          "subtitle": "——与会代表谈贯彻落实加强基础研究座谈会精神",
+          "excerpt": "4月30日上午，习近平总书记在上海出席加强基础研究座谈会并发表重要讲话。习近平总书记指出，我们要抓住机遇、应对挑战，切实把基础研究工作摆上重要日程，持续抓下去，不断抓出新成效。 座谈会后，部分与会代表接受了新华社记者采访。大家表示，此次会议在“十五五”开局之年召开，充分彰显了以习近平同志为核心的党中央统筹国内国际两个大局、高度重视基础研究工作、全面推进科技…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=01&articleid=2026-05-03-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.901Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-1-2",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-1-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "强国强军靠奋斗",
+          "excerpt": "“一心向党，矢志报国！”五四青年节来临之际，全军各部队组织青年官兵以多种形式开展团日活动。广大青年官兵纷纷表示，要大力弘扬五四精神，把爱国落实到岗位职责中。 习主席指出，“新时代中国青年要热爱伟大祖国”。伟大五四精神，其核心是爱国主义精神。对青年官兵来说，本职岗位既是追求梦想、实现价值的个人舞台，也是爱国奉献、以身报国的最佳平台。马少利以奋斗书写军旅人生、…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=01&articleid=2026-05-03-1-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.901Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-1-3",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-1-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "强军擎旗有来人",
+          "subtitle": "——全军青年官兵凝心铸魂勇担时代重任",
+          "excerpt": "国家的希望在青年，民族的未来在青年。推进强军事业，需要一批又一批有志青年接续奋斗。 “习主席对广大青年念兹在兹，寄予厚望。奋进新征程，我们青年官兵生逢其时、重任在肩，誓用热血赤诚守卫大好河山。”雪域高原，青春戍边。海拔5100多米的“党旗山”前，年轻的边防官兵挺立如山，忠诚的誓言久久回荡。 “奔赴梦想的路，要用奋斗去抵达。唯有开足马力拼出来，乘风破浪闯出来…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=01&articleid=2026-05-03-1-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.901Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-1-4",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-1-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=01&articleid=2026-05-03-1-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.901Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-2-1",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“用青春的智慧和汗水打拼出一个更加美好的中国”",
+          "subtitle": "——习近平总书记关于青年工作的重要思想引领青年志愿者挺膺担当、矢志奋斗",
+          "excerpt": "“青春孕育无限希望，青年创造美好明天”“希望你们弘扬奉献、友爱、互助、进步的志愿精神，坚持与祖国同行、为人民奉献”。 对于青年，对于青年志愿者，习近平总书记总是给予深切关怀、殷殷厚望。一封封回信、一次次交流、一声声关切，礼赞青春、启迪青年，如春风、似雨露，沁润心田。 响应习近平总书记号召，千千万万青年志愿者在强国建设、民族复兴的壮阔征程上，拼搏奉献、接续奋…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=02&articleid=2026-05-03-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.902Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-2-2",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-2-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "强军擎旗有来人",
+          "subtitle": "——全军青年官兵凝心铸魂勇担时代重任",
+          "excerpt": "国家的希望在青年，民族的未来在青年。推进强军事业，需要一批又一批有志青年接续奋斗。 “习主席对广大青年念兹在兹，寄予厚望。奋进新征程，我们青年官兵生逢其时、重任在肩，誓用热血赤诚守卫大好河山。”雪域高原，青春戍边。海拔5100多米的“党旗山”前，年轻的边防官兵挺立如山，忠诚的誓言久久回荡。 “奔赴梦想的路，要用奋斗去抵达。唯有开足马力拼出来，乘风破浪闯出来…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=02&articleid=2026-05-03-2-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.902Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-3-0",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-3-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "强军之声",
+          "title": "让青春融入强国强军的时代洪流",
+          "excerpt": "“我们是五月的花海，用青春拥抱时代。” 神州大地，草木葳蕤、生机盎然，又到一年“五四”时。前几天，2026年度中国青年五四奖章暨新时代青年先锋奖评选结果揭晓。作为当代青年的杰出代表，获奖者用热血担当使命，用岁月书写无悔，为强国建设、民族复兴奏响嘹亮的青春之歌。致敬青春的五月，聆听梦想渐行渐近的脚步，感受时代强劲有力的脉搏，我们不禁自问：中国青年将成就怎样的…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=03&articleid=2026-05-03-3-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.902Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-3-1",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-3-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "强军之声",
+          "title": "从“鸡毛换糖”到“世界超市”的启示",
+          "excerpt": "习主席近日作出重要指示强调，要结合开展树立和践行正确政绩观学习教育，把“义乌发展经验”进一步总结好、运用好，引导各地区立足自身资源禀赋，尊重基层和群众首创精神，改革创新、真抓实干、久久为功，探索走出符合各自实际的高质量发展之路，更好服务和融入全国发展大局。 群众是真正的英雄。人民群众是社会实践的主体，对社会实践体验最直接，对发展问题认知最准确，对民生需求感…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=03&articleid=2026-05-03-3-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.902Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-3-2",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-3-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "强军之声",
+          "title": "练兵比武，多些“全员赛”",
+          "excerpt": "“谁英雄谁好汉，训练场上比比看！”近段时间，不少单位组织群众性练兵比武活动，不拉班子拼尖子、不搞比武“专业户”，实现练兵比武从“精英赛”向“全员赛”转变，扎扎实实在全面提高部队整体战斗力上下功夫。 习主席强调，抓好群众性练兵比武，把每一个单兵、每一型装备、每一类作战要素训到位，夯实打胜仗能力基础。群众性练兵比武，顾名思义，关键词是群众性，即面向所有部队、所…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=03&articleid=2026-05-03-3-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.902Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-3-3",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-3-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "强军之声",
+          "title": "“吐槽墙”也是“连心桥”",
+          "excerpt": "“跑三圈太多了！少跑一点吧，建议做操。”“共享体育器材建议多一点。”近日，云南省红河州石屏县第一中学的一面“吐槽墙”火了，在“吐槽墙”上，学生想吐槽啥就写啥。不仅如此，每周一清晨，校领导还会到墙边开办公会，一条条念，一条条解决。“吐槽墙”成了“连心桥”，此举也在网上引发公众热议。 为何要在校园设置一面“吐槽墙”？石屏一中曾设置过“校长信箱”，因用语“太过正…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=03&articleid=2026-05-03-3-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.902Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-3-4",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-3-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 3,
+          "pageName": "强军之声",
+          "title": "常怀敬畏之心",
+          "excerpt": "“畏则不敢肆而德以成，无畏则从其所欲而及于祸”。党员干部特别是领导干部应常怀敬畏之心，主动在思想上划出红线、在行为上明确界限。正如习主席反复强调的：“各级领导干部要牢固树立正确权力观，保持高尚精神追求，敬畏人民、敬畏组织、敬畏法纪，做到公正用权、依法用权、为民用权、廉洁用权，永葆共产党人拒腐蚀、永不沾的政治本色。” 邓小平同志曾讲：“共产党员谨小慎微不好，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=03&articleid=2026-05-03-3-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.902Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-4-0",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-4-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 4,
+          "pageName": "烽火影视",
+          "title": "太空叙事见证星海征程",
+          "subtitle": "——中国航天题材影片概览",
+          "excerpt": "1956年，钱学森向党中央提交了《建立我国国防航空工业意见书》。同年，国防部第五研究院正式成立，我国航天事业由此起步。70年来，一代代中国航天工作者在勇攀航天科技高峰的征途上不懈奋斗。这一波澜壮阔的历史征程，同样在中国电影的银幕上留下了深刻印记。 电影《圣地额济纳》以1958年内蒙古额济纳旗土尔扈特牧民，将5万平方公里牧场奉献给国家航天基地建设的真实事件为…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=04&articleid=2026-05-03-4-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.902Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-4-1",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-4-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 4,
+          "pageName": "烽火影视",
+          "title": "抗战岁月中的命运沉浮",
+          "excerpt": "近期，电视剧《八千里路云和月》在央视电视剧频道热播。该剧以9个中秋节为时间刻度，横跨8年烽烟，聚焦多个人物的命运沉浮，以小见大，全景式展现中国军民抗战岁月。电视剧揭示了在民族危亡时刻，唯有中国共产党领导的抗日民族统一战线，才能凝聚起四万万同胞，筑成钢铁长城。 电视剧出现“家书”“月亮”等意象，代表了中国人民在烽火岁月中的深切思念与坚定信念。“亲爱的月明，你…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=04&articleid=2026-05-03-4-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.902Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-4-2",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-4-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 4,
+          "pageName": "烽火影视",
+          "title": "跟随航天员沉浸式遨游太空",
+          "excerpt": "仰望星空，我们不仅在寻找远方，也在确认归途。纪录电影《窗外是蓝星》正是这样一次具有诗意的回望——它不只记录了中国航天员在太空中的历史性驻留，更以细腻的笔触，勾勒出人类与宇宙之间那根看不见却紧紧相连的情感纽带。纪录电影《窗外是蓝星》，由神舟十三号航天员翟志刚、王亚平、叶光富执镜，在距地400公里的中国空间站中实景拍摄，为我们带来了一场视觉盛宴。 作为中国第一…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=04&articleid=2026-05-03-4-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.902Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-03-4-3",
+      "issueDate": "2026-05-03",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-03-4-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-03",
+          "pageNumber": 4,
+          "pageName": "烽火影视",
+          "title": "跨越海峡的大义与温情",
+          "excerpt": "去年，电视剧《沉默的荣耀》让观众透过荧屏认识了吴石等多名隐蔽战线上的无名英雄。今年4月15日，是我国第11个国家安全日。带着对隐蔽战线英雄的敬意，央视国防军事频道《军迷行天下》栏目组专程奔赴湖南衡阳，拍摄《衡阳归园行》，讲述衡阳“一门四忠烈”的故事。 拍摄前一日，我们抵达衡阳，见到了62岁的段有慧。她谈吐温和，眉眼间带着学者的温婉。她的爷爷段沄、叔爷爷段复…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-03&paperNumber=04&articleid=2026-05-03-4-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:20:58.902Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
         "メタデータ・MATCHED非採用"
       ]
     }
   ],
   "counts": {
     "peopleArticles": 28,
-    "plaArticles": 0,
-    "matchedGroups": 0,
-    "matchedPeopleArticles": 0,
-    "matchedPlaArticles": 0,
-    "peopleOnlyArticles": 28,
-    "plaOnlyArticles": 0
+    "plaArticles": 17,
+    "matchedGroups": 1,
+    "matchedPeopleArticles": 1,
+    "matchedPlaArticles": 1,
+    "peopleOnlyArticles": 27,
+    "plaOnlyArticles": 16
   }
 }

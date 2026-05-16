@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "issueDate": "2026-05-14",
-  "generatedAt": "2026-05-16T09:09:54.825Z",
+  "generatedAt": "2026-05-16T20:22:56.105Z",
   "retentionDays": 31,
   "frontPages": [
     1,
@@ -38,7 +38,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.030Z"
+              "extractedAt": "2026-05-16T20:22:49.544Z"
             }
           },
           {
@@ -54,7 +54,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.035Z"
+              "extractedAt": "2026-05-16T20:22:49.575Z"
             }
           },
           {
@@ -70,7 +70,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.032Z"
+              "extractedAt": "2026-05-16T20:22:49.548Z"
             }
           },
           {
@@ -86,7 +86,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.030Z"
+              "extractedAt": "2026-05-16T20:22:49.519Z"
             }
           },
           {
@@ -101,7 +101,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.016Z"
+              "extractedAt": "2026-05-16T20:22:49.541Z"
             }
           },
           {
@@ -116,7 +116,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.031Z"
+              "extractedAt": "2026-05-16T20:22:49.547Z"
             }
           },
           {
@@ -131,7 +131,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.014Z"
+              "extractedAt": "2026-05-16T20:22:49.546Z"
             }
           },
           {
@@ -146,7 +146,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.062Z"
+              "extractedAt": "2026-05-16T20:22:49.542Z"
             }
           }
         ],
@@ -155,7 +155,7 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T09:09:41.062Z"
+          "extractedAt": "2026-05-16T20:22:49.575Z"
         }
       },
       {
@@ -177,7 +177,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.438Z"
+              "extractedAt": "2026-05-16T20:22:49.845Z"
             }
           },
           {
@@ -193,7 +193,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.371Z"
+              "extractedAt": "2026-05-16T20:22:49.864Z"
             }
           },
           {
@@ -209,7 +209,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.380Z"
+              "extractedAt": "2026-05-16T20:22:49.831Z"
             }
           },
           {
@@ -225,7 +225,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.382Z"
+              "extractedAt": "2026-05-16T20:22:49.843Z"
             }
           },
           {
@@ -241,7 +241,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.377Z"
+              "extractedAt": "2026-05-16T20:22:49.844Z"
             }
           },
           {
@@ -257,7 +257,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.453Z"
+              "extractedAt": "2026-05-16T20:22:49.798Z"
             }
           },
           {
@@ -272,7 +272,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.382Z"
+              "extractedAt": "2026-05-16T20:22:49.860Z"
             }
           }
         ],
@@ -281,7 +281,7 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T09:09:41.453Z"
+          "extractedAt": "2026-05-16T20:22:49.864Z"
         }
       },
       {
@@ -304,7 +304,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.784Z"
+              "extractedAt": "2026-05-16T20:22:50.338Z"
             }
           },
           {
@@ -320,7 +320,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.789Z"
+              "extractedAt": "2026-05-16T20:22:50.359Z"
             }
           },
           {
@@ -337,7 +337,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.787Z"
+              "extractedAt": "2026-05-16T20:22:50.297Z"
             }
           },
           {
@@ -352,7 +352,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.826Z"
+              "extractedAt": "2026-05-16T20:22:50.329Z"
             }
           },
           {
@@ -369,7 +369,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.790Z"
+              "extractedAt": "2026-05-16T20:22:50.295Z"
             }
           },
           {
@@ -384,7 +384,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.782Z"
+              "extractedAt": "2026-05-16T20:22:50.337Z"
             }
           },
           {
@@ -399,7 +399,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.786Z"
+              "extractedAt": "2026-05-16T20:22:50.304Z"
             }
           },
           {
@@ -414,7 +414,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.788Z"
+              "extractedAt": "2026-05-16T20:22:50.281Z"
             }
           },
           {
@@ -429,7 +429,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:41.939Z"
+              "extractedAt": "2026-05-16T20:22:50.326Z"
             }
           }
         ],
@@ -438,7 +438,7 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T09:09:41.939Z"
+          "extractedAt": "2026-05-16T20:22:50.359Z"
         }
       },
       {
@@ -461,7 +461,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:42.462Z"
+              "extractedAt": "2026-05-16T20:22:50.681Z"
             }
           },
           {
@@ -477,7 +477,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:42.466Z"
+              "extractedAt": "2026-05-16T20:22:50.630Z"
             }
           },
           {
@@ -493,7 +493,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:42.452Z"
+              "extractedAt": "2026-05-16T20:22:50.682Z"
             }
           },
           {
@@ -508,7 +508,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:42.460Z"
+              "extractedAt": "2026-05-16T20:22:50.652Z"
             }
           },
           {
@@ -524,7 +524,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:42.467Z"
+              "extractedAt": "2026-05-16T20:22:50.763Z"
             }
           },
           {
@@ -540,7 +540,7 @@
             "extraction": {
               "status": "success",
               "method": "people-daily-html-v1",
-              "extractedAt": "2026-05-16T09:09:42.453Z"
+              "extractedAt": "2026-05-16T20:22:50.648Z"
             }
           }
         ],
@@ -549,14 +549,14 @@
         "extraction": {
           "status": "success",
           "method": "people-daily-html-v1",
-          "extractedAt": "2026-05-16T09:09:42.467Z"
+          "extractedAt": "2026-05-16T20:22:50.764Z"
         }
       }
     ],
     "extraction": {
       "status": "success",
       "method": "people-daily-html-v1",
-      "extractedAt": "2026-05-16T09:09:42.467Z"
+      "extractedAt": "2026-05-16T20:22:50.764Z"
     }
   },
   "plaIssue": {
@@ -583,7 +583,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.789Z"
             }
           },
           {
@@ -598,7 +598,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.789Z"
             }
           },
           {
@@ -613,7 +613,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.789Z"
             }
           },
           {
@@ -628,7 +628,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.789Z"
             }
           },
           {
@@ -643,7 +643,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.789Z"
             }
           },
           {
@@ -658,7 +658,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.789Z"
             }
           },
           {
@@ -673,7 +673,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.789Z"
             }
           }
         ],
@@ -682,7 +682,7 @@
         "extraction": {
           "status": "success",
           "method": "pla-daily-index-json-v1",
-          "extractedAt": "2026-05-16T09:09:41.933Z"
+          "extractedAt": "2026-05-16T20:22:49.789Z"
         }
       },
       {
@@ -704,7 +704,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.789Z"
             }
           },
           {
@@ -720,7 +720,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.789Z"
             }
           },
           {
@@ -735,7 +735,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.789Z"
             }
           },
           {
@@ -750,7 +750,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -765,7 +765,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -780,7 +780,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           }
         ],
@@ -789,7 +789,7 @@
         "extraction": {
           "status": "success",
           "method": "pla-daily-index-json-v1",
-          "extractedAt": "2026-05-16T09:09:41.933Z"
+          "extractedAt": "2026-05-16T20:22:49.790Z"
         }
       },
       {
@@ -811,7 +811,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -826,7 +826,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -841,7 +841,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -856,7 +856,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -871,7 +871,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -886,7 +886,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -901,7 +901,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -916,7 +916,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.933Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           }
         ],
@@ -925,7 +925,7 @@
         "extraction": {
           "status": "success",
           "method": "pla-daily-index-json-v1",
-          "extractedAt": "2026-05-16T09:09:41.934Z"
+          "extractedAt": "2026-05-16T20:22:49.790Z"
         }
       },
       {
@@ -948,7 +948,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.934Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -963,7 +963,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.934Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -978,7 +978,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.934Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -993,7 +993,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.934Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -1008,7 +1008,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.934Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -1023,7 +1023,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.934Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -1038,7 +1038,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.934Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -1053,7 +1053,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.934Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -1068,7 +1068,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.934Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -1083,7 +1083,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.934Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           },
           {
@@ -1098,7 +1098,7 @@
             "extraction": {
               "status": "success",
               "method": "pla-daily-index-json-v1",
-              "extractedAt": "2026-05-16T09:09:41.934Z"
+              "extractedAt": "2026-05-16T20:22:49.790Z"
             }
           }
         ],
@@ -1107,72 +1107,23 @@
         "extraction": {
           "status": "success",
           "method": "pla-daily-index-json-v1",
-          "extractedAt": "2026-05-16T09:09:41.934Z"
+          "extractedAt": "2026-05-16T20:22:49.790Z"
         }
       }
     ],
     "extraction": {
       "status": "success",
       "method": "pla-daily-index-json-v1",
-      "extractedAt": "2026-05-16T09:09:41.936Z"
+      "extractedAt": "2026-05-16T20:22:49.793Z"
     }
   },
   "matchGroups": [
     {
-      "id": "matched:people_daily:30156812+people_daily:30156816+people_daily:30156809+people_daily:30156810+people_daily:30156811+people_daily:30156813:pla_daily:2026-05-14-4-1+pla_daily:2026-05-14-4-2+pla_daily:2026-05-14-4-0",
+      "id": "matched:people_daily:30156812:pla_daily:2026-05-14-4-1",
       "issueDate": "2026-05-14",
       "matchType": "matched",
       "confidence": 0.92,
       "peopleArticles": [
-        {
-          "id": "people_daily:30156809",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "推动中美两国民间交往走深走实",
-          "author": "本报记者 李志伟",
-          "excerpt": "中美关系希望在人民，基础在民间，未来在青年，活力在地方。探寻两国正确相处之道，中美需要不断夯实人文交流基础，共同拉紧友谊纽带。美国各界人士在接受本报记者采访时表示，当前在美国越来越多声音主张增进彼此了解、推动两国合作，期待两国民间交往不断走深走实，推动两国关系健康、稳定、可持续发展。 “我们应当放下偏见，建立真诚、友好、务实的关系” 中美两国虽然历史文化、…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156809.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.784Z"
-          }
-        },
-        {
-          "id": "people_daily:30156810",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "努力探索新时期中美正确相处之道（大使随笔）",
-          "author": "谢 锋",
-          "excerpt": "习近平主席即将同来华进行国事访问的美国总统特朗普举行元首会晤。这是美国总统时隔9年再次访华。9年弹指一挥，中国、美国和世界都发生了重大而深刻的变化，充分印证习近平主席关于世界百年未有之大变局的战略判断和远见卓识；9年壮志凌云，以习近平同志为核心的党中央带领全国人民锐意进取、攻坚克难，义无反顾进行具有许多新的历史特点的伟大斗争；9年风雨兼程，习近平主席在关键…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156810.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.789Z"
-          }
-        },
-        {
-          "id": "people_daily:30156811",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "“更稳固的美中关系对全球至关重要”",
-          "subtitle": "——访美国库恩基金会主席罗伯特·劳伦斯·库恩",
-          "author": "本报记者 李志伟",
-          "excerpt": "“当今世界面临多重不稳定因素，国际社会期待美中关系稳定健康发展。”近日，美国库恩基金会主席罗伯特·劳伦斯·库恩接受本报记者采访时表示，美中两国应携手合作，造福两国人民，惠及世界。 “我对此次美中元首会晤持乐观态度，充满信心。”库恩表示，双方需要认清当前全球形势，并设定务实预期。美国和中国都需要稳定的环境来实现各自国内关键发展目标。“国际环境中的不确定因素越…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156811.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.787Z"
-          }
-        },
         {
           "id": "people_daily:30156812",
           "source": "people_daily",
@@ -1185,59 +1136,11 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.826Z"
-          }
-        },
-        {
-          "id": "people_daily:30156813",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "小球连民心 友谊跨重洋",
-          "subtitle": "——2026年中美民间匹克球联谊赛侧记",
-          "author": "本报记者 王 丹",
-          "excerpt": "江西省赣州市的南湖之畔，上犹县生态匹克球运动中心气氛热烈。由中国人民对外友好协会、国家体育总局、江西省人民政府主办的2026年中美民间匹克球联谊赛日前在这里举行。中美“乒乓外交”亲历者朱迪·霍夫罗斯特率领的美国俄勒冈友好匹克球代表团、犹他理工大学匹克球队，来自中国的匹克球运动员以及在华美国企业代表100余人参加活动。这是继今年春节期间中美青少年在此进行匹克…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156813.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.790Z"
-          }
-        },
-        {
-          "id": "people_daily:30156816",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "2026年中国—加州经贸论坛聚焦深化中美地方经贸交流",
-          "excerpt": "据新华社洛杉矶5月12日电 （记者高山、谭晶晶）2026年中国—加州经贸论坛12日在美国加利福尼亚州洛杉矶市举行。近550名中美两国政商界人士汇聚一堂，共同呼吁激发中美地方合作活力，加强中国各省市与美国加州在经贸等领域的合作。 中国驻美国大使谢锋在视频致辞中表示，加州是“中美地方合作的前沿”，中国—加州经贸论坛已经成为两国地方合作的标志性品牌活动。他指出，…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156816.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.788Z"
+            "extractedAt": "2026-05-16T20:22:50.329Z"
           }
         }
       ],
       "plaArticles": [
-        {
-          "id": "pla_daily:2026-05-14-4-0",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 4,
-          "pageName": "要闻",
-          "title": "拉长合作清单  贡献建设性力量",
-          "subtitle": "——美国商学界人士瞩望美中经贸关系互利共赢",
-          "excerpt": "应国家主席习近平邀请，美国总统特朗普5月13日晚乘专机抵达北京，开始对中国进行国事访问。十余家美国知名企业的高管随团访华，其中包括苹果首席执行官蒂姆·库克、英伟达创始人兼首席执行官黄仁勋、特斯拉公司首席执行官埃隆·马斯克等。这些企业高管集体到访，彰显美国工商界对中美深化务实合作、走向互利共赢的殷切期待。 当前，全球经济不确定性持续上升，大量美国企业选择继续…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-0",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.934Z"
-          }
-        },
         {
           "id": "pla_daily:2026-05-14-4-1",
           "source": "pla_daily",
@@ -1250,9 +1153,55 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.934Z"
+            "extractedAt": "2026-05-16T20:22:49.790Z"
           }
-        },
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 中美在韩国举行经贸磋商、中美经贸磋商、美国财政部长贝森特在韩国举行经贸磋商。ナラティブ・完全タイトル一致: 中美在韩国举行经贸磋商、中美经贸磋商、美国财政部长贝森特在韩国举行经贸磋商 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "中美在韩国举行经贸磋商",
+          "中美经贸磋商",
+          "美国财政部长贝森特在韩国举行经贸磋商"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 92% / narrative 15%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 92% / ナラティブ類似 15%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 中美在韩国举行经贸磋商、中美经贸磋商、美国财政部长贝森特在韩国举行经贸磋商",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30156816:pla_daily:2026-05-14-4-2",
+      "issueDate": "2026-05-14",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156816",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "2026年中国—加州经贸论坛聚焦深化中美地方经贸交流",
+          "excerpt": "据新华社洛杉矶5月12日电 （记者高山、谭晶晶）2026年中国—加州经贸论坛12日在美国加利福尼亚州洛杉矶市举行。近550名中美两国政商界人士汇聚一堂，共同呼吁激发中美地方合作活力，加强中国各省市与美国加州在经贸等领域的合作。 中国驻美国大使谢锋在视频致辞中表示，加州是“中美地方合作的前沿”，中国—加州经贸论坛已经成为两国地方合作的标志性品牌活动。他指出，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156816.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:50.281Z"
+          }
+        }
+      ],
+      "plaArticles": [
         {
           "id": "pla_daily:2026-05-14-4-2",
           "source": "pla_daily",
@@ -1265,62 +1214,39 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.934Z"
+            "extractedAt": "2026-05-16T20:22:49.790Z"
           }
         }
       ],
-      "reason": "MACHED（高信頼 92%）。共有語: 中美在韩国举行经贸磋商、中美经贸磋商、美国财政部长贝森特在韩国举行经贸磋商、中美关系议题。ナラティブ・LLMトピック束: 中美在韩国举行经贸磋商、中美经贸磋商、美国财政部长贝森特在韩国举行经贸磋商、中美关系议题 / 語彙・タイトル一致",
+      "reason": "MACHED（高信頼 92%）。共有語: 2026年中国—加州经贸论坛聚焦深化中美地方经贸交流、中国-加州经贸论坛、2026年中国-加州经贸论坛、这样的论坛。ナラティブ・完全タイトル一致: 2026年中国—加州经贸论坛聚焦深化中美地方经贸交流、中国-加州经贸论坛、2026年中国-加州经贸论坛、这样的论坛 / 語彙・タイトル一致",
       "lexicalContrast": {
-        "peopleDailyTerms": [
-          "社会制度",
-          "力军",
-          "安德森告诉记者一段时间来美国人对中国的看法",
-          "7000多名当地民众到中国大使馆参观",
-          "戈麦斯通过参加5年5万倡议访问",
-          "就能够形成更客观真实的看法",
-          "越来越多美国民众更客观",
-          "弗里曼说他两年前访问"
-        ],
-        "plaDailyTerms": [
-          "不仅是中国有关省市和加州开展政策对话",
-          "2026年中国-加州经贸论坛",
-          "中国-加州经贸论坛",
-          "敢为人先的开拓精神",
-          "美中产业体系在多个层面高度互补",
-          "在元首外交战略引领下",
-          "采购体系",
-          "美中经贸合作比许多观察人士想象的更具"
-        ],
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
         "sharedTerms": [
-          "中美在韩国举行经贸磋商",
-          "中美经贸磋商",
-          "美国财政部长贝森特在韩国举行经贸磋商",
-          "中美关系议题",
           "2026年中国—加州经贸论坛聚焦深化中美地方经贸交流",
           "中国-加州经贸论坛",
-          "中美地方经贸交流",
           "2026年中国-加州经贸论坛",
           "这样的论坛",
           "海南省和内蒙古自治区在本次论坛",
+          "中美地方经贸交流",
           "正确相处之道",
           "中美关系"
         ]
       },
       "extraction": {
         "status": "success",
-        "method": "topic-cluster match",
-        "message": "高信頼 92% / lexical 92% / narrative 49%"
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 78% / narrative 49%"
       },
       "uncertaintyNotes": [
-        "語彙類似 92% / ナラティブ類似 49%",
+        "語彙類似 78% / ナラティブ類似 49%",
         "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
-        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
-        "ナラティブ・LLMトピック束: 中美在韩国举行经贸磋商、中美经贸磋商、美国财政部长贝森特在韩国举行经贸磋商、中美关系议题",
+        "ナラティブ・完全タイトル一致: 2026年中国—加州经贸论坛聚焦深化中美地方经贸交流、中国-加州经贸论坛、2026年中国-加州经贸论坛、这样的论坛",
         "語彙・タイトル一致"
       ]
     },
     {
-      "id": "matched:people_daily:30156795+people_daily:30156822:pla_daily:2026-05-14-2-1",
+      "id": "matched:people_daily:30156795:pla_daily:2026-05-14-2-1",
       "issueDate": "2026-05-14",
       "matchType": "matched",
       "confidence": 0.84,
@@ -1338,23 +1264,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.035Z"
-          }
-        },
-        {
-          "id": "people_daily:30156822",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 4,
-          "pageName": "要闻",
-          "title": "一体推进整治形式主义为基层减负（树立和践行正确政绩观）",
-          "author": "本报记者",
-          "excerpt": "形式主义实质是主观主义、功利主义，根源是政绩观错位、责任心缺失。当前，各地以深化“六个纠治”为抓手，结合开展树立和践行正确政绩观学习教育，一体推进整治形式主义为基层减负，教育引导各级党组织和党员干部踏踏实实干事创业，努力创造经得起实践、人民、历史检验的实绩。 深挖思想根源 校准政绩坐标 学习教育开展以来，各地结合中央层面通报的整治形式主义为基层减负典型问题…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156822.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:42.467Z"
+            "extractedAt": "2026-05-16T20:22:49.575Z"
           }
         }
       ],
@@ -1372,11 +1282,11 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
+            "extractedAt": "2026-05-16T20:22:49.789Z"
           }
         }
       ],
-      "reason": "MACHED（高信頼 84%）。共有語: 树立和践行正确政绩观、正确政绩观议题。ナラティブ・アンカートピック束: 树立和践行正确政绩观、正确政绩观议题 / メタデータ・日付・版面",
+      "reason": "MACHED（高信頼 84%）。共有語: 树立和践行正确政绩观。ナラティブ・強いタイトル/政策語一致: 树立和践行正确政绩观 / メタデータ・日付・版面",
       "lexicalContrast": {
         "peopleDailyTerms": [
           "切实把学习教育的成果转化为推动高质量",
@@ -1399,21 +1309,98 @@
           "如果这时候练兵备战还按部就班"
         ],
         "sharedTerms": [
-          "树立和践行正确政绩观",
-          "正确政绩观议题"
+          "树立和践行正确政绩观"
         ]
       },
       "extraction": {
         "status": "success",
-        "method": "topic-cluster match",
+        "method": "strong-title phrase match",
         "message": "高信頼 84% / lexical 0% / narrative 26%"
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 26%",
         "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
-        "N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。",
-        "ナラティブ・アンカートピック束: 树立和践行正确政绩观、正确政绩观议题",
+        "ナラティブ・強いタイトル/政策語一致: 树立和践行正确政绩观",
         "メタデータ・日付・版面"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30156822:pla_daily:2026-05-14-2-1",
+      "issueDate": "2026-05-14",
+      "matchType": "matched",
+      "confidence": 0.84,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156822",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "一体推进整治形式主义为基层减负（树立和践行正确政绩观）",
+          "author": "本报记者",
+          "excerpt": "形式主义实质是主观主义、功利主义，根源是政绩观错位、责任心缺失。当前，各地以深化“六个纠治”为抓手，结合开展树立和践行正确政绩观学习教育，一体推进整治形式主义为基层减负，教育引导各级党组织和党员干部踏踏实实干事创业，努力创造经得起实践、人民、历史检验的实绩。 深挖思想根源 校准政绩坐标 学习教育开展以来，各地结合中央层面通报的整治形式主义为基层减负典型问题…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156822.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:50.763Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "提振干事创业的精气神",
+          "subtitle": "——树立和践行正确政绩观系列谈",
+          "excerpt": "业绩都是干出来的，真干才能真出业绩、出真业绩。以什么样的精神状态和工作姿态干事创业，是党员干部政绩观是否端正的直接体现。 精气神是党员干部形象的重要体现，是做好一切工作的重要前提。习主席强调，强军事业是干出来的，没有一股子劲、没有一股子气是不行的。当前，实现建军一百年奋斗目标到了吃劲奋斗的攻坚期，时间极其紧迫，任务极其艰巨。这要求全军官兵必须发扬“干”的作…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=02&articleid=2026-05-14-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.789Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 84%）。共有語: 树立和践行正确政绩观。ナラティブ・強いタイトル/政策語一致: 树立和践行正确政绩观 / ナラティブ・政策から軍事語彙への接続",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "切实把学习教育的成果转化为推动高质量",
+          "针对一些领域存在的考核隐形变异问题",
+          "督促相关部门精简优化考核指标体系",
+          "管理制度等环节逐一现场排查优化",
+          "才能走出一条高质量发展新路",
+          "小区治理",
+          "民生痛点",
+          "创建达标等重点领域对照政绩观偏差问题清单"
+        ],
+        "plaDailyTerms": [
+          "党员干部应自觉把个人追求融入强军事业",
+          "实现建军一百年奋斗目标到了吃劲奋斗的",
+          "努力开创国防和军队现代化建设新局面",
+          "放军和武警部队代表团全体会议时强调",
+          "需要一代又一代官兵在接力奋斗中实现",
+          "加快先进战斗力建设更加现实紧迫",
+          "解放军和武警部队代表团全体会议",
+          "如果这时候练兵备战还按部就班"
+        ],
+        "sharedTerms": [
+          "树立和践行正确政绩观"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "strong-title phrase match",
+        "message": "高信頼 84% / lexical 0% / narrative 26%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 26%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・強いタイトル/政策語一致: 树立和践行正确政绩观",
+        "ナラティブ・政策から軍事語彙への接続"
       ]
     },
     {
@@ -1434,7 +1421,7 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.438Z"
+            "extractedAt": "2026-05-16T20:22:49.845Z"
           }
         }
       ],
@@ -1451,11 +1438,11 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
+            "extractedAt": "2026-05-16T20:22:49.790Z"
           }
         }
       ],
-      "reason": "MACHED（高信頼 84%）。共有語: 粮食安全保障法、粮食安全保障法执法检查、全国人大常委会执法检查、粮食安全保障法议题。ナラティブ・強いタイトル/政策語一致: 粮食安全保障法、粮食安全保障法执法检查、全国人大常委会执法检查、粮食安全保障法议题 / メタデータ・日付・版面",
+      "reason": "MACHED（高信頼 84%）。共有語: 粮食安全保障法、粮食安全保障法执法检查、全国人大常委会执法检查。ナラティブ・強いタイトル/政策語一致: 粮食安全保障法、粮食安全保障法执法检查、全国人大常委会执法检查 / メタデータ・日付・版面",
       "lexicalContrast": {
         "peopleDailyTerms": [
           "推动解决粮食安全治理面临的突出问题要把监督和立法",
@@ -1480,8 +1467,7 @@
         "sharedTerms": [
           "粮食安全保障法",
           "粮食安全保障法执法检查",
-          "全国人大常委会执法检查",
-          "粮食安全保障法议题"
+          "全国人大常委会执法检查"
         ]
       },
       "extraction": {
@@ -1492,12 +1478,12 @@
       "uncertaintyNotes": [
         "語彙類似 12% / ナラティブ類似 23%",
         "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
-        "ナラティブ・強いタイトル/政策語一致: 粮食安全保障法、粮食安全保障法执法检查、全国人大常委会执法检查、粮食安全保障法议题",
+        "ナラティブ・強いタイトル/政策語一致: 粮食安全保障法、粮食安全保障法执法检查、全国人大常委会执法检查",
         "メタデータ・日付・版面"
       ]
     },
     {
-      "id": "people_only:1:要闻",
+      "id": "people_only:people_daily:30156794",
       "issueDate": "2026-05-14",
       "matchType": "people_only",
       "confidence": 0,
@@ -1515,9 +1501,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.030Z"
+            "extractedAt": "2026-05-16T20:22:49.544Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156796",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30156796",
           "source": "people_daily",
@@ -1531,9 +1542,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.032Z"
+            "extractedAt": "2026-05-16T20:22:49.548Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156797",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30156797",
           "source": "people_daily",
@@ -1547,72 +1583,12 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.030Z"
-          }
-        },
-        {
-          "id": "people_daily:30156798",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 1,
-          "pageName": "要闻",
-          "title": "图片报道",
-          "excerpt": "5月12日，辽宁大连长海大桥主线钢栈桥首段合龙。主线钢栈桥全长11.6公里、宽9米，作为长海大桥工程海上重要物料运输通道，承担建材转运、大型机械进场、人员通勤等重要功能。 陆岛公路项目长海大桥连接大连普兰店区皮口和长海县大长山岛，全长25.5公里，跨海段19公里，设计时速80公里。建成…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156798.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.016Z"
-          }
-        },
-        {
-          "id": "people_daily:30156799",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 1,
-          "pageName": "要闻",
-          "title": "4月我国前沿领域投资势头强劲",
-          "excerpt": "本报北京5月13日电 （记者刘志强）记者从国家发展改革委国家信息中心获悉：高频数据显示，4月，我国前沿领域投资势头强劲，数字基础设施投资活跃度快速增长，人工智能等领域吸纳资本能力突出。4月，人工智能、人形机器人等前沿领域的资本投资金额同比增长175.2%；数据、算力、网络等领域的基础设施项目中标金额同比增长61.7%。 消费方面，4月，线下消费支付金额同比…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156799.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.031Z"
-          }
-        },
-        {
-          "id": "people_daily:30156800",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 1,
-          "pageName": "要闻",
-          "title": "我国对共建“一带一路”国家合计进出口增长13.5%",
-          "excerpt": "本报北京5月13日电 （记者欧阳洁）据海关统计：今年前4月，我国货物贸易进出口总值16.23万亿元，同比增长14.9%。其中，出口9.33万亿元，增长11.3%；进口6.9万亿元，增长20%。 从贸易伙伴看，前4月，我国与东盟贸易总值为2.75万亿元，增长15.7%；我国与欧盟贸易总值为2.01万亿元，增长13.2%。同期，我国对共建“一带一路”国家合计进…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156800.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.014Z"
-          }
-        },
-        {
-          "id": "people_daily:30156801",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 1,
-          "pageName": "要闻",
-          "title": "导读",
-          "excerpt": "理论 把新时代党的创新理论转化为哲学社会科学分析框架 第九版 中国消费向新而行 培育全链条首发生态 第十一版 对话 “…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156801.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.062Z"
+            "extractedAt": "2026-05-16T20:22:49.519Z"
           }
         }
       ],
       "plaArticles": [],
-      "reason": "People's only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -1625,12 +1601,172 @@
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
         "メタデータ・MATCHED非採用"
       ]
     },
     {
-      "id": "people_only:2:要闻",
+      "id": "people_only:people_daily:30156798",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156798",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片报道",
+          "excerpt": "5月12日，辽宁大连长海大桥主线钢栈桥首段合龙。主线钢栈桥全长11.6公里、宽9米，作为长海大桥工程海上重要物料运输通道，承担建材转运、大型机械进场、人员通勤等重要功能。 陆岛公路项目长海大桥连接大连普兰店区皮口和长海县大长山岛，全长25.5公里，跨海段19公里，设计时速80公里。建成…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156798.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:49.541Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156799",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156799",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "4月我国前沿领域投资势头强劲",
+          "excerpt": "本报北京5月13日电 （记者刘志强）记者从国家发展改革委国家信息中心获悉：高频数据显示，4月，我国前沿领域投资势头强劲，数字基础设施投资活跃度快速增长，人工智能等领域吸纳资本能力突出。4月，人工智能、人形机器人等前沿领域的资本投资金额同比增长175.2%；数据、算力、网络等领域的基础设施项目中标金额同比增长61.7%。 消费方面，4月，线下消费支付金额同比…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156799.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:49.547Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156800",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156800",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "我国对共建“一带一路”国家合计进出口增长13.5%",
+          "excerpt": "本报北京5月13日电 （记者欧阳洁）据海关统计：今年前4月，我国货物贸易进出口总值16.23万亿元，同比增长14.9%。其中，出口9.33万亿元，增长11.3%；进口6.9万亿元，增长20%。 从贸易伙伴看，前4月，我国与东盟贸易总值为2.75万亿元，增长15.7%；我国与欧盟贸易总值为2.01万亿元，增长13.2%。同期，我国对共建“一带一路”国家合计进…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156800.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:49.546Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156801",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156801",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "导读",
+          "excerpt": "理论 把新时代党的创新理论转化为哲学社会科学分析框架 第九版 中国消费向新而行 培育全链条首发生态 第十一版 对话 “…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156801.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:49.542Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156803",
       "issueDate": "2026-05-14",
       "matchType": "people_only",
       "confidence": 0,
@@ -1648,9 +1784,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.371Z"
+            "extractedAt": "2026-05-16T20:22:49.864Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156804",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30156804",
           "source": "people_daily",
@@ -1664,9 +1825,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.380Z"
+            "extractedAt": "2026-05-16T20:22:49.831Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156805",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30156805",
           "source": "people_daily",
@@ -1680,9 +1866,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.382Z"
+            "extractedAt": "2026-05-16T20:22:49.843Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156806",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30156806",
           "source": "people_daily",
@@ -1696,9 +1907,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.377Z"
+            "extractedAt": "2026-05-16T20:22:49.844Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156807",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30156807",
           "source": "people_daily",
@@ -1712,27 +1948,12 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.453Z"
-          }
-        },
-        {
-          "id": "people_daily:30156808",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 2,
-          "pageName": "要闻",
-          "title": "“关中麦客”跨区作业",
-          "excerpt": "陕西省渭南市农机手近日开启2026年跨区作业。位于关中地区的渭南市拥有7000余台跨区作业农机，“关中麦客”为提升农业生产能力、保障…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156808.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.382Z"
+            "extractedAt": "2026-05-16T20:22:49.798Z"
           }
         }
       ],
       "plaArticles": [],
-      "reason": "People's only 6本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -1745,12 +1966,218 @@
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
         "メタデータ・MATCHED非採用"
       ]
     },
     {
-      "id": "people_only:3:要闻",
+      "id": "people_only:people_daily:30156808",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156808",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“关中麦客”跨区作业",
+          "excerpt": "陕西省渭南市农机手近日开启2026年跨区作业。位于关中地区的渭南市拥有7000余台跨区作业农机，“关中麦客”为提升农业生产能力、保障…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156808.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:49.860Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156809",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156809",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "推动中美两国民间交往走深走实",
+          "author": "本报记者 李志伟",
+          "excerpt": "中美关系希望在人民，基础在民间，未来在青年，活力在地方。探寻两国正确相处之道，中美需要不断夯实人文交流基础，共同拉紧友谊纽带。美国各界人士在接受本报记者采访时表示，当前在美国越来越多声音主张增进彼此了解、推动两国合作，期待两国民间交往不断走深走实，推动两国关系健康、稳定、可持续发展。 “我们应当放下偏见，建立真诚、友好、务实的关系” 中美两国虽然历史文化、…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156809.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:50.338Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156810",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156810",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "努力探索新时期中美正确相处之道（大使随笔）",
+          "author": "谢 锋",
+          "excerpt": "习近平主席即将同来华进行国事访问的美国总统特朗普举行元首会晤。这是美国总统时隔9年再次访华。9年弹指一挥，中国、美国和世界都发生了重大而深刻的变化，充分印证习近平主席关于世界百年未有之大变局的战略判断和远见卓识；9年壮志凌云，以习近平同志为核心的党中央带领全国人民锐意进取、攻坚克难，义无反顾进行具有许多新的历史特点的伟大斗争；9年风雨兼程，习近平主席在关键…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156810.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:50.359Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156811",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156811",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“更稳固的美中关系对全球至关重要”",
+          "subtitle": "——访美国库恩基金会主席罗伯特·劳伦斯·库恩",
+          "author": "本报记者 李志伟",
+          "excerpt": "“当今世界面临多重不稳定因素，国际社会期待美中关系稳定健康发展。”近日，美国库恩基金会主席罗伯特·劳伦斯·库恩接受本报记者采访时表示，美中两国应携手合作，造福两国人民，惠及世界。 “我对此次美中元首会晤持乐观态度，充满信心。”库恩表示，双方需要认清当前全球形势，并设定务实预期。美国和中国都需要稳定的环境来实现各自国内关键发展目标。“国际环境中的不确定因素越…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156811.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:50.297Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156813",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156813",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "小球连民心 友谊跨重洋",
+          "subtitle": "——2026年中美民间匹克球联谊赛侧记",
+          "author": "本报记者 王 丹",
+          "excerpt": "江西省赣州市的南湖之畔，上犹县生态匹克球运动中心气氛热烈。由中国人民对外友好协会、国家体育总局、江西省人民政府主办的2026年中美民间匹克球联谊赛日前在这里举行。中美“乒乓外交”亲历者朱迪·霍夫罗斯特率领的美国俄勒冈友好匹克球代表团、犹他理工大学匹克球队，来自中国的匹克球运动员以及在华美国企业代表100余人参加活动。这是继今年春节期间中美青少年在此进行匹克…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156813.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:50.295Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156814",
       "issueDate": "2026-05-14",
       "matchType": "people_only",
       "confidence": 0,
@@ -1767,42 +2194,12 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.782Z"
-          }
-        },
-        {
-          "id": "people_daily:30156815",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "刘海星会见阿塞拜疆新阿塞拜疆党代表团",
-          "excerpt": "新华社北京5月13日电 5月13日，中共中央对外联络部部长刘海星在北京会见由阿塞拜疆新阿塞拜疆党副主席兼中央办公厅主任布达戈夫率领的新阿党代表团，就共同落实好两国领导…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156815.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.786Z"
-          }
-        },
-        {
-          "id": "people_daily:30156817",
-          "source": "people_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "“你好！中国”暨“茶和天下”·雅集活动在巴西举办",
-          "excerpt": "据新华社圣保罗5月12日电 （记者陈昊佺）“你好！中国”暨“茶和天下”·雅集活动12日在巴西圣保罗举办。中巴嘉宾以茶会友，在茶香氤氲中感受中国文化魅力，并通过图片、视频欣赏中国壮美山河，通过楚菜品味地道“中国味”。 作为“中巴文化年”框架下的活动，现场融合了“你好！中国”、“茶和天下”·雅集以及“中国味道”三大文旅品牌。巴西嘉宾不仅可通过图片、视频及旅游宣…",
-          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156817.html",
-          "extraction": {
-            "status": "success",
-            "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:41.939Z"
+            "extractedAt": "2026-05-16T20:22:50.337Z"
           }
         }
       ],
       "plaArticles": [],
-      "reason": "People's only 3本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -1815,12 +2212,92 @@
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
         "メタデータ・MATCHED非採用"
       ]
     },
     {
-      "id": "people_only:4:要闻",
+      "id": "people_only:people_daily:30156815",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156815",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "刘海星会见阿塞拜疆新阿塞拜疆党代表团",
+          "excerpt": "新华社北京5月13日电 5月13日，中共中央对外联络部部长刘海星在北京会见由阿塞拜疆新阿塞拜疆党副主席兼中央办公厅主任布达戈夫率领的新阿党代表团，就共同落实好两国领导…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156815.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:50.304Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156817",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30156817",
+          "source": "people_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“你好！中国”暨“茶和天下”·雅集活动在巴西举办",
+          "excerpt": "据新华社圣保罗5月12日电 （记者陈昊佺）“你好！中国”暨“茶和天下”·雅集活动12日在巴西圣保罗举办。中巴嘉宾以茶会友，在茶香氤氲中感受中国文化魅力，并通过图片、视频欣赏中国壮美山河，通过楚菜品味地道“中国味”。 作为“中巴文化年”框架下的活动，现场融合了“你好！中国”、“茶和天下”·雅集以及“中国味道”三大文旅品牌。巴西嘉宾不仅可通过图片、视频及旅游宣…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/14/content_30156817.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-16T20:22:50.326Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156818",
       "issueDate": "2026-05-14",
       "matchType": "people_only",
       "confidence": 0,
@@ -1838,9 +2315,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:42.462Z"
+            "extractedAt": "2026-05-16T20:22:50.681Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156819",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30156819",
           "source": "people_daily",
@@ -1854,9 +2356,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:42.466Z"
+            "extractedAt": "2026-05-16T20:22:50.630Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156820",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30156820",
           "source": "people_daily",
@@ -1870,9 +2397,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:42.452Z"
+            "extractedAt": "2026-05-16T20:22:50.682Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156821",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30156821",
           "source": "people_daily",
@@ -1885,9 +2437,34 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:42.460Z"
+            "extractedAt": "2026-05-16T20:22:50.652Z"
           }
-        },
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30156823",
+      "issueDate": "2026-05-14",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
         {
           "id": "people_daily:30156823",
           "source": "people_daily",
@@ -1901,12 +2478,12 @@
           "extraction": {
             "status": "success",
             "method": "people-daily-html-v1",
-            "extractedAt": "2026-05-16T09:09:42.453Z"
+            "extractedAt": "2026-05-16T20:22:50.648Z"
           }
         }
       ],
       "plaArticles": [],
-      "reason": "People's only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -1919,12 +2496,12 @@
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
         "メタデータ・MATCHED非採用"
       ]
     },
     {
-      "id": "pla_only:1:要闻",
+      "id": "pla_only:pla_daily:2026-05-14-1-0",
       "issueDate": "2026-05-14",
       "matchType": "pla_only",
       "confidence": 0,
@@ -1942,101 +2519,11 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-1-1",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 1,
-          "pageName": "要闻",
-          "title": "我军逐步建立后勤科研领域负面清单制度",
-          "excerpt": "本报讯 续新宇、记者孙兴维报道：“去年以来，全军后勤科研领域结合政治整训和行业整治，先后有7类多项申报项目因不符合要求被否决立项。”近日，记者从全军后勤科研人员职业道德规范宣讲会上获悉，我军后勤科研领域逐步建立负面清单制度，推动科研立项更加聚焦备战急需，科研成果进一步精准推送部队、加速转化应用。 中央军委后勤保障部综合计划局相关负责人介绍，此举旨在重塑后勤…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=01&articleid=2026-05-14-1-1",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-1-2",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 1,
-          "pageName": "要闻",
-          "title": "以学促干  砺剑海天",
-          "excerpt": "“要贯彻新时代军事战略方针，坚持战斗力这个唯一的根本的标准，全部精力向打仗聚焦，全部工作向打仗用劲，加快提高打赢能力。”日前，海军某部一场飞行训练刚结束，复盘研讨随即展开。官兵围绕《习近平论强军兴军（四）》中关于加快提高部队现代化水平和打赢能力的重要论述，进行热烈讨论，并结合训练实际查摆问题，制订下一步改进措施。 “推进新时代强军事业，需要科学理论的正确指…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=01&articleid=2026-05-14-1-2",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-1-3",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 1,
-          "pageName": "要闻",
-          "title": "机关旁听复盘  基层毫不遮掩",
-          "excerpt": "“道路”抢修成功，急造军路顺利通车……前不久，陆军某旅一场实战化训练落下帷幕。官兵就地组织复盘会，前来检查工作的机关人员列席旁听。 “特情处置中的每一次‘卡壳’，都是对实战能力的一次预警……”某连二级上士陈玮未受机关旁听人员影响，直言自己在战场应变方面存在的不足。官兵争相发言，讲问题毫不遮掩，挖根源直击要害。一时间，现场“硝烟味”十足。 以往面对机关，基层…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=01&articleid=2026-05-14-1-3",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-1-4",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 1,
-          "pageName": "要闻",
-          "title": "本报即日起推出“融媒之窗”专版",
-          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=01&articleid=2026-05-14-1-4",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-1-5",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 1,
-          "pageName": "要闻",
-          "title": "图片",
-          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=01&articleid=2026-05-14-1-5",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-1-6",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 1,
-          "pageName": "要闻",
-          "title": "图片",
-          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=01&articleid=2026-05-14-1-6",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
+            "extractedAt": "2026-05-16T20:22:49.789Z"
           }
         }
       ],
-      "reason": "81cn only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -2049,12 +2536,252 @@
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
         "メタデータ・MATCHED非採用"
       ]
     },
     {
-      "id": "pla_only:2:要闻",
+      "id": "pla_only:pla_daily:2026-05-14-1-1",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "我军逐步建立后勤科研领域负面清单制度",
+          "excerpt": "本报讯 续新宇、记者孙兴维报道：“去年以来，全军后勤科研领域结合政治整训和行业整治，先后有7类多项申报项目因不符合要求被否决立项。”近日，记者从全军后勤科研人员职业道德规范宣讲会上获悉，我军后勤科研领域逐步建立负面清单制度，推动科研立项更加聚焦备战急需，科研成果进一步精准推送部队、加速转化应用。 中央军委后勤保障部综合计划局相关负责人介绍，此举旨在重塑后勤…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=01&articleid=2026-05-14-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.789Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-1-2",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-1-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "以学促干  砺剑海天",
+          "excerpt": "“要贯彻新时代军事战略方针，坚持战斗力这个唯一的根本的标准，全部精力向打仗聚焦，全部工作向打仗用劲，加快提高打赢能力。”日前，海军某部一场飞行训练刚结束，复盘研讨随即展开。官兵围绕《习近平论强军兴军（四）》中关于加快提高部队现代化水平和打赢能力的重要论述，进行热烈讨论，并结合训练实际查摆问题，制订下一步改进措施。 “推进新时代强军事业，需要科学理论的正确指…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=01&articleid=2026-05-14-1-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.789Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-1-3",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-1-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "机关旁听复盘  基层毫不遮掩",
+          "excerpt": "“道路”抢修成功，急造军路顺利通车……前不久，陆军某旅一场实战化训练落下帷幕。官兵就地组织复盘会，前来检查工作的机关人员列席旁听。 “特情处置中的每一次‘卡壳’，都是对实战能力的一次预警……”某连二级上士陈玮未受机关旁听人员影响，直言自己在战场应变方面存在的不足。官兵争相发言，讲问题毫不遮掩，挖根源直击要害。一时间，现场“硝烟味”十足。 以往面对机关，基层…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=01&articleid=2026-05-14-1-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.789Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-1-4",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-1-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "本报即日起推出“融媒之窗”专版",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=01&articleid=2026-05-14-1-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.789Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-1-5",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-1-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=01&articleid=2026-05-14-1-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.789Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-1-6",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-1-6",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=01&articleid=2026-05-14-1-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.789Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-2-0",
       "issueDate": "2026-05-14",
       "matchType": "pla_only",
       "confidence": 0,
@@ -2072,71 +2799,11 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-2-2",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 2,
-          "pageName": "要闻",
-          "title": "为体系部队培训心理骨干",
-          "excerpt": "本报讯 文萃、张苏婷报道：“轻松有趣的心理游戏，不仅拉近了学员与教员之间的距离，还帮助我们快速掌握开展心理疏导的方法技巧。”日前，联勤保障部队第984医院组织体系部队心理骨干集中培训，丰富多样的教学方式令参训人员耳目一新。 “心理骨干是基层官兵的‘心理卫士’，也是抓建基层的重要力量。”该院领导介绍，随着部队大项任务越来越多，工作节奏越来越快，一些官兵容易出…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=02&articleid=2026-05-14-2-2",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-2-3",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 2,
-          "pageName": "要闻",
-          "title": "战斗，在训练“结束”后打响",
-          "excerpt": "近日，天刚蒙蒙亮，海军航空兵某部一场长航时、高强度飞行训练拉开战幕。 “计时起飞！”随着塔台指挥员一声令下，数架战机接续升空，飞赴指定空域。 “前方有浓积云”“穿过去，保持好状态”……飞行途中，副驾驶通报气象雷达信息，机长快速判断气象影响，迅速采取应对措施。 “此次训练恰逢海上雾季，复杂气象条件对参训飞行员是一个不小的考验。”该部一名领导说。 “建立数据网…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=02&articleid=2026-05-14-2-3",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-2-4",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 2,
-          "pageName": "要闻",
-          "title": "图片",
-          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=02&articleid=2026-05-14-2-4",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-2-5",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 2,
-          "pageName": "要闻",
-          "title": "图片",
-          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=02&articleid=2026-05-14-2-5",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
+            "extractedAt": "2026-05-16T20:22:49.789Z"
           }
         }
       ],
-      "reason": "81cn only 5本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -2149,12 +2816,172 @@
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
         "メタデータ・MATCHED非採用"
       ]
     },
     {
-      "id": "pla_only:3:要闻",
+      "id": "pla_only:pla_daily:2026-05-14-2-2",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-2-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "为体系部队培训心理骨干",
+          "excerpt": "本报讯 文萃、张苏婷报道：“轻松有趣的心理游戏，不仅拉近了学员与教员之间的距离，还帮助我们快速掌握开展心理疏导的方法技巧。”日前，联勤保障部队第984医院组织体系部队心理骨干集中培训，丰富多样的教学方式令参训人员耳目一新。 “心理骨干是基层官兵的‘心理卫士’，也是抓建基层的重要力量。”该院领导介绍，随着部队大项任务越来越多，工作节奏越来越快，一些官兵容易出…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=02&articleid=2026-05-14-2-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.789Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-2-3",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-2-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "战斗，在训练“结束”后打响",
+          "excerpt": "近日，天刚蒙蒙亮，海军航空兵某部一场长航时、高强度飞行训练拉开战幕。 “计时起飞！”随着塔台指挥员一声令下，数架战机接续升空，飞赴指定空域。 “前方有浓积云”“穿过去，保持好状态”……飞行途中，副驾驶通报气象雷达信息，机长快速判断气象影响，迅速采取应对措施。 “此次训练恰逢海上雾季，复杂气象条件对参训飞行员是一个不小的考验。”该部一名领导说。 “建立数据网…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=02&articleid=2026-05-14-2-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-2-4",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-2-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=02&articleid=2026-05-14-2-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-2-5",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-2-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=02&articleid=2026-05-14-2-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-3-0",
       "issueDate": "2026-05-14",
       "matchType": "pla_only",
       "confidence": 0,
@@ -2172,101 +2999,11 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-3-1",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "前四月全国铁路固定资产投资超两千亿元",
-          "excerpt": "新华社北京5月13日电 记者13日从中国国家铁路集团有限公司获悉，今年1至4月，铁路建设优质高效推进，全国铁路完成固定资产投资2008亿元，同比增长3.2%，有效发挥辐射带动作用，为区域经济社会发展注入新动能。 国铁集团建设部相关负责人介绍，今年以来，国铁集团聚焦服务国家重大战略和区域经济社会发展，充分用好国家“两重”支持政策，抓住春季施工黄金期，加快推进…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=03&articleid=2026-05-14-3-1",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-3-2",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "中国空间站首次人类“人工胚胎”实验进展顺利",
-          "excerpt": "新华社北京5月13日电（记者李国利、刘艺）记者13日从中国科学院空间应用工程与技术中心了解到，随天舟十号上行太空的人类“人工胚胎”实验样本，已装置于中国空间站实验模块，目前实验进展顺利。 这是世界首次在太空开展的人类“人工胚胎”实验。 5月11日，包括“人工胚胎”在内的41项空间科学实验项目，随天舟十号货运飞船抵达空间站。当晚约10时，“人工胚胎”实验样本…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=03&articleid=2026-05-14-3-2",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-3-3",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "三峡水库为长江中下游补水超百亿立方米",
-          "excerpt": "据中国三峡集团消息，自2025年11月21日启动枯水期补水调度以来，截至5月12日，三峡水库已累计为长江中下游补水超100亿立方米，为长江中下游沿线民生供水、农业生产、航运畅通及生态保护提供了坚…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=03&articleid=2026-05-14-3-3",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-3-5",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "撬动民间投资 释放内需潜力",
-          "excerpt": "近期，一批水网、新型电网、算力网等相关工程项目密集启动实施，取得新进展。记者了解到，有关部门正酝酿出台水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等“六张网”有关政策文件。 在环北部湾广东水资源配置工程建设现场，随着管片拼装机平稳作业，“粤海环北3号”盾构机近日掘进突破500环，累计进尺达800米，标志着项目盾构施工迈入高效推进新阶段。环北部…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=03&articleid=2026-05-14-3-5",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-3-6",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "“十五五”期间力争全国定点医药机构现场检查全覆盖",
-          "excerpt": "据新华社北京5月13日电（记者彭韵佳）国家医保局13日发布《医疗保障基金监督检查五年行动计划（2026年—2030年）》，明确“十五五”期间，力争完成全国定点医药机构现场检查全覆盖。 当前，欺诈骗保方式呈现隐蔽化、专业化、复杂化特征，叠加医保覆盖面扩大、支付方式改革深化等因素，基金风险防控难度进一步加大。此次行动计划明确了未来五年监管工作的指导思想、基本原…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=03&articleid=2026-05-14-3-6",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-3-7",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 3,
-          "pageName": "要闻",
-          "title": "破除妨碍统一市场和公平竞争卡点堵点",
-          "excerpt": "新华社北京5月13日电（记者赵怡宁）记者13日从国家市场监督管理总局了解到，市场监管总局近日正式印发专项行动方案，自今年5月至12月，在全系统组织开展破除妨碍统一市场和公平竞争卡点堵点专项行动，以更大力度和更实举措规范竞争秩序。 “专项行动的主要目标可概括为‘四个一批’。即到年底，依法查办一批重大案件，推动废除和修改一批妨碍全国统一市场和公平竞争的政策措施…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=03&articleid=2026-05-14-3-7",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.933Z"
+            "extractedAt": "2026-05-16T20:22:49.790Z"
           }
         }
       ],
-      "reason": "81cn only 7本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -2279,12 +3016,333 @@
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
         "メタデータ・MATCHED非採用"
       ]
     },
     {
-      "id": "pla_only:4:要闻",
+      "id": "pla_only:pla_daily:2026-05-14-3-1",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-3-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "前四月全国铁路固定资产投资超两千亿元",
+          "excerpt": "新华社北京5月13日电 记者13日从中国国家铁路集团有限公司获悉，今年1至4月，铁路建设优质高效推进，全国铁路完成固定资产投资2008亿元，同比增长3.2%，有效发挥辐射带动作用，为区域经济社会发展注入新动能。 国铁集团建设部相关负责人介绍，今年以来，国铁集团聚焦服务国家重大战略和区域经济社会发展，充分用好国家“两重”支持政策，抓住春季施工黄金期，加快推进…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=03&articleid=2026-05-14-3-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-3-2",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-3-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中国空间站首次人类“人工胚胎”实验进展顺利",
+          "excerpt": "新华社北京5月13日电（记者李国利、刘艺）记者13日从中国科学院空间应用工程与技术中心了解到，随天舟十号上行太空的人类“人工胚胎”实验样本，已装置于中国空间站实验模块，目前实验进展顺利。 这是世界首次在太空开展的人类“人工胚胎”实验。 5月11日，包括“人工胚胎”在内的41项空间科学实验项目，随天舟十号货运飞船抵达空间站。当晚约10时，“人工胚胎”实验样本…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=03&articleid=2026-05-14-3-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-3-3",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-3-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "三峡水库为长江中下游补水超百亿立方米",
+          "excerpt": "据中国三峡集团消息，自2025年11月21日启动枯水期补水调度以来，截至5月12日，三峡水库已累计为长江中下游补水超100亿立方米，为长江中下游沿线民生供水、农业生产、航运畅通及生态保护提供了坚…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=03&articleid=2026-05-14-3-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-3-5",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-3-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "撬动民间投资 释放内需潜力",
+          "excerpt": "近期，一批水网、新型电网、算力网等相关工程项目密集启动实施，取得新进展。记者了解到，有关部门正酝酿出台水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等“六张网”有关政策文件。 在环北部湾广东水资源配置工程建设现场，随着管片拼装机平稳作业，“粤海环北3号”盾构机近日掘进突破500环，累计进尺达800米，标志着项目盾构施工迈入高效推进新阶段。环北部…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=03&articleid=2026-05-14-3-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-3-6",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-3-6",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "“十五五”期间力争全国定点医药机构现场检查全覆盖",
+          "excerpt": "据新华社北京5月13日电（记者彭韵佳）国家医保局13日发布《医疗保障基金监督检查五年行动计划（2026年—2030年）》，明确“十五五”期间，力争完成全国定点医药机构现场检查全覆盖。 当前，欺诈骗保方式呈现隐蔽化、专业化、复杂化特征，叠加医保覆盖面扩大、支付方式改革深化等因素，基金风险防控难度进一步加大。此次行动计划明确了未来五年监管工作的指导思想、基本原…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=03&articleid=2026-05-14-3-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-3-7",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-3-7",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "破除妨碍统一市场和公平竞争卡点堵点",
+          "excerpt": "新华社北京5月13日电（记者赵怡宁）记者13日从国家市场监督管理总局了解到，市场监管总局近日正式印发专项行动方案，自今年5月至12月，在全系统组织开展破除妨碍统一市场和公平竞争卡点堵点专项行动，以更大力度和更实举措规范竞争秩序。 “专项行动的主要目标可概括为‘四个一批’。即到年底，依法查办一批重大案件，推动废除和修改一批妨碍全国统一市场和公平竞争的政策措施…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=03&articleid=2026-05-14-3-7",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-4-0",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-4-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "拉长合作清单  贡献建设性力量",
+          "subtitle": "——美国商学界人士瞩望美中经贸关系互利共赢",
+          "excerpt": "应国家主席习近平邀请，美国总统特朗普5月13日晚乘专机抵达北京，开始对中国进行国事访问。十余家美国知名企业的高管随团访华，其中包括苹果首席执行官蒂姆·库克、英伟达创始人兼首席执行官黄仁勋、特斯拉公司首席执行官埃隆·马斯克等。这些企业高管集体到访，彰显美国工商界对中美深化务实合作、走向互利共赢的殷切期待。 当前，全球经济不确定性持续上升，大量美国企业选择继续…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-4-10",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-4-10",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-10",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-4-3",
       "issueDate": "2026-05-14",
       "matchType": "pla_only",
       "confidence": 0,
@@ -2302,116 +3360,11 @@
           "extraction": {
             "status": "success",
             "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.934Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-4-4",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 4,
-          "pageName": "要闻",
-          "title": "新时代中阿经济发展研讨会在阿根廷举行",
-          "excerpt": "新华社布宜诺斯艾利斯5月12日电（记者王钟毅、张铎）新时代中阿经济发展研讨会12日在阿根廷首都布宜诺斯艾利斯举行。与会中阿专家学者围绕“研学创新理论 共享发展机遇”这一主题，展开深入研讨交流。 与会人士认为，习近平经济思想不仅为中国经济发展提供了科学指引，也为世界各国特别是发展中国家探索适合本国国情的发展道路，提供了中国智慧和中国方案，其中蕴含的真理力量和…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-4",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.934Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-4-5",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 4,
-          "pageName": "要闻",
-          "title": "世界上一切爱好和平的国家和日本人民都应共同抵制日本右翼势力“再军事化”妄动",
-          "excerpt": "新华社北京5月13日电（记者万倩仪、董雪）外交部发言人郭嘉昆13日表示，世界上一切爱好和平的国家和日本人民，都应共同抵制日本右翼势力“再军事化”的妄动，共同遏制日本“新型军国主义”成势为患。 当日例行记者会上，有记者问：自从高市政府宣布推动修宪以来，日本各界出现大量反对声音，甚至出现几十年来规模最大的反战抗议活动。“恐惧”“担忧”“警惕”“愤怒”成为受访民…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-5",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.934Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-4-6",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 4,
-          "pageName": "要闻",
-          "title": "埃及总理表示期待进一步加强埃中全面战略伙伴关系",
-          "excerpt": "据新华社开罗5月12日电（记者林建杰、姚兵）埃及总理马德布利12日表示，埃中两国关系保持蓬勃发展势头，埃方希望进一步加强两国全面战略伙伴关系，愿与新华社进一步开展新闻合作与文化交流活动。 马德布利当天在开罗会见出席“全球南方”媒体智库高端论坛中阿伙伴大会的新华社社长傅华时说，今年是埃中建交70周年，两国友好关系源远流长。在塞西总统和习近平主席领导下，两国于…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-6",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.934Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-4-7",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 4,
-          "pageName": "要闻",
-          "title": "英国将派舰机参与霍尔木兹海峡护航行动",
-          "excerpt": "据新华社伦敦5月12日电（记者赵小娜）英国国防部12日发表声明说，英国将派遣军舰、战斗机以及无人扫雷设备和反无人机系统，参与霍尔木兹海峡多国护航行动。 英国国防部表示，英国将为相关任务新增1.15亿英镑（约合10.57亿元人民币）资金，用于无人扫雷设备和反无人机系统。 根据计划，具备实战经验的“台风”战斗机将执行空中…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-7",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.934Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-4-8",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 4,
-          "pageName": "要闻",
-          "title": "科威特指伊朗“武装渗透”布比延岛",
-          "excerpt": "据新华社科威特城/德黑兰5月12日电（记者尹炣、陈霄）科威特政府12日指认，伊朗伊斯兰革命卫队多名武装人员本月初试图从海上“渗透”至科威特布比延岛实施“敌对行动”。伊朗外交部回应说，这一说法“毫无依据”。 布比延岛位于波斯湾西北部，与伊朗西南部胡齐斯坦省隔海相望。 科威特内政部发表声明说，伊朗武装人员5月1日乘坐一艘渔船前往布比延岛，与岛上科威特…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-8",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.934Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-4-9",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 4,
-          "pageName": "要闻",
-          "title": "俄成功试射最新型“萨尔马特”洲际弹道导弹",
-          "excerpt": "据新华社莫斯科5月12日电（记者侯鸣）俄罗斯战略火箭兵司令谢尔盖·卡拉卡耶夫12日在视频会议上向总统普京报告，俄当天成功试射最新型“萨尔马特”洲际弹道导弹。 塔斯社援引卡拉卡耶夫的话报道说，“萨尔马特”洲际弹道导弹能够可靠地摧毁目标并完成战略威慑任务。 普京说，“萨尔马特”射程超过3.5万公里，同时精度大幅提高，能够穿透所有导弹防御系统，是“世…",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-9",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.934Z"
-          }
-        },
-        {
-          "id": "pla_daily:2026-05-14-4-10",
-          "source": "pla_daily",
-          "issueDate": "2026-05-14",
-          "pageNumber": 4,
-          "pageName": "要闻",
-          "title": "图片",
-          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
-          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-10",
-          "extraction": {
-            "status": "success",
-            "method": "pla-daily-index-json-v1",
-            "extractedAt": "2026-05-16T09:09:41.934Z"
+            "extractedAt": "2026-05-16T20:22:49.790Z"
           }
         }
       ],
-      "reason": "81cn only 8本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。",
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
       "lexicalContrast": {
         "peopleDailyTerms": [],
         "plaDailyTerms": [],
@@ -2424,7 +3377,247 @@
       },
       "uncertaintyNotes": [
         "語彙類似 0% / ナラティブ類似 0%",
-        "MATCHED採用されなかった記事群です。面ごとに集約しています。",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-4-4",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-4-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "新时代中阿经济发展研讨会在阿根廷举行",
+          "excerpt": "新华社布宜诺斯艾利斯5月12日电（记者王钟毅、张铎）新时代中阿经济发展研讨会12日在阿根廷首都布宜诺斯艾利斯举行。与会中阿专家学者围绕“研学创新理论 共享发展机遇”这一主题，展开深入研讨交流。 与会人士认为，习近平经济思想不仅为中国经济发展提供了科学指引，也为世界各国特别是发展中国家探索适合本国国情的发展道路，提供了中国智慧和中国方案，其中蕴含的真理力量和…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-4-5",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-4-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "世界上一切爱好和平的国家和日本人民都应共同抵制日本右翼势力“再军事化”妄动",
+          "excerpt": "新华社北京5月13日电（记者万倩仪、董雪）外交部发言人郭嘉昆13日表示，世界上一切爱好和平的国家和日本人民，都应共同抵制日本右翼势力“再军事化”的妄动，共同遏制日本“新型军国主义”成势为患。 当日例行记者会上，有记者问：自从高市政府宣布推动修宪以来，日本各界出现大量反对声音，甚至出现几十年来规模最大的反战抗议活动。“恐惧”“担忧”“警惕”“愤怒”成为受访民…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-4-6",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-4-6",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "埃及总理表示期待进一步加强埃中全面战略伙伴关系",
+          "excerpt": "据新华社开罗5月12日电（记者林建杰、姚兵）埃及总理马德布利12日表示，埃中两国关系保持蓬勃发展势头，埃方希望进一步加强两国全面战略伙伴关系，愿与新华社进一步开展新闻合作与文化交流活动。 马德布利当天在开罗会见出席“全球南方”媒体智库高端论坛中阿伙伴大会的新华社社长傅华时说，今年是埃中建交70周年，两国友好关系源远流长。在塞西总统和习近平主席领导下，两国于…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-4-7",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-4-7",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "英国将派舰机参与霍尔木兹海峡护航行动",
+          "excerpt": "据新华社伦敦5月12日电（记者赵小娜）英国国防部12日发表声明说，英国将派遣军舰、战斗机以及无人扫雷设备和反无人机系统，参与霍尔木兹海峡多国护航行动。 英国国防部表示，英国将为相关任务新增1.15亿英镑（约合10.57亿元人民币）资金，用于无人扫雷设备和反无人机系统。 根据计划，具备实战经验的“台风”战斗机将执行空中…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-7",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-4-8",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-4-8",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "科威特指伊朗“武装渗透”布比延岛",
+          "excerpt": "据新华社科威特城/德黑兰5月12日电（记者尹炣、陈霄）科威特政府12日指认，伊朗伊斯兰革命卫队多名武装人员本月初试图从海上“渗透”至科威特布比延岛实施“敌对行动”。伊朗外交部回应说，这一说法“毫无依据”。 布比延岛位于波斯湾西北部，与伊朗西南部胡齐斯坦省隔海相望。 科威特内政部发表声明说，伊朗武装人员5月1日乘坐一艘渔船前往布比延岛，与岛上科威特…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-8",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-14-4-9",
+      "issueDate": "2026-05-14",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-14-4-9",
+          "source": "pla_daily",
+          "issueDate": "2026-05-14",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "俄成功试射最新型“萨尔马特”洲际弹道导弹",
+          "excerpt": "据新华社莫斯科5月12日电（记者侯鸣）俄罗斯战略火箭兵司令谢尔盖·卡拉卡耶夫12日在视频会议上向总统普京报告，俄当天成功试射最新型“萨尔马特”洲际弹道导弹。 塔斯社援引卡拉卡耶夫的话报道说，“萨尔马特”洲际弹道导弹能够可靠地摧毁目标并完成战略威慑任务。 普京说，“萨尔马特”射程超过3.5万公里，同时精度大幅提高，能够穿透所有导弹防御系统，是“世…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-14&paperNumber=04&articleid=2026-05-14-4-9",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-16T20:22:49.790Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
         "メタデータ・MATCHED非採用"
       ]
     }
@@ -2432,10 +3625,10 @@
   "counts": {
     "peopleArticles": 30,
     "plaArticles": 32,
-    "matchedGroups": 3,
-    "matchedPeopleArticles": 9,
-    "matchedPlaArticles": 5,
-    "peopleOnlyArticles": 21,
-    "plaOnlyArticles": 27
+    "matchedGroups": 5,
+    "matchedPeopleArticles": 5,
+    "matchedPlaArticles": 4,
+    "peopleOnlyArticles": 25,
+    "plaOnlyArticles": 28
   }
 }

@@ -15,7 +15,7 @@ The current PoC focuses on:
 - daily 1-4 page issue comparison
 - People’s Daily HTML extraction and PLA Daily JSON extraction
 - anchor-based candidate generation plus optional OpenAI adjudication for `MACHED`
-- N-to-M `MACHED` topic groups built from accepted article-pair components
+- strict concrete-target `MACHED` groups; accepted article pairs are grouped only by exact titles or high-value anchors
 - three public comparison labels: `MACHED`, `People's only`, and `81cn only`
 - filtering by label and relevance/page-order sorting
 - a collapsible per-date article graph that treats same-day articles as nodes and expands `MACHED` groups into lightweight review links
@@ -55,6 +55,7 @@ The live PoC uses:
 - `src/lib/dailySnapshot.ts` to build one display-safe daily snapshot
 - `src/lib/snapshotStorage.ts` to read/write the rolling snapshot archive
 - `src/app/api/cron/daily-issue/route.ts` as the protected Vercel Cron endpoint
+- `scripts/diagnose-match-groups.mjs` to inspect saved snapshots for oversized `MACHED` groups before deployment
 
 Older topic-cluster mock data still lives in `src/data/mockData.ts`.
 
@@ -68,7 +69,7 @@ Older topic-cluster mock data still lives in `src/data/mockData.ts`.
 - No human review workflow yet
 - Source extraction depends on current public electronic edition structures
 - Narrative dimensions are scaffolded for review, not yet automatically extracted
-- `MACHED` precision is intentionally favored over recall; weak shared-word overlaps remain in `People's only` / `81cn only`
+- `MACHED` precision is intentionally favored over recall; weak shared-word overlaps, broad diplomatic moments, and generic official slogans remain in `People's only` / `81cn only`
 - Group counts and article counts differ: one `MACHED` topic group may contain several People’s Daily articles and several PLA Daily articles.
 - The public page only shows already-generated snapshots. Run the cron endpoint to create or refresh a date.
 
@@ -106,6 +107,13 @@ Run checks:
 ```bash
 npm run lint
 npm run build
+```
+
+Inspect saved match groups:
+
+```bash
+node scripts/diagnose-match-groups.mjs --date 2026-04-22
+node scripts/diagnose-match-groups.mjs --from 2026-04-16 --days 31
 ```
 
 ## Snapshot Updates

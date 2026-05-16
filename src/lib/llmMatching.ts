@@ -20,6 +20,7 @@ interface CandidatePair<TArticle extends MatchableArticle> {
   pair: ArticlePairScore<TArticle>;
   usefulSharedTerms: string[];
   anchorScore: number;
+  clusterKey?: string;
   topicFamily?: TopicFamily;
   titleMatchKind?: "exact" | "strong_phrase";
 }
@@ -78,18 +79,41 @@ const HIGH_VALUE_ANCHOR_PATTERNS: Array<{
   { canonical: "全国人大常委会执法检查", pattern: /全国人大常委会.{0,16}执法检查/g, score: 0.88 },
   { canonical: "中美经贸磋商", pattern: /中美.{0,8}经贸磋商|美中.{0,8}经贸磋商/g, score: 1 },
   { canonical: "中国-加州经贸论坛", pattern: /中国[\-—－]加州经贸论坛|中国.{0,4}加州.{0,4}经贸论坛/g, score: 1 },
-  { canonical: "中美关系", pattern: /中美.{0,4}关系|美中.{0,4}关系/g, score: 0.72 },
-  { canonical: "中美经贸关系", pattern: /中美.{0,6}经贸关系|美中.{0,6}经贸关系/g, score: 0.84 },
-  { canonical: "中美地方经贸交流", pattern: /中美.{0,8}地方.{0,8}经贸交流|美中.{0,8}地方.{0,8}经贸交流/g, score: 0.86 },
-  { canonical: "中美民间交往", pattern: /中美.{0,10}民间交往|美中.{0,10}民间交往/g, score: 0.78 },
-  { canonical: "中美人文交流", pattern: /中美.{0,10}人文交流|美中.{0,10}人文交流/g, score: 0.78 },
-  { canonical: "正确相处之道", pattern: /正确相处之道/g, score: 0.76 },
-  { canonical: "特朗普国事访问", pattern: /特朗普.{0,40}国事访问|国事访问.{0,40}特朗普/g, score: 0.92 },
-  { canonical: "中美元首会晤", pattern: /中美.{0,8}元首会晤|美中.{0,8}元首会晤|元首会晤/g, score: 0.78 },
+  { canonical: "中美关系", pattern: /中美.{0,4}关系|美中.{0,4}关系/g, score: 0.42 },
+  { canonical: "中美经贸关系", pattern: /中美.{0,6}经贸关系|美中.{0,6}经贸关系/g, score: 0.54 },
+  { canonical: "中美地方经贸交流", pattern: /中美.{0,8}地方.{0,8}经贸交流|美中.{0,8}地方.{0,8}经贸交流/g, score: 0.58 },
+  { canonical: "中美民间交往", pattern: /中美.{0,10}民间交往|美中.{0,10}民间交往/g, score: 0.54 },
+  { canonical: "中美人文交流", pattern: /中美.{0,10}人文交流|美中.{0,10}人文交流/g, score: 0.54 },
+  { canonical: "正确相处之道", pattern: /正确相处之道/g, score: 0.54 },
+  { canonical: "特朗普国事访问", pattern: /特朗普.{0,40}国事访问|国事访问.{0,40}特朗普/g, score: 0.62 },
+  { canonical: "中美元首会晤", pattern: /中美.{0,8}元首会晤|美中.{0,8}元首会晤|元首会晤/g, score: 0.62 },
+  { canonical: "靖国神社", pattern: /靖国神社/g, score: 0.96 },
+  { canonical: "莫桑比克查波会谈", pattern: /莫桑比克.{0,24}查波.{0,12}会谈|查波.{0,24}莫桑比克.{0,12}会谈/g, score: 1 },
+  { canonical: "查波会谈", pattern: /查波.{0,12}会谈|会谈.{0,12}查波/g, score: 0.94 },
+  { canonical: "老挝沙伦赛会见", pattern: /老挝.{0,24}沙伦赛.{0,12}会见|沙伦赛.{0,24}老挝.{0,12}会见/g, score: 1 },
+  { canonical: "沙伦赛会见", pattern: /沙伦赛.{0,12}会见|会见.{0,12}沙伦赛/g, score: 0.94 },
+  { canonical: "中莫命运共同体联合声明", pattern: /中莫命运共同体.{0,10}联合声明|莫桑比克共和国.{0,24}联合声明/g, score: 0.62 },
+  { canonical: "联合声明", pattern: /联合声明/g, score: 0.58 },
+  { canonical: "向新向好稳中有进", pattern: /向新向好.{0,4}稳中有进/g, score: 0.92 },
+  { canonical: "向新向好", pattern: /向新向好/g, score: 0.76 },
+  { canonical: "稳中有进", pattern: /稳中有进/g, score: 0.76 },
   { canonical: "树立和践行正确政绩观", pattern: /树立和践行正确政绩观|正确政绩观/g, score: 0.86, headlineOnly: true },
   { canonical: "形式主义基层减负", pattern: /形式主义.{0,14}基层减负|基层减负.{0,14}形式主义/g, score: 0.8, headlineOnly: true },
   { canonical: "干事创业", pattern: /干事创业/g, score: 0.64, headlineOnly: true },
 ];
+
+const CLUSTERABLE_ANCHOR_TERMS = new Set([
+  "粮食安全保障法执法检查",
+  "全国人大常委会执法检查",
+  "中美经贸磋商",
+  "中国-加州经贸论坛",
+  "靖国神社",
+  "莫桑比克查波会谈",
+  "查波会谈",
+  "老挝沙伦赛会见",
+  "沙伦赛会见",
+  "向新向好稳中有进",
+]);
 
 const TOPIC_FAMILY_LABELS: Record<TopicFamily, string> = {
   china_us_relations: "中美关系议题",
@@ -142,7 +166,9 @@ export async function buildLlmJudgedMatchGroups<TArticle extends MatchableArticl
     .filter(
       (candidate) =>
         candidate.titleMatchKind ||
+        candidate.topicFamily ||
         candidate.anchorScore >= 0.42 ||
+        candidate.usefulSharedTerms.some(isHighValueAnchorTerm) ||
         candidate.pair.confidence >= minCandidateConfidence,
     );
   const candidates = selectCandidatePool(allCandidates, candidateLimit);
@@ -186,7 +212,6 @@ function candidateFromPair<TArticle extends MatchableArticle>(
   const directAnchorTerms = [
     ...sharedTitleTerms(pair.peopleArticle, pair.plaArticle),
     ...sharedAnchorTerms(pair.peopleArticle, pair.plaArticle),
-    ...(topicFamily ? [TOPIC_FAMILY_LABELS[topicFamily]] : []),
   ].filter(uniqueTerm);
   const usefulSharedTerms = [
     ...directAnchorTerms,
@@ -194,8 +219,12 @@ function candidateFromPair<TArticle extends MatchableArticle>(
   ].filter(uniqueTerm).slice(0, 8);
   const anchorScore = sharedAnchorScore(directAnchorTerms);
   const titleMatchKind = titleMatchKindForPair(pair, directAnchorTerms);
+  const clusterKey =
+    titleMatchKind === "exact"
+      ? exactTitleClusterKey(pair.peopleArticle, pair.plaArticle)
+      : clusterKeyForSharedTerms(directAnchorTerms);
 
-  if (!titleMatchKind && usefulSharedTerms.length === 0 && pair.confidence < 0.2) {
+  if (!topicFamily && !titleMatchKind && usefulSharedTerms.length === 0 && pair.confidence < 0.2) {
     return undefined;
   }
 
@@ -204,6 +233,7 @@ function candidateFromPair<TArticle extends MatchableArticle>(
     pair,
     usefulSharedTerms,
     anchorScore,
+    clusterKey,
     topicFamily,
     titleMatchKind,
   };
@@ -275,9 +305,11 @@ function compareCandidatePriority<TArticle extends MatchableArticle>(
 function candidatePriority<TArticle extends MatchableArticle>(candidate: CandidatePair<TArticle>) {
   const titleBoost =
     candidate.titleMatchKind === "exact" ? 3 : candidate.titleMatchKind === "strong_phrase" ? 1.4 : 0;
+  const topicFamilyBoost = candidate.topicFamily ? 0.12 : 0;
 
   return (
     titleBoost +
+    topicFamilyBoost +
     candidate.anchorScore * 1.6 +
     candidate.pair.confidence +
     candidate.usefulSharedTerms.length * 0.04
@@ -358,16 +390,17 @@ async function adjudicateCandidatePairsWithLlm<TArticle extends MatchableArticle
 function buildLlmPrompt<TArticle extends MatchableArticle>(
   candidates: CandidatePair<TArticle>[],
 ) {
-  return `人民日報と解放軍報の記事ペア候補について、同じ具体的トピックとしてMATCHED扱いしてよいか判定してください。
+  return `人民日報と解放軍報の記事ペア候補について、同じ具体対象としてMATCHED扱いしてよいか判定してください。
 
 判定ルール:
-- 同じ出来事、同じ外交会談、同じ声明、同じ政策発表、同じ事故・訓練・会議なら matched=true。
-- 同じ日付周辺の具体的な外交・政策モーメントをめぐる記事群なら、記事ジャンルや焦点が違っても topic-cluster として matched=true にできます。
-- 例: 片方が中米首脳会晤/訪中/正しい相处之道、もう片方が同じ訪中局面での中美経済協力や米企業訪中を扱う場合は、同じ中米関係トピック候補です。
-- 同じ政策キャンペーンや制度名を、人民日報が地方治理、解放軍報が軍の作風・訓練文脈で扱う場合も topic-cluster 候補です。ただし単語だけでなく記事本文の焦点が接続できる場合に限ります。
+- matched=true は、同一の具体的な出来事、外交会談・会見、声明、政策発表、事故、訓練、会議、法令・執法検査を両紙が扱う場合だけです。
+- 広い外交局面、政策モーメント、topic-cluster、同じ日付の関連テーマというだけなら matched=false。
+- 例: 靖国神社という同一対象、莫桑比克/查波の同一会谈、老挝/沙伦赛の同一会见、同一の联合声明なら matched=true。
+- 例: 「向新向好」「稳中有进」など特徴的な表現があっても、同じ具体対象や同じ声明本文に接続できないなら matched=false。
+- 片方が首脳外交の総論、もう片方が経済協力や軍内学習など別対象を扱う場合は、同じ外交・政策局面に見えても matched=false。
 - 「习近平」「中国」「发展」「高质量发展」など汎用語だけの一致は matched=false。
 - 同じスローガンでも別の具体事例なら matched=false。
-- 片方が政策一般、もう片方が軍の別事例なら、同じ固有イベント・制度・発表に接続できる場合だけ matched=true。
+- topicFamily は候補選定の補助シグナルです。topicFamily が同じという理由だけで matched=true にしてはいけません。
 - confidence は 0-100。70未満はUIではMATCHED採用しません。
 
 JSONだけを返してください:
@@ -388,7 +421,7 @@ function candidateForPrompt<TArticle extends MatchableArticle>(candidate: Candid
   return {
     pairId: candidate.id,
     sharedTerms: candidate.usefulSharedTerms,
-    topicFamily: candidate.topicFamily ? TOPIC_FAMILY_LABELS[candidate.topicFamily] : undefined,
+    topicFamilySignal: candidate.topicFamily ? TOPIC_FAMILY_LABELS[candidate.topicFamily] : undefined,
     heuristicConfidence: Math.round(candidate.pair.confidence * 100),
     peopleDaily: articleForPrompt(people),
     plaDaily: articleForPrompt(pla),
@@ -453,14 +486,15 @@ function selectMatchedPairs<TArticle extends MatchableArticle>(
       candidate.titleMatchKind === "exact" ||
       (candidate.titleMatchKind === "strong_phrase" &&
         candidate.usefulSharedTerms.some(isHighValueAnchorTerm));
-    const matchedByTopicFamily = Boolean(candidate.topicFamily);
     const matchedByLlm =
-      decision?.matched === true && decision.confidence >= minLlmConfidence;
+      decision?.matched === true &&
+      decision.confidence >= minLlmConfidence &&
+      isConcreteLlmMatchCandidate(candidate);
     const matchedByLocalFallback =
       (forceLocal || !llmResult?.usedAi) &&
       isStrongLocalFallbackCandidate(candidate);
 
-    if (!matchedByStrongTitle && !matchedByTopicFamily && !matchedByLlm && !matchedByLocalFallback) {
+    if (!matchedByStrongTitle && !matchedByLlm && !matchedByLocalFallback) {
       continue;
     }
 
@@ -479,46 +513,17 @@ function buildMatchedGroupsFromPairs<TArticle extends MatchableArticle>(
   }
 
   const decisionsByPairId = new Map((llmResult?.decisions ?? []).map((decision) => [decision.pairId, decision]));
-  const parents = new Map<string, string>();
-  const find = (node: string): string => {
-    const parent = parents.get(node) ?? node;
-
-    if (parent === node) {
-      parents.set(node, node);
-      return node;
-    }
-
-    const root = find(parent);
-    parents.set(node, root);
-    return root;
-  };
-  const union = (left: string, right: string) => {
-    const leftRoot = find(left);
-    const rightRoot = find(right);
-
-    if (leftRoot !== rightRoot) {
-      parents.set(rightRoot, leftRoot);
-    }
-  };
+  const groupedPairs = new Map<string, CandidatePair<TArticle>[]>();
 
   for (const candidate of candidates) {
-    union(
-      `p:${articleKey(candidate.pair.peopleArticle)}`,
-      `q:${articleKey(candidate.pair.plaArticle)}`,
-    );
-  }
-
-  const componentPairs = new Map<string, CandidatePair<TArticle>[]>();
-
-  for (const candidate of candidates) {
-    const root = find(`p:${articleKey(candidate.pair.peopleArticle)}`);
-    const group = componentPairs.get(root) ?? [];
+    const key = candidate.clusterKey ?? candidate.id;
+    const group = groupedPairs.get(key) ?? [];
 
     group.push(candidate);
-    componentPairs.set(root, group);
+    groupedPairs.set(key, group);
   }
 
-  return [...componentPairs.values()].map((pairs) =>
+  return [...groupedPairs.values()].map((pairs) =>
     componentToMatchedGroup(
       pairs.sort(
         (left, right) =>
@@ -598,7 +603,7 @@ function matchedPairReasons<TArticle extends MatchableArticle>(
   candidate: CandidatePair<TArticle>,
   decision: LlmPairDecision | undefined,
 ): MatchReason[] {
-  if (!decision) {
+  if (!decision?.matched) {
     return [];
   }
 
@@ -618,20 +623,18 @@ function acceptedPairConfidence<TArticle extends MatchableArticle>(
   candidate: CandidatePair<TArticle>,
   decision: LlmPairDecision | undefined,
 ) {
+  const matchedDecisionConfidence = decision?.matched === true ? decision.confidence / 100 : 0;
+
   if (candidate.titleMatchKind === "exact") {
-    return Math.max(0.92, decision?.confidence ? decision.confidence / 100 : 0);
+    return Math.max(0.92, matchedDecisionConfidence);
   }
 
   if (candidate.titleMatchKind === "strong_phrase") {
-    return Math.max(0.84, decision?.confidence ? decision.confidence / 100 : 0);
+    return Math.max(0.84, matchedDecisionConfidence);
   }
 
-  if (decision) {
-    return decision.confidence / 100;
-  }
-
-  if (candidate.topicFamily) {
-    return Math.max(0.78, candidate.pair.confidence, candidate.anchorScore);
+  if (decision?.matched === true) {
+    return matchedDecisionConfidence;
   }
 
   if (candidate.anchorScore >= 0.78) {
@@ -645,9 +648,20 @@ function isStrongLocalFallbackCandidate<TArticle extends MatchableArticle>(
   candidate: CandidatePair<TArticle>,
 ) {
   return (
-    (candidate.anchorScore >= 0.78 && candidate.usefulSharedTerms.some(isHighValueAnchorTerm)) ||
-    (candidate.pair.confidence >= 0.58 && candidate.usefulSharedTerms.length >= 1)
+    (candidate.anchorScore >= 0.72 && candidate.usefulSharedTerms.some(isHighValueAnchorTerm)) ||
+    candidate.titleMatchKind === "exact" ||
+    candidate.titleMatchKind === "strong_phrase"
   );
+}
+
+function isConcreteLlmMatchCandidate<TArticle extends MatchableArticle>(
+  candidate: CandidatePair<TArticle>,
+) {
+  if (candidate.titleMatchKind === "exact" || candidate.titleMatchKind === "strong_phrase") {
+    return true;
+  }
+
+  return candidate.anchorScore >= 0.72 && candidate.usefulSharedTerms.some(isHighValueAnchorTerm);
 }
 
 function uniqueArticles<TArticle extends MatchableArticle>(articles: TArticle[]) {
@@ -739,7 +753,7 @@ function llmCacheKey<TArticle extends MatchableArticle>(
   candidates: CandidatePair<TArticle>[],
 ) {
   return [
-    "peoplepla-match-v2-topic-components",
+    "peoplepla-match-v3-specific-target",
     model,
     candidates
       .map(
@@ -775,7 +789,10 @@ function sharedTitleTerms(left: MatchableArticle, right: MatchableArticle) {
 
   const common = cleanSharedTitleTerm(longestCommonSubstring(leftTitle, rightTitle));
 
-  if (common.length >= 5 && !GENERIC_JUDGE_TERMS.has(common)) {
+  if (
+    (common.length >= 5 || isStrongShortAnchorTerm(common)) &&
+    !GENERIC_JUDGE_TERMS.has(common)
+  ) {
     return [common];
   }
 
@@ -810,7 +827,7 @@ function extractAnchorTerms(article: MatchableArticle) {
 
   const eventLikeMatches =
     text.match(
-      /[\u3400-\u9fffA-Za-z0-9\-—－]{2,26}(?:法|执法检查|经贸磋商|经贸论坛|论坛|会议|会晤|会见|国事访问|访问|发布会|行动计划|专项行动|研讨会|联谊赛|工程|清单|制度)/g,
+      /[\u3400-\u9fffA-Za-z0-9\-—－]{2,26}(?:法|执法检查|经贸磋商|经贸论坛|论坛|会议|会晤|会见|会谈|国事访问|访问|发布会|联合声明|声明|行动计划|专项行动|研讨会|联谊赛|工程|清单|制度)/g,
     ) ?? [];
 
   for (const match of eventLikeMatches) {
@@ -839,12 +856,12 @@ function anchorTermScore(term: string) {
     return configured.score;
   }
 
-  if (/法|执法检查|经贸磋商|经贸论坛|论坛|会晤|国事访问|专项行动|正确政绩观/.test(term)) {
+  if (/法|执法检查|经贸磋商|经贸论坛|论坛|专项行动|正确政绩观/.test(term)) {
     return 0.78;
   }
 
   if (/中美|美中|特朗普|经贸|民间|人文/.test(term)) {
-    return 0.66;
+    return 0.48;
   }
 
   return 0.34;
@@ -852,6 +869,29 @@ function anchorTermScore(term: string) {
 
 function isHighValueAnchorTerm(term: string) {
   return anchorTermScore(term) >= 0.64 && !GENERIC_JUDGE_TERMS.has(term);
+}
+
+function isStrongShortAnchorTerm(term: string) {
+  return term.length >= 4 && anchorTermScore(term) >= 0.9 && !GENERIC_JUDGE_TERMS.has(term);
+}
+
+function clusterKeyForSharedTerms(terms: string[]) {
+  const clusterTerm = terms
+    .filter((term) => CLUSTERABLE_ANCHOR_TERMS.has(term))
+    .sort((leftTerm, rightTerm) => anchorTermScore(rightTerm) - anchorTermScore(leftTerm))[0];
+
+  return clusterTerm ? `anchor:${normalizeAnchorTerm(clusterTerm)}` : undefined;
+}
+
+function exactTitleClusterKey(left: MatchableArticle, right: MatchableArticle) {
+  const leftTitle = normalizeTitleForMatch(articleTitle(left));
+  const rightTitle = normalizeTitleForMatch(articleTitle(right));
+
+  if (!leftTitle || leftTitle !== rightTitle) {
+    return undefined;
+  }
+
+  return `exact-title:${leftTitle}`;
 }
 
 function sharedTopicFamily(left: MatchableArticle, right: MatchableArticle): TopicFamily | undefined {
@@ -902,7 +942,11 @@ function titleMatchKindForPair<TArticle extends MatchableArticle>(
 
   const strongestTerm = usefulSharedTerms[0] ?? "";
 
-  if (strongestTerm.length >= 6 && pair.confidence >= 0.2 && isHighValueAnchorTerm(strongestTerm)) {
+  if (
+    (strongestTerm.length >= 6 || isStrongShortAnchorTerm(strongestTerm)) &&
+    (pair.confidence >= 0.2 || isStrongShortAnchorTerm(strongestTerm)) &&
+    isHighValueAnchorTerm(strongestTerm)
+  ) {
     return "strong_phrase";
   }
 
@@ -919,7 +963,12 @@ function isExactUsefulTitleMatch(left: MatchableArticle, right: MatchableArticle
 function isIgnorableArticleTitle(article: MatchableArticle) {
   const normalized = normalizeTitleForMatch(articleTitle(article));
 
-  return normalized === "图片" || normalized === "图片报道" || normalized === "导读";
+  return (
+    normalized === "图片" ||
+    normalized === "图片报道" ||
+    normalized === "导读" ||
+    normalized === "短讯"
+  );
 }
 
 function cleanSharedTitleTerm(value: string) {

@@ -68,7 +68,7 @@ export function toDisplayMatchGroup(
       method:
         matchType === "matched"
           ? isTopicComponent
-            ? "topic-cluster match"
+            ? "N-to-M match"
             : isExactTitleMatched
             ? "exact-title match"
             : isStrongTitlePhraseMatched
@@ -105,7 +105,7 @@ function buildDisplayReason(
     const count = group.peopleArticles.length + group.plaArticles.length;
     const sourceLabel = matchType === "people_only" ? "People's only" : "81cn only";
 
-    return `${sourceLabel} ${count}本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事群です。`;
+    return `${sourceLabel} ${count}本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。`;
   }
 
   const sharedTerms = group.sharedTerms.slice(0, 4);
@@ -129,10 +129,10 @@ function buildUncertaintyNotes(
   if (matchType === "matched") {
     notes.push("共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。");
     if (group.peopleArticles.length > 1 || group.plaArticles.length > 1) {
-      notes.push("N対Mのトピックグループです。各記事が全記事と1対1対応するとは限りません。");
+      notes.push("N対MのMATCHEDグループです。各記事が全記事と1対1対応するとは限りません。");
     }
   } else {
-    notes.push("MATCHED採用されなかった記事群です。面ごとに集約しています。");
+    notes.push("MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。");
   }
 
   return [...notes, ...reasonSummary.shortReasons.slice(0, 2)];

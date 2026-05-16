@@ -75,6 +75,7 @@ export async function buildDailyIssueSnapshot(
   const peopleArticles = flattenIssueArticles(peopleIssue);
   const plaArticles = flattenIssueArticles(plaIssue);
   const ruleGroups = await buildLlmJudgedMatchGroups(peopleArticles, plaArticles, {
+    aggregateUnmatched: false,
     candidateLimit: 96,
     minCandidateConfidence: 0.1,
     minLlmConfidence: 70,
@@ -129,23 +130,27 @@ function countSnapshotGroups(
   peopleArticles: number,
   plaArticles: number,
 ): SnapshotCounts {
+  const matchedGroups = groups.filter((group) => group.matchType === "matched");
+  const peopleOnlyGroups = groups.filter((group) => group.matchType === "people_only");
+  const plaOnlyGroups = groups.filter((group) => group.matchType === "pla_only");
+
   return {
     peopleArticles,
     plaArticles,
-    matchedGroups: groups.filter((group) => group.matchType === "matched").length,
-    matchedPeopleArticles: groups
-      .filter((group) => group.matchType === "matched")
-      .reduce((total, group) => total + group.peopleArticles.length, 0),
-    matchedPlaArticles: groups
-      .filter((group) => group.matchType === "matched")
-      .reduce((total, group) => total + group.plaArticles.length, 0),
-    peopleOnlyArticles: groups
-      .filter((group) => group.matchType === "people_only")
-      .reduce((total, group) => total + group.peopleArticles.length, 0),
-    plaOnlyArticles: groups
-      .filter((group) => group.matchType === "pla_only")
-      .reduce((total, group) => total + group.plaArticles.length, 0),
+    matchedGroups: matchedGroups.length,
+    matchedPeopleArticles: uniqueArticleCount(
+      matchedGroups.flatMap((group) => group.peopleArticles),
+    ),
+    matchedPlaArticles: uniqueArticleCount(matchedGroups.flatMap((group) => group.plaArticles)),
+    peopleOnlyArticles: uniqueArticleCount(
+      peopleOnlyGroups.flatMap((group) => group.peopleArticles),
+    ),
+    plaOnlyArticles: uniqueArticleCount(plaOnlyGroups.flatMap((group) => group.plaArticles)),
   };
+}
+
+function uniqueArticleCount(articles: ArticleMatchGroup["peopleArticles"]) {
+  return new Set(articles.map((article) => article.id)).size;
 }
 
 function snapshotStatus(snapshot: DailyIssueSnapshot): SnapshotIndexEntry["status"] {
