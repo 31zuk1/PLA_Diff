@@ -3,6 +3,7 @@ import type {
   NewspaperIssue,
 } from "@/components/IssueComparisonTypes";
 import { flattenIssueArticles, toDisplayIssue, toDisplayMatchGroup } from "@/lib/issueComparison";
+import { buildIssueGraphMetrics, type IssueGraphMetrics } from "@/lib/issueGraph";
 import { activeJudgeModelLabel, buildLlmJudgedMatchGroups, canUseLlmJudge } from "@/lib/llmMatching";
 import { fetchPeopleDailyIssue, fetchPlaDailyIssue } from "@/lib/scrapers";
 import {
@@ -53,6 +54,7 @@ export interface SnapshotIndexEntry extends SnapshotCounts {
   judgeEnabled: boolean;
   status: "success" | "partial" | "failed";
   path: string;
+  graphMetrics?: IssueGraphMetrics;
 }
 
 export async function buildDailyIssueSnapshot(
@@ -122,6 +124,7 @@ export function toSnapshotIndexEntry(snapshot: DailyIssueSnapshot): SnapshotInde
     judgeModel: snapshot.judge.model,
     path: snapshotPathForDate(snapshot.issueDate),
     status: snapshotStatus(snapshot),
+    graphMetrics: buildIssueGraphMetrics(snapshot),
     ...snapshot.counts,
   };
 }

@@ -67,6 +67,8 @@ export interface IssueGraphCounts {
   matchedGroups: number;
 }
 
+export type IssueGraphMetrics = IssueGraphCounts;
+
 export interface IssueGraph {
   issueDate: string;
   nodes: IssueGraphNode[];
@@ -85,6 +87,7 @@ export type IssueGraphDateEntry = Pick<
   | "judgeEnabled"
   | "judgeModel"
   | "status"
+  | "graphMetrics"
 >;
 
 interface LinkDraft extends Omit<
@@ -208,6 +211,29 @@ export function buildIssueGraph(input: DailyIssueSnapshot | IssueGraphInput): Is
       matchedGroups: matchGroups.filter(isGraphMatchedGroup).length,
     },
   };
+}
+
+export function buildIssueGraphMetrics(
+  input: DailyIssueSnapshot | IssueGraphInput,
+): IssueGraphMetrics {
+  return buildIssueGraph(input).counts;
+}
+
+export function isIssueGraphMetrics(value: unknown): value is IssueGraphMetrics {
+  if (!value || typeof value !== "object") {
+    return false;
+  }
+
+  const candidate = value as Partial<Record<keyof IssueGraphMetrics, unknown>>;
+  return [
+    candidate.nodes,
+    candidate.links,
+    candidate.peopleNodes,
+    candidate.plaNodes,
+    candidate.matchedNodes,
+    candidate.isolatedNodes,
+    candidate.matchedGroups,
+  ].every((metric) => typeof metric === "number" && Number.isFinite(metric));
 }
 
 export function issueGraphNodeId(

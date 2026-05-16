@@ -53,9 +53,11 @@ The live PoC uses:
 - `src/lib/issueGraph.ts` to derive display-safe graph nodes and MACHED group review links from saved snapshots
 - `src/lib/issueComparison.ts` to strip server-only analysis text before rendering
 - `src/lib/dailySnapshot.ts` to build one display-safe daily snapshot
-- `src/lib/snapshotStorage.ts` to read/write the rolling snapshot archive
+- `src/lib/snapshotStorage.ts` to read/write the durable snapshot archive
 - `src/app/api/cron/daily-issue/route.ts` as the protected Vercel Cron endpoint
 - `scripts/diagnose-match-groups.mjs` to inspect saved snapshots for oversized `MACHED` groups before deployment
+- `scripts/check-golden-archive.mjs` to catch regressions on known difficult `MACHED` dates
+- `scripts/backfill-archive.ts` to manually rebuild static archive snapshots and `index.json`
 
 Older topic-cluster mock data still lives in `src/data/mockData.ts`.
 
@@ -112,13 +114,20 @@ npm run build
 Inspect saved match groups:
 
 ```bash
-node scripts/diagnose-match-groups.mjs --date 2026-04-22
-node scripts/diagnose-match-groups.mjs --from 2026-04-16 --days 31
+npm run archive:diagnose -- --date 2026-04-22
+npm run archive:diagnose -- --from 2026-04-16 --days 31
+```
+
+Check golden archive regressions:
+
+```bash
+npm run archive:golden
 ```
 
 ## Snapshot Updates
 
 The public page reads saved snapshots from the archive. It does not scrape sources or call OpenAI during normal viewing.
+Snapshot index entries include persisted graph analytics metrics for the date-level chart, so the home page can render historical graph trends from `archive/index.json` without rebuilding every archived issue graph. Older indexes without these metrics fall back to aggregate article counts.
 
 Local development uses `.cache/peoplepla-diff` when `BLOB_READ_WRITE_TOKEN` is not set:
 
@@ -132,6 +141,16 @@ If `CRON_SECRET` is set locally, include it:
 curl -H "Authorization: Bearer $CRON_SECRET" \
   "http://localhost:3000/api/cron/daily-issue?date=2026-05-14"
 ```
+
+For manual static archive refreshes, use the local backfill script. It defaults to dry-run, so add `--write` only when the generated snapshots should replace files under `public/archive`:
+
+```bash
+npm run archive:backfill -- --date 2026-04-22
+npm run archive:backfill -- --from 2026-04-16 --days 7 --write
+npm run archive:backfill -- --index-only --write
+```
+
+Backfill runs source scraping and optional OpenAI adjudication through the existing snapshot libraries. It is intended for local/manual archive maintenance, not for Vercel request-time work.
 
 Production uses Vercel Cron. The included `vercel.json` runs `/api/cron/daily-issue` once per day at `02:00 UTC`, which is `11:00 JST` / `10:00 China time`. Hobby plans may invoke within the specified hour.
 

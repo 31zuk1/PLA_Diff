@@ -1,6 +1,6 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
-import type { DailyIssueSnapshot, SnapshotIndex } from "./dailySnapshot";
+import type { DailyIssueSnapshot, SnapshotIndex, SnapshotIndexEntry } from "./dailySnapshot";
 import { emptySnapshotIndex, toSnapshotIndexEntry } from "./dailySnapshot";
 import {
   snapshotIndexPath,
@@ -17,16 +17,7 @@ const staticSnapshotRoot = join(process.cwd(), "public");
 let blobReadsUnavailable = false;
 
 export async function readSnapshotIndex(): Promise<SnapshotIndex> {
-  const index = await readJson<SnapshotIndex>(snapshotIndexPath);
-
-  if (!index) {
-    return emptySnapshotIndex(snapshotRetentionDays());
-  }
-
-  return {
-    ...index,
-    entries: [...index.entries].sort(compareIndexEntries),
-  };
+  return readStoredSnapshotIndex(snapshotRetentionDays());
 }
 
 export async function readDailyIssueSnapshot(issueDate: string) {
@@ -40,23 +31,8 @@ export async function writeDailyIssueSnapshot(
   const entry = toSnapshotIndexEntry(snapshot);
   await writeJson(entry.path, snapshot);
 
-  if (shouldUseBlobStorage()) {
-    const nextIndex = await buildBlobSnapshotIndex(entry, retentionDays, snapshot.generatedAt);
-
-    await writeJson(snapshotIndexPath, nextIndex);
-
-    return nextIndex;
-  }
-
-  const previousIndex = await readSnapshotIndex();
-  const entries = [entry, ...previousIndex.entries.filter((candidate) => candidate.issueDate !== snapshot.issueDate)]
-    .sort(compareIndexEntries);
-  const nextIndex: SnapshotIndex = {
-    schemaVersion: snapshot.schemaVersion,
-    updatedAt: snapshot.generatedAt,
-    retentionDays,
-    entries: applyRetentionLimit(entries, retentionDays),
-  };
+  const previousIndex = await readStoredSnapshotIndex(retentionDays);
+  const nextIndex = upsertSnapshotIndexEntry(previousIndex, entry, retentionDays, snapshot.generatedAt);
 
   await writeJson(snapshotIndexPath, nextIndex);
 
@@ -140,39 +116,119 @@ async function readBlobJson<T>(pathname: string): Promise<T | undefined> {
   }
 }
 
-async function buildBlobSnapshotIndex(
-  currentEntry: ReturnType<typeof toSnapshotIndexEntry>,
+async function readStoredSnapshotIndex(
+  retentionDays: SnapshotRetentionDays,
+): Promise<SnapshotIndex> {
+  const index = mergeSnapshotIndexes(await readSnapshotIndexJsonSources(), retentionDays);
+
+  if (!index) {
+    return emptySnapshotIndex(retentionDays);
+  }
+
+  return index;
+}
+
+async function readSnapshotIndexJsonSources(): Promise<SnapshotIndex[]> {
+  const indexes: SnapshotIndex[] = [];
+
+  if (shouldUseBlobStorage()) {
+    const blobJson = await readBlobSnapshotIndexJson();
+
+    if (blobJson) {
+      indexes.push(blobJson);
+    }
+
+    const localJson = await readLocalJson<SnapshotIndex>(snapshotIndexPath);
+
+    if (localJson) {
+      indexes.push(localJson);
+    }
+
+    const staticJson = await readStaticJson<SnapshotIndex>(snapshotIndexPath);
+
+    if (staticJson) {
+      indexes.push(staticJson);
+    }
+
+    return indexes;
+  }
+
+  const localJson = await readLocalJson<SnapshotIndex>(snapshotIndexPath);
+
+  if (localJson) {
+    indexes.push(localJson);
+  }
+
+  const staticJson = await readStaticJson<SnapshotIndex>(snapshotIndexPath);
+
+  if (staticJson) {
+    indexes.push(staticJson);
+  }
+
+  return indexes;
+}
+
+async function readBlobSnapshotIndexJson(): Promise<SnapshotIndex | undefined> {
+  return readBlobJson<SnapshotIndex>(snapshotIndexPath);
+}
+
+function mergeSnapshotIndexes(
+  indexes: SnapshotIndex[],
+  retentionDays: SnapshotRetentionDays,
+): SnapshotIndex | undefined {
+  if (indexes.length === 0) {
+    return undefined;
+  }
+
+  const entriesByDate = new Map<string, SnapshotIndexEntry>();
+
+  for (const index of indexes) {
+    for (const entry of index.entries) {
+      const existing = entriesByDate.get(entry.issueDate);
+
+      if (!existing || shouldPreferIndexEntry(entry, existing)) {
+        entriesByDate.set(entry.issueDate, entry);
+      }
+    }
+  }
+
+  return {
+    schemaVersion: snapshotSchemaVersion,
+    updatedAt: latestTimestamp(indexes.map((index) => index.updatedAt)),
+    retentionDays,
+    entries: applyRetentionLimit([...entriesByDate.values()].sort(compareIndexEntries), retentionDays),
+  };
+}
+
+function shouldPreferIndexEntry(candidate: SnapshotIndexEntry, existing: SnapshotIndexEntry) {
+  if (!existing.graphMetrics && candidate.graphMetrics) {
+    return true;
+  }
+
+  return candidate.generatedAt.localeCompare(existing.generatedAt) > 0;
+}
+
+function latestTimestamp(values: string[]) {
+  return values.reduce(
+    (latest, value) => (value.localeCompare(latest) > 0 ? value : latest),
+    new Date(0).toISOString(),
+  );
+}
+
+function upsertSnapshotIndexEntry(
+  previousIndex: SnapshotIndex,
+  entry: SnapshotIndexEntry,
   retentionDays: SnapshotRetentionDays,
   updatedAt: string,
-): Promise<SnapshotIndex> {
-  const { list } = await loadBlobSdk();
-  const { blobs } = await list({ limit: 1000, prefix: "archive/" });
-  const snapshotBlobs = applyRetentionLimit(
-    blobs
-      .filter((blob) => /^\d{4}-\d{2}-\d{2}\.json$/.test(blob.pathname.replace("archive/", "")))
-      .sort((left, right) => right.pathname.localeCompare(left.pathname)),
-    retentionDays,
-  );
-  const entries = (
-    await Promise.all(
-      snapshotBlobs.map(async (blob) => {
-        if (blob.pathname === currentEntry.path) {
-          return currentEntry;
-        }
-
-        const snapshot = await readBlobJson<DailyIssueSnapshot>(blob.pathname);
-        return snapshot ? toSnapshotIndexEntry(snapshot) : undefined;
-      }),
-    )
-  )
-    .filter((entry): entry is ReturnType<typeof toSnapshotIndexEntry> => Boolean(entry))
+): SnapshotIndex {
+  const entries = [entry, ...previousIndex.entries.filter((candidate) => candidate.issueDate !== entry.issueDate)]
     .sort(compareIndexEntries);
 
   return {
     schemaVersion: snapshotSchemaVersion,
     updatedAt,
     retentionDays,
-    entries,
+    entries: applyRetentionLimit(entries, retentionDays),
   };
 }
 

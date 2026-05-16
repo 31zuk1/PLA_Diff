@@ -1,16 +1,21 @@
 import { IssueComparisonBoard } from "@/components/IssueComparisonBoard";
+import type { ArticleMatchGroup } from "@/components/IssueComparisonTypes";
 import { IssueGraphView, type IssueGraphDateMetric } from "@/components/IssueGraphView";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { canUseLlmJudge } from "@/lib/llmMatching";
 import type { DailyIssueSnapshot, SnapshotCounts, SnapshotIndexEntry } from "@/lib/dailySnapshot";
-import { buildIssueGraph } from "@/lib/issueGraph";
+import {
+  buildIssueGraph,
+  isIssueGraphMetrics,
+  type IssueGraphData,
+  type IssueGraphMetrics,
+} from "@/lib/issueGraph";
 import {
   issueDateInChinaTime,
   normalizeIssueDate,
   snapshotRetentionLabel,
 } from "@/lib/snapshotConfig";
 import { readDailyIssueSnapshot, readSnapshotIndex, storageDriverLabel } from "@/lib/snapshotStorage";
-import type { ArticleMatchGroup } from "@/components/IssueComparisonTypes";
 import type { ReactNode } from "react";
 
 export const dynamic = "force-dynamic";
@@ -39,10 +44,11 @@ export default async function Home({ searchParams }: HomeProps) {
   const counts = snapshot?.counts ?? emptyCounts();
   const issueGraph = snapshot ? buildIssueGraph(snapshot) : undefined;
   const availableGraphDates = snapshotIndex.entries.map((entry) => entry.issueDate);
-  const graphDateMetrics = await buildGraphDateMetrics(
+  const graphDateMetrics = buildGraphDateMetrics(
     snapshotIndex.entries,
     issueDate,
     snapshot,
+    issueGraph,
   );
 
   return (
@@ -256,43 +262,50 @@ function groupSourceRank(group: ArticleMatchGroup) {
   return group.matchType === "people_only" ? 1 : 2;
 }
 
-async function buildGraphDateMetrics(
+function buildGraphDateMetrics(
   entries: SnapshotIndexEntry[],
   selectedIssueDate: string,
   selectedSnapshot?: DailyIssueSnapshot | null,
-): Promise<IssueGraphDateMetric[]> {
-  return Promise.all(
-    entries.map(async (entry) => {
-      const archivedSnapshot =
-        entry.issueDate === selectedIssueDate
-          ? selectedSnapshot
-          : await readDailyIssueSnapshot(entry.issueDate);
+  selectedGraph?: IssueGraphData,
+): IssueGraphDateMetric[] {
+  return entries.map((entry) => {
+    if (entry.issueDate === selectedIssueDate && selectedSnapshot && selectedGraph) {
+      return graphDateMetricFromMetrics(entry.issueDate, selectedGraph.counts);
+    }
 
-      if (!archivedSnapshot) {
-        return {
-          issueDate: entry.issueDate,
-          nodes: entry.peopleArticles + entry.plaArticles,
-          links: entry.matchedGroups,
-          peopleNodes: entry.peopleArticles,
-          plaNodes: entry.plaArticles,
-          matchedNodes: entry.matchedPeopleArticles + entry.matchedPlaArticles,
-          isolatedNodes: entry.peopleOnlyArticles + entry.plaOnlyArticles,
-        };
-      }
+    if (isIssueGraphMetrics(entry.graphMetrics)) {
+      return graphDateMetricFromMetrics(entry.issueDate, entry.graphMetrics);
+    }
 
-      const graph = buildIssueGraph(archivedSnapshot);
+    return graphDateMetricFromIndexEntry(entry);
+  });
+}
 
-      return {
-        issueDate: entry.issueDate,
-        nodes: graph.counts.nodes,
-        links: graph.counts.links,
-        peopleNodes: graph.counts.peopleNodes,
-        plaNodes: graph.counts.plaNodes,
-        matchedNodes: graph.counts.matchedNodes,
-        isolatedNodes: graph.counts.isolatedNodes,
-      };
-    }),
-  );
+function graphDateMetricFromMetrics(
+  issueDate: string,
+  metrics: IssueGraphMetrics,
+): IssueGraphDateMetric {
+  return {
+    issueDate,
+    nodes: metrics.nodes,
+    links: metrics.links,
+    peopleNodes: metrics.peopleNodes,
+    plaNodes: metrics.plaNodes,
+    matchedNodes: metrics.matchedNodes,
+    isolatedNodes: metrics.isolatedNodes,
+  };
+}
+
+function graphDateMetricFromIndexEntry(entry: SnapshotIndexEntry): IssueGraphDateMetric {
+  return {
+    issueDate: entry.issueDate,
+    nodes: entry.peopleArticles + entry.plaArticles,
+    links: entry.matchedGroups,
+    peopleNodes: entry.peopleArticles,
+    plaNodes: entry.plaArticles,
+    matchedNodes: entry.matchedPeopleArticles + entry.matchedPlaArticles,
+    isolatedNodes: entry.peopleOnlyArticles + entry.plaOnlyArticles,
+  };
 }
 
 function emptyCounts(): SnapshotCounts {

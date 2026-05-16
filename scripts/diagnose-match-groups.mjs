@@ -432,7 +432,7 @@ function truncateText(value, maxLength) {
 
 function printHelp() {
   console.log(`Usage:
-  node scripts/diagnose-match-groups.js [paths...] [options]
+  node scripts/diagnose-match-groups.mjs [paths...] [options]
 
 Inputs:
   paths                 Snapshot JSON files or directories. Default: public/archive
@@ -447,9 +447,9 @@ Options:
   --help                Show this help.
 
 Examples:
-  node scripts/diagnose-match-groups.js --date 2026-04-22
-  node scripts/diagnose-match-groups.js --from 2026-04-22 --days 7
-  node scripts/diagnose-match-groups.js public/archive --from 2026-04-16 --days 31
+  node scripts/diagnose-match-groups.mjs --date 2026-04-22
+  node scripts/diagnose-match-groups.mjs --from 2026-04-22 --days 7
+  node scripts/diagnose-match-groups.mjs public/archive --from 2026-04-16 --days 31
 `);
 }
 
