@@ -1,0 +1,3010 @@
+{
+  "schemaVersion": 1,
+  "issueDate": "2026-05-19",
+  "generatedAt": "2026-05-19T06:41:48.742Z",
+  "retentionDays": null,
+  "frontPages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "judge": {
+    "enabled": true,
+    "model": "gpt-4.1-nano"
+  },
+  "peopleIssue": {
+    "id": "people_daily:2026-05-19",
+    "source": "people_daily",
+    "issueDate": "2026-05-19",
+    "pages": [
+      {
+        "id": "people_daily:2026-05-19:p01",
+        "source": "people_daily",
+        "issueDate": "2026-05-19",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30157663",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "中办印发《中国共产党发展党员工作细则》",
+            "excerpt": "新华社北京5月18日电 近日，中共中央办公厅印发了《中国共产党发展党员工作细则》（以下简称《细则》），并发出通知，要求各地区各部门认真遵照执行。 通知指出，发展党员工作是党的建设一项重要的基础性工程。各级党委及其组织部门要深入贯彻新时代党的建设总要求，贯彻全面从严治党战略方针，把抓好发展党员工作作为重大政治责任，认真贯彻执行《细则》各项规定并加强督促指导，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157663.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:07.416Z"
+            }
+          },
+          {
+            "id": "people_daily:30157666",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "更好地提高新发展党员质量",
+            "author": "本报评论员",
+            "excerpt": "马克思主义政党的力量和作用，既取决于数量又取决于质量，但质量更关键、更重要。中国共产党作为世界上最大的马克思主义执政党，新时代新征程所肩负的伟大使命，所面临的大党独有难题，都对党员提出更高标准、更高条件。近日，中共中央办公厅印发新修订的《中国共产党发展党员工作细则》。《细则》坚持马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观，全面…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157666.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:07.258Z"
+            }
+          },
+          {
+            "id": "people_daily:30157664",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "为中国式现代化建设贡献更多智慧和力量",
+            "subtitle": "——习近平总书记就推动哲学社会科学高质量发展作出的重要指示引领方向、催人奋进",
+            "author": "本报记者",
+            "excerpt": "习近平总书记近日就推动哲学社会科学高质量发展作出重要指示强调，加快构建中国哲学社会科学自主知识体系，更好回答中国之问、世界之问、人民之问、时代之问，努力开创哲学社会科学高质量发展新局面，为中国式现代化建设贡献更多智慧和力量。 习近平总书记重要指示引领方向、催人奋进，在哲学社会科学界引发热烈反响。大家纷纷表示，要深入学习贯彻习近平总书记重要指示精神，在新征程…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157664.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:07.280Z"
+            }
+          },
+          {
+            "id": "people_daily:30157665",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
+            "excerpt": "新华社北京5月18日电 （记者邹伟）中共中央政治局常委、国务院总理李强5月18日在北京调研。他强调，要深入贯彻落实习近平总书记关于发展新质生产力、建设现代化产业体系的重要论述和指示精神，推动人工智能与先进制造业深度融合，坚持创新发展，突出应用导向，积极促进智能机器人迭代升级，大力推进人工智能全方位、深层次赋能制造业，加快培育塑造经济发展新动能新优势。 李强…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157665.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:07.275Z"
+            }
+          },
+          {
+            "id": "people_daily:30157667",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "赵乐际同格鲁吉亚议长帕普阿什维利会谈",
+            "excerpt": "新华社北京5月18日电 全国人大常委会委员长赵乐际18日在北京人民大会堂同格鲁吉亚议长帕普阿什维利举行会谈。 赵乐际表示，近年来，在习近平主席和贵国领导人战略引领下，中格建立战略伙伴关系，双边关系驶入高质量、全方位发展的快车道。中方愿同格方一道，落实好两国领导人达成的重要共识，赓续传统友谊，加强合作交流，不断丰富中格战略伙伴关系内涵。 赵乐际指出，中格友好…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157667.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:07.278Z"
+            }
+          },
+          {
+            "id": "people_daily:30157668",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "王沪宁会见格鲁吉亚议长帕普阿什维利",
+            "excerpt": "新华社北京5月18日电 全国政协主席王沪宁18日在京会见格鲁吉亚议长帕普阿什维利。 王沪宁表示，中格是真诚互信的好朋友。中方愿同格方一道，以两国领导人重要共识为根本遵循，在涉及彼此核心利益问题上相互坚定支持，做互尊互信的伙伴；深化拓展传统领域和新兴领域合作，做互利互惠的伙伴；密切人文交流，做相知相亲的伙伴；加强多边沟通协调，做同心同行的伙伴。中国全国政协愿…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157668.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:07.266Z"
+            }
+          },
+          {
+            "id": "people_daily:30157669",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "加快构建全国一体化算力网 赋能经济社会高质量发展",
+            "excerpt": "新华社呼和浩特5月18日电 （记者齐中熙）近日，中共中央政治局常委、国务院副总理丁薛祥先后在北京、河北、内蒙古调研算力网建设。他强调，要深入贯彻落实习近平总书记重要指示精神，按照“十五五”规划纲要部署，加强顶层设计和科学谋划，推进全国一体化算力网建设和集约高效利用，赋能经济社会高质量发展。 在北京人工智能公共算力中心和内蒙古多云算力资源监测与调度平台，丁薛…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157669.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:07.274Z"
+            }
+          },
+          {
+            "id": "people_daily:30157670",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "韩正出席2026年全球贸易投资促进峰会开幕式并致辞",
+            "excerpt": "新华社北京5月18日电 5月18日，国家副主席韩正在北京出席2026年全球贸易投资促进峰会开幕式并致辞。 韩正表示，当前国际形势变乱交织，全球经贸秩序遭受严重冲击。习近平主席指出，面对风险和挑战，任何国家都不可能独善其身，坚持团结合作、开放包容才是人间正道。我们要坚定信念、携手前行，有效把握新机遇、应对新挑战，实现互利共赢基础上的共同发展。 韩正提出4点建…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157670.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:07.267Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/19/b7323ad0-2632-46fa-9f68-e763fa74fe31.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/19/88323224-adad-4840-b9ba-beaaaa078b2b.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-19T06:41:07.417Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-19:p02",
+        "source": "people_daily",
+        "issueDate": "2026-05-19",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30157671",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "“中国经济‘稳’的主基调没有变”（权威发布）",
+            "author": "本报记者 刘志强",
+            "excerpt": "“4月，生产供给持续增长，就业物价总体稳定，发展动能优化升级，韧性活力持续彰显，国民经济保持向新向优发展态势。”5月18日国务院新闻办举行的新闻发布会上，国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖介绍了4月我国经济运行情况。 工业优化升级势头持续，新动能快速成长 1—4月，规模以上工业增加值同比增长5.6%，继续保持平稳较快增长态势。“从…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157671.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.298Z"
+            }
+          },
+          {
+            "id": "people_daily:30157672",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "上海奋力为全国发展挑大梁作贡献（开局起步“十五五”·专题新闻发布）",
+            "author": "本报记者 吴 焰 田 泓",
+            "excerpt": "5月18日，开局起步“十五五”上海专场新闻发布会举行。上海市委副书记、市长龚正表示，把习近平总书记对上海工作的重要指示要求作为根本遵循，上海以科技创新为引领、以改革开放为动力、以国家重大战略为牵引、以城市治理现代化为保障，聚力加快“五个中心”建设、聚力培育发展新质生产力、聚力服务构建新发展格局、聚力实施高水平改革开放、聚力推进人民城市建设，努力在推进中国式…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157672.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:07.959Z"
+            }
+          },
+          {
+            "id": "people_daily:30157673",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "为中国式现代化建设贡献更多智慧和力量",
+            "subtitle": "——习近平总书记就推动哲学社会科学高质量发展作出的重要指示引领方向、催人奋进",
+            "author": "本报记者",
+            "excerpt": "习近平总书记近日就推动哲学社会科学高质量发展作出重要指示强调，加快构建中国哲学社会科学自主知识体系，更好回答中国之问、世界之问、人民之问、时代之问，努力开创哲学社会科学高质量发展新局面，为中国式现代化建设贡献更多智慧和力量。 习近平总书记重要指示引领方向、催人奋进，在哲学社会科学界引发热烈反响。大家纷纷表示，要深入学习贯彻习近平总书记重要指示精神，在新征程…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157673.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:07.943Z"
+            }
+          },
+          {
+            "id": "people_daily:30157674",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "离境退税措施加力优化",
+            "subtitle": "提升办理数字化水平，推动“即买即退”异地互认",
+            "author": "本报记者 欧阳洁",
+            "excerpt": "5月18日，商务部会同财政部、税务总局等部门发布《关于加力优化离境退税措施扩大入境消费的通知》。商务部副部长盛秋平在国务院新闻办当日举行的新闻发布会上介绍，加力发展离境退税，可以为入境旅客提供更多优质商品供给，扩大出口，也将带动国内零售业、旅游业等服务行业高质量发展，促进居民就业增收，为提振消费提供助力和支撑。 通过“一多一少两化”，便利离境退税办理 此次…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157674.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.113Z"
+            }
+          },
+          {
+            "id": "people_daily:30157675",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "让“购在中国”双向赋能（编辑手记）",
+            "author": "祁嘉润",
+            "excerpt": "扩商店、提效率、降门槛、优服务……升级版离境退税政策以诚意满满的举措，为火热的入境消费再增新动能，也为开放红利与民生福祉的双向奔赴再添一把力。 不断升级的务实举措，让入境游客享受中国开放红利。8条具体措施可操作、能落地，将为入境游客带来更优的体验感和更强的获得感。当游客们购买一条条精美的丝巾、一件件科技感十足的智能产品、一款款玲珑剔透的瓷器，相信他们感受到…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157675.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:07.941Z"
+            }
+          },
+          {
+            "id": "people_daily:30157676",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "加快构建全国一体化算力网 赋能经济社会高质量发展",
+            "excerpt": "新华社呼和浩特5月18日电 （记者齐中熙）近日，中共中央政治局常委、国务院副总理丁薛祥先后在北京、河北、内蒙古调研算力网建设。他强调，要深入贯彻落实习近平总书记重要指示精神，按照“十五五”规划纲要部署，加强顶层设计和科学谋划，推进全国一体化算力网建设和集约高效利用，赋能经济社会高质量发展。 在北京人工智能公共算力中心和内蒙古多云算力资源监测与调度平台，丁薛…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157676.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.114Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/19/f4e103d5-0951-4609-a97e-425f809005a5.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/19/756d0bae-5a66-4f1b-a6c5-4558fd284d26.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-19T06:41:08.299Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-19:p03",
+        "source": "people_daily",
+        "issueDate": "2026-05-19",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30157677",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "厚植人文情怀，筑牢世代友好根基",
+            "author": "本报记者 隋 鑫",
+            "excerpt": "近年来，在中俄元首的战略引领下，两国坚定秉持永久睦邻友好、全面战略协作、互利合作共赢精神，各领域务实合作全方位拓展，人文交流的热度、广度和深度规模空前，为两国人民相知相亲、传承世代友好注入不竭动力。2025年12月31日，习近平主席同普京总统互致新年贺电，宣布两国将于2026—2027年举办“中俄教育年”，为中俄人文交流合作开启了新征程。随着两国教育合作和…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157677.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.561Z"
+            }
+          },
+          {
+            "id": "people_daily:30157678",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "不断书写共建中拉命运共同体新篇章（和音）",
+            "excerpt": "2025年5月，中国—拉共体论坛第四届部长级会议在北京举行。习近平主席出席开幕式并发表重要讲话，宣布中拉启动团结、发展、文明、和平、民心五大工程，为双方携手迈向现代化擘画清晰蓝图。一年来，中拉双方秉持平等互利、合作共赢理念，密切协作联动，推动五大工程落地生根、惠及民生，不断书写共建中拉命运共同体新篇章。 携手并肩，中拉政治互信持续走深。近年来，在元首外交战…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157678.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.747Z"
+            }
+          },
+          {
+            "id": "people_daily:30157679",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "俄罗斯总统普京今起对我国进行国事访问",
+            "excerpt": "应国家主席习近平邀请，俄罗斯联邦总统弗拉基米尔·弗拉基米罗维奇·普京将于5月19日至20日对中国进行国事访问。 普京1952年10月7日生于列宁格勒市（今圣彼得堡市），1975年毕业于列宁格勒大学法律系，后获经济学副博士学位。他曾在苏联国家安全机构工作，其中1985年至1990年在民主德国工作。 1990年回国后，普京先后担任列宁格勒大学校长外事助理、圣彼…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157679.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.617Z"
+            }
+          },
+          {
+            "id": "people_daily:30157680",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "元首外交掌舵领航 中俄关系乘风破浪（大使随笔）",
+            "author": "张汉晖",
+            "excerpt": "应国家主席习近平邀请，俄罗斯总统普京将于5月19日至20日对中国进行国事访问。习近平主席同普京总统将举行重要会晤，为新时代中俄关系发展把舵定向、擘画蓝图。长期以来，中俄元首保持密切沟通，续写友谊佳话，以高瞻远瞩的政治引领和亲力亲为的战略谋划，推动中俄关系取得了一系列历史性、标志性成果，为两国关系行稳致远提供最根本、最可靠保障。 三十载战略协作，锚定新型大国…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157680.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.913Z"
+            }
+          },
+          {
+            "id": "people_daily:30157681",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "外交部发言人介绍俄罗斯总统普京访华安排",
+            "excerpt": "本报北京5月18日电 （记者李欣怡）应国家主席习近平邀请，俄罗斯总统普京将于5月19日至20日对中国进行国事访问。外交部发言人郭嘉昆18日在例行记者会上介绍了普京此访安排和中方期待。 郭嘉昆说，这将是普京总统第二十五次到访中国。访问期间，两国元首将就双边关系、各领域合作以及共同关心的国际地区问题交换意见。 郭嘉昆表示，近年来，在习近平主席和普京总统的战略引…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157681.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.623Z"
+            }
+          },
+          {
+            "id": "people_daily:30157682",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "俄中元首每次会晤都给双边关系注入新动力",
+            "excerpt": "新华社莫斯科5月18日电 （记者王作葵）俄罗斯总统新闻秘书佩斯科夫18日在新闻发布会上说，俄方对普京总统访问中国充满期待，“两国元首每次会晤都将给俄中关系进一步发展注入新动力”。 佩斯科夫在回答新华社记者提问时表示…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157682.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.830Z"
+            }
+          },
+          {
+            "id": "people_daily:30157683",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "外交部举行首届“杰出外交使者奖章”颁授仪式",
+            "excerpt": "本报北京5月18日电 （记者龚鸣）外交部18日举行首届“杰出外交使者奖章”颁授仪式，中共中央政治局委员、外交部长王毅出席并致辞。 王毅表示，使节是国与国友好交往的桥梁纽带。各位杰出使者是知华友华的好朋友，是双边关系的建设者、读懂中国的先行者、民心相通的引领者、互利共赢的实践者。中国外交部专门设立“杰出外交使者奖章”，表彰为促进中外友好作出重要贡献的驻华使节…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157683.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.660Z"
+            }
+          },
+          {
+            "id": "people_daily:30157684",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "王毅同塞舌尔外交部长富尔会谈",
+            "excerpt": "新华社北京5月18日电 中共中央政治局委员、外交部长王毅18日在北京同塞舌尔外交部长富尔举行会谈。 王毅表示，在两国元首引领下，中塞关系发展得很好。中方愿同塞方以建交50周年为契机，推动中塞关系不断迈向更高水平，以习近平主席宣布的对非零关税全面落地为契机，为包括塞舌尔在内的非洲国家提供更多发展机遇。 富尔表示，塞…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157684.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.707Z"
+            }
+          },
+          {
+            "id": "people_daily:30157685",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "何立峰会见美国超威半导体公司董事会主席兼首席执行官苏姿丰",
+            "excerpt": "新华社北京5月18日电 中共中央政治局委员、国务院副总理何立峰18日下午在人民大会堂会见美国超威半导体公司董事会主席兼首席执行官苏姿丰。 何立峰指出，上周中美两国元首在北京举行重要会晤，达成一系列重要共识。在两国元首战略引领下，两国经贸团队达成了总体平衡积极的成果，这将为下一步的中美经贸合作与世界经济注入更多确定性和稳定性。欢迎包括超威…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157685.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.510Z"
+            }
+          },
+          {
+            "id": "people_daily:30157686",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "谌贻琴会见西班牙第二副首相兼劳动与社会经济大臣迪亚斯",
+            "excerpt": "新华社北京5月18日电 国务委员谌贻琴18日在京会见西班牙第二副首相兼劳动与社会经济大臣迪亚斯。 谌贻琴表示，在习近平主席和西班牙领导人的战略引领下，中西全面战略伙伴关系始终稳步发展。中方愿同西班牙一道落实好两国领导人重要共识，深化文化、旅游、体育、劳动、社会保障等民生领域务实合作，为两国人民带来…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157686.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.652Z"
+            }
+          },
+          {
+            "id": "people_daily:30157687",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "外交部发言人就第七十九届世界卫生大会拒绝涉台提案发表谈话",
+            "excerpt": "新华社北京5月18日电 外交部发言人5月18日就第七十九届世界卫生大会拒绝涉台提案发表谈话。全文如下： 5月18日，第七十九届世界卫生大会总务委员会和全会分别做出决定，明确拒绝将个别国家提出的所谓“邀请台湾以观察员身份参加世卫大会”的提案列入大会议程，这是世卫大会连续第十年拒绝所谓涉台提案。 在中国台湾地区参与国际组织，包括世界卫生组织活动问题上，中方立场…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157687.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.631Z"
+            }
+          },
+          {
+            "id": "people_daily:30157688",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "世卫大会连续第十年拒绝所谓涉台提案 国台办：一中格局不容撼动",
+            "excerpt": "本报北京5月18日电 （记者张烁）第七十九届世界卫生大会再次作出不将涉台提案列入大会议程的决定。对此，国务院台办发言人陈斌华18日答问表示，这是世界卫生大会连续第十年拒绝个别国家提出的所谓涉台提案。有关决定再次表明，坚持一个中国原则是国际社会普遍共识，是人心所向、大势所趋、大义所在，国际社会坚持一个中国原则的基本格局不容挑战、不可撼动；也再次表明，民进党当…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157688.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.584Z"
+            }
+          },
+          {
+            "id": "people_daily:30157689",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "第十届中俄博览会亮点纷呈 激发对外开放新动能",
+            "excerpt": "据新华社哈尔滨5月18日电 （记者徐凯鑫、王祚）新夏初抵，和风拂面，第十届中国—俄罗斯博览会如约而至，于5月17日在哈尔滨正式启幕。漫步展馆，中俄等多国客商与市民摩肩接踵，在琳琅满目的展台间穿梭流连。 据了解，本次中俄博览会紧扣中俄战略协作伙伴关系建立30周年、《中俄睦邻友好合作条约》签署25周年的重要节点，以“信任、合作、共赢”为主题，共吸引46个国家和…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157689.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:08.475Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/19/f274b155-3d8a-44d1-ac5d-5493336d5cdf.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/19/373059e7-11e5-4b4b-b6c8-7b3a6a4effcf.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-19T06:41:08.914Z"
+        }
+      },
+      {
+        "id": "people_daily:2026-05-19:p04",
+        "source": "people_daily",
+        "issueDate": "2026-05-19",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "people_daily:30157690",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "高标准高质量做好发展党员工作",
+            "subtitle": "——中央组织部负责人就修订颁布《中国共产党发展党员工作细则》答记者问",
+            "author": "本报记者",
+            "excerpt": "近日，中共中央办公厅印发新修订的《中国共产党发展党员工作细则》（以下简称《细则》）。日前，中央组织部负责人就《细则》修订和贯彻实施等问题回答了记者提问。 问：请介绍一下修订《细则》的背景和意义。 答：党员是党的肌体的细胞和党的活动的主体。发展党员工作是党的建设一项重要的基础性工程，关乎党的事业薪火相传、后继有人，关乎党的肌体健康和生机活力。党的十八大以来，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157690.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:09.298Z"
+            }
+          },
+          {
+            "id": "people_daily:30157691",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "网聚文明力量 共筑清朗家园",
+            "subtitle": "——我国网络文明建设取得积极成效",
+            "excerpt": "网络文明是新形势下社会文明的重要内容，是建设网络强国的重要领域。 “十五五”规划纲要提出加强网络文明建设，明确提升信息化条件下文化领域治理能力，培育积极健康、向上向善的网络文化，共建网上美好精神家园。 在习近平新时代中国特色社会主义思想科学指引下，我国扎实推进网络文明建设，不断发展积极健康的网络文化，着力增强网络空间治理效能，健全网络文明建设工作机制，推动…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157691.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:09.133Z"
+            }
+          },
+          {
+            "id": "people_daily:30157692",
+            "source": "people_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "中办印发《中国共产党发展党员工作细则》",
+            "excerpt": "新华社北京5月18日电 近日，中共中央办公厅印发了《中国共产党发展党员工作细则》（以下简称《细则》），并发出通知，要求各地区各部门认真遵照执行。 通知指出，发展党员工作是党的建设一项重要的基础性工程。各级党委及其组织部门要深入贯彻新时代党的建设总要求，贯彻全面从严治党战略方针，把抓好发展党员工作作为重大政治责任，认真贯彻执行《细则》各项规定并加强督促指导，…",
+            "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157692.html",
+            "extraction": {
+              "status": "success",
+              "method": "people-daily-html-v1",
+              "extractedAt": "2026-05-19T06:41:09.299Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202605/19/ed493507-bc12-4471-9fea-eba8c2bd0cfa.pdf",
+        "pageImageUrl": "https://paper.people.com.cn/rmrb/pc/pic/202605/19/35b581a1-f027-4b13-8801-c4be53240487.jpg.2",
+        "extraction": {
+          "status": "success",
+          "method": "people-daily-html-v1",
+          "extractedAt": "2026-05-19T06:41:09.300Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "people-daily-html-v1",
+      "extractedAt": "2026-05-19T06:41:09.300Z"
+    }
+  },
+  "plaIssue": {
+    "id": "pla_daily:2026-05-19",
+    "source": "pla_daily",
+    "issueDate": "2026-05-19",
+    "pages": [
+      {
+        "id": "pla_daily:2026-05-19:p01",
+        "source": "pla_daily",
+        "issueDate": "2026-05-19",
+        "pageNumber": 1,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-19-1-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "中办印发《中国共产党发展党员工作细则》",
+            "excerpt": "新华社北京5月18日电 近日，中共中央办公厅印发了《中国共产党发展党员工作细则》（以下简称《细则》），并发出通知，要求各地区各部门认真遵照执行。 通知指出，发展党员工作是党的建设一项重要的基础性工程。各级党委及其组织部门要深入贯彻新时代党的建设总要求，贯彻全面从严治党战略方针，把抓好发展党员工作作为重大政治责任，认真贯彻执行《细则》各项规定并加强督促指导，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=01&articleid=2026-05-19-1-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.607Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-1-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "学用结合 为战砺剑",
+            "subtitle": "■张腾飞 吴沛杭",
+            "excerpt": "“遭‘敌’强电磁干扰，目标锁定困难”“指控系统突发故障”……近日，北部战区海军某部一场跨昼夜对海攻击训练紧张展开。 训练中，特情接连而至，官兵见招拆招，将理论学习成果与日常训练经验相结合，快速研判态势、沉着冷静处置，顺利完成任务。这是该部将理论学习融入战备训练，推动习近平强军思想向战位延伸的生动实践。 “只有做到学思用贯通、知信行统一，才能把学习成效转化为…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=01&articleid=2026-05-19-1-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.607Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-1-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "我军现代资产管理体系建设稳步推进",
+            "excerpt": "本报讯 吴丹、记者孙兴维报道：日前，记者从中央军委后勤保障部资产管理监督局组织的职业道德规范宣讲会上获悉，我军已初步构建资产全生命周期闭环管理链路。这是军队资产管理监督领域加快构建与作战力量体系相适应的现代资产管理体系的具体实践，标志着我军现代资产管理体系初具雏形。 军队资产是战略性资源，是国防和军队现代化建设的重要物质基础。近年来，全军各级资产管理监督部…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=01&articleid=2026-05-19-1-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.607Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-1-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "把心思用在解决问题推动工作上",
+            "excerpt": "近日，武警青海总队机动二支队几名机关干部，将加班加点梳理的一沓工作总结呈送支队领导审阅，因内容空泛、脱离实际受到批评。“材料再厚、台账再全，不能解决实际问题、推动工作落实，就是一纸空文！”该支队领导一针见血地说。 在接下来的调研中，该支队领导发现，此类重虚功、轻实效的现象在一些官兵身上不同程度存在：有的机关干部本无急难任务，却在办公室熬到深夜，看似加班加点…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=01&articleid=2026-05-19-1-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.607Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-1-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=01&articleid=2026-05-19-1-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.607Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-1-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 1,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=01&articleid=2026-05-19-1-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.607Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260519/0f164fe73a322e57e43fbe003004c7a1.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260519/644dee34f7bfc90915f57a0d2bb931bb.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-19T06:41:07.607Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-19:p02",
+        "source": "pla_daily",
+        "issueDate": "2026-05-19",
+        "pageNumber": 2,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-19-2-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "“时间团队”的竞速观",
+            "excerpt": "“一秒钟有多长？” 近日，记者来到信息支援部队某部采访，向该部“时间团队”提出这个问题时，他们的回答让记者大开眼界—— 一秒钟，这个日常生活中能感知到的最小时间单位，可以被细分为一千毫秒、十亿纳秒；一秒钟，“复兴号”飞驰近100米，一台超级计算机能完成千万亿次运算；一秒钟，地球绕太阳转动约30千米，光在宇宙中穿行近30万千米…… “假如把一秒钟分成很小的若…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=02&articleid=2026-05-19-2-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.607Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-2-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "创造性落实才是真落实",
+            "subtitle": "——树立和践行正确政绩观系列谈",
+            "excerpt": "一分部署，九分落实。把宏伟蓝图变成美好现实，关键在于各级领导干部发挥主观能动性，创造性地把上级的决策部署落到实处，在真抓实干中创造实实在在的业绩。 创造性落实，是我党我军一贯坚持的工作方法，也是对领导干部的一项重要要求。辩证唯物主义告诉我们，矛盾具有普遍性，也有特殊性。上级的决策部署，只能提出总的原则、总的要求和总的操作方法，解决的是矛盾的普遍性。然而，各…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=02&articleid=2026-05-19-2-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.607Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-2-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "“寻根小队”跨越千里悟初心",
+            "excerpt": "本报讯 刘小语、特约记者付君臣报道：近日，第80集团军某旅“寻根小队”跨越千里，来到海南省儋州市白马井镇超头村，祭奠76年前在解放海南岛战役中牺牲的傅士俊等革命先烈。活动现场，第一次参加寻根活动的“登陆先锋营”新排长杜英鑫缓步上前，将鲜花轻放在老排长傅士俊墓碑前，并向他汇报单位近年来取得的成绩。 “先辈事迹是宝贵的红色资源，也是开展思想政治教育的生动教材。…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=02&articleid=2026-05-19-2-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.608Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-2-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "高科技装备显威战场救援",
+            "subtitle": "——第77集团军某旅组织实战化卫勤保障训练见闻",
+            "excerpt": "“巡逻队遭‘敌’火力打击，立即前出救治！”初夏高原，第77集团军某旅一场实战化卫勤保障训练在野外演训场拉开序幕。 红外无人机升空搜寻“伤员”，搭载探测模块的机械狗侦察战场环境，身穿机械外骨骼的官兵快速负重行进……笔者在现场看到，科技元素融入了训练各环节。 “近年来，越来越多高科技装备列装部队，为卫勤保障插上了科技翅膀。”该旅领导介绍，他们聚焦未来战场需求，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=02&articleid=2026-05-19-2-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.608Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-2-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=02&articleid=2026-05-19-2-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.608Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-2-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 2,
+            "pageName": "要闻",
+            "title": "图片",
+            "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=02&articleid=2026-05-19-2-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.608Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260519/4c5a46dfd2073298be44b2d627324211.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260519/6b5b94e7322ea76ecd5457b01b64807c.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-19T06:41:07.608Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-19:p03",
+        "source": "pla_daily",
+        "issueDate": "2026-05-19",
+        "pageNumber": 3,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-19-3-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "高标准高质量做好发展党员工作",
+            "subtitle": "——中央组织部负责人就修订颁布《中国共产党发展党员工作细则》答记者问",
+            "excerpt": "新华社北京5月18日电 近日，中共中央办公厅印发新修订的《中国共产党发展党员工作细则》（以下简称《细则》）。日前，中央组织部负责人就《细则》修订和贯彻实施等问题回答了记者提问。 问：请介绍一下修订《细则》的背景和意义。 答：党员是党的肌体的细胞和党的活动的主体。发展党员工作是党的建设一项重要的基础性工程，关乎党的事业薪火相传、后继有人，关乎党的肌体健康和生…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=03&articleid=2026-05-19-3-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.608Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-3-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "前4个月国民经济保持稳中有进发展态势",
+            "excerpt": "新华社北京5月18日电 （记者王雨萧、邹雨沁）国家统计局18日发布数据显示，今年1至4月份，国民经济保持稳中有进发展态势。 工业生产较快增长，服务业平稳增长。1至4月份，全国规模以上工业增加值同比增长5.6%，装备制造业增加值同比增长8.7%，高技术制造业增加值增长12.6%，分别快于全部规模以上工业增加值3.1和7.0个百分点；全国服务业生产指数同比增长…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=03&articleid=2026-05-19-3-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.608Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-3-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "中办印发《中国共产党发展党员工作细则》",
+            "excerpt": "新华社北京5月18日电 近日，中共中央办公厅印发了《中国共产党发展党员工作细则》（以下简称《细则》），并发出通知，要求各地区各部门认真遵照执行。 通知指出，发展党员工作是党的建设一项重要的基础性工程。各级党委及其组织部门要深入贯彻新时代党的建设总要求，贯彻全面从严治党战略方针，把抓好发展党员工作作为重大政治责任，认真贯彻执行《细则》各项规定并加强督促指导，…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=03&articleid=2026-05-19-3-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.608Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-3-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 3,
+            "pageName": "要闻",
+            "title": "短讯",
+            "excerpt": "■李强18日在北京调研时强调，推动人工智能与先进制造业深度融合，加快培育塑造经济发展新动能新优势 ■赵乐际18日在京同格鲁吉亚议长帕普阿什维利会谈 ■王沪宁18日在京会见格鲁吉亚议长帕普阿什维利 ■丁薛祥先后在北京、河北、内蒙古调研算力网建设时强调，加快构建全国一体化算力…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=03&articleid=2026-05-19-3-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.608Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260519/9ee96d1e4694a8b4449e25241521240e.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260519/194153b63c27e3288898e14245d4c1d5.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-19T06:41:07.608Z"
+        }
+      },
+      {
+        "id": "pla_daily:2026-05-19:p04",
+        "source": "pla_daily",
+        "issueDate": "2026-05-19",
+        "pageNumber": 4,
+        "pageName": "要闻",
+        "articles": [
+          {
+            "id": "pla_daily:2026-05-19-4-0",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "继往开来的重要时刻",
+            "subtitle": "——俄罗斯各界期待两国元首外交引领中俄关系开启新篇章",
+            "excerpt": "应国家主席习近平邀请，俄罗斯总统普京将于5月19日至20日对中国进行国事访问，两国元首将举行今年以来首次面对面会晤。今年是中俄战略协作伙伴关系建立30周年和《中俄睦邻友好合作条约》签署25周年，中俄关系发展迎来新的历史契机。 俄罗斯各界人士表示，期待这次元首会晤对俄中各领域合作新目标、新任务作出顶层设计，开启俄中新时代全面战略协作伙伴关系的崭新篇章，继续为…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-0",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.608Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-4-1",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "外交部发言人介绍俄罗斯总统普京访华安排",
+            "excerpt": "新华社北京5月18日电 （记者温馨、吴梦桐）应国家主席习近平邀请，俄罗斯总统普京将于5月19日至20日对中国进行国事访问。外交部发言人郭嘉昆18日在例行记者会上介绍了普京此访安排和中方期待。 郭嘉昆说，这将是普京总统第25次到访中国。访问期间，两国元首将就双边关系、各领域合作以及共同关心的国际地区问题交换意见。 郭嘉昆表示，近年来，在习近平主席和普京总统的…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-1",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.609Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-4-2",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "国防部新闻发言人答记者问",
+            "excerpt": "本报北京5月18日电 窦天阳、记者许怡真报道：18日，国防部新闻发言人蒋斌就近期涉军问题发布消息并答记者问。 愿与美方共同推动两军关系沿着稳定正向轨道行稳致远 有记者问，据报道，国家主席习近平近日同来华访问的美国总统特朗普举行会谈时指出，双方要进一步用好政治外交、两军沟通渠道。请问对下阶段中美两军关系发展有何期待？ 蒋斌表示，习近平主席与特朗普总统成功会晤…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-2",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.609Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-4-3",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "聚焦未来产业 展示创新成果",
+            "excerpt": "在正在举办的第十届中国—俄罗斯博览会上，未来产业从“展台”走向“市场”，覆盖智能装备、数字安全、绿色建材、新型储能等重点领域，多方位呈现智能制造与科技创新硬实力，成为展会瞩目焦点。…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-3",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.609Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-4-4",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "外交部发言人就第79届世界卫生大会拒绝涉台提案发表谈话",
+            "excerpt": "新华社北京5月18日电 外交部发言人5月18日就第79届世界卫生大会拒绝涉台提案发表谈话。全文如下： 5月18日，第79届世界卫生大会总务委员会和全会分别做出决定，明确拒绝将个别国家提出的所谓“邀请台湾以观察员身份参加世卫大会”的提案列入大会议程，这是世卫大会连续第10年拒绝所谓涉台提案。 在中国台湾地区参与国际组织，包括世界卫生组织活动问题上，中方立场是…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-4",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.609Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-4-5",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "日本搅局南海居心叵测",
+            "excerpt": "近期，作为南海域外国家的日本，在南海方向动作频频，挑衅意味浓厚。 在美菲“肩并肩”联合军演中，日本首次大规模派遣作战人员，更在防卫大臣小泉进次郎现身观摩当天，公然发射88式岸基反舰导弹。尤为恶劣的是，参演的日本“雷”号驱逐舰不久前在台湾海峡鬼鬼祟祟滞留10多个小时。此外，小泉进次郎访菲期间，同菲防长发表联合声明，妄称对中国在日菲周边所谓“危险胁迫”表示“严…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-5",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.609Z"
+            }
+          },
+          {
+            "id": "pla_daily:2026-05-19-4-6",
+            "source": "pla_daily",
+            "issueDate": "2026-05-19",
+            "pageNumber": 4,
+            "pageName": "要闻",
+            "title": "第79届世界卫生大会开幕",
+            "excerpt": "据新华社日内瓦5月18日电 （记者王娅楠、王露）第79届世界卫生大会18日在瑞士日内瓦开幕，本届大会的主题是“重塑全球健康 携手共担责任”。 世界卫生组织总干事谭德塞在大会开幕致辞中说，近来出现汉坦病毒疫情和埃博拉病毒疫情，世界还面临经济和气候等方面挑战，需要构建一个适合未来的新的全球卫生架构。他说，本届大会将审议一项由成员国主导、世卫组织主持的进程，以推…",
+            "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-6",
+            "extraction": {
+              "status": "success",
+              "method": "pla-daily-index-json-v1",
+              "extractedAt": "2026-05-19T06:41:07.609Z"
+            }
+          }
+        ],
+        "pdfUrl": "https://rmt-static-publish.81.cn/file/20260519/4d4a251e9782393e314a9b447164239e.pdf",
+        "pageImageUrl": "https://rmt-static-publish.81.cn/image/uploadpic/20260519/1aae7323bf05e47227b2a65b472a91c5.jpg",
+        "extraction": {
+          "status": "success",
+          "method": "pla-daily-index-json-v1",
+          "extractedAt": "2026-05-19T06:41:07.609Z"
+        }
+      }
+    ],
+    "extraction": {
+      "status": "success",
+      "method": "pla-daily-index-json-v1",
+      "extractedAt": "2026-05-19T06:41:07.613Z"
+    }
+  },
+  "matchGroups": [
+    {
+      "id": "matched:people_daily:30157663+people_daily:30157692:pla_daily:2026-05-19-1-0+pla_daily:2026-05-19-3-2",
+      "issueDate": "2026-05-19",
+      "matchType": "matched",
+      "confidence": 0.95,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157663",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "中办印发《中国共产党发展党员工作细则》",
+          "excerpt": "新华社北京5月18日电 近日，中共中央办公厅印发了《中国共产党发展党员工作细则》（以下简称《细则》），并发出通知，要求各地区各部门认真遵照执行。 通知指出，发展党员工作是党的建设一项重要的基础性工程。各级党委及其组织部门要深入贯彻新时代党的建设总要求，贯彻全面从严治党战略方针，把抓好发展党员工作作为重大政治责任，认真贯彻执行《细则》各项规定并加强督促指导，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157663.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:07.416Z"
+          }
+        },
+        {
+          "id": "people_daily:30157692",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "中办印发《中国共产党发展党员工作细则》",
+          "excerpt": "新华社北京5月18日电 近日，中共中央办公厅印发了《中国共产党发展党员工作细则》（以下简称《细则》），并发出通知，要求各地区各部门认真遵照执行。 通知指出，发展党员工作是党的建设一项重要的基础性工程。各级党委及其组织部门要深入贯彻新时代党的建设总要求，贯彻全面从严治党战略方针，把抓好发展党员工作作为重大政治责任，认真贯彻执行《细则》各项规定并加强督促指导，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157692.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:09.299Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-1-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "中办印发《中国共产党发展党员工作细则》",
+          "excerpt": "新华社北京5月18日电 近日，中共中央办公厅印发了《中国共产党发展党员工作细则》（以下简称《细则》），并发出通知，要求各地区各部门认真遵照执行。 通知指出，发展党员工作是党的建设一项重要的基础性工程。各级党委及其组织部门要深入贯彻新时代党的建设总要求，贯彻全面从严治党战略方针，把抓好发展党员工作作为重大政治责任，认真贯彻执行《细则》各项规定并加强督促指导，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=01&articleid=2026-05-19-1-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.607Z"
+          }
+        },
+        {
+          "id": "pla_daily:2026-05-19-3-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "中办印发《中国共产党发展党员工作细则》",
+          "excerpt": "新华社北京5月18日电 近日，中共中央办公厅印发了《中国共产党发展党员工作细则》（以下简称《细则》），并发出通知，要求各地区各部门认真遵照执行。 通知指出，发展党员工作是党的建设一项重要的基础性工程。各级党委及其组织部门要深入贯彻新时代党的建设总要求，贯彻全面从严治党战略方针，把抓好发展党员工作作为重大政治责任，认真贯彻执行《细则》各项规定并加强督促指导，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=03&articleid=2026-05-19-3-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.608Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 95%）。共有語: 中办印发《中国共产党发展党员工作细则》、和有关党内法、遵纪守法、对因工作岗位发生变动无法。ナラティブ・LLMトピック束: 中办印发《中国共产党发展党员工作细则》、和有关党内法、遵纪守法、对因工作岗位发生变动无法 / ナラティブ・LLM判定: 中办印发《中国共产党发展党员工作细则》、和有关党内法、遵纪守法、对因工作岗位发生变动无法",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "中办印发《中国共产党发展党员工作细则》",
+          "和有关党内法",
+          "遵纪守法",
+          "对因工作岗位发生变动无法",
+          "给他们分配一定的社会工作以及集中培训等方法",
+          "政治审查的基本方法",
+          "学习党章和有关党内法",
+          "党员推荐群团组织推优等方式产生人选由党支部委员会会议"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "N-to-M match",
+        "message": "高信頼 95% / lexical 100% / narrative 89%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 100% / ナラティブ類似 89%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対MのMATCHEDグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・LLMトピック束: 中办印发《中国共产党发展党员工作细则》、和有关党内法、遵纪守法、对因工作岗位发生变动无法",
+        "ナラティブ・LLM判定: 中办印发《中国共产党发展党员工作细则》、和有关党内法、遵纪守法、对因工作岗位发生变动无法"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30157690+people_daily:30157666:pla_daily:2026-05-19-3-0",
+      "issueDate": "2026-05-19",
+      "matchType": "matched",
+      "confidence": 0.93,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157666",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "更好地提高新发展党员质量",
+          "author": "本报评论员",
+          "excerpt": "马克思主义政党的力量和作用，既取决于数量又取决于质量，但质量更关键、更重要。中国共产党作为世界上最大的马克思主义执政党，新时代新征程所肩负的伟大使命，所面临的大党独有难题，都对党员提出更高标准、更高条件。近日，中共中央办公厅印发新修订的《中国共产党发展党员工作细则》。《细则》坚持马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观，全面…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157666.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:07.258Z"
+          }
+        },
+        {
+          "id": "people_daily:30157690",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "高标准高质量做好发展党员工作",
+          "subtitle": "——中央组织部负责人就修订颁布《中国共产党发展党员工作细则》答记者问",
+          "author": "本报记者",
+          "excerpt": "近日，中共中央办公厅印发新修订的《中国共产党发展党员工作细则》（以下简称《细则》）。日前，中央组织部负责人就《细则》修订和贯彻实施等问题回答了记者提问。 问：请介绍一下修订《细则》的背景和意义。 答：党员是党的肌体的细胞和党的活动的主体。发展党员工作是党的建设一项重要的基础性工程，关乎党的事业薪火相传、后继有人，关乎党的肌体健康和生机活力。党的十八大以来，…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157690.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:09.298Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-3-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "高标准高质量做好发展党员工作",
+          "subtitle": "——中央组织部负责人就修订颁布《中国共产党发展党员工作细则》答记者问",
+          "excerpt": "新华社北京5月18日电 近日，中共中央办公厅印发新修订的《中国共产党发展党员工作细则》（以下简称《细则》）。日前，中央组织部负责人就《细则》修订和贯彻实施等问题回答了记者提问。 问：请介绍一下修订《细则》的背景和意义。 答：党员是党的肌体的细胞和党的活动的主体。发展党员工作是党的建设一项重要的基础性工程，关乎党的事业薪火相传、后继有人，关乎党的肌体健康和生…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=03&articleid=2026-05-19-3-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.608Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 93%）。共有語: 高标准高质量做好发展党员工作、注重与党章等有关党内法、坚持好做法、等党内法。ナラティブ・LLMトピック束: 高标准高质量做好发展党员工作、注重与党章等有关党内法、坚持好做法、等党内法 / ナラティブ・LLM判定: 高标准高质量做好发展党员工作、注重与党章等有关党内法、坚持好做法、等党内法",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "明确培养联系人和入党介绍人的标准条件",
+          "是保证新发展党员质量的重要制度机制",
+          "为以中国式现代化全面推进强国建设",
+          "始终坚持党章规定的党员标准",
+          "坚持把政治标准放在首位",
+          "能人标准代替政治标准",
+          "部门建立政审联审制度",
+          "都对党员提出更高标准"
+        ],
+        "plaDailyTerms": [
+          "紧盯严格把好政治标准这个首要关口",
+          "书记抓基层党建工作述职评议考核",
+          "作为吸收先进分子入党的重要标准",
+          "高标准高质量做好发展党员工作",
+          "一是聚焦把政治标准放在首位",
+          "中国共产党纪律处分条例",
+          "坚持党章规定的党员标准",
+          "介绍党员的标准和条件"
+        ],
+        "sharedTerms": [
+          "高标准高质量做好发展党员工作",
+          "注重与党章等有关党内法",
+          "坚持好做法",
+          "等党内法",
+          "县级党委组织部门和执纪执法等相关部门建立政审联审制度",
+          "活动的主体发展党员工作是党的建设一项重要的基础性工程",
+          "发展政治品质纯洁的党员",
+          "把政治标准放在首位",
+          "三个代表",
+          "两个确立",
+          "两个维护",
+          "等相关部门建立政审联审制度"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "N-to-M match",
+        "message": "高信頼 93% / lexical 99% / narrative 87%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 99% / ナラティブ類似 87%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対MのMATCHEDグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・LLMトピック束: 高标准高质量做好发展党员工作、注重与党章等有关党内法、坚持好做法、等党内法",
+        "ナラティブ・LLM判定: 高标准高质量做好发展党员工作、注重与党章等有关党内法、坚持好做法、等党内法"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30157681:pla_daily:2026-05-19-4-1",
+      "issueDate": "2026-05-19",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157681",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "外交部发言人介绍俄罗斯总统普京访华安排",
+          "excerpt": "本报北京5月18日电 （记者李欣怡）应国家主席习近平邀请，俄罗斯总统普京将于5月19日至20日对中国进行国事访问。外交部发言人郭嘉昆18日在例行记者会上介绍了普京此访安排和中方期待。 郭嘉昆说，这将是普京总统第二十五次到访中国。访问期间，两国元首将就双边关系、各领域合作以及共同关心的国际地区问题交换意见。 郭嘉昆表示，近年来，在习近平主席和普京总统的战略引…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157681.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.623Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-4-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "外交部发言人介绍俄罗斯总统普京访华安排",
+          "excerpt": "新华社北京5月18日电 （记者温馨、吴梦桐）应国家主席习近平邀请，俄罗斯总统普京将于5月19日至20日对中国进行国事访问。外交部发言人郭嘉昆18日在例行记者会上介绍了普京此访安排和中方期待。 郭嘉昆说，这将是普京总统第25次到访中国。访问期间，两国元首将就双边关系、各领域合作以及共同关心的国际地区问题交换意见。 郭嘉昆表示，近年来，在习近平主席和普京总统的…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.609Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 外交部发言人介绍俄罗斯总统普京访华安排、中俄教育年、中俄新时代全面战略协作伙伴关系健康稳、也为维护全球战略稳定和国际公平正义作。ナラティブ・完全タイトル一致: 外交部发言人介绍俄罗斯总统普京访华安排、中俄教育年、中俄新时代全面战略协作伙伴关系健康稳、也为维护全球战略稳定和国际公平正义作 / 語彙・タイトル一致",
+      "lexicalContrast": {
+        "peopleDailyTerms": [
+          "在习近平主席和普京总统的战略引"
+        ],
+        "plaDailyTerms": [],
+        "sharedTerms": [
+          "外交部发言人介绍俄罗斯总统普京访华安排",
+          "中俄教育年",
+          "中俄新时代全面战略协作伙伴关系健康稳",
+          "也为维护全球战略稳定和国际公平正义作",
+          "今年是中俄战略协作伙伴关系建立30周",
+          "在习近平主席和普京总统的战略引领下"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "exact-title match",
+        "message": "高信頼 92% / lexical 95% / narrative 73%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 95% / ナラティブ類似 73%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "ナラティブ・完全タイトル一致: 外交部发言人介绍俄罗斯总统普京访华安排、中俄教育年、中俄新时代全面战略协作伙伴关系健康稳、也为维护全球战略稳定和国际公平正义作",
+        "語彙・タイトル一致"
+      ]
+    },
+    {
+      "id": "matched:people_daily:30157687+people_daily:30157688:pla_daily:2026-05-19-4-4",
+      "issueDate": "2026-05-19",
+      "matchType": "matched",
+      "confidence": 0.92,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157687",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "外交部发言人就第七十九届世界卫生大会拒绝涉台提案发表谈话",
+          "excerpt": "新华社北京5月18日电 外交部发言人5月18日就第七十九届世界卫生大会拒绝涉台提案发表谈话。全文如下： 5月18日，第七十九届世界卫生大会总务委员会和全会分别做出决定，明确拒绝将个别国家提出的所谓“邀请台湾以观察员身份参加世卫大会”的提案列入大会议程，这是世卫大会连续第十年拒绝所谓涉台提案。 在中国台湾地区参与国际组织，包括世界卫生组织活动问题上，中方立场…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157687.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.631Z"
+          }
+        },
+        {
+          "id": "people_daily:30157688",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "世卫大会连续第十年拒绝所谓涉台提案 国台办：一中格局不容撼动",
+          "excerpt": "本报北京5月18日电 （记者张烁）第七十九届世界卫生大会再次作出不将涉台提案列入大会议程的决定。对此，国务院台办发言人陈斌华18日答问表示，这是世界卫生大会连续第十年拒绝个别国家提出的所谓涉台提案。有关决定再次表明，坚持一个中国原则是国际社会普遍共识，是人心所向、大势所趋、大义所在，国际社会坚持一个中国原则的基本格局不容挑战、不可撼动；也再次表明，民进党当…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157688.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.584Z"
+          }
+        }
+      ],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-4-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "外交部发言人就第79届世界卫生大会拒绝涉台提案发表谈话",
+          "excerpt": "新华社北京5月18日电 外交部发言人5月18日就第79届世界卫生大会拒绝涉台提案发表谈话。全文如下： 5月18日，第79届世界卫生大会总务委员会和全会分别做出决定，明确拒绝将个别国家提出的所谓“邀请台湾以观察员身份参加世卫大会”的提案列入大会议程，这是世卫大会连续第10年拒绝所谓涉台提案。 在中国台湾地区参与国际组织，包括世界卫生组织活动问题上，中方立场是…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.609Z"
+          }
+        }
+      ],
+      "reason": "MACHED（高信頼 92%）。共有語: 外交部发言人就第七十九届世界卫生大会拒绝涉台提案发表谈话、并举行了医院院长论坛、台湾地区的医疗卫生专家可以参与世卫组织的相关技术会议、所谓邀请台湾以观察员身份参加世卫大会的提案列入大会议。ナラティブ・アンカートピック束: 外交部发言人就第七十九届世界卫生大会拒绝涉台提案发表谈话、并举行了医院院长论坛、台湾地区的医疗卫生专家可以参与世卫组织的相关技术会议、所谓邀请台湾以观察员身份参加世卫大会的提案列入大会议 / ナラティブ・共有固有名/政策語: 涉及免疫战略、国际卫生条例、湾同胞民生福祉才真正有意义、国际防疫体系缺口",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [
+          "湾同胞民生福祉才真正有意义",
+          "国际防疫体系缺口",
+          "涉及免疫战略",
+          "邀请台湾以观察员身份参加世卫大会",
+          "精神卫生"
+        ],
+        "sharedTerms": [
+          "外交部发言人就第七十九届世界卫生大会拒绝涉台提案发表谈话",
+          "并举行了医院院长论坛",
+          "台湾地区的医疗卫生专家可以参与世卫组织的相关技术会议",
+          "所谓邀请台湾以观察员身份参加世卫大会的提案列入大会议",
+          "还有畅通的传染病疫情信息通报机制并举行了医院院长论坛",
+          "国际防疫体系缺口",
+          "邀请台湾以观察员身份参加世卫大会",
+          "18人",
+          "国际卫生条例"
+        ]
+      },
+      "extraction": {
+        "status": "success",
+        "method": "N-to-M match",
+        "message": "高信頼 92% / lexical 86% / narrative 77%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 86% / ナラティブ類似 77%",
+        "共通語候補をLLMまたは高精度ヒューリスティックで採否判定しています。",
+        "N対MのMATCHEDグループです。各記事が全記事と1対1対応するとは限りません。",
+        "ナラティブ・アンカートピック束: 外交部发言人就第七十九届世界卫生大会拒绝涉台提案发表谈话、并举行了医院院长论坛、台湾地区的医疗卫生专家可以参与世卫组织的相关技术会议、所谓邀请台湾以观察员身份参加世卫大会的提案列入大会议",
+        "ナラティブ・共有固有名/政策語: 涉及免疫战略、国际卫生条例、湾同胞民生福祉才真正有意义、国际防疫体系缺口"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157664",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157664",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "为中国式现代化建设贡献更多智慧和力量",
+          "subtitle": "——习近平总书记就推动哲学社会科学高质量发展作出的重要指示引领方向、催人奋进",
+          "author": "本报记者",
+          "excerpt": "习近平总书记近日就推动哲学社会科学高质量发展作出重要指示强调，加快构建中国哲学社会科学自主知识体系，更好回答中国之问、世界之问、人民之问、时代之问，努力开创哲学社会科学高质量发展新局面，为中国式现代化建设贡献更多智慧和力量。 习近平总书记重要指示引领方向、催人奋进，在哲学社会科学界引发热烈反响。大家纷纷表示，要深入学习贯彻习近平总书记重要指示精神，在新征程…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157664.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:07.280Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157665",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157665",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
+          "excerpt": "新华社北京5月18日电 （记者邹伟）中共中央政治局常委、国务院总理李强5月18日在北京调研。他强调，要深入贯彻落实习近平总书记关于发展新质生产力、建设现代化产业体系的重要论述和指示精神，推动人工智能与先进制造业深度融合，坚持创新发展，突出应用导向，积极促进智能机器人迭代升级，大力推进人工智能全方位、深层次赋能制造业，加快培育塑造经济发展新动能新优势。 李强…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157665.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:07.275Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157667",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157667",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "赵乐际同格鲁吉亚议长帕普阿什维利会谈",
+          "excerpt": "新华社北京5月18日电 全国人大常委会委员长赵乐际18日在北京人民大会堂同格鲁吉亚议长帕普阿什维利举行会谈。 赵乐际表示，近年来，在习近平主席和贵国领导人战略引领下，中格建立战略伙伴关系，双边关系驶入高质量、全方位发展的快车道。中方愿同格方一道，落实好两国领导人达成的重要共识，赓续传统友谊，加强合作交流，不断丰富中格战略伙伴关系内涵。 赵乐际指出，中格友好…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157667.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:07.278Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157668",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157668",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "王沪宁会见格鲁吉亚议长帕普阿什维利",
+          "excerpt": "新华社北京5月18日电 全国政协主席王沪宁18日在京会见格鲁吉亚议长帕普阿什维利。 王沪宁表示，中格是真诚互信的好朋友。中方愿同格方一道，以两国领导人重要共识为根本遵循，在涉及彼此核心利益问题上相互坚定支持，做互尊互信的伙伴；深化拓展传统领域和新兴领域合作，做互利互惠的伙伴；密切人文交流，做相知相亲的伙伴；加强多边沟通协调，做同心同行的伙伴。中国全国政协愿…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157668.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:07.266Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157669",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157669",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "加快构建全国一体化算力网 赋能经济社会高质量发展",
+          "excerpt": "新华社呼和浩特5月18日电 （记者齐中熙）近日，中共中央政治局常委、国务院副总理丁薛祥先后在北京、河北、内蒙古调研算力网建设。他强调，要深入贯彻落实习近平总书记重要指示精神，按照“十五五”规划纲要部署，加强顶层设计和科学谋划，推进全国一体化算力网建设和集约高效利用，赋能经济社会高质量发展。 在北京人工智能公共算力中心和内蒙古多云算力资源监测与调度平台，丁薛…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157669.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:07.274Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157670",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157670",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "韩正出席2026年全球贸易投资促进峰会开幕式并致辞",
+          "excerpt": "新华社北京5月18日电 5月18日，国家副主席韩正在北京出席2026年全球贸易投资促进峰会开幕式并致辞。 韩正表示，当前国际形势变乱交织，全球经贸秩序遭受严重冲击。习近平主席指出，面对风险和挑战，任何国家都不可能独善其身，坚持团结合作、开放包容才是人间正道。我们要坚定信念、携手前行，有效把握新机遇、应对新挑战，实现互利共赢基础上的共同发展。 韩正提出4点建…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157670.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:07.267Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157671",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157671",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“中国经济‘稳’的主基调没有变”（权威发布）",
+          "author": "本报记者 刘志强",
+          "excerpt": "“4月，生产供给持续增长，就业物价总体稳定，发展动能优化升级，韧性活力持续彰显，国民经济保持向新向优发展态势。”5月18日国务院新闻办举行的新闻发布会上，国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖介绍了4月我国经济运行情况。 工业优化升级势头持续，新动能快速成长 1—4月，规模以上工业增加值同比增长5.6%，继续保持平稳较快增长态势。“从…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157671.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.298Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157672",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157672",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "上海奋力为全国发展挑大梁作贡献（开局起步“十五五”·专题新闻发布）",
+          "author": "本报记者 吴 焰 田 泓",
+          "excerpt": "5月18日，开局起步“十五五”上海专场新闻发布会举行。上海市委副书记、市长龚正表示，把习近平总书记对上海工作的重要指示要求作为根本遵循，上海以科技创新为引领、以改革开放为动力、以国家重大战略为牵引、以城市治理现代化为保障，聚力加快“五个中心”建设、聚力培育发展新质生产力、聚力服务构建新发展格局、聚力实施高水平改革开放、聚力推进人民城市建设，努力在推进中国式…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157672.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:07.959Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157673",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157673",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "为中国式现代化建设贡献更多智慧和力量",
+          "subtitle": "——习近平总书记就推动哲学社会科学高质量发展作出的重要指示引领方向、催人奋进",
+          "author": "本报记者",
+          "excerpt": "习近平总书记近日就推动哲学社会科学高质量发展作出重要指示强调，加快构建中国哲学社会科学自主知识体系，更好回答中国之问、世界之问、人民之问、时代之问，努力开创哲学社会科学高质量发展新局面，为中国式现代化建设贡献更多智慧和力量。 习近平总书记重要指示引领方向、催人奋进，在哲学社会科学界引发热烈反响。大家纷纷表示，要深入学习贯彻习近平总书记重要指示精神，在新征程…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157673.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:07.943Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157674",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157674",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "离境退税措施加力优化",
+          "subtitle": "提升办理数字化水平，推动“即买即退”异地互认",
+          "author": "本报记者 欧阳洁",
+          "excerpt": "5月18日，商务部会同财政部、税务总局等部门发布《关于加力优化离境退税措施扩大入境消费的通知》。商务部副部长盛秋平在国务院新闻办当日举行的新闻发布会上介绍，加力发展离境退税，可以为入境旅客提供更多优质商品供给，扩大出口，也将带动国内零售业、旅游业等服务行业高质量发展，促进居民就业增收，为提振消费提供助力和支撑。 通过“一多一少两化”，便利离境退税办理 此次…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157674.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.113Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157675",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157675",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "让“购在中国”双向赋能（编辑手记）",
+          "author": "祁嘉润",
+          "excerpt": "扩商店、提效率、降门槛、优服务……升级版离境退税政策以诚意满满的举措，为火热的入境消费再增新动能，也为开放红利与民生福祉的双向奔赴再添一把力。 不断升级的务实举措，让入境游客享受中国开放红利。8条具体措施可操作、能落地，将为入境游客带来更优的体验感和更强的获得感。当游客们购买一条条精美的丝巾、一件件科技感十足的智能产品、一款款玲珑剔透的瓷器，相信他们感受到…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157675.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:07.941Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157676",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157676",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "加快构建全国一体化算力网 赋能经济社会高质量发展",
+          "excerpt": "新华社呼和浩特5月18日电 （记者齐中熙）近日，中共中央政治局常委、国务院副总理丁薛祥先后在北京、河北、内蒙古调研算力网建设。他强调，要深入贯彻落实习近平总书记重要指示精神，按照“十五五”规划纲要部署，加强顶层设计和科学谋划，推进全国一体化算力网建设和集约高效利用，赋能经济社会高质量发展。 在北京人工智能公共算力中心和内蒙古多云算力资源监测与调度平台，丁薛…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157676.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.114Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157677",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157677",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "厚植人文情怀，筑牢世代友好根基",
+          "author": "本报记者 隋 鑫",
+          "excerpt": "近年来，在中俄元首的战略引领下，两国坚定秉持永久睦邻友好、全面战略协作、互利合作共赢精神，各领域务实合作全方位拓展，人文交流的热度、广度和深度规模空前，为两国人民相知相亲、传承世代友好注入不竭动力。2025年12月31日，习近平主席同普京总统互致新年贺电，宣布两国将于2026—2027年举办“中俄教育年”，为中俄人文交流合作开启了新征程。随着两国教育合作和…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157677.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.561Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157678",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157678",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "不断书写共建中拉命运共同体新篇章（和音）",
+          "excerpt": "2025年5月，中国—拉共体论坛第四届部长级会议在北京举行。习近平主席出席开幕式并发表重要讲话，宣布中拉启动团结、发展、文明、和平、民心五大工程，为双方携手迈向现代化擘画清晰蓝图。一年来，中拉双方秉持平等互利、合作共赢理念，密切协作联动，推动五大工程落地生根、惠及民生，不断书写共建中拉命运共同体新篇章。 携手并肩，中拉政治互信持续走深。近年来，在元首外交战…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157678.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.747Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157679",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157679",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "俄罗斯总统普京今起对我国进行国事访问",
+          "excerpt": "应国家主席习近平邀请，俄罗斯联邦总统弗拉基米尔·弗拉基米罗维奇·普京将于5月19日至20日对中国进行国事访问。 普京1952年10月7日生于列宁格勒市（今圣彼得堡市），1975年毕业于列宁格勒大学法律系，后获经济学副博士学位。他曾在苏联国家安全机构工作，其中1985年至1990年在民主德国工作。 1990年回国后，普京先后担任列宁格勒大学校长外事助理、圣彼…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157679.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.617Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157680",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157680",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "元首外交掌舵领航 中俄关系乘风破浪（大使随笔）",
+          "author": "张汉晖",
+          "excerpt": "应国家主席习近平邀请，俄罗斯总统普京将于5月19日至20日对中国进行国事访问。习近平主席同普京总统将举行重要会晤，为新时代中俄关系发展把舵定向、擘画蓝图。长期以来，中俄元首保持密切沟通，续写友谊佳话，以高瞻远瞩的政治引领和亲力亲为的战略谋划，推动中俄关系取得了一系列历史性、标志性成果，为两国关系行稳致远提供最根本、最可靠保障。 三十载战略协作，锚定新型大国…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157680.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.913Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157682",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157682",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "俄中元首每次会晤都给双边关系注入新动力",
+          "excerpt": "新华社莫斯科5月18日电 （记者王作葵）俄罗斯总统新闻秘书佩斯科夫18日在新闻发布会上说，俄方对普京总统访问中国充满期待，“两国元首每次会晤都将给俄中关系进一步发展注入新动力”。 佩斯科夫在回答新华社记者提问时表示…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157682.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.830Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157683",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157683",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "外交部举行首届“杰出外交使者奖章”颁授仪式",
+          "excerpt": "本报北京5月18日电 （记者龚鸣）外交部18日举行首届“杰出外交使者奖章”颁授仪式，中共中央政治局委员、外交部长王毅出席并致辞。 王毅表示，使节是国与国友好交往的桥梁纽带。各位杰出使者是知华友华的好朋友，是双边关系的建设者、读懂中国的先行者、民心相通的引领者、互利共赢的实践者。中国外交部专门设立“杰出外交使者奖章”，表彰为促进中外友好作出重要贡献的驻华使节…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157683.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.660Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157684",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157684",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "王毅同塞舌尔外交部长富尔会谈",
+          "excerpt": "新华社北京5月18日电 中共中央政治局委员、外交部长王毅18日在北京同塞舌尔外交部长富尔举行会谈。 王毅表示，在两国元首引领下，中塞关系发展得很好。中方愿同塞方以建交50周年为契机，推动中塞关系不断迈向更高水平，以习近平主席宣布的对非零关税全面落地为契机，为包括塞舌尔在内的非洲国家提供更多发展机遇。 富尔表示，塞…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157684.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.707Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157685",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157685",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "何立峰会见美国超威半导体公司董事会主席兼首席执行官苏姿丰",
+          "excerpt": "新华社北京5月18日电 中共中央政治局委员、国务院副总理何立峰18日下午在人民大会堂会见美国超威半导体公司董事会主席兼首席执行官苏姿丰。 何立峰指出，上周中美两国元首在北京举行重要会晤，达成一系列重要共识。在两国元首战略引领下，两国经贸团队达成了总体平衡积极的成果，这将为下一步的中美经贸合作与世界经济注入更多确定性和稳定性。欢迎包括超威…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157685.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.510Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157686",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157686",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "谌贻琴会见西班牙第二副首相兼劳动与社会经济大臣迪亚斯",
+          "excerpt": "新华社北京5月18日电 国务委员谌贻琴18日在京会见西班牙第二副首相兼劳动与社会经济大臣迪亚斯。 谌贻琴表示，在习近平主席和西班牙领导人的战略引领下，中西全面战略伙伴关系始终稳步发展。中方愿同西班牙一道落实好两国领导人重要共识，深化文化、旅游、体育、劳动、社会保障等民生领域务实合作，为两国人民带来…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157686.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.652Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157689",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157689",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "第十届中俄博览会亮点纷呈 激发对外开放新动能",
+          "excerpt": "据新华社哈尔滨5月18日电 （记者徐凯鑫、王祚）新夏初抵，和风拂面，第十届中国—俄罗斯博览会如约而至，于5月17日在哈尔滨正式启幕。漫步展馆，中俄等多国客商与市民摩肩接踵，在琳琅满目的展台间穿梭流连。 据了解，本次中俄博览会紧扣中俄战略协作伙伴关系建立30周年、《中俄睦邻友好合作条约》签署25周年的重要节点，以“信任、合作、共赢”为主题，共吸引46个国家和…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157689.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:08.475Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "people_only:people_daily:30157691",
+      "issueDate": "2026-05-19",
+      "matchType": "people_only",
+      "confidence": 0,
+      "peopleArticles": [
+        {
+          "id": "people_daily:30157691",
+          "source": "people_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "网聚文明力量 共筑清朗家园",
+          "subtitle": "——我国网络文明建设取得积极成效",
+          "excerpt": "网络文明是新形势下社会文明的重要内容，是建设网络强国的重要领域。 “十五五”规划纲要提出加强网络文明建设，明确提升信息化条件下文化领域治理能力，培育积极健康、向上向善的网络文化，共建网上美好精神家园。 在习近平新时代中国特色社会主义思想科学指引下，我国扎实推进网络文明建设，不断发展积极健康的网络文化，着力增强网络空间治理效能，健全网络文明建设工作机制，推动…",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202605/19/content_30157691.html",
+          "extraction": {
+            "status": "success",
+            "method": "people-daily-html-v1",
+            "extractedAt": "2026-05-19T06:41:09.133Z"
+          }
+        }
+      ],
+      "plaArticles": [],
+      "reason": "People's only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-1-1",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-1-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "学用结合 为战砺剑",
+          "subtitle": "■张腾飞 吴沛杭",
+          "excerpt": "“遭‘敌’强电磁干扰，目标锁定困难”“指控系统突发故障”……近日，北部战区海军某部一场跨昼夜对海攻击训练紧张展开。 训练中，特情接连而至，官兵见招拆招，将理论学习成果与日常训练经验相结合，快速研判态势、沉着冷静处置，顺利完成任务。这是该部将理论学习融入战备训练，推动习近平强军思想向战位延伸的生动实践。 “只有做到学思用贯通、知信行统一，才能把学习成效转化为…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=01&articleid=2026-05-19-1-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.607Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-1-2",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-1-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "我军现代资产管理体系建设稳步推进",
+          "excerpt": "本报讯 吴丹、记者孙兴维报道：日前，记者从中央军委后勤保障部资产管理监督局组织的职业道德规范宣讲会上获悉，我军已初步构建资产全生命周期闭环管理链路。这是军队资产管理监督领域加快构建与作战力量体系相适应的现代资产管理体系的具体实践，标志着我军现代资产管理体系初具雏形。 军队资产是战略性资源，是国防和军队现代化建设的重要物质基础。近年来，全军各级资产管理监督部…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=01&articleid=2026-05-19-1-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.607Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-1-3",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-1-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "把心思用在解决问题推动工作上",
+          "excerpt": "近日，武警青海总队机动二支队几名机关干部，将加班加点梳理的一沓工作总结呈送支队领导审阅，因内容空泛、脱离实际受到批评。“材料再厚、台账再全，不能解决实际问题、推动工作落实，就是一纸空文！”该支队领导一针见血地说。 在接下来的调研中，该支队领导发现，此类重虚功、轻实效的现象在一些官兵身上不同程度存在：有的机关干部本无急难任务，却在办公室熬到深夜，看似加班加点…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=01&articleid=2026-05-19-1-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.607Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-1-4",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-1-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=01&articleid=2026-05-19-1-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.607Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-1-5",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-1-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 1,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=01&articleid=2026-05-19-1-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.607Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-2-0",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-2-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“时间团队”的竞速观",
+          "excerpt": "“一秒钟有多长？” 近日，记者来到信息支援部队某部采访，向该部“时间团队”提出这个问题时，他们的回答让记者大开眼界—— 一秒钟，这个日常生活中能感知到的最小时间单位，可以被细分为一千毫秒、十亿纳秒；一秒钟，“复兴号”飞驰近100米，一台超级计算机能完成千万亿次运算；一秒钟，地球绕太阳转动约30千米，光在宇宙中穿行近30万千米…… “假如把一秒钟分成很小的若…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=02&articleid=2026-05-19-2-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.607Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-2-1",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-2-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "创造性落实才是真落实",
+          "subtitle": "——树立和践行正确政绩观系列谈",
+          "excerpt": "一分部署，九分落实。把宏伟蓝图变成美好现实，关键在于各级领导干部发挥主观能动性，创造性地把上级的决策部署落到实处，在真抓实干中创造实实在在的业绩。 创造性落实，是我党我军一贯坚持的工作方法，也是对领导干部的一项重要要求。辩证唯物主义告诉我们，矛盾具有普遍性，也有特殊性。上级的决策部署，只能提出总的原则、总的要求和总的操作方法，解决的是矛盾的普遍性。然而，各…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=02&articleid=2026-05-19-2-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.607Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-2-2",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-2-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "“寻根小队”跨越千里悟初心",
+          "excerpt": "本报讯 刘小语、特约记者付君臣报道：近日，第80集团军某旅“寻根小队”跨越千里，来到海南省儋州市白马井镇超头村，祭奠76年前在解放海南岛战役中牺牲的傅士俊等革命先烈。活动现场，第一次参加寻根活动的“登陆先锋营”新排长杜英鑫缓步上前，将鲜花轻放在老排长傅士俊墓碑前，并向他汇报单位近年来取得的成绩。 “先辈事迹是宝贵的红色资源，也是开展思想政治教育的生动教材。…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=02&articleid=2026-05-19-2-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.608Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-2-3",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-2-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "高科技装备显威战场救援",
+          "subtitle": "——第77集团军某旅组织实战化卫勤保障训练见闻",
+          "excerpt": "“巡逻队遭‘敌’火力打击，立即前出救治！”初夏高原，第77集团军某旅一场实战化卫勤保障训练在野外演训场拉开序幕。 红外无人机升空搜寻“伤员”，搭载探测模块的机械狗侦察战场环境，身穿机械外骨骼的官兵快速负重行进……笔者在现场看到，科技元素融入了训练各环节。 “近年来，越来越多高科技装备列装部队，为卫勤保障插上了科技翅膀。”该旅领导介绍，他们聚焦未来战场需求，…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=02&articleid=2026-05-19-2-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.608Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-2-4",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-2-4",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=02&articleid=2026-05-19-2-4",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.608Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-2-5",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-2-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 2,
+          "pageName": "要闻",
+          "title": "图片",
+          "excerpt": "短文記事のため、全文相当の引用は表示しません。",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=02&articleid=2026-05-19-2-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.608Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-3-1",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-3-1",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "前4个月国民经济保持稳中有进发展态势",
+          "excerpt": "新华社北京5月18日电 （记者王雨萧、邹雨沁）国家统计局18日发布数据显示，今年1至4月份，国民经济保持稳中有进发展态势。 工业生产较快增长，服务业平稳增长。1至4月份，全国规模以上工业增加值同比增长5.6%，装备制造业增加值同比增长8.7%，高技术制造业增加值增长12.6%，分别快于全部规模以上工业增加值3.1和7.0个百分点；全国服务业生产指数同比增长…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=03&articleid=2026-05-19-3-1",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.608Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-3-3",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-3-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 3,
+          "pageName": "要闻",
+          "title": "短讯",
+          "excerpt": "■李强18日在北京调研时强调，推动人工智能与先进制造业深度融合，加快培育塑造经济发展新动能新优势 ■赵乐际18日在京同格鲁吉亚议长帕普阿什维利会谈 ■王沪宁18日在京会见格鲁吉亚议长帕普阿什维利 ■丁薛祥先后在北京、河北、内蒙古调研算力网建设时强调，加快构建全国一体化算力…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=03&articleid=2026-05-19-3-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.608Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-4-0",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-4-0",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "继往开来的重要时刻",
+          "subtitle": "——俄罗斯各界期待两国元首外交引领中俄关系开启新篇章",
+          "excerpt": "应国家主席习近平邀请，俄罗斯总统普京将于5月19日至20日对中国进行国事访问，两国元首将举行今年以来首次面对面会晤。今年是中俄战略协作伙伴关系建立30周年和《中俄睦邻友好合作条约》签署25周年，中俄关系发展迎来新的历史契机。 俄罗斯各界人士表示，期待这次元首会晤对俄中各领域合作新目标、新任务作出顶层设计，开启俄中新时代全面战略协作伙伴关系的崭新篇章，继续为…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-0",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.608Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-4-2",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-4-2",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "国防部新闻发言人答记者问",
+          "excerpt": "本报北京5月18日电 窦天阳、记者许怡真报道：18日，国防部新闻发言人蒋斌就近期涉军问题发布消息并答记者问。 愿与美方共同推动两军关系沿着稳定正向轨道行稳致远 有记者问，据报道，国家主席习近平近日同来华访问的美国总统特朗普举行会谈时指出，双方要进一步用好政治外交、两军沟通渠道。请问对下阶段中美两军关系发展有何期待？ 蒋斌表示，习近平主席与特朗普总统成功会晤…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-2",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.609Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-4-3",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-4-3",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "聚焦未来产业 展示创新成果",
+          "excerpt": "在正在举办的第十届中国—俄罗斯博览会上，未来产业从“展台”走向“市场”，覆盖智能装备、数字安全、绿色建材、新型储能等重点领域，多方位呈现智能制造与科技创新硬实力，成为展会瞩目焦点。…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-3",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.609Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-4-5",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-4-5",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "日本搅局南海居心叵测",
+          "excerpt": "近期，作为南海域外国家的日本，在南海方向动作频频，挑衅意味浓厚。 在美菲“肩并肩”联合军演中，日本首次大规模派遣作战人员，更在防卫大臣小泉进次郎现身观摩当天，公然发射88式岸基反舰导弹。尤为恶劣的是，参演的日本“雷”号驱逐舰不久前在台湾海峡鬼鬼祟祟滞留10多个小时。此外，小泉进次郎访菲期间，同菲防长发表联合声明，妄称对中国在日菲周边所谓“危险胁迫”表示“严…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-5",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.609Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    },
+    {
+      "id": "pla_only:pla_daily:2026-05-19-4-6",
+      "issueDate": "2026-05-19",
+      "matchType": "pla_only",
+      "confidence": 0,
+      "peopleArticles": [],
+      "plaArticles": [
+        {
+          "id": "pla_daily:2026-05-19-4-6",
+          "source": "pla_daily",
+          "issueDate": "2026-05-19",
+          "pageNumber": 4,
+          "pageName": "要闻",
+          "title": "第79届世界卫生大会开幕",
+          "excerpt": "据新华社日内瓦5月18日电 （记者王娅楠、王露）第79届世界卫生大会18日在瑞士日内瓦开幕，本届大会的主题是“重塑全球健康 携手共担责任”。 世界卫生组织总干事谭德塞在大会开幕致辞中说，近来出现汉坦病毒疫情和埃博拉病毒疫情，世界还面临经济和气候等方面挑战，需要构建一个适合未来的新的全球卫生架构。他说，本届大会将审议一项由成员国主导、世卫组织主持的进程，以推…",
+          "url": "https://www.81.cn/szb_223187/szbxq/index.html?paperName=jfjb&paperDate=2026-05-19&paperNumber=04&articleid=2026-05-19-4-6",
+          "extraction": {
+            "status": "success",
+            "method": "pla-daily-index-json-v1",
+            "extractedAt": "2026-05-19T06:41:07.609Z"
+          }
+        }
+      ],
+      "reason": "81cn only 1本。共通語候補をLLM/高精度ルールで確認した後、MATCHEDに採用されなかった記事です。",
+      "lexicalContrast": {
+        "peopleDailyTerms": [],
+        "plaDailyTerms": [],
+        "sharedTerms": []
+      },
+      "extraction": {
+        "status": "success",
+        "method": "not matched after adjudication",
+        "message": "未照合 / lexical 0% / narrative 0%"
+      },
+      "uncertaintyNotes": [
+        "語彙類似 0% / ナラティブ類似 0%",
+        "MATCHED採用されなかった記事を、記事単位でONLYとして表示しています。",
+        "メタデータ・MATCHED非採用"
+      ]
+    }
+  ],
+  "counts": {
+    "peopleArticles": 30,
+    "plaArticles": 23,
+    "matchedGroups": 4,
+    "matchedPeopleArticles": 7,
+    "matchedPlaArticles": 5,
+    "peopleOnlyArticles": 23,
+    "plaOnlyArticles": 18
+  }
+}

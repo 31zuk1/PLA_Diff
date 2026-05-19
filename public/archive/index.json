@@ -1,8 +1,80 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-16T22:28:33.405Z",
+  "updatedAt": "2026-05-19T06:41:48.742Z",
   "retentionDays": null,
   "entries": [
+    {
+      "issueDate": "2026-05-19",
+      "generatedAt": "2026-05-19T06:41:48.742Z",
+      "judgeEnabled": true,
+      "judgeModel": "gpt-4.1-nano",
+      "path": "archive/2026-05-19.json",
+      "status": "success",
+      "graphMetrics": {
+        "nodes": 53,
+        "links": 9,
+        "peopleNodes": 30,
+        "plaNodes": 23,
+        "matchedNodes": 12,
+        "isolatedNodes": 41,
+        "matchedGroups": 4
+      },
+      "peopleArticles": 30,
+      "plaArticles": 23,
+      "matchedGroups": 4,
+      "matchedPeopleArticles": 7,
+      "matchedPlaArticles": 5,
+      "peopleOnlyArticles": 23,
+      "plaOnlyArticles": 18
+    },
+    {
+      "issueDate": "2026-05-18",
+      "generatedAt": "2026-05-19T06:41:06.370Z",
+      "judgeEnabled": true,
+      "judgeModel": "gpt-4.1-nano",
+      "path": "archive/2026-05-18.json",
+      "status": "success",
+      "graphMetrics": {
+        "nodes": 55,
+        "links": 4,
+        "peopleNodes": 25,
+        "plaNodes": 30,
+        "matchedNodes": 7,
+        "isolatedNodes": 48,
+        "matchedGroups": 3
+      },
+      "peopleArticles": 25,
+      "plaArticles": 30,
+      "matchedGroups": 3,
+      "matchedPeopleArticles": 3,
+      "matchedPlaArticles": 4,
+      "peopleOnlyArticles": 22,
+      "plaOnlyArticles": 26
+    },
+    {
+      "issueDate": "2026-05-17",
+      "generatedAt": "2026-05-19T06:40:13.720Z",
+      "judgeEnabled": true,
+      "judgeModel": "gpt-4.1-nano",
+      "path": "archive/2026-05-17.json",
+      "status": "success",
+      "graphMetrics": {
+        "nodes": 63,
+        "links": 4,
+        "peopleNodes": 32,
+        "plaNodes": 31,
+        "matchedNodes": 8,
+        "isolatedNodes": 55,
+        "matchedGroups": 4
+      },
+      "peopleArticles": 32,
+      "plaArticles": 31,
+      "matchedGroups": 4,
+      "matchedPeopleArticles": 4,
+      "matchedPlaArticles": 4,
+      "peopleOnlyArticles": 28,
+      "plaOnlyArticles": 27
+    },
     {
       "issueDate": "2026-05-16",
       "generatedAt": "2026-05-16T22:14:42.176Z",
@@ -125,27 +197,27 @@
     },
     {
       "issueDate": "2026-05-11",
-      "generatedAt": "2026-05-16T22:13:55.575Z",
+      "generatedAt": "2026-05-16T23:57:10.633Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-05-11.json",
       "status": "partial",
       "graphMetrics": {
         "nodes": 60,
-        "links": 2,
+        "links": 3,
         "peopleNodes": 32,
         "plaNodes": 28,
-        "matchedNodes": 4,
-        "isolatedNodes": 56,
-        "matchedGroups": 2
+        "matchedNodes": 6,
+        "isolatedNodes": 54,
+        "matchedGroups": 3
       },
       "peopleArticles": 32,
       "plaArticles": 28,
-      "matchedGroups": 2,
-      "matchedPeopleArticles": 2,
-      "matchedPlaArticles": 2,
-      "peopleOnlyArticles": 30,
-      "plaOnlyArticles": 26
+      "matchedGroups": 3,
+      "matchedPeopleArticles": 3,
+      "matchedPlaArticles": 3,
+      "peopleOnlyArticles": 29,
+      "plaOnlyArticles": 25
     },
     {
       "issueDate": "2026-05-10",
@@ -725,27 +797,27 @@
     },
     {
       "issueDate": "2026-04-16",
-      "generatedAt": "2026-05-16T22:09:41.141Z",
+      "generatedAt": "2026-05-16T23:56:42.613Z",
       "judgeEnabled": true,
       "judgeModel": "gpt-4.1-nano",
       "path": "archive/2026-04-16.json",
       "status": "partial",
       "graphMetrics": {
         "nodes": 66,
-        "links": 17,
+        "links": 21,
         "peopleNodes": 34,
         "plaNodes": 32,
-        "matchedNodes": 18,
-        "isolatedNodes": 48,
-        "matchedGroups": 5
+        "matchedNodes": 22,
+        "isolatedNodes": 44,
+        "matchedGroups": 6
       },
       "peopleArticles": 34,
       "plaArticles": 32,
-      "matchedGroups": 5,
-      "matchedPeopleArticles": 9,
-      "matchedPlaArticles": 9,
-      "peopleOnlyArticles": 25,
-      "plaOnlyArticles": 23
+      "matchedGroups": 6,
+      "matchedPeopleArticles": 11,
+      "matchedPlaArticles": 11,
+      "peopleOnlyArticles": 23,
+      "plaOnlyArticles": 21
     }
   ]
 }
